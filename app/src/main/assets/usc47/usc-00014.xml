@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 14—</num>
+<heading>MAKING OPPORTUNITIES FOR BROADBAND INVESTMENT AND LIMITING EXCESSIVE AND NEEDLESS OBSTACLES TO WIRELESS</heading>
+<section>
+<num>§ 1501.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Appropriate committees of Congress</heading>
+<chapeau class="indent1">The term “appropriate committees of Congress” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Committee on Commerce, Science, and Transportation of the Senate;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Committee on Energy and Commerce of the House of Representatives; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> each committee of the Senate or of the House of Representatives with jurisdiction over a Federal entity affected by the applicable section in which the term appears.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Commission</heading>
+<content>
+<p class="indent1">The term “Commission” means the Federal Communications Commission.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Federal entity</heading>
+<content>
+<p class="indent1">The term “Federal entity” has the meaning given the term in section 923(<i>l</i>) of this title.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> NTIA</heading>
+<content>
+<p class="indent1">The term “NTIA” means the National Telecommunications and Information Administration of the Department of Commerce.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> OMB</heading>
+<content>
+<p class="indent1">The term “OMB” means the Office of Management and Budget.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Secretary</heading>
+<content>
+<p class="indent1">The term “Secretary” means the Secretary of Commerce.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 602</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1097</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1502.</num>
+<heading> Identifying 255 megahertz</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Requirements</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than <date date="2022-12-31">December 31, 2022</date>, the Secretary, working through the NTIA, and the Commission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Unlicensed and licensed use</heading>
+<chapeau class="indent1">Of the spectrum identified under paragraph (1), not less than—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> 100 megahertz below the frequency of 8000 megahertz shall be identified for use on an unlicensed basis;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> 100 megahertz below the frequency of 6000 megahertz shall be identified for use on an exclusive, licensed basis for commercial mobile use, pursuant to the Commission’s authority to implement such licensing in a flexible manner, and subject to potential continued use of such spectrum by incumbent Federal entities in designated geographic areas indefinitely or for such length of time stipulated in transition plans approved by the Technical Panel under <ref>section 923(h) of this title</ref> for those incumbent entities to be relocated to alternate spectrum; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> 55 megahertz below the frequency of 8000 megahertz shall be identified for use on either a licensed or unlicensed basis, or a combination of licensed and unlicensed.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Non-eligible spectrum</heading>
+<chapeau class="indent1">For purposes of satisfying the requirement under paragraph (1), the following spectrum shall not be counted:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> The frequencies between 1695 and 1710 megahertz.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> The frequencies between 1755 and 1780 megahertz.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> The frequencies between 2155 and 2180 megahertz.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> The frequencies between 3550 and 3700 megahertz.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> Spectrum that the Commission determines had more than de minimis mobile or fixed wireless broadband operations within the band on the day before <date date="2018-03-23">March 23, 2018</date>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Treatment of certain other spectrum</heading>
+<content>
+<p class="indent1">Spectrum identified pursuant to this section may include eligible spectrum, if any, identified after <date date="2018-03-23">March 23, 2018</date>, pursuant to title X of the Bipartisan Budget Act of 2015 (<ref>Public Law 114–74</ref>).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Spectrum made available on and after <date date="2016-02-11">February 11, 2016</date></heading>
+<content>
+<p class="indent1">Any spectrum that has been made available for licensed or unlicensed use on and after <date date="2016-02-11">February 11, 2016</date>, and that otherwise satisfies the requirements of this section may be counted towards the requirements of this subsection.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Relocation prioritized over sharing</heading>
+<content>
+<p class="indent1">This section shall be carried out in accordance with <ref>section 923(j) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Considerations</heading>
+<chapeau class="indent1">In identifying spectrum for use under this section, the Secretary, working through the NTIA, and Commission shall consider—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the need to preserve critical existing and planned Federal Government capabilities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the impact on existing State, local, and tribal government capabilities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the international implications;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the need for appropriate enforcement mechanisms and authorities; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the importance of the deployment of wireless broadband services in rural areas of the United States.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Rules of construction</heading>
+<chapeau class="indent0">Nothing in this section shall be construed—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to impair or otherwise affect the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to require the disclosure of classified information, law enforcement sensitive information, or other information that must be protected in the interest of national security; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to affect any requirement under section 156 of the National Telecommunications and Information Administration Organization Act (<ref>47 U.S.C. 921</ref> note), as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000, or any other relevant statutory requirement applicable to the reallocation of Federal spectrum.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 603</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1098</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1503.</num>
+<heading> Millimeter wave spectrum</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> FCC proceeding</heading>
+<content>
+<p class="indent0">Not later than 2 years after <date date="2018-03-23">March 23, 2018</date>, the Commission shall publish a notice of proposed rulemaking to consider service rules to authorize mobile or fixed terrestrial wireless operations, including for advanced mobile service operations, in the radio frequency band between 42000 and 42500 megahertz.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Considerations</heading>
+<chapeau class="indent0">In conducting a rulemaking under subsection (a), the Commission shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> consider how the band described in subsection (a) may be used to provide commercial wireless broadband service, including whether—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> such spectrum may be best used for licensed or unlicensed services, or some combination thereof; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to permit additional licensed operations in such band on a shared basis; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> include technical characteristics under which the band described in subsection (a) may be employed for mobile or fixed terrestrial wireless operations, including any appropriate coexistence requirements.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Spectrum made available on and after <date date="2016-02-11">February 11, 2016</date></heading>
+<content>
+<p class="indent0">Any spectrum that has been made available for licensed or unlicensed use on or after <date date="2016-02-11">February 11, 2016</date>, and that otherwise satisfies the requirements of <ref>section 1502 of this title</ref> may be counted towards the requirements of <ref>section 1502(a) of this title</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 604</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1099</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1504.</num>
+<heading> Broadband infrastructure deployment</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">In this section:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Appropriate State agency</heading>
+<content>
+<p class="indent1">The term “appropriate State agency” means a State governmental agency that is recognized by the executive branch of the State as having the experience necessary to evaluate and carry out projects relating to the proper and effective installation and operation of broadband infrastructure.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Broadband infrastructure</heading>
+<content>
+<p class="indent1">The term “broadband infrastructure” means any buried, underground, or aerial facility, and any wireless or wireline connection, that enables users to send and receive voice, video, data, graphics, or any combination thereof.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Broadband infrastructure entity</heading>
+<chapeau class="indent1">The term “broadband infrastructure entity” means any entity that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> installs, owns, or operates broadband infrastructure; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> provides broadband services in a manner consistent with the public interest, convenience, and necessity, as determined by the State.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> State</heading>
+<chapeau class="indent1">The term “State” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the District of Columbia; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Commonwealth of Puerto Rico.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Broadband infrastructure deployment</heading>
+<chapeau class="indent0">To facilitate the installation of broadband infrastructure, the Secretary of Transportation shall promulgate regulations to ensure that each State that receives funds under chapter 1 of title 23 meets the following requirements:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Broadband consultation</heading>
+<chapeau class="indent1">The State department of transportation, in consultation with appropriate State agencies, shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> identify a broadband utility coordinator, that may have additional responsibilities, whether in the State department of transportation or in another State agency, that is responsible for facilitating the broadband infrastructure right-of-way efforts within the State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> establish a process for the registration of broadband infrastructure entities that seek to be included in those broadband infrastructure right-of-way facilitation efforts within the State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> establish a process to electronically notify broadband infrastructure entities identified under subparagraph (B) of the State transportation improvement program on an annual basis and provide additional notifications as necessary to achieve the goals of this section; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> coordinate initiatives carried out under this section with other statewide telecommunication and broadband plans and State and local transportation and land use plans, including strategies to minimize repeated excavations that involve the installation of broadband infrastructure in a right-of-way.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Priority</heading>
+<content>
+<p class="indent1">If a State chooses to provide for the installation of broadband infrastructure in the right-of-way of an applicable Federal-aid highway project under this subsection, the State department of transportation shall carry out any appropriate measures to ensure that any existing broadband infrastructure entities are not disadvantaged, as compared to other broadband infrastructure entities, with respect to the program under this subsection.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Effect of section</heading>
+<content>
+<p class="indent0">This section applies only to activities for which Federal obligations or expenditures are initially approved on or after the date regulations under subsection (b) become effective. Nothing in this section establishes a mandate or requirement that a State install or allow the installation of broadband infrastructure in a highway right-of-way. Nothing in this section authorizes the Secretary of Transportation to withhold or reserve funds or approval of a project under title 23.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 607</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1104</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1505.</num>
+<heading> Unlicensed services in guard bands</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">After public notice and comment, and in consultation with the Assistant Secretary of Commerce for Communications and Information and the head of each affected Federal agency (or a designee thereof), with respect to frequencies allocated for Federal use, the Commission shall adopt rules that permit unlicensed services where feasible to use any frequencies that are designated as guard bands to protect frequencies allocated after <date date="2018-03-23">March 23, 2018</date>, by competitive bidding under <ref>section 309(j) of this title</ref>, including spectrum that acts as a duplex gap between transmit and receive frequencies.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Limitation</heading>
+<content>
+<p class="indent0">The Commission may not permit any use of a guard band under this section that would cause harmful interference to a licensed service or a Federal service.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent0">Nothing in this section shall be construed as limiting the Commission or the Assistant Secretary of Commerce for Communications and Information from otherwise making spectrum available for licensed or unlicensed use in any frequency band in addition to guard bands, including under <ref>section 1502 of this title</ref>, consistent with their statutory jurisdictions.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 611</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1109</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1506.</num>
+<heading> Rulemaking related to partitioning or disaggregating licenses</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">In this section:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Covered small carrier</heading>
+<chapeau class="indent1">The term “covered small carrier” means a carrier (as defined in <ref>section 153 of this title</ref>) that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> has not more than 1,500 employees (as determined under section 121.106 of title 13, Code of Federal Regulations, or any successor thereto); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> offers services using the facilities of the carrier.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Rural area</heading>
+<chapeau class="indent1">The term “rural area” means any area other than—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a city, town, or incorporated area that has a population of more than 20,000 inhabitants; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Rulemaking</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Not later than 1 year after <date date="2018-03-23">March 23, 2018</date>, the Commission shall initiate a rulemaking proceeding to assess whether to establish a program, or modify existing programs, under which a licensee that receives a license for the exclusive use of spectrum in a specific geographic area under <ref>section 301 of this title</ref> may partition or disaggregate the license by sale or long-term lease—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> in order to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> provide services consistent with the license; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> make unused spectrum available to—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> an unaffiliated covered small carrier; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> an unaffiliated carrier to serve a rural area; and</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> if the Commission finds that such a program would promote—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the availability of advanced telecommunications services in rural areas; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> spectrum availability for covered small carriers.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Considerations</heading>
+<chapeau class="indent1">In conducting the rulemaking proceeding under paragraph (1), the Commission shall consider, with respect to the program proposed to be established under that paragraph—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> whether reduced performance requirements with respect to spectrum obtained through the program would facilitate deployment of advanced telecommunications services in the areas covered by the program;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> what conditions may be needed on transfers of spectrum under the program to allow covered small carriers that obtain spectrum under the program to build out the spectrum in a reasonable period of time;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> what incentives may be appropriate to encourage licensees to lease or sell spectrum, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> extending the term of a license granted under <ref>section 301 of this title</ref>; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> modifying performance requirements of the license relating to the leased or sold spectrum; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> the administrative feasibility of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the incentives described in subparagraph (C); and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> other incentives considered by the Commission that further the goals of this section.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Forfeiture of spectrum</heading>
+<content>
+<p class="indent1">If a party fails to meet any build out requirements set by the Commission for any spectrum sold or leased under this section, the right to the spectrum shall be forfeited to the Commission unless the Commission finds that there is good cause for the failure of the party.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Requirement</heading>
+<content>
+<p class="indent1">The Commission may offer a licensee incentives or reduced performance requirements under this section only if the Commission finds that doing so would likely result in increased availability of advanced telecommunications services in a rural area.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 616</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1110</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1507.</num>
+<heading> Unlicensed spectrum policy</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Statement of policy</heading>
+<chapeau class="indent0">It is the policy of the United States—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to maximize the benefit to the people of the United States of the spectrum resources of the United States;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to advance innovation and investment in wireless broadband services; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to promote spectrum policy that makes available on an unlicensed basis radio frequency bands to address consumer demand for unlicensed wireless broadband operations.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Commission responsibilities</heading>
+<chapeau class="indent0">The Commission shall ensure that the efforts of the Commission related to spectrum allocation and assignment made available on an unlicensed basis radio frequency bands to address demand for unlicensed wireless broadband operations if doing so is, after taking into account the future needs of homeland security, national security, and other spectrum users—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> reasonable; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> in the public interest.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent0">Nothing in this section confers any additional rights on unlicensed users or users licensed by rule under part 96 of title 47, Code of Federal Regulations, to protection from harmful interference.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 617</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1112</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1508.</num>
+<heading> National plan for unlicensed spectrum</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">In this section:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Spectrum Relocation Fund</heading>
+<content>
+<p class="indent1">The term “Spectrum Relocation Fund” means the Fund established under <ref>section 928 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Unlicensed or licensed by rule operations</heading>
+<chapeau class="indent1">The term “unlicensed or licensed by rule operations” means the use of spectrum on a non-exclusive basis under—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> part 15 of title 47, Code of Federal Regulations; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> licensing by rule under part 96 of title 47, Code of Federal Regulations.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> National plan</heading>
+<content>
+<p class="indent0">Not later than 18 months after <date date="2018-03-23">March 23, 2018</date>, the Commission, in consultation with the NTIA, shall develop a national plan for making additional radio frequency bands available for unlicensed or licensed by rule operations.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent0">The plan developed under this section shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> identify an approach that ensures that consumers have access to additional spectrum to conduct unlicensed or licensed by rule operations in a range of radio frequencies to meet consumer demand;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> recommend specific actions by the Commission and the NTIA to permit unlicensed or licensed by rule operations in additional radio frequency ranges that the Commission finds—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> are consistent with the statement of policy under <ref>section 1507(a) of this title</ref>;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> will—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> expand opportunities for unlicensed or licensed by rule operations in a spectrum band; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> otherwise improve spectrum utilization and intensity of use of bands where unlicensed or licensed by rule operations are already permitted;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> will not cause harmful interference to Federal or non-Federal users of such bands; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> will not significantly impact homeland security or national security communications systems; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> examine additional ways, with respect to existing and planned databases or spectrum access systems designed to promote spectrum sharing and access to spectrum for unlicensed or licensed by rule operations—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to improve accuracy and efficacy;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to reduce burdens on consumers, manufacturers, and service providers; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to protect sensitive Government information.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Spectrum Relocation Fund</heading>
+<chapeau class="indent0">To be included as an appendix as part of the plan developed under this section, the NTIA, in consultation with the Director of the Office of Management and Budget, shall share with the Commission recommendations about how to reform the Spectrum Relocation Fund—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to address costs incurred by Federal entities related to sharing radio frequency bands with radio technologies conducting unlicensed or licensed by rule operations; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> to ensure the Spectrum Relocation Fund has sufficient funds to cover—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the costs described in paragraph (1); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> other expenditures allowed of the Spectrum Relocation Fund under <ref>section 928 of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Report required</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than 18 months after <date date="2018-03-23">March 23, 2018</date>, the Commission shall submit to the appropriate committees of Congress a report that describes the plan developed under this section, including any recommendations for legislative change.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Publication on commission website</heading>
+<content>
+<p class="indent1">Not later than the date on which the Commission submits the report under paragraph (1), the Commission shall make the report publicly available on the website of the Commission.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent0">Nothing in this section confers any additional rights on unlicensed users or users licensed by rule under part 96 of title 47, Code of Federal Regulations, to protection from harmful interference.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 618</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1112</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1509.</num>
+<heading> Spectrum Challenge Prize</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Short title</heading>
+<content>
+<p class="indent0">This section may be cited as the “Spectrum Challenge Prize Act”.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Definition of prize competition</heading>
+<content>
+<p class="indent0">In this section, the term “prize competition” means a prize competition conducted by the Secretary under subsection (c)(1).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Spectrum Challenge Prize</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">The Secretary, in consultation with the Assistant Secretary of Commerce for Communications and Information and the Under Secretary of Commerce for Standards and Technology, shall, subject to the availability of funds for prize competitions under this section—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> conduct prize competitions to dramatically accelerate the development and commercialization of technology that improves spectrum efficiency and is capable of cost-effective deployment; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> define a measurable set of performance goals for participants in the prize competitions to demonstrate their solutions on a level playing field while making a significant advancement over the current state of the art.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Authority of Secretary</heading>
+<chapeau class="indent1">In carrying out paragraph (1), the Secretary may—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> enter into a grant, contract, cooperative agreement, or other agreement with a private sector for-profit or nonprofit entity to administer the prize competitions;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> invite the Defense Advanced Research Projects Agency, the Commission, the National Aeronautics and Space Administration, the National Science Foundation, or any other Federal agency to provide advice and assistance in the design or administration of the prize competitions; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> award not more than $5,000,000, in the aggregate, to the winner or winners of the prize competitions.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Criteria</heading>
+<content>
+<p class="indent0">Not later than 180 days after the date on which funds for prize competitions are made available pursuant to this section, the Commission shall publish a technical paper on spectrum efficiency providing criteria that may be used for the design of the prize competitions.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated such sums as may be necessary to carry out this section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 619</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1113</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1510.</num>
+<heading> Wireless telecommunications tax and fee collection fairness</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Short title</heading>
+<content>
+<p class="indent0">This section may be cited as the “Wireless Telecommunications Tax and Fee Collection Fairness Act”.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">In this section:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Financial transaction</heading>
+<content>
+<p class="indent1">The term “financial transaction” means a transaction in which the purchaser or user of a wireless telecommunications service upon whom a tax, fee, or surcharge is imposed gives cash, credit, or any other exchange of monetary value or consideration to the person who is required to collect or remit the tax, fee, or surcharge.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Local jurisdiction</heading>
+<content>
+<p class="indent1">The term “local jurisdiction” means a political subdivision of a State.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> State</heading>
+<content>
+<p class="indent1">The term “State” means any of the several States, the District of Columbia, and any territory or possession of the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> State or local jurisdiction</heading>
+<content>
+<p class="indent1">The term “State or local jurisdiction” includes any governmental entity or person acting on behalf of a State or local jurisdiction that has the authority to assess, impose, levy, or collect taxes or fees.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Wireless telecommunications service</heading>
+<content>
+<p class="indent1">The term “wireless telecommunications service” means a commercial mobile radio service, as defined in section 20.3 of title 47, Code of Federal Regulations, or any successor thereto.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Financial transaction requirement</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">A State, or a local jurisdiction of a State, may not require a person who is neither a resident of such State or local jurisdiction nor an entity having its principal place of business in such State or local jurisdiction to collect from, or remit on behalf of, any other person a State or local tax, fee, or surcharge imposed on a purchaser or user with respect to the purchase or use of any wireless telecommunications service within the State unless the collection or remittance is in connection with a financial transaction.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent1">Nothing in this subsection shall be construed to affect the right of a State or local jurisdiction to require the collection of any tax, fee, or surcharge in connection with a financial transaction.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Enforcement</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Private right of action</heading>
+<content>
+<p class="indent1">Any person aggrieved by a violation of subsection (c) may bring a civil action in an appropriate district court of the United States for equitable relief in accordance with paragraph (2) of this subsection.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Jurisdiction of district courts</heading>
+<content>
+<p class="indent1">Notwithstanding <ref>section 1341 of title 28</ref>, or the constitution or laws of any State, the district courts of the United States shall have jurisdiction, without regard to the amount in controversy or citizenship of the parties, to grant such mandatory or prohibitive injunctive relief, interim equitable relief, and declaratory judgments as may be necessary to prevent, restrain, or terminate any acts in violation of subsection (c).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 620</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1114</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1511.</num>
+<heading> Rules of construction</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Ranges of frequencies</heading>
+<content>
+<p class="indent0">Each range of frequencies described in this chapter shall be construed to be inclusive of the upper and lower frequencies in the range.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Assessment of electromagnetic spectrum reallocation</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to affect any requirement under section 156 of the National Telecommunications and Information Administration Organization Act (<ref>47 U.S.C. 921</ref> note), as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 621</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1115</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1512.</num>
+<heading> Relationship to Middle Class Tax Relief and Job Creation Act of 2012</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to limit, restrict, or circumvent in any way the implementation of the nationwide public safety broadband network defined in section 6001 of title VI of the Middle Class Tax Relief and Job Creation Act of 2012 (<ref>47 U.S.C. 1401</ref>) or any rules implementing that network under title VI of that Act (<ref>47 U.S.C. 1401</ref> et seq.).</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 622</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1115</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1513.</num>
+<heading> No additional funds authorized</heading>
+<content>
+<p class="indent0">No additional funds are authorized to be appropriated to carry out this chapter, or the amendments made by this title.<ref class="footnoteRef" idref="fn002069">1</ref> This chapter, and the amendments made by this title,<ref class="footnoteRef" idref="fn002069">1</ref> shall be carried out using amounts otherwise authorized.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 115–141, div. P, title VI, § 623</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1115</ref>.)</sourceCredit>
+</section>
+</chapter>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 345—</num>
+<heading>ACQUISITION OF INFORMATION TECHNOLOGY</heading>
+<section>
+<num>§ 4571.</num>
+<heading> Information technology acquisition: planning and oversight processes</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Establishment of Program</inline>.—</heading>
+<content>The Secretary of Defense shall establish a program to improve the planning and oversight processes for the acquisition of major automated information systems by the Department of Defense.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Program Components</inline>.—</heading>
+<chapeau>The program established under subsection (a) shall include—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a documented process for information technology acquisition planning, requirements development and management, project management and oversight, earned value management, and risk management;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> the development of appropriate metrics that can be implemented and monitored on a real-time basis for performance measurement of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> processes and development status of investments in major automated information system programs;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> continuous process improvement of such programs; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> achievement of program and investment outcomes;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> a process to ensure that key program personnel have an appropriate level of experience, training, and education in the planning, acquisition, execution, management, and oversight of information technology systems;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> a process to ensure sufficient resources and infrastructure capacity for test and evaluation of information technology systems;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> a process to ensure that military departments and Defense Agencies adhere to established processes and requirements relating to the planning, acquisition, execution, management, and oversight of information technology programs and developments; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> a process under which an appropriate Department of Defense official may intervene or terminate the funding of an information technology investment if the investment is at risk of not achieving major project milestones.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 111–383, div. A, title VIII, § 805(a)(1)</ref>, <date date="2011-01-07">Jan. 7, 2011</date>, <ref>124 Stat. 4259</ref>, § 2223a; renumbered § 4571 and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1857(b)</ref>, <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4276</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4576.</num>
+<heading> Requirement for consideration of certain matters during acquisition of noncommercial computer software</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Consideration Required</inline>.—</heading>
+<chapeau>As part of any negotiation for the acquisition of noncommercial computer software, the Secretary of Defense shall ensure that such negotiations consider, to the maximum extent practicable, acquisition, at the appropriate time in the life cycle of the noncommercial computer software, of all software and related materials necessary—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to reproduce, build, or recompile the software from original source code and required libraries;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to conduct required computer software testing; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to deploy working computer software system binary files on relevant system hardware.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Delivery of Software and Related Materials</inline>.—</heading>
+<chapeau>Any noncommercial computer software or related materials required to be delivered as a result of considerations in subsection (a) shall, to the extent appropriate as determined by the Secretary—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> include computer software delivered in a useable, digital format;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> not rely on external or additional software code or data, unless such software code or data is included in the items to be delivered; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> in the case of negotiated terms that do not allow for the inclusion of dependent software code or data, sufficient documentation to support maintenance and understanding of interfaces and software revision history.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 115–91, div. A, title VIII, § 871(a)(1)</ref>, <date date="2017-12-12">Dec. 12, 2017</date>, <ref>131 Stat. 1496</ref>, § 2322a; renumbered § 4576, <ref>Pub. L. 116–283, div. A, title XVIII, § 1857(c)</ref>, <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4276</ref>.)</sourceCredit>
+</section>
+</chapter>

@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 109—</num>
+<heading>WALL STREET TRANSPARENCY AND ACCOUNTABILITY</heading>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>REGULATION OF OVER-THE-COUNTER SWAPS MARKETS</heading>
+<part>
+<num class="small-caps">Part A—</num>
+<heading class="small-caps">Regulatory Authority</heading>
+<section>
+<num>§ 8301.</num>
+<heading> Definitions</heading>
+<content>
+<p class="indent0">In this subtitle, the terms “prudential regulator”, “swap”, “swap dealer”, “major swap participant”, “swap data repository”, “associated person of a swap dealer or major swap participant”, “eligible contract participant”, “swap execution facility”, “security-based swap”, “security-based swap dealer”, “major security-based swap participant”, and “associated person of a security-based swap dealer or major security-based swap participant” have the meanings given the terms in <ref>section 1a of title 7</ref>, including any modification of the meanings under <ref>section 8321(a) of this title</ref>.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 711</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1641</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8302.</num>
+<heading> Review of regulatory authority</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Consultation</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Commodity Futures Trading Commission</heading>
+<content>
+<p class="indent1">Before commencing any rulemaking or issuing an order regarding swaps, swap dealers, major swap participants, swap data repositories, derivative clearing organizations with regard to swaps, persons associated with a swap dealer or major swap participant, eligible contract participants, or swap execution facilities pursuant to this subtitle, the Commodity Futures Trading Commission shall consult and coordinate to the extent possible with the Securities and Exchange Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Securities and Exchange Commission</heading>
+<content>
+<p class="indent1">Before commencing any rulemaking or issuing an order regarding security-based swaps, security-based swap dealers, major security-based swap participants, security-based swap data repositories, clearing agencies with regard to security-based swaps, persons associated with a security-based swap dealer or major security-based swap participant, eligible contract participants with regard to security-based swaps, or security-based swap execution facilities pursuant to subtitle B, the Securities and Exchange Commission shall consult and coordinate to the extent possible with the Commodity Futures Trading Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Procedures and deadline</heading>
+<content>
+<p class="indent1">Such regulations shall be prescribed in accordance with applicable requirements of title 5 and shall be issued in final form not later than 360 days after <date date="2010-07-21">July 21, 2010</date>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Applicability</heading>
+<chapeau class="indent1">The requirements of paragraphs (1) and (2) shall not apply to an order issued—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> in connection with or arising from a violation or potential violation of any provision of the Commodity Exchange Act (<ref>7 U.S.C. 1</ref> et seq.);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> in connection with or arising from a violation or potential violation of any provision of the securities laws; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> in any proceeding that is conducted on the record in accordance with sections 556 and 557 of title 5.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Effect</heading>
+<content>
+<p class="indent1">Nothing in this subsection authorizes any consultation or procedure for consultation that is not consistent with the requirements of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Rules; orders</heading>
+<content>
+<p class="indent1">In developing and promulgating rules or orders pursuant to this subsection, each Commission shall consider the views of the prudential regulators.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Treatment of similar products and entities</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">In adopting rules and orders under this subsection, the Commodity Futures Trading Commission and the Securities and Exchange Commission shall treat functionally or economically similar products or entities described in paragraphs (1) and (2) in a similar manner.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Effect</heading>
+<content>
+<p class="indent2">Nothing in this subtitle requires the Commodity Futures Trading Commission or the Securities and Exchange Commission to adopt joint rules or orders that treat functionally or economically similar products or entities described in paragraphs (1) and (2) in an identical manner.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Mixed swaps</heading>
+<content>
+<p class="indent1">The Commodity Futures Trading Commission and the Securities and Exchange Commission, after consultation with the Board of Governors, shall jointly prescribe such regulations regarding mixed swaps, as described in section 1a(47)(D) of the Commodity Exchange Act (<ref>7 U.S.C. 1a(47)(D)</ref>) and in <ref>section 78c(a)(68)(D) of this title</ref>, as may be necessary to carry out the purposes of this title.<ref class="footnoteRef" idref="fn002582">1</ref></p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Limitation</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Commodity Futures Trading Commission</heading>
+<chapeau class="indent1">Nothing in this title,<sup>1</sup> unless specifically provided, confers jurisdiction on the Commodity Futures Trading Commission to issue a rule, regulation, or order providing for oversight or regulation of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> security-based swaps; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> with regard to its activities or functions concerning security-based swaps—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> security-based swap dealers;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> major security-based swap participants;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> security-based swap data repositories;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> associated persons of a security-based swap dealer or major security-based swap participant;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> eligible contract participants with respect to security-based swaps; or</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> swap execution facilities with respect to security-based swaps.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Securities and Exchange Commission</heading>
+<chapeau class="indent1">Nothing in this title,<sup>1</sup> unless specifically provided, confers jurisdiction on the Securities and Exchange Commission or State securities regulators to issue a rule, regulation, or order providing for oversight or regulation of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> swaps; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> with regard to its activities or functions concerning swaps—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> swap dealers;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> major swap participants;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> swap data repositories;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> persons associated with a swap dealer or major swap participant;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> eligible contract participants with respect to swaps; or</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> swap execution facilities with respect to swaps.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Prohibition on certain futures associations and national securities associations</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Futures associations</heading>
+<content>
+<p class="indent2">Notwithstanding any other provision of law (including regulations), unless otherwise authorized by this title,<sup>1</sup> no futures association registered under section 17 of the Commodity Exchange Act (<ref>7 U.S.C. 21</ref>) may issue a rule, regulation, or order for the oversight or regulation of, or otherwise assert jurisdiction over, for any purpose, any security-based swap, except that this subparagraph shall not limit the authority of a registered futures association to examine for compliance with, and enforce, its rules on capital adequacy.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> National securities associations</heading>
+<content>
+<p class="indent2">Notwithstanding any other provision of law (including regulations), unless otherwise authorized by this title,<sup>1</sup> no national securities association registered under section 78<i>o</i>–3 of this title may issue a rule, regulation, or order for the oversight or regulation of, or otherwise assert jurisdiction over, for any purpose, any swap, except that this subparagraph shall not limit the authority of a national securities association to examine for compliance with, and enforce, its rules on capital adequacy.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Objection to Commission regulation</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Filing of petition for review</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">If either Commission referred to in this section determines that a final rule, regulation, or order of the other Commission conflicts with subsection (a)(7) or (b), then the complaining Commission may obtain review of the final rule, regulation, or order in the United States Court of Appeals for the District of Columbia Circuit by filing in the court, not later than 60 days after the date of publication of the final rule, regulation, or order, a written petition requesting that the rule, regulation, or order be set aside.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Expedited proceeding</heading>
+<content>
+<p class="indent2">A proceeding described in subparagraph (A) shall be expedited by the United States Court of Appeals for the District of Columbia Circuit.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Transmittal of petition and record</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">A copy of a petition described in paragraph (1) shall be transmitted not later than 1 business day after the date of filing by the complaining Commission to the Secretary of the responding Commission.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Duty of responding Commission</heading>
+<chapeau class="indent2">On receipt of the copy of a petition described in paragraph (1), the responding Commission shall file with the United States Court of Appeals for the District of Columbia Circuit—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a copy of the rule, regulation, or order under review (including any documents referred to therein); and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> any other materials prescribed by the United States Court of Appeals for the District of Columbia Circuit.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Standard of review</heading>
+<chapeau class="indent1">The United States Court of Appeals for the District of Columbia Circuit shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> give deference to the views of neither Commission; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> determine to affirm or set aside a rule, regulation, or order of the responding Commission under this subsection, based on the determination of the court as to whether the rule, regulation, or order is in conflict with subsection (a)(7) or (b), as applicable.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Judicial stay</heading>
+<content>
+<p class="indent1">The filing of a petition by the complaining Commission pursuant to paragraph (1) shall operate as a stay of the rule, regulation, or order until the date on which the determination of the United States Court of Appeals for the District of Columbia Circuit is final (including any appeal of the determination).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Joint rulemaking</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Notwithstanding any other provision of this title <sup>1</sup> and subsections (b) and (c), the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Board of Governors, shall further define the terms “swap”, “security-based swap”, “swap dealer”, “security-based swap dealer”, “major swap participant”, “major security-based swap participant”, “eligible contract participant”, and “security-based swap agreement” in section 1a(47)(A)(v) of the Commodity Exchange Act (<ref>7 U.S.C. 1a(47)(A)(v)</ref>) and <ref>section 78c(a)(78) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Authority of the Commissions</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Notwithstanding any other provision of this title,<sup>1</sup> the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Board of Governors, shall jointly adopt such other rules regarding such definitions as the Commodity Futures Trading Commission and the Securities and Exchange Commission determine are necessary and appropriate, in the public interest, and for the protection of investors.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Trade repository recordkeeping</heading>
+<content>
+<p class="indent2">Notwithstanding any other provision of this title,<sup>1</sup> the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Board of Governors, shall engage in joint rulemaking to jointly adopt a rule or rules governing the books and records that are required to be kept and maintained regarding security-based swap agreements by persons that are registered as swap data repositories under the Commodity Exchange Act, including uniform rules that specify the data elements that shall be collected and maintained by each repository.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Books and records</heading>
+<content>
+<p class="indent2">Notwithstanding any other provision of this title,<sup>1</sup> the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Board of Governors, shall engage in joint rulemaking to jointly adopt a rule or rules governing books and records regarding security-based swap agreements, including daily trading records, for swap dealers, major swap participants, security-based swap dealers, and security-based swap participants.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Comparable rules</heading>
+<content>
+<p class="indent2">Rules and regulations prescribed jointly under this title <sup>1</sup> by the Commodity Futures Trading Commission and the Securities and Exchange Commission shall be comparable to the maximum extent possible, taking into consideration differences in instruments and in the applicable statutory requirements.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(E)</num>
+<heading class="bold"> Tracking uncleared transactions</heading>
+<content>
+<p class="indent2">Any rules prescribed under subparagraph (A) shall require the maintenance of records of all activities relating to security-based swap agreement transactions defined under subparagraph (A) that are not cleared.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(F)</num>
+<heading class="bold"> Sharing of information</heading>
+<content>
+<p class="indent2">The Commodity Futures Trading Commission shall make available to the Securities and Exchange Commission information relating to security-based swap agreement transactions defined in subparagraph (A) that are not cleared.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Financial Stability Oversight Council</heading>
+<chapeau class="indent1">In the event that the Commodity Futures Trading Commission and the Securities and Exchange Commission fail to jointly prescribe rules pursuant to paragraph (1) or (2) in a timely manner, at the request of either Commission, the Financial Stability Oversight Council shall resolve the dispute—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> within a reasonable time after receiving the request;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> after consideration of relevant information provided by each Commission; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> by agreeing with 1 of the Commissions regarding the entirety of the matter or by determining a compromise position.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Joint interpretation</heading>
+<content>
+<p class="indent1">Any interpretation of, or guidance by either Commission regarding, a provision of this title,<sup>1</sup> shall be effective only if issued jointly by the Commodity Futures Trading Commission and the Securities and Exchange Commission, after consultation with the Board of Governors, if this title <sup>1</sup> requires the Commodity Futures Trading Commission and the Securities and Exchange Commission to issue joint regulations to implement the provision.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Global rulemaking timeframe</heading>
+<content>
+<p class="indent0">Unless otherwise provided in this title,<sup>1</sup> or an amendment made by this title,<sup>1</sup> the Commodity Futures Trading Commission or the Securities and Exchange Commission, or both, shall individually, and not jointly, promulgate rules and regulations required of each Commission under this title <sup>1</sup> or an amendment made by this title <sup>1</sup> not later than 360 days after <date date="2010-07-21">July 21, 2010</date>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Rules and registration before final effective dates</heading>
+<chapeau class="indent0">Beginning on <date date="2010-07-21">July 21, 2010</date>, and notwithstanding the effective date of any provision of this Act, the Commodity Futures Trading Commission and the Securities and Exchange Commission may, in order to prepare for the effective dates of the provisions of this Act—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> promulgate rules, regulations, or orders permitted or required by this Act;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> conduct studies and prepare reports and recommendations required by this Act;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> register persons under the provisions of this Act; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> exempt persons, agreements, contracts, or transactions from provisions of this Act, under the terms contained in this Act,</content>
+</paragraph>
+<proviso class="indent0 firstIndent0">provided, however, that no action by the Commodity Futures Trading Commission or the Securities and Exchange Commission described in paragraphs (1) through (4) shall become effective prior to the effective date applicable to such action under the provisions of this Act.</proviso>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 712</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1641</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8303.</num>
+<heading> Abusive swaps</heading>
+<chapeau class="indent0">The Commodity Futures Trading Commission or the Securities and Exchange Commission, or both, individually may, by rule or order—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> collect information as may be necessary concerning the markets for any types of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> swap (as defined in <ref>section 1a of title 7</ref>); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> security-based swap (as defined in <ref>section 1a of title 7</ref>); and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> issue a report with respect to any types of swaps or security-based swaps that the Commodity Futures Trading Commission or the Securities and Exchange Commission determines to be detrimental to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the stability of a financial market; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> participants in a financial market.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 714</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1647</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8304.</num>
+<heading> Authority to prohibit participation in swap activities</heading>
+<content>
+<p class="indent0">Except as provided in <ref>section 6 of title 7</ref>, if the Commodity Futures Trading Commission or the Securities and Exchange Commission determines that the regulation of swaps or security-based swaps markets in a foreign country undermines the stability of the United States financial system, either Commission, in consultation with the Secretary of the Treasury, may prohibit an entity domiciled in the foreign country from participating in the United States in any swap or security-based swap activities.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 715</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1647</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8305.</num>
+<heading> Prohibition against Federal Government bailouts of swaps entities</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Prohibition on Federal assistance</heading>
+<content>
+<p class="indent0">Notwithstanding any other provision of law (including regulations), no Federal assistance may be provided to any swaps entity with respect to any swap, security-based swap, or other activity of the swaps entity.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">In this section:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Federal assistance</heading>
+<chapeau class="indent1">The term “Federal assistance” means the use of any advances from any Federal Reserve credit facility or discount window that is not part of a program or facility with broad-based eligibility under <ref>section 343(3)(A) of title 12</ref>, Federal Deposit Insurance Corporation insurance or guarantees for the purpose of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> making any loan to, or purchasing any stock, equity interest, or debt obligation of, any swaps entity;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> purchasing the assets of any swaps entity;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> guaranteeing any loan or debt issuance of any swaps entity; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> entering into any assistance arrangement (including tax breaks), loss sharing, or profit sharing with any swaps entity.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Swaps entity</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The term “swaps entity” means any swap dealer, security-based swap dealer, major swap participant, major security-based swap participant, that is registered under—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the Commodity Exchange Act (<ref>7 U.S.C. 1</ref> et seq.); or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the Securities Exchange Act of 1934 (<ref>15 U.S.C. 78a</ref> et seq.).</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Exclusion</heading>
+<content>
+<p class="indent2">The term “swaps entity” does not include any major swap participant or major security-based swap participant that is an <ref class="footnoteRef" idref="fn002583">1</ref> covered depository institution.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Covered depository institution</heading>
+<content/>
+</paragraph>
+<continuation class="indent0">The term “covered depository institution” means—</continuation>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> an insured depository institution, as that term is defined in section 3 of the Federal Deposit Insurance Act (<ref>12 U.S.C. 1813</ref>); and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> a United States uninsured branch or agency of a foreign bank.</content>
+</subparagraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Affiliates of covered depository institutions</heading>
+<content>
+<p class="indent0">The prohibition on Federal assistance contained in subsection (a) does not apply to and shall not prevent a covered depository institution from having or establishing an affiliate which is a swaps entity, as long as such covered depository institution is part of a bank holding company, savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(<i>o</i>))), that is supervised by the Federal Reserve and such swaps entity affiliate complies with sections 371c and 371c–1 of title 12 and such other requirements as the Commodity Futures Trading Commission or the Securities Exchange Commission, as appropriate, and the Board of Governors of the Federal Reserve System, may determine to be necessary and appropriate.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Only bona fide hedging and traditional bank activities permitted</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">The prohibition in subsection (a) shall not apply to any covered depository institution that limits its swap and security-based swap activities to the following:</chapeau>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Hedging and other similar risk mitigation activities</heading>
+<content>
+<p class="indent2">Hedging and other similar risk mitigating activities directly related to the covered depository institution’s activities.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Non-structured finance swap activities</heading>
+<content>
+<p class="indent2">Acting as a swaps entity for swaps or security-based swaps other than a structured finance swap.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Certain structured finance swap activities</heading>
+<chapeau class="indent2">Acting as a swaps entity for swaps or security-based swaps that are structured finance swaps, if—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> such structured finance swaps are undertaken for hedging or risk management purposes; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> each asset-backed security underlying such structured finance swaps is of a credit quality and of a type or category with respect to which the prudential regulators have jointly adopted rules authorizing swap or security-based swap activity by covered depository institutions.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent1">For purposes of this subsection:</chapeau>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Structured finance swap</heading>
+<content>
+<p class="indent2">The term “structured finance swap” means a swap or security-based swap based on an asset-backed security (or group or index primarily comprised of asset-backed securities).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Asset-backed security</heading>
+<content>
+<p class="indent2">The term “asset-backed security” has the meaning given such term under section 3(a) of the Securities Exchange Act of 1934 (<ref>15 U.S.C. 78c(a)</ref>).</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Existing swaps and security-based swaps</heading>
+<content>
+<p class="indent0">The prohibition in subsection (a) shall only apply to swaps or security-based swaps entered into by a covered depository institution after the end of the transition period described in subsection (f).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Transition period</heading>
+<content>
+<p class="indent0">To the extent a covered depository institution qualifies as a “swaps entity” and would be subject to the Federal assistance prohibition in subsection (a), the appropriate Federal banking agency, after consulting with and considering the views of the Commodity Futures Trading Commission or the Securities Exchange Commission, as appropriate, shall permit the covered depository institution up to 24 months to divest the swaps entity or cease the activities that require registration as a swaps entity. In establishing the appropriate transition period to effect such divestiture or cessation of activities, which may include making the swaps entity an affiliate of the covered depository institution, the appropriate Federal banking agency shall take into account and make written findings regarding the potential impact of such divestiture or cessation of activities on the covered depository institution’s (1) mortgage lending, (2) small business lending, (3) job creation, and (4) capital formation versus the potential negative impact on insured depositors and the Deposit Insurance Fund of the Federal Deposit Insurance Corporation. The appropriate Federal banking agency may consider such other factors as may be appropriate. The appropriate Federal banking agency may place such conditions on the covered depository institution’s divestiture or ceasing of activities of the swaps entity as it deems necessary and appropriate. The transition period under this subsection may be extended by the appropriate Federal banking agency, after consultation with the Commodity Futures Trading Commission and the Securities and Exchange Commission, for a period of up to 1 additional year.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Excluded entities</heading>
+<content>
+<p class="indent0">For purposes of this section, the term “swaps entity” shall not include any insured depository institution under the Federal Deposit Insurance Act [<ref>12 U.S.C. 1811</ref> et seq.] or a covered financial company under title II which is in a conservatorship, receivership, or a bridge bank operated by the Federal Deposit Insurance Corporation.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Effective date</heading>
+<content>
+<p class="indent0">The prohibition in subsection (a) shall be effective 2 years following the date on which this Act is effective.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Liquidation required</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> FDIC insured institutions</heading>
+<content>
+<p class="indent2">All swaps entities that are FDIC insured institutions that are put into receivership or declared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under <ref>section 5323 of title 12</ref></heading>
+<content>
+<p class="indent2">All swaps entities that are institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under <ref>section 5323 of title 12</ref>, that are put into receivership or declared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Non-FDIC insured, non-systemically significant institutions not subject to heightened prudential supervision as regulated under <ref>section 5323 of title 12</ref></heading>
+<content>
+<p class="indent2">No taxpayer resources shall be used for the orderly liquidation of any swaps entities that are non-FDIC insured, non-systemically significant institutions not subject to heightened prudential supervision as regulated under <ref>section 5323 of title 12</ref>.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Recovery of funds</heading>
+<content>
+<p class="indent1">All funds expended on the termination or transfer of the swap or security-based swap activity of the swaps entity shall be recovered in accordance with applicable law from the disposition of assets of such swap entity or through assessments, including on the financial sector as provided under applicable law.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> No losses to taxpayers</heading>
+<content>
+<p class="indent1">Taxpayers shall bear no losses from the exercise of any authority under this title.<ref class="footnoteRef" idref="fn002584">2</ref></p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(j)</num>
+<heading class="bold"> Prohibition on unregulated combination of swaps entities and banking</heading>
+<content>
+<p class="indent0">At no time following adoption of the rules in subsection (k) may a bank or bank holding company be permitted to be or become a swap entity unless it conducts its swap or security-based swap activity in compliance with such minimum standards set by its prudential regulator as are reasonably calculated to permit the swaps entity to conduct its swap or security-based swap activities in a safe and sound manner and mitigate systemic risk.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(k)</num>
+<heading class="bold"> Rules</heading>
+<chapeau class="indent0">In prescribing rules, the prudential regulator for a swaps entity shall consider the following factors:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The expertise and managerial strength of the swaps entity, including systems for effective oversight.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The financial strength of the swaps entity.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Systems for identifying, measuring and controlling risks arising from the swaps entity’s operations.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> Systems for identifying, measuring and controlling the swaps entity’s participation in existing markets.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> Systems for controlling the swaps entity’s participation or entry into in <ref class="footnoteRef" idref="fn002585">3</ref> new markets and products.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(l)</num>
+<heading class="bold"> Authority of the Financial Stability Oversight Council</heading>
+<content>
+<p class="indent0">The Financial Stability Oversight Council may determine that,<ref class="footnoteRef" idref="fn002586">4</ref> when other provisions established by this Act are insufficient to effectively mitigate systemic risk and protect taxpayers, that swaps entities may no longer access Federal assistance with respect to any swap, security-based swap, or other activity of the swaps entity. Any such determination by the Financial Stability Oversight Council of a prohibition of federal assistance shall be made on an institution-by-institution basis, and shall require the vote of not fewer than two-thirds of the members of the Financial Stability Oversight Council, which must include the vote by the Chairman of the Council, the Chairman of the Board of Governors of the Federal Reserve System, and the Chairperson of the Federal Deposit Insurance Corporation. Notice and hearing requirements for such determinations shall be consistent with the standards provided in title I.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(m)</num>
+<heading class="bold"> Ban on proprietary trading in derivatives</heading>
+<content>
+<p class="indent0">An insured depository institution shall comply with the prohibition on proprietary trading in derivatives as required by section 619 of the Dodd-Frank Wall Street Reform and Consumer Protection Act [<ref>12 U.S.C. 1851</ref>].</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 716</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1648</ref>; <ref>Pub. L. 113–235, div. E, title VI, § 630</ref>, <date date="2014-12-16">Dec. 16, 2014</date>, <ref>128 Stat. 2378</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8306.</num>
+<heading> Determining status of novel derivative products</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Process for determining the status of a novel derivative product</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Notice</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Any person filing a proposal to list or trade a novel derivative product that may have elements of both securities and contracts of sale of a commodity for future delivery (or options on such contracts or options on commodities) may concurrently provide notice and furnish a copy of such filing with the Securities and Exchange Commission and the Commodity Futures Trading Commission. Any such notice shall state that notice has been made with both Commissions.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Notification</heading>
+<content>
+<p class="indent2">If no concurrent notice is made pursuant to subparagraph (A), within 5 business days after determining that a proposal that seeks to list or trade a novel derivative product may have elements of both securities and contracts of sale of a commodity for future delivery (or options on such contracts or options on commodities), the Securities and Exchange Commission or the Commodity Futures Trading Commission, as applicable, shall notify the other Commission and provide a copy of such filing to the other Commission.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Request for determination</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">No later than 21 days after receipt of a notice under paragraph (1), or upon its own initiative if no such notice is received, the Commodity Futures Trading Commission may request that the Securities and Exchange Commission issue a determination as to whether a product is a security, as defined in <ref>section 78c(a)(10) of this title</ref>.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Request</heading>
+<content>
+<p class="indent2">No later than 21 days after receipt of a notice under paragraph (1), or upon its own initiative if no such notice is received, the Securities and Exchange Commission may request that the Commodity Futures Trading Commission issue a determination as to whether a product is a contract of sale of a commodity for future delivery, an option on such a contract, or an option on a commodity subject to the Commodity Futures Trading Commission’s exclusive jurisdiction under <ref>section 2(a)(1)(A) of title 7</ref>.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Requirement relating to request</heading>
+<content>
+<p class="indent2">A request under subparagraph (A) or (B) shall be made by submitting such request, in writing, to the Securities and Exchange Commission or the Commodity Futures Trading Commission, as applicable.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Effect</heading>
+<chapeau class="indent2">Nothing in this paragraph shall be construed to prevent—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the Commodity Futures Trading Commission from requesting that the Securities and Exchange Commission grant an exemption pursuant to <ref>section 78mm(a)(1) of this title</ref> with respect to a product that is the subject of a filing under paragraph (1); or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the Securities and Exchange Commission from requesting that the Commodity Futures Trading Commission grant an exemption pursuant to <ref>section 6(c)(1) of title 7</ref> with respect to a product that is the subject of a filing under paragraph (1),</content>
+</clause>
+<proviso class="indent2 firstIndent0"><i>Provided</i>, however, that nothing in this subparagraph shall be construed to require the Commodity Futures Trading Commission or the Securities and Exchange Commission to issue an exemption requested pursuant to this subparagraph; <i>provided further</i>, That an order granting or denying an exemption described in this subparagraph and issued under paragraph (3)(B) shall not be subject to judicial review pursuant to subsection (b).</proviso>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(E)</num>
+<heading class="bold"> Withdrawal of request</heading>
+<content>
+<p class="indent2">A request under subparagraph (A) or (B) may be withdrawn by the Commission making the request at any time prior to a determination being made pursuant to paragraph (3) for any reason by providing written notice to the head of the other Commission.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Determination</heading>
+<chapeau class="indent1">Notwithstanding any other provision of law, no later than 120 days after the date of receipt of a request—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> under subparagraph (A) or (B) of paragraph (2), unless such request has been withdrawn pursuant to paragraph (2)(E), the Securities and Exchange Commission or the Commodity Futures Trading Commission, as applicable, shall, by order, issue the determination requested in subparagraph (A) or (B) of paragraph (2), as applicable, and the reasons therefor; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> under paragraph (2)(D), unless such request has been withdrawn, the Securities and Exchange Commission or the Commodity Futures Trading Commission, as applicable, shall grant an exemption or provide reasons for not granting such exemption, provided that any decision by the Securities and Exchange Commission not to grant such exemption shall not be reviewable under <ref>section 78y of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Judicial resolution</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Commodity Futures Trading Commission or the Securities and Exchange Commission may petition the United States Court of Appeals for the District of Columbia Circuit for review of a final order of the other Commission issued pursuant to subsection (a)(3)(A), with respect to a novel derivative product that may have elements of both securities and contracts of sale of a commodity for future delivery (or options on such contracts or options on commodities) that it believes affects its statutory jurisdiction within 60 days after the date of entry of such order, a written petition requesting a review of the order. Any such proceeding shall be expedited by the Court of Appeals.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Transmittal of petition and record</heading>
+<content>
+<p class="indent1">A copy of a petition described in paragraph (1) shall be transmitted not later than 1 business day after filing by the complaining Commission to the responding Commission. On receipt of the petition, the responding Commission shall file with the court a copy of the order under review and any documents referred to therein, and any other materials prescribed by the court.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Standard of review</heading>
+<content>
+<p class="indent1">The court, in considering a petition filed pursuant to paragraph (1), shall give no deference to, or presumption in favor of, the views of either Commission.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Judicial stay</heading>
+<content>
+<p class="indent1">The filing of a petition by the complaining Commission pursuant to paragraph (1) shall operate as a stay of the order, until the date on which the determination of the court is final (including any appeal of the determination).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 718</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1652</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8307.</num>
+<heading> Studies</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Study on effects of position limits on trading on exchanges in the United States</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Study</heading>
+<content>
+<p class="indent1">The Commodity Futures Trading Commission, in consultation with each entity that is a designated contract market under the Commodity Exchange Act [<ref>7 U.S.C. 1</ref> et seq.], shall conduct a study of the effects (if any) of the position limits imposed pursuant to the other provisions of this title <ref class="footnoteRef" idref="fn002587">1</ref> on excessive speculation and on the movement of transactions from exchanges in the United States to trading venues outside the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Report to the Congress</heading>
+<content>
+<p class="indent1">Within 12 months after the imposition of position limits pursuant to the other provisions of this title,<sup>1</sup> the Commodity Futures Trading Commission, in consultation with each entity that is a designated contract market under the Commodity Exchange Act, shall submit to the Congress a report on the matters described in paragraph (1).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Required hearing</heading>
+<content>
+<p class="indent1">Within 30 legislative days after the submission to the Congress of the report described in paragraph (2), the Committee on Agriculture of the House of Representatives shall hold a hearing examining the findings of the report.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Biennial reporting</heading>
+<content>
+<p class="indent1">In addition to the study required in paragraph (1), the Chairman of the Commodity Futures Trading Commission shall prepare and submit to the Congress biennial reports on the growth or decline of the derivatives markets in the United States and abroad, which shall include assessments of the causes of any such growth or decline, the effectiveness of regulatory regimes in managing systemic risk, a comparison of the costs of compliance at the time of the report for market participants subject to regulation by the United States with the costs of compliance in December 2008 for the market participants, and the quality of the available data. In preparing the report, the Chairman shall solicit the views of, consult with, and address the concerns raised by, market participants, regulators, legislators, and other interested parties.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Study on feasibility of requiring use of standardized algorithmic descriptions for financial derivatives</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Securities and Exchange Commission and the Commodity Futures Trading Commission shall conduct a joint study of the feasibility of requiring the derivatives industry to adopt standardized computer-readable algorithmic descriptions which may be used to describe complex and standardized financial derivatives.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Goals</heading>
+<chapeau class="indent1">The algorithmic descriptions defined in the study shall be designed to facilitate computerized analysis of individual derivative contracts and to calculate net exposures to complex derivatives. The algorithmic descriptions shall be optimized for simultaneous use by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> commercial users and traders of derivatives;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> derivative clearing houses, exchanges and electronic trading platforms;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> trade repositories and regulator investigations of market activities; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> systemic risk regulators.</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">The study will also examine the extent to which the algorithmic description, together with standardized and extensible legal definitions, may serve as the binding legal definition of derivative contracts. The study will examine the logistics of possible implementations of standardized algorithmic descriptions for derivatives contracts. The study shall be limited to electronic formats for exchange of derivative contract descriptions and will not contemplate disclosure of proprietary valuation models.</continuation>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> International coordination</heading>
+<content>
+<p class="indent1">In conducting the study, the Securities and Exchange Commission and the Commodity Futures Trading Commission shall coordinate the study with international financial institutions and regulators as appropriate and practical.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Report</heading>
+<content>
+<p class="indent1">Within 8 months after <date date="2010-07-21">July 21, 2010</date>, the Securities and Exchange Commission and the Commodity Futures Trading Commission shall jointly submit to the Committees on Agriculture and on Financial Services of the House of Representatives and the Committees on Agriculture, Nutrition, and Forestry and on Banking, Housing, and Urban Affairs of the Senate a written report which contains the results of the study required by paragraphs (1) through (3).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> International swap regulation</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">The Commodity Futures Trading Commission and the Securities and Exchange Commission shall jointly conduct a study—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> relating to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> swap regulation in the United States, Asia, and Europe; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> clearing house and clearing agency regulation in the United States, Asia, and Europe; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> that identifies areas of regulation that are similar in the United States, Asia and Europe and other areas of regulation that could be harmonized <ref class="footnoteRef" idref="fn002588">2</ref></content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Report</heading>
+<chapeau class="indent1">Not later than 18 months after <date date="2010-07-21">July 21, 2010</date>, the Commodity Futures Trading Commission and the Securities and Exchange Commission shall submit to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Agriculture and the Committee on Financial Services of the House of Representatives a report that includes a description of the results of the study under subsection (a), including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> identification of the major exchanges and their regulator in each geographic area for the trading of swaps and security-based swaps including a listing of the major contracts and their trading volumes and notional values as well as identification of the major swap dealers participating in such markets;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> identification of the major clearing houses and clearing agencies and their regulator in each geographic area for the clearing of swaps and security-based swaps, including a listing of the major contracts and the clearing volumes and notional values as well as identification of the major clearing members of such clearing houses and clearing agencies in such markets;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a description of the comparative methods of clearing swaps in the United States, Asia, and Europe; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> a description of the various systems used for establishing margin on individual swaps, security-based swaps, and swap portfolios.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Stable value contracts</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Determination</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Status</heading>
+<content>
+<p class="indent2">Not later than 15 months after <date date="2010-07-21">July 21, 2010</date>, the Securities and Exchange Commission and the Commodity Futures Trading Commission shall, jointly, conduct a study to determine whether stable value contracts fall within the definition of a swap. In making the determination required under this subparagraph, the Commissions jointly shall consult with the Department of Labor, the Department of the Treasury, and the State entities that regulate the issuers of stable value contracts.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Regulations</heading>
+<content>
+<p class="indent2">If the Commissions determine that stable value contracts fall within the definition of a swap, the Commissions jointly shall determine if an exemption for stable value contracts from the definition of swap is appropriate and in the public interest. The Commissions shall issue regulations implementing the determinations required under this paragraph. Until the effective date of such regulations, and notwithstanding any other provision of this title,<sup>1</sup> the requirements of this title <sup>1</sup> shall not apply to stable value contracts.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Legal certainty</heading>
+<content>
+<p class="indent2">Stable value contracts in effect prior to the effective date of the regulations described in subparagraph (B) shall not be considered swaps.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Definition</heading>
+<content>
+<p class="indent1">For purposes of this subsection, the term “stable value contract” means any contract, agreement, or transaction that provides a crediting interest rate and guaranty or financial assurance of liquidity at contract or book value prior to maturity offered by a bank, insurance company, or other State or federally regulated financial institution for the benefit of any individual or commingled fund available as an investment in an employee benefit plan (as defined in <ref>section 1002(3) of title 29</ref>, including plans described in <ref>section 1002(32) of title 29</ref>) subject to participant direction, an eligible deferred compensation plan (as defined in <ref>section 457(b) of title 26</ref>) that is maintained by an eligible employer described in <ref>section 457(e)(1)(A) of title 26</ref>, an arrangement described in <ref>section 403(b) of title 26</ref>, or a qualified tuition program (as defined in <ref>section 529 of title 26</ref>).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 719</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1654</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8308.</num>
+<heading> Memorandum</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> The Commodity Futures Trading Commission and the Federal Energy Regulatory Commission shall, not later than 180 days after <date date="2010-07-21">July 21, 2010</date>, negotiate a memorandum of understanding to establish procedures for—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> applying their respective authorities in a manner so as to ensure effective and efficient regulation in the public interest;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> resolving conflicts concerning overlapping jurisdiction between the 2 agencies; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> avoiding, to the extent possible, conflicting or duplicative regulation.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Such memorandum and any subsequent amendments to the memorandum shall be promptly submitted to the appropriate committees of Congress.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> The Commodity Futures Trading Commission and the Federal Energy Regulatory Commission shall, not later than 180 days after <date date="2010-07-21">July 21, 2010</date>, negotiate a memorandum of understanding to share information that may be requested where either Commission is conducting an investigation into potential manipulation, fraud, or market power abuse in markets subject to such Commission’s regulation or oversight. Shared information shall remain subject to the same restrictions on disclosure applicable to the Commission initially holding the information.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 720</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1657</ref>.)</sourceCredit>
+</section>
+</part>
+<part>
+<num class="small-caps">Part B—</num>
+<heading class="small-caps">Regulation of Swap Markets</heading>
+<section>
+<num>§ 8321.</num>
+<heading> Authority to define terms</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Authority to define terms</heading>
+<chapeau class="indent0">The Commodity Futures Trading Commission may adopt a rule to define—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the term “commercial risk”; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> any other term included in an amendment to the Commodity Exchange Act (<ref>7 U.S.C. 1</ref> et seq.) made by this subtitle.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Modification of definitions</heading>
+<content>
+<p class="indent0">To include transactions and entities that have been structured to evade this subtitle (or an amendment made by this subtitle), the Commodity Futures Trading Commission shall adopt a rule to further define the terms “swap”, “swap dealer”, “major swap participant”, and “eligible contract participant”.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 721(b)</ref>, (c), <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1670</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8322.</num>
+<heading> Authority of FERC</heading>
+<content>
+<p class="indent0">Nothing in the Wall Street Transparency and Accountability Act of 2010 or the amendments to the Commodity Exchange Act [<ref>7 U.S.C. 1</ref> et seq.] made by such Act shall limit or affect any statutory enforcement authority of the Federal Energy Regulatory Commission pursuant to <ref>section 824v of title 16</ref> and <ref>section 717c–1 of this title</ref> that existed prior to <date date="2010-07-21">July 21, 2010</date>.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 722(g)</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1674</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8323.</num>
+<heading> Rulemaking on conflict of interest</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">In order to mitigate conflicts of interest, not later than 180 days after <date date="2010-07-21">July 21, 2010</date>, the Commodity Futures Trading Commission shall adopt rules which may include numerical limits on the control of, or the voting rights with respect to, any derivatives clearing organization that clears swaps, or swap execution facility or board of trade designated as a contract market that posts swaps or makes swaps available for trading, by a bank holding company (as defined in <ref>section 1841 of title 12</ref>) with total consolidated assets of $50,000,000,000 or more, a nonbank financial company (as defined in <ref>section 5311 of title 12</ref>) supervised by the Board, an affiliate of such a bank holding company or nonbank financial company, a swap dealer, major swap participant, or associated person of a swap dealer or major swap participant.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Purposes</heading>
+<content>
+<p class="indent0">The Commission shall adopt rules if it determines, after the review described in subsection (a), that such rules are necessary or appropriate to improve the governance of, or to mitigate systemic risk, promote competition, or mitigate conflicts of interest in connection with a swap dealer or major swap participant’s conduct of business with, a derivatives clearing organization, contract market, or swap execution facility that clears or posts swaps or makes swaps available for trading and in which such swap dealer or major swap participant has a material debt or equity investment.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Considerations</heading>
+<content>
+<p class="indent0">In adopting rules pursuant to this section, the Commodity Futures Trading Commission shall consider any conflicts of interest arising from the amount of equity owned by a single investor, the ability to vote, cause the vote of, or withhold votes entitled to be cast on any matters by the holders of the ownership interest, and the governance arrangements of any derivatives clearing organization that clears swaps, or swap execution facility or board of trade designated as a contract market that posts swaps or makes swaps available for trading.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 726</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1695</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8324.</num>
+<heading> Savings clause</heading>
+<content>
+<p class="indent0">Notwithstanding any other provision of this title,<ref class="footnoteRef" idref="fn002589">1</ref> nothing in this subtitle shall be construed as divesting any appropriate Federal banking agency of any authority it may have to establish or enforce, with respect to a person for which such agency is the appropriate Federal banking agency, prudential or other standards pursuant to authority granted by Federal law other than this title.<ref class="footnoteRef" idref="fn002589">1</ref></p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 741(c)</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1732</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8325.</num>
+<heading> International harmonization</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<content> In order to promote effective and consistent global regulation of swaps and security-based swaps, the Commodity Futures Trading Commission, the Securities and Exchange Commission, and the prudential regulators (as that term is defined in <ref>section 1a(39) of title 7</ref>), as appropriate, shall consult and coordinate with foreign regulatory authorities on the establishment of consistent international standards with respect to the regulation (including fees) of swaps, security-based swaps, swap entities, and security-based swap entities and may agree to such information-sharing arrangements as may be deemed to be necessary or appropriate in the public interest or for the protection of investors, swap counterparties, and security-based swap counterparties.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> In order to promote effective and consistent global regulation of contracts of sale of a commodity for future delivery and options on such contracts, the Commodity Futures Trading Commission shall consult and coordinate with foreign regulatory authorities on the establishment of consistent international standards with respect to the regulation of contracts of sale of a commodity for future delivery and options on such contracts, and may agree to such information-sharing arrangements as may be deemed necessary or appropriate in the public interest for the protection of users of contracts of sale of a commodity for future delivery.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 752</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1749</ref>.)</sourceCredit>
+</section>
+</part>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>REGULATION OF SECURITY-BASED SWAP MARKETS</heading>
+<section>
+<num>§ 8341.</num>
+<heading> Authority to further define terms</heading>
+<chapeau class="indent0">The Securities and Exchange Commission may, by rule, further define—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the term “commercial risk”;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> any other term included in an amendment to the Securities Exchange Act of 1934 <ref class="footnoteRef" idref="fn002590">1</ref> (<ref>15 U.S.C. 78c(a)</ref>) made by this subtitle; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the terms “security-based swap”, “security-based swap dealer”, “major security-based swap participant”, and “eligible contract participant”, with regard to security-based swaps (as such terms are defined in the amendments made by subsection (a)) for the purpose of including transactions and entities that have been structured to evade this subtitle or the amendments made by this subtitle.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 761(b)</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1759</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8342.</num>
+<heading> Savings clause</heading>
+<content>
+<p class="indent0">Notwithstanding any other provision of this title,<ref class="footnoteRef" idref="fn002591">1</ref> nothing in this subtitle shall be construed as divesting any appropriate Federal banking agency of any authority it may have to establish or enforce, with respect to a person for which such agency is the appropriate Federal banking agency, prudential or other standards pursuant to authority by Federal law other than this title.<ref class="footnoteRef" idref="fn002591">1</ref></p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 764(b)</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1796</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8343.</num>
+<heading> Rulemaking on conflict of interest</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">In order to mitigate conflicts of interest, not later than 180 days after <date date="2010-07-21">July 21, 2010</date>, the Securities and Exchange Commission shall adopt rules which may include numerical limits on the control of, or the voting rights with respect to, any clearing agency that clears security-based swaps, or on the control of any security-based swap execution facility or national securities exchange that posts or makes available for trading security-based swaps, by a bank holding company (as defined in <ref>section 1841 of title 12</ref>) with total consolidated assets of $50,000,000,000 or more, a nonbank financial company (as defined in <ref>section 5311 of title 12</ref>) supervised by the Board of Governors of the Federal Reserve System, affiliate of such a bank holding company or nonbank financial company, a security-based swap dealer, major security-based swap participant, or person associated with a security-based swap dealer or major security-based swap participant.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Purposes</heading>
+<content>
+<p class="indent0">The Securities and Exchange Commission shall adopt rules if the Commission determines, after the review described in subsection (a), that such rules are necessary or appropriate to improve the governance of, or to mitigate systemic risk, promote competition, or mitigate conflicts of interest in connection with a security-based swap dealer or major security-based swap participant’s conduct of business with, a clearing agency, national securities exchange, or security-based swap execution facility that clears, posts, or makes available for trading security-based swaps and in which such security-based swap dealer or major security-based swap participant has a material debt or equity investment.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Considerations</heading>
+<content>
+<p class="indent0">In adopting rules pursuant to this section, the Securities and Exchange Commission shall consider any conflicts of interest arising from the amount of equity owned by a single investor, the ability to vote, cause the vote of, or withhold votes entitled to be cast on any matters by the holders of the ownership interest, and the governance arrangements of any derivatives clearing organization that clears swaps, or swap execution facility or board of trade designated as a contract market that posts swaps or makes swaps available for trading.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 765</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1796</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8344.</num>
+<heading> Other authority</heading>
+<content>
+<p class="indent0">Unless otherwise provided by its terms, this subtitle does not divest any appropriate Federal banking agency, the Securities and Exchange Commission, the Commodity Futures Trading Commission, or any other Federal or State agency, of any authority derived from any other provision of applicable law.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–203, title VII, § 771</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1801</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

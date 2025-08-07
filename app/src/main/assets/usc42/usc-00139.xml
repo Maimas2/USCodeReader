@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 110—</num>
+<heading>FAMILY VIOLENCE PREVENTION AND SERVICES</heading>
+<section>
+<num>§ 10401.</num>
+<heading> Short title; purpose</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Short title</heading>
+<content>
+<p class="indent0">This chapter may be cited as the “Family Violence Prevention and Services Act”.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Purpose</heading>
+<chapeau class="indent0">It is the purpose of this chapter to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> assist States and Indian tribes in efforts to increase public awareness about, and primary and secondary prevention of, family violence, domestic violence, and dating violence;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> assist States and Indian tribes in efforts to provide immediate shelter and supportive services for victims of family violence, domestic violence, or dating violence, and their dependents;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> provide for a national domestic violence hotline;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> provide for technical assistance and training relating to family violence, domestic violence, and dating violence programs to States and Indian tribes, local public agencies (including law enforcement agencies, courts, and legal, social service, and health care professionals in public agencies), nonprofit private organizations (including faith-based and charitable organizations, community-based organizations, and voluntary associations), tribal organizations, and other persons seeking such assistance and training.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 301</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3484</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10402.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Alaska Native</heading>
+<content>
+<p class="indent1">The term “Alaska Native” has the meaning given the term “Native” in <ref>section 1602 of title 43</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Dating violence</heading>
+<content>
+<p class="indent1">The term “dating violence” has the meaning given such term in <ref>section 12291(a) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Domestic violence</heading>
+<content>
+<p class="indent1">The term “domestic violence” has the meaning given such term in <ref>section 12291(a) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Family violence</heading>
+<chapeau class="indent1">The term “family violence” means any act or threatened act of violence, including any forceful detention of an individual, that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> results or threatens to result in physical injury; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> is committed by a person against another individual (including an elderly individual) to or with whom such person—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> is related by blood;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> is or was related by marriage or is or was otherwise legally related; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> is or was lawfully residing.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Indian; Indian tribe; tribal organization</heading>
+<content>
+<p class="indent1">The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in <ref>section 5304 of title 25</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Native Hawaiian</heading>
+<content>
+<p class="indent1">The term “Native Hawaiian” has the meaning given the term in <ref>section 7517 of title 20</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Personally identifying information</heading>
+<content>
+<p class="indent1">The term “personally identifying information” has the meaning given the term in <ref>section 12291(a) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Secretary</heading>
+<content>
+<p class="indent1">The term “Secretary” means the Secretary of Health and Human Services.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Shelter</heading>
+<content>
+<p class="indent1">The term “shelter” means the provision of temporary refuge and supportive services in compliance with applicable State law (including regulation) governing the provision, on a regular basis, of shelter, safe homes, meals, and supportive services to victims of family violence, domestic violence, or dating violence, and their dependents.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> State</heading>
+<content>
+<p class="indent1">The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, except as otherwise provided, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> State Domestic Violence Coalition</heading>
+<chapeau class="indent1">The term “State Domestic Violence Coalition” means a statewide nongovernmental nonprofit private domestic violence organization that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> has a membership that includes a majority of the primary-purpose domestic violence service providers in the State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> has board membership that is representative of primary-purpose domestic violence service providers, and which may include representatives of the communities in which the services are being provided in the State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> has as its purpose to provide education, support, and technical assistance to such service providers to enable the providers to establish and maintain shelter and supportive services for victims of domestic violence and their dependents; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> serves as an information clearinghouse, primary point of contact, and resource center on domestic violence for the State and supports the development of polices, protocols, and procedures to enhance domestic violence intervention and prevention in the State.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Supportive services</heading>
+<chapeau class="indent1">The term “supportive services” means services for adult and youth victims of family violence, domestic violence, or dating violence, and dependents exposed to family violence, domestic violence, or dating violence, that are designed to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> meet the needs of such victims of family violence, domestic violence, or dating violence, and their dependents, for short-term, transitional, or long-term safety; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> provide counseling, advocacy, or assistance for victims of family violence, domestic violence, or dating violence, and their dependents.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Tribally designated official</heading>
+<content>
+<p class="indent1">The term “tribally designated official” means an individual designated by an Indian tribe, tribal organization, or nonprofit private organization authorized by an Indian tribe, to administer a grant under <ref>section 10409 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> Underserved populations</heading>
+<content>
+<p class="indent1">The term “underserved populations” has the meaning given the term in <ref>section 12291(a) of this title</ref>. For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 12291(a) <ref class="footnoteRef" idref="fn003962">1</ref> of this title.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 302</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3484</ref>; amended <ref>Pub. L. 114–95, title IX, § 9215(ii)</ref>, <date date="2015-12-10">Dec. 10, 2015</date>, <ref>129 Stat. 2175</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10403.</num>
+<heading> Authorization of appropriations</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Formula grants to States</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">There is authorized to be appropriated to carry out sections 10401 through 10412 of this title, $175,000,000 for each of fiscal years 2011 through 2015.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Allocations</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Formula grants to States</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Reservation of funds</heading>
+<content>
+<p class="indent3">For any fiscal year for which the amounts appropriated under paragraph (1) exceed $130,000,000, not less than 25 percent of such excess funds shall be made available to carry out <ref>section 10412 of this title</ref>.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Formula grants</heading>
+<content>
+<p class="indent3">Of the amounts appropriated under paragraph (1) for a fiscal year and not reserved under clause (i), not less than 70 percent shall be used for making grants under <ref>section 10406(a) of this title</ref>.</p>
+</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Grants to tribes</heading>
+<content>
+<p class="indent2">Of the amounts appropriated under paragraph (1) for a fiscal year and not reserved under subparagraph (A)(i), not less than 10 percent shall be used to carry out <ref>section 10409 of this title</ref>.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Technical assistance and training centers</heading>
+<content>
+<p class="indent2">Of the amounts appropriated under paragraph (1) for a fiscal year and not reserved under subparagraph (A)(i), not less than 6 percent shall be used by the Secretary for making grants under <ref>section 10410 of this title</ref>.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Grants for State Domestic Violence Coalitions</heading>
+<content>
+<p class="indent2">Of the amounts appropriated under paragraph (1) for a fiscal year and not reserved under subparagraph (A)(i), not less than 10 percent of such amounts shall be used by the Secretary for making grants under <ref>section 10411 of this title</ref>.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(E)</num>
+<heading class="bold"> Administration, evaluation and monitoring</heading>
+<content>
+<p class="indent2">Of the amount appropriated under paragraph (1) for a fiscal year and not reserved under subparagraph (A)(i), not more than 2.5 percent shall be used by the Secretary for evaluation, monitoring, and other administrative costs under this chapter.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> National domestic violence hotline</heading>
+<content>
+<p class="indent0">There is authorized to be appropriated to carry out <ref>section 10413 of this title</ref> $3,500,000 for each of fiscal years 2011 through 2015.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Domestic Violence Prevention Enhancement and Leadership Through Alliances</heading>
+<content>
+<p class="indent0">There is authorized to be appropriated to carry out <ref>section 10414 of this title</ref> $6,000,000 for each of fiscal years 2011 through 2015.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Additional funding</heading>
+<chapeau class="indent0">For the purposes of carrying out this chapter, in addition to amounts otherwise made available for such purposes, there are appropriated, out of any amounts in the Treasury not otherwise appropriated, for fiscal year 2021, to remain available until expended except as otherwise provided in this subsection, each of the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> $180,000,000 to carry out sections 10401 through 10412 of this title, to be allocated in the manner described in subsection (a)(2), except that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a reference in subsection (a)(2) to an amount appropriated under subsection (a)(1) shall be considered to be a reference to an amount appropriated under this paragraph;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the matching requirement in <ref>section 10406(c)(4) of this title</ref> and condition in section 10408(d)(3) <ref class="footnoteRef" idref="fn003963">1</ref> of this title shall not apply; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> each reference in <ref>section 10405(e) of this title</ref> to “the end of the following fiscal year” shall be considered to be a reference to “the end of fiscal year 2025”; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> funds made available to a State in a grant under <ref>section 10406(a) of this title</ref> and obligated in a timely manner shall be available for expenditure, by the State or a recipient of funds from the grant, through the end of fiscal year 2025;<ref class="footnoteRef" idref="fn003964">2</ref></content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $18,000,000 to carry out <ref>section 10409 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> $2,000,000 to carry out <ref>section 10413 of this title</ref>, of which $1,000,000 shall be allocated to support Indian communities.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 303</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3486</ref>; amended <ref>Pub. L. 117–2, title II, § 2204(a)</ref>, <date date="2021-03-11">Mar. 11, 2021</date>, <ref>135 Stat. 34</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10404.</num>
+<heading> Authority of Secretary</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Authorities</heading>
+<chapeau class="indent0">In order to carry out the provisions of this chapter, the Secretary is authorized to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> appoint and fix the compensation of such personnel as are necessary;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> procure, to the extent authorized by <ref>section 3109 of title 5</ref>, such temporary and intermittent services of experts and consultants as are necessary;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> make grants to eligible entities or enter into contracts with for-profit or nonprofit nongovernmental entities and establish reporting requirements for such grantees and contractors;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> prescribe such regulations and guidance as are reasonably necessary in order to carry out the objectives and provisions of this chapter, including regulations and guidance on implementing new grant conditions established or provisions modified by amendments made to this chapter by the CAPTA Reauthorization Act of 2010, to ensure accountability and transparency of the actions of grantees and contractors, or as determined by the Secretary to be reasonably necessary to carry out this chapter; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> coordinate programs within the Department of Health and Human Services, and seek to coordinate those programs with programs administered by other Federal agencies, that involve or affect efforts to prevent family violence, domestic violence, and dating violence or the provision of assistance for adult and youth victims of family violence, domestic violence, or dating violence.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Administration</heading>
+<chapeau class="indent0">The Secretary shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> assign 1 or more employees of the Department of Health and Human Services to carry out the provisions of this chapter, including carrying out evaluation and monitoring under this chapter, which employees shall, prior to such appointment, have expertise in the field of family violence and domestic violence prevention and services and, to the extent practicable, have expertise in the field of dating violence;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> provide technical assistance in the conduct of programs for the prevention and treatment of family violence, domestic violence, and dating violence;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> provide for and coordinate research into the most effective approaches to the intervention in and prevention of family violence, domestic violence, and dating violence, by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> consulting with experts and program providers within the family violence, domestic violence, and dating violence field to identify gaps in research and knowledge, establish research priorities, and disseminate research findings;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> collecting and reporting data on the provision of family violence, domestic violence, and dating violence services, including assistance and programs supported by Federal funds made available under this chapter and by other governmental or nongovernmental sources of funds; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> coordinating family violence, domestic violence, and dating violence research efforts within the Department of Health and Human Services with relevant research administered or carried out by other Federal agencies and other researchers, including research on the provision of assistance for adult and youth victims of family violence, domestic violence, or dating violence; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> support the development and implementation of effective policies, protocols, and programs within the Department and at other Federal agencies that address the safety and support needs of adult and youth victims of family violence, domestic violence, or dating violence.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Reports</heading>
+<content>
+<p class="indent0">Every 2 years, the Secretary shall review and evaluate the activities conducted by grantees, subgrantees, and contractors under this chapter and the effectiveness of the programs administered pursuant to this chapter, and submit a report containing the evaluation to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. Such report shall also include a summary of the documentation provided to the Secretary through performance reports submitted under <ref>section 10406(d) of this title</ref>. The Secretary shall make publicly available on the Department of Health and Human Services website the evaluation reports submitted to Congress under this subsection, including the summary of the documentation provided to the Secretary under <ref>section 10406(d) of this title</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 304</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3487</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10405.</num>
+<heading> Allotment of funds</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">From the sums appropriated under <ref>section 10403 of this title</ref> and available for grants to States under <ref>section 10406(a) of this title</ref> for any fiscal year—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than ⅛ of 1 percent of the amounts available for grants under <ref>section 10406(a) of this title</ref> for the fiscal year for which the allotment is made; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> each State shall be allotted for a grant under <ref>section 10406(a) of this title</ref>, $600,000, with the remaining funds to be allotted to each State in an amount that bears the same ratio to such remaining funds as the population of such State bears to the population of all States.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Population</heading>
+<content>
+<p class="indent0">For the purpose of this section, the population of each State, and the total population of all the States, shall be determined by the Secretary on the basis of the most recent census data available to the Secretary, and the Secretary shall use for such purpose, if available, the annual interim current census data produced by the Secretary of Commerce pursuant to <ref>section 181 of title 13</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Ratable reduction</heading>
+<content>
+<p class="indent0">If the sums appropriated under <ref>section 10403 of this title</ref> for any fiscal year and available for grants to States under <ref>section 10406(a) of this title</ref> are not sufficient to pay in full the total amounts that all States are entitled to receive under subsection (a) for such fiscal year, then the maximum amounts that all States are entitled to receive under subsection (a) for such fiscal year shall be ratably reduced. In the event that additional funds become available for making such grants for any fiscal year during which the preceding sentence is applicable, such reduced amounts shall be increased on the same basis as they were reduced.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Reallotment</heading>
+<content>
+<p class="indent0">If, at the end of the sixth month of any fiscal year for which sums are appropriated under <ref>section 10403 of this title</ref>, the amount allotted to a State has not been made available to such State in a grant under <ref>section 10406(a) of this title</ref> because of the failure of such State to meet the requirements for such a grant, then the Secretary shall reallot such amount to States that meet such requirements.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Continued availability of funds</heading>
+<content>
+<p class="indent0">All funds allotted to a State for a fiscal year under this section, and made available to such State in a grant under <ref>section 10406(a) of this title</ref>, shall remain available for obligation by the State until the end of the following fiscal year. All such funds that are not obligated by the State by the end of the following fiscal year shall be made available to the Secretary for discretionary activities under <ref>section 10414 of this title</ref>. Such funds shall remain available for obligation, and for expenditure by a recipient of the funds under <ref>section 10414 of this title</ref>, for not more than 1 year from the date on which the funds are made available to the Secretary.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Definition</heading>
+<content>
+<p class="indent0">In subsection (a)(2), the term “State” does not include any jurisdiction specified in subsection (a)(1).</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 305</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3488</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10406.</num>
+<heading> Formula grants to States</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Formula grants to States</heading>
+<chapeau class="indent0">The Secretary shall award grants to States in order to assist in supporting the establishment, maintenance, and expansion of programs and projects—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to prevent incidents of family violence, domestic violence, and dating violence;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to provide immediate shelter, supportive services, and access to community-based programs for victims of family violence, domestic violence, or dating violence, and their dependents; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to provide specialized services for children exposed to family violence, domestic violence, or dating violence, underserved populations, and victims who are members of racial and ethnic minority populations.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Administrative expenses</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Administrative costs</heading>
+<content>
+<p class="indent1">Each State may use not more than 5 percent of the grant funds for State administrative costs.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Subgrants to eligible entities</heading>
+<content>
+<p class="indent1">The State shall use the remainder of the grant funds to make subgrants to eligible entities for approved purposes as described in <ref>section 10408 of this title</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Grant conditions</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Approved activities</heading>
+<content>
+<p class="indent1">In carrying out the activities under this chapter, grantees and subgrantees may collaborate with and provide information to Federal, State, local, and tribal public officials and agencies, in accordance with limitations on disclosure of confidential or private information as described in paragraph (5), to develop and implement policies to reduce or eliminate family violence, domestic violence, and dating violence.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Discrimination prohibited</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Application of civil rights provisions</heading>
+<content>
+<p class="indent2">For the purpose of applying the prohibitions against discrimination on the basis of age under the Age Discrimination Act of 1975 (<ref>42 U.S.C. 6101</ref> et seq.), on the basis of disability under section 504 of the Rehabilitation Act of 1973 (<ref>29 U.S.C. 794</ref>), on the basis of sex under title IX of the Education Amendments of 1972 (<ref>20 U.S.C. 1681</ref> et seq.), or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 (<ref>42 U.S.C. 2000d</ref> et seq.), programs and activities funded in whole or in part with funds made available under this chapter are considered to be programs and activities receiving Federal financial assistance.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Prohibition on discrimination on basis of sex, religion</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent3">No person shall on the ground of sex or religion be excluded from participation in, be denied the benefits of, or be subject to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Nothing in this chapter shall require any such program or activity to include any individual in any program or activity without taking into consideration that individual’s sex in those certain instances where sex is a bona fide occupational qualification or programmatic factor reasonably necessary to the normal or safe operation of that particular program or activity.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Enforcement</heading>
+<content>
+<p class="indent3">The Secretary shall enforce the provisions of clause (i) in accordance with section 602 of the Civil Rights Act of 1964 (<ref>42 U.S.C. 2000d–1</ref>). Section 603 of such Act (<ref>42 U.S.C. 2000d–2</ref>) shall apply with respect to any action taken by the Secretary to enforce such clause.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iii)</num>
+<heading class="bold"> Construction</heading>
+<content>
+<p class="indent3">This subparagraph shall not be construed as affecting any legal remedy provided under any other provision of law.</p>
+</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Enforcement authorities of Secretary</heading>
+<chapeau class="indent2">Whenever the Secretary finds that a State, Indian tribe, or other entity that has received financial assistance under this chapter has failed to comply with a provision of law referred to in subparagraph (A), with subparagraph (B), or with an applicable regulation (including one prescribed to carry out subparagraph (B)), the Secretary shall notify the chief executive officer of the State involved or the tribally designated official of the tribe involved and shall request such officer or official to secure compliance. If, within a reasonable period of time, not to exceed 60 days, the chief executive officer or official fails or refuses to secure compliance, the Secretary may—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 (<ref>42 U.S.C. 2000d</ref> et seq.), the Age Discrimination Act of 1975 (<ref>42 U.S.C. 6101</ref> et seq.), sections 504 and 505 of the Rehabilitation Act of 1973 [<ref>29 U.S.C. 794</ref>, 794a], or title IX of the Education Amendments of 1972 (<ref>20 U.S.C. 1681</ref> et seq.), as may be applicable; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> take such other action as may be provided by law.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Enforcement authority of Attorney General</heading>
+<content>
+<p class="indent2">When a matter is referred to the Attorney General pursuant to subparagraph (C)(i), or whenever the Attorney General has reason to believe that a State, an Indian tribe, or an entity described in subparagraph (C) is engaged in a pattern or practice in violation of a provision of law referred to in subparagraph (A) or in violation of subparagraph (B), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Income eligibility standards</heading>
+<content>
+<p class="indent1">No income eligibility standard may be imposed upon individuals with respect to eligibility for assistance or services supported with funds appropriated to carry out this chapter. No fees may be levied for assistance or services provided with funds appropriated to carry out this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Match</heading>
+<content>
+<p class="indent1">No grant shall be made under this section to any entity other than a State or an Indian tribe unless the entity agrees that, with respect to the costs to be incurred by the entity in carrying out the program or project for which the grant is awarded, the entity will make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for every $5 of Federal funds provided under the grant. The non-Federal contributions required under this paragraph may be in cash or in kind.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Nondisclosure of confidential or private information</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">In order to ensure the safety of adult, youth, and child victims of family violence, domestic violence, or dating violence, and their families, grantees and subgrantees under this chapter shall protect the confidentiality and privacy of such victims and their families.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Nondisclosure</heading>
+<chapeau class="indent2">Subject to subparagraphs (C), (D), and (E), grantees and subgrantees shall not—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> disclose any personally identifying information collected in connection with services requested (including services utilized or denied), through grantees’ and subgrantees’ programs; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> reveal personally identifying information without informed, written, reasonably time-limited consent by the person about whom information is sought, whether for this program or any other Federal or State grant program, which consent—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<chapeau> shall be given by—</chapeau>
+<item class="indent5">
+<num>(aa)</num>
+<content> the person, except as provided in item (bb) or (cc);</content>
+</item>
+<item class="indent5">
+<num>(bb)</num>
+<content> in the case of an unemancipated minor, the minor and the minor’s parent or guardian; or</content>
+</item>
+<item class="indent5">
+<num>(cc)</num>
+<content> in the case of an individual with a guardian, the individual’s guardian; and</content>
+</item>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> may not be given by the abuser or suspected abuser of the minor or individual with a guardian, or the abuser or suspected abuser of the other parent of the minor.</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Release</heading>
+<chapeau class="indent2">If release of information described in subparagraph (B) is compelled by statutory or court mandate—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> grantees and subgrantees shall make reasonable attempts to provide notice to victims affected by the release of the information; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> grantees and subgrantees shall take steps necessary to protect the privacy and safety of the persons affected by the release of the information.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Information sharing</heading>
+<chapeau class="indent2">Grantees and subgrantees may share—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> nonpersonally identifying information, in the aggregate, regarding services to their clients and demographic nonpersonally identifying information in order to comply with Federal, State, or tribal reporting, evaluation, or data collection requirements;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> court-generated information and law enforcement-generated information contained in secure, governmental registries for protective order enforcement purposes; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> law enforcement- and prosecution-generated information necessary for law enforcement and prosecution purposes.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(E)</num>
+<heading class="bold"> Oversight</heading>
+<content>
+<p class="indent2">Nothing in this paragraph shall prevent the Secretary from disclosing grant activities authorized in this chapter to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate and exercising congressional oversight authority. In making all such disclosures, the Secretary shall protect the confidentiality of individuals and omit personally identifying information, including location information about individuals and shelters.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(F)</num>
+<heading class="bold"> Statutorily permitted reports of abuse or neglect</heading>
+<content>
+<p class="indent2">Nothing in this paragraph shall prohibit a grantee or subgrantee from reporting abuse and neglect, as those terms are defined by law, where mandated or expressly permitted by the State or Indian tribe involved.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(G)</num>
+<heading class="bold"> Preemption</heading>
+<content>
+<p class="indent2">Nothing in this paragraph shall be construed to supersede any provision of any Federal, State, tribal, or local law that provides greater protection than this paragraph for victims of family violence, domestic violence, or dating violence.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(H)</num>
+<heading class="bold"> Confidentiality of location</heading>
+<content>
+<p class="indent2">The address or location of any shelter facility assisted under this chapter that otherwise maintains a confidential location shall, except with written authorization of the person or persons responsible for the operation of such shelter, not be made public.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Supplement not supplant</heading>
+<content>
+<p class="indent1">Federal funds made available to a State or Indian tribe under this chapter shall be used to supplement and not supplant other Federal, State, tribal, and local public funds expended to provide services and activities that promote the objectives of this chapter.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Reports and evaluation</heading>
+<content>
+<p class="indent0">Each grantee shall submit an annual performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the grantee and subgrantee activities that have been carried out with grant funds made available under subsection (a) or <ref>section 10409 of this title</ref>, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 306</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3489</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10407.</num>
+<heading> State application</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Application</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The chief executive officer of a State seeking funds under <ref>section 10406(a) of this title</ref> or a tribally designated official seeking funds under <ref>section 10409(a) of this title</ref> shall submit an application to the Secretary at such time and in such manner as the Secretary may reasonably require.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Contents</heading>
+<chapeau class="indent1">Each such application shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> provide a description of the procedures that have been developed to ensure compliance with the provisions of sections 10406(c) and 10408(d) of this title;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> provide, with respect to funds described in paragraph (1), assurances that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> not more than 5 percent of such funds will be used for administrative costs;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the remaining funds will be distributed to eligible entities as described in <ref>section 10408(a) of this title</ref> for approved activities as described in <ref>section 10408(b) of this title</ref>; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<chapeau> in the distribution of funds by a State under <ref>section 10408(a) of this title</ref>, the State will give special emphasis to the support of community-based projects of demonstrated effectiveness, that are carried out by nonprofit private organizations and that—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> have as their primary purpose the operation of shelters for victims of family violence, domestic violence, and dating violence, and their dependents; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> provide counseling, advocacy, and self-help services to victims of family violence, domestic violence, and dating violence, and their dependents;</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> in the case of an application submitted by a State, provide an assurance that there will be an equitable distribution of grants and grant funds within the State and between urban and rural areas within such State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> in the case of an application submitted by a State, provide an assurance that the State will consult with and provide for the participation of the State Domestic Violence Coalition in the planning and monitoring of the distribution of grants to eligible entities as described in <ref>section 10408(a) of this title</ref> and the administration of the grant programs and projects;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> describe how the State or Indian tribe will involve community-based organizations, whose primary purpose is to provide culturally appropriate services to underserved populations, including how such community-based organizations can assist the State or Indian tribe in addressing the unmet needs of such populations;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> describe how activities and services provided by the State or Indian tribe are designed to reduce family violence, domestic violence, and dating violence, including how funds will be used to provide shelter, supportive services, and prevention services in accordance with <ref>section 10408(b) of this title</ref>;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> specify the State agency or tribally designated official to be designated as responsible for the administration of programs and activities relating to family violence, domestic violence, and dating violence, that are carried out by the State or Indian tribe under this chapter, and for coordination of related programs within the jurisdiction of the State or Indian tribe;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> provide an assurance that the State or Indian tribe has a law or procedure to bar an abuser from a shared household or a household of the abused person, which may include eviction laws or procedures, where appropriate; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> meet such requirements as the Secretary reasonably determines are necessary to carry out the objectives and provisions of this chapter.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Approval of application</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary shall approve any application that meets the requirements of subsection (a) and <ref>section 10406 of this title</ref>. The Secretary shall not disapprove any application under this subsection unless the Secretary gives the applicant reasonable notice of the Secretary’s intention to disapprove and a 6-month period providing an opportunity for correction of any deficiencies.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Correction of deficiencies</heading>
+<content>
+<p class="indent1">The Secretary shall give such notice, within 45 days after the date of submission of the application, if any of the provisions of subsection (a) or <ref>section 10406 of this title</ref> have not been satisfied in such application. If the State or Indian tribe does not correct the deficiencies in such application within the 6-month period following the receipt of the Secretary’s notice, the Secretary shall withhold payment of any grant funds under <ref>section 10406 of this title</ref> to such State or under <ref>section 10409 of this title</ref> to such Indian tribe until such date as the State or Indian tribe provides documentation that the deficiencies have been corrected.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> State or tribal Domestic Violence Coalition participation in determinations of compliance</heading>
+<content>
+<p class="indent1">State Domestic Violence Coalitions, or comparable coalitions for Indian tribes, shall be permitted to participate in determining whether grantees for corresponding States or Indian tribes are in compliance with subsection (a) and <ref>section 10406(c) of this title</ref>, except that no funds made available under <ref>section 10411 of this title</ref> shall be used to challenge a determination about whether a grantee is in compliance with, or to seek the enforcement of, the requirements of this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Failure to report; nonconforming expenditures</heading>
+<content>
+<p class="indent1">The Secretary shall suspend funding for an approved application if the applicant fails to submit an annual performance report under <ref>section 10406(d) of this title</ref>, or if funds are expended for purposes other than those set forth in <ref>section 10406(b) of this title</ref>, after following the procedures set forth in paragraphs (1), (2), and (3).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 307</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3493</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10408.</num>
+<heading> Subgrants and uses of funds</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Subgrants</heading>
+<content>
+<p class="indent0">A State that receives a grant under <ref>section 10406(a) of this title</ref> shall use grant funds described in <ref>section 10406(b)(2) of this title</ref> to provide subgrants to eligible entities for programs and projects within such State, that is <ref class="footnoteRef" idref="fn003965">1</ref> designed to prevent incidents of family violence, domestic violence, and dating violence by providing immediate shelter and supportive services for adult and youth victims of family violence, domestic violence, or dating violence (and their dependents), and that may provide prevention services to prevent future incidents of family violence, domestic violence, and dating violence.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Use of funds</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Funds awarded to eligible entities under subsection (a) shall be used to provide shelter, supportive services, or prevention services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, which may include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> provision, on a regular basis, of immediate shelter and related supportive services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, including paying for the operating and administrative expenses of the facilities for such shelter;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> assistance in developing safety plans, and supporting efforts of victims of family violence, domestic violence, or dating violence to make decisions related to their ongoing safety and well-being;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> provision of individual and group counseling, peer support groups, and referral to community-based services to assist family violence, domestic violence, and dating violence victims, and their dependents, in recovering from the effects of the violence;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> provision of services, training, technical assistance, and outreach to increase awareness of family violence, domestic violence, and dating violence and increase the accessibility of family violence, domestic violence, and dating violence services;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> provision of culturally and linguistically appropriate services;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> provision of services for children exposed to family violence, domestic violence, or dating violence, including age-appropriate counseling, supportive services, and services for the nonabusing parent that support that parent’s role as a caregiver, which may, as appropriate, include services that work with the nonabusing parent and child together;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<chapeau> provision of advocacy, case management services, and information and referral services, concerning issues related to family violence, domestic violence, or dating violence intervention and prevention, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> assistance in accessing related Federal and State financial assistance programs;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> legal advocacy to assist victims and their dependents;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> medical advocacy, including provision of referrals for appropriate health care services (including mental health, alcohol, and drug abuse treatment), but which shall not include reimbursement for any health care services;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> assistance locating and securing safe and affordable permanent housing and homelessness prevention services;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> provision of transportation, child care, respite care, job training and employment services, financial literacy services and education, financial planning, and related economic empowerment services; and</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> parenting and other educational services for victims and their dependents; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> prevention services, including outreach to underserved populations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Shelter and supportive services</heading>
+<content>
+<p class="indent1">Not less than 70 percent of the funds distributed by a State under subsection (a) shall be distributed to entities for the primary purpose of providing immediate shelter and supportive services to adult and youth victims of family violence, domestic violence, or dating violence, and their dependents, as described in paragraph (1)(A). Not less than 25 percent of the funds distributed by a State under subsection (a) shall be distributed to entities for the purpose of providing supportive services and prevention services as described in subparagraphs (B) through (H) of paragraph (1).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Eligible entities</heading>
+<chapeau class="indent0">To be eligible to receive a subgrant from a State under this section, an entity shall be—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a local public agency, or a nonprofit private organization (including faith-based and charitable organizations, community-based organizations, tribal organizations, and voluntary associations), that assists victims of family violence, domestic violence, or dating violence, and their dependents, and has a documented history of effective work concerning family violence, domestic violence, or dating violence; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> a partnership of 2 or more agencies or organizations that includes—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an agency or organization described in paragraph (1); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an agency or organization that has a demonstrated history of serving populations in their communities, including providing culturally appropriate services.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Conditions</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Direct payments to victims or dependants</heading>
+<content>
+<p class="indent1">No funds provided under this chapter may be used as direct payment to any victim of family violence, domestic violence, or dating violence, or to any dependent of such victim.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Voluntarily accepted services</heading>
+<content>
+<p class="indent1">Receipt of supportive services under this chapter shall be voluntary. No condition may be applied for the receipt of emergency shelter as described in subsection (b)(1)(A).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 308</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3494</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10409.</num>
+<heading> Grants for Indian tribes</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Grants authorized</heading>
+<content>
+<p class="indent0">The Secretary, in consultation with tribal governments pursuant to Executive Order No. 13175 (<ref>25 U.S.C. 450</ref> note) <ref class="footnoteRef" idref="fn003966">1</ref> and in accordance with <ref>section 20126 of title 34</ref>, shall continue to award grants for Indian tribes from amounts appropriated under <ref>section 10403(a)(2)(B) of this title</ref> to carry out this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Eligible entities</heading>
+<content>
+<p class="indent0">To be eligible to receive a grant under this section, an entity shall be an Indian tribe, or a tribal organization or nonprofit private organization authorized by an Indian tribe. An Indian tribe shall have the option to authorize a tribal organization or a nonprofit private organization to submit an application and administer the grant funds awarded under this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Conditions</heading>
+<content>
+<p class="indent0">Each recipient of such a grant shall comply with requirements that are consistent with the requirements applicable to grantees under <ref>section 10406 of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Grantee application</heading>
+<content>
+<p class="indent0">To be eligible to receive a grant under this section, an entity shall submit an application to the Secretary under <ref>section 10407 of this title</ref> at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives and provisions of this chapter. The Secretary shall approve any application that meets requirements consistent with the requirements of <ref>section 10406(c) of this title</ref> and <ref>section 10407(a) of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Use of funds</heading>
+<content>
+<p class="indent0">An amount provided under a grant to an eligible entity shall be used for the services described in <ref>section 10408(b) of this title</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 309</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3496</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10410.</num>
+<heading> National resource centers and training and technical assistance centers</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Purpose and grants authorized</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Purpose</heading>
+<content>
+<p class="indent1">The purpose of this section is to provide resource information, training, and technical assistance relating to the objectives of this chapter to improve the capacity of individuals, organizations, governmental entities, and communities to prevent family violence, domestic violence, and dating violence and to provide effective intervention services.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Grants authorized</heading>
+<chapeau class="indent1">From the amounts appropriated under this chapter and reserved under <ref>section 10403(a)(2)(C) of this title</ref>, the Secretary—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> shall award grants to eligible entities for the establishment and maintenance of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> 2 national resource centers (as provided for in subsection (b)(1)); and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> at least 7 special issue resource centers addressing key areas of domestic violence, and intervention and prevention (as provided for in subsection (b)(2)); and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> may award grants, to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> State resource centers to reduce disparities in domestic violence in States with high proportions of Indian (including Alaska Native) or Native Hawaiian populations (as provided for in subsection (b)(3)); and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> support training and technical assistance that address emerging issues related to family violence, domestic violence, or dating violence, to entities demonstrating related expertise.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Domestic violence resource centers</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> National resource centers</heading>
+<chapeau class="indent1">In accordance with subsection (a)(2), the Secretary shall award grants to eligible entities for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> a National Resource Center on Domestic Violence, which shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> offer a comprehensive array of technical assistance and training resources to Federal, State, and local governmental agencies, domestic violence service providers, community-based organizations, and other professionals and interested parties, related to domestic violence service programs and research, including programs and research related to victims and their children who are exposed to domestic violence; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> maintain a central resource library in order to collect, prepare, analyze, and disseminate information and statistics related to—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the incidence and prevention of family violence and domestic violence; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the provision of shelter, supportive services, and prevention services to adult and youth victims of domestic violence (including services to prevent repeated incidents of violence); and</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> a National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women, which shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> offer a comprehensive array of technical assistance and training resources to Indian tribes and tribal organizations, specifically designed to enhance the capacity of the tribes and organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (<ref>42 U.S.C. 3796gg–10</ref> note); <ref class="footnoteRef" idref="fn003967">1</ref></content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> enhance the intervention and prevention efforts of Indian tribes and tribal organizations to respond to domestic violence and increase the safety of Indian women in support of the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 [<ref>42 U.S.C. 3796gg–10</ref> note]; <sup>1</sup> and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> coordinate activities with other Federal agencies, offices, and grantees that address the needs of Indians (including Alaska Natives), and Native Hawaiians that experience domestic violence, including the Office of Justice Services at the Bureau of Indian Affairs, the Indian Health Service of the Department of Health and Human Services, and the Office on Violence Against Women of the Department of Justice.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Special issue resource centers</heading>
+<chapeau class="indent1">In accordance with subsection (a)(2)(A)(ii), the Secretary shall award grants to eligible entities for special issue resource centers, which shall be national in scope and shall provide information, training, and technical assistance to State and local domestic violence service providers. Each special issue resource center shall focus on enhancing domestic violence intervention and prevention efforts in at least one of the following areas:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> The response of the criminal and civil justice systems to domestic violence victims, which may include the response to the use of the self-defense plea by domestic violence victims and the issuance and use of protective orders.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> The response of child protective service agencies to victims of domestic violence and their dependents and child custody issues in domestic violence cases.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> The response of the interdisciplinary health care system to victims of domestic violence and access to health care resources for victims of domestic violence.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> The response of mental health systems, domestic violence service programs, and other related systems and programs to victims of domestic violence and to their children who are exposed to domestic violence.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> In the case of 3 specific resource centers, enhancing domestic violence intervention and prevention efforts for victims of domestic violence who are members of racial and ethnic minority groups, to enhance the cultural and linguistic relevancy of service delivery, resource utilization, policy, research, technical assistance, community education, and prevention initiatives.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> State resource centers to reduce tribal disparities</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">In accordance with subsection (a)(2), the Secretary may award grants to eligible entities for State resource centers, which shall provide statewide information, training, and technical assistance to Indian tribes, tribal organizations, and local domestic violence service organizations serving Indians (including Alaska Natives) or Native Hawaiians, in a culturally sensitive and relevant manner.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent2">An eligible entity shall use a grant provided under this paragraph—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to offer a comprehensive array of technical assistance and training resources to Indian tribes, tribal organizations, and providers of services to Indians (including Alaska Natives) or Native Hawaiians, specifically designed to enhance the capacity of the tribes, organizations, and providers to respond to domestic violence, including offering the resources in States in which the population of Indians (including Alaska Natives) or Native Hawaiians exceeds 2.5 percent of the total population of the State;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to coordinate all projects and activities with the national resource center described in paragraph (1)(B), including projects and activities that involve working with nontribal State and local governments to enhance their capacity to understand the unique needs of Indians (including Alaska Natives) and Native Hawaiians; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> to provide comprehensive community education and domestic violence prevention initiatives in a culturally sensitive and relevant manner.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Eligibility</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">To be eligible to receive a grant under subsection (b)(1)(A) or subparagraph (A), (B), (C), or (D) of subsection (b)(2), an entity shall be a nonprofit private organization that focuses primarily on domestic violence and that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> provides documentation to the Secretary demonstrating experience working directly on issues of domestic violence, and (in the case of an entity seeking a grant under subsection (b)(2)) demonstrating experience working directly in the corresponding specific special issue area described in subsection (b)(2);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> includes on the entity’s advisory board representatives who are from domestic violence service programs and who are geographically and culturally diverse; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> demonstrates the strong support of domestic violence service programs from across the Nation for the entity’s designation as a national resource center or a special issue resource center, as appropriate.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> National Indian Resource Center</heading>
+<chapeau class="indent1">To be eligible to receive a grant under subsection (b)(1)(B), an entity shall be a tribal organization or a nonprofit private organization that focuses primarily on issues of domestic violence within Indian tribes and that submits documentation to the Secretary demonstrating—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> experience working with Indian tribes and tribal organizations to respond to domestic violence and the findings of section 901 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (<ref>42 U.S.C. 3796gg–10</ref> note); <sup>1</sup></content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> experience providing Indian tribes and tribal organizations with assistance in developing tribally-based prevention and intervention services addressing domestic violence and safety for Indian women consistent with the purposes of section 902 of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (<ref>42 U.S.C. 3796gg–10</ref> note); <sup>1</sup></content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> strong support for the entity’s designation as the National Indian Resource Center Addressing Domestic Violence and Safety for Indian Women from advocates working within Indian tribes to address domestic violence and the safety of Indian women;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> a record of demonstrated effectiveness in assisting Indian tribes and tribal organizations with prevention and intervention services addressing domestic violence; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the capacity to serve Indian tribes (including Alaska Native villages and regional and village corporations) across the United States.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Special issue resource centers concerned with racial and ethnic minority groups</heading>
+<chapeau class="indent1">To be eligible to receive a grant under subsection (b)(2)(E), an entity shall be an entity that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is a nonprofit private organization that focuses primarily on issues of domestic violence in a racial or ethnic community, or is a public or private nonprofit educational institution that has a domestic violence institute, center, or program related to culturally specific issues in domestic violence; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<clause class="indent2">
+<num>(i)</num>
+<content> has documented experience in the areas of domestic violence prevention and services, and experience relevant to the specific racial or ethnic population to which information, training, technical assistance, and outreach would be provided under the grant;</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> demonstrates the strong support, of advocates from across the Nation who are working to address domestic violence; and</content>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> has a record of demonstrated effectiveness in enhancing the cultural and linguistic relevancy of service delivery.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> State resource centers to reduce tribal disparities</heading>
+<chapeau class="indent1">To be eligible to receive a grant under subsection (b)(3), an entity shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<clause class="indent2">
+<num>(i)</num>
+<content> be located in a State in which the population of Indians (including Alaska Natives) or Native Hawaiians exceeds 10 percent of the total population of the State; or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> be an Indian tribe, tribal organization, or Native Hawaiian organization that focuses primarily on issues of domestic violence among Indians or Native Hawaiians, or an institution of higher education; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> demonstrate the ability to serve all regions of the State, including underdeveloped areas and areas that are geographically distant from population centers.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Reports and evaluation</heading>
+<content>
+<p class="indent0">Each entity receiving a grant under this section shall submit a performance report to the Secretary annually and in such manner as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of the activities, and provide such additional information as the Secretary may reasonably require.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 310</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3497</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10411.</num>
+<heading> Grants to State Domestic Violence Coalitions</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Grants</heading>
+<content>
+<p class="indent0">The Secretary shall award grants for the funding of State Domestic Violence Coalitions.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Allotment of funds</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">From the amount appropriated under <ref>section 10403(a)(2)(D) of this title</ref> for each fiscal year, the Secretary shall allot to each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the covered territories an amount equal to <sup>1</sup>⁄<sub>56</sub> of the amount so appropriated for such fiscal year.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Definition</heading>
+<content>
+<p class="indent1">For purposes of this subsection, the term “covered territories” means Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Application</heading>
+<chapeau class="indent0">Each State Domestic Violence Coalition desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives of this section. The application submitted by the coalition for the grant shall provide documentation of the coalition’s work, satisfactory to the Secretary, demonstrating that the coalition—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> meets all of the applicable requirements set forth in this chapter; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> demonstrates the ability to conduct appropriately all activities described in this section, as indicated by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> documented experience in administering Federal grants to conduct the activities described in subsection (d); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a documented history of active participation in the activities described in paragraphs (1), (3), (4), and (5) of subsection (d) and a demonstrated capacity to conduct the activities described in subsection (d)(2).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Use of funds</heading>
+<chapeau class="indent0">A coalition that receives a grant under this section shall use the grant funds for administration and operations to further the purposes of family violence, domestic violence, and dating violence intervention and prevention, through activities that shall include—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> working with local family violence, domestic violence, and dating violence service programs and providers of direct services to encourage appropriate and comprehensive responses to family violence, domestic violence, and dating violence against adults or youth within the State involved, including providing training and technical assistance and conducting State needs assessments;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> participating in planning and monitoring the distribution of subgrants and subgrant funds within the State under <ref>section 10408(a) of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> working in collaboration with service providers and community-based organizations to address the needs of family violence, domestic violence, and dating violence victims, and their dependents, who are members of racial and ethnic minority populations and underserved populations;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> collaborating with and providing information to entities in such fields as housing, health care, mental health, social welfare, or business to support the development and implementation of effective policies, protocols, and programs that address the safety and support needs of adult and youth victims of family violence, domestic violence, or dating violence;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> encouraging appropriate responses to cases of family violence, domestic violence, or dating violence against adults or youth, including by working with judicial and law enforcement agencies;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<chapeau> working with family law judges, criminal court judges, child protective service agencies, and children’s advocates to develop appropriate responses to child custody and visitation issues in cases of child exposure to family violence, domestic violence, or dating violence and in cases in which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> family violence, domestic violence, or dating violence is present; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> child abuse is present;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> providing information to the public about prevention of family violence, domestic violence, and dating violence, including information targeted to underserved populations; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> collaborating with Indian tribes and tribal organizations (and corresponding Native Hawaiian groups or communities) to address the needs of Indian (including Alaska Native) and Native Hawaiian victims of family violence, domestic violence, or dating violence, as applicable in the State.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Limitation on use of funds</heading>
+<chapeau class="indent0">A coalition that receives a grant under this section shall not be required to use funds received under this chapter for the purposes described in paragraph (5) or (6) of subsection (d) if the coalition provides an annual assurance to the Secretary that the coalition is—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> using funds received under section 2001(c)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (<ref>42 U.S.C. 3796gg(c)(1)</ref>) <ref class="footnoteRef" idref="fn003968">1</ref> for such purposes; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> coordinating the activities carried out by the coalition under subsection (d) with the State’s activities under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (<ref>42 U.S.C. 3796gg</ref> et seq.) <sup>1</sup> that address those purposes.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Prohibition on lobbying</heading>
+<chapeau class="indent0">No funds made available to entities under this section shall be used, directly or indirectly, to influence the issuance, amendment, or revocation of any executive order or similar promulgation by any Federal, State, or local agency, or to undertake to influence the passage or defeat of any legislation by Congress, or by any State or local legislative body, or State proposals by initiative petition, except that the representatives of the entity may testify or make other appropriate communication—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> when formally requested to do so by a legislative body, a committee, or a member of the body or committee; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> in connection with legislation or appropriations directly affecting the activities of the entity.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Reports and evaluation</heading>
+<content>
+<p class="indent0">Each entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Indian representatives</heading>
+<content>
+<p class="indent0">For purposes of this section, a State Domestic Violence Coalition may include representatives of Indian tribes and tribal organizations.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 311</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3501</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10412.</num>
+<heading> Specialized services for abused parents and their children</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Program</heading>
+<content>
+<p class="indent1">The Secretary shall establish a grant program to expand the capacity of family violence, domestic violence, and dating violence service programs and community-based programs to prevent future domestic violence by addressing, in an appropriate manner, the needs of children exposed to family violence, domestic violence, or dating violence.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Grants</heading>
+<content>
+<p class="indent1">The Secretary may make grants to eligible entities through the program established under paragraph (1) for periods of not more than 2 years. If the Secretary determines that an entity has received such a grant and been successful in meeting the objectives of the grant application submitted under subsection (c), the Secretary may renew the grant for 1 additional period of not more than 2 years.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Eligible entities</heading>
+<content>
+<p class="indent0">To be eligible to receive a grant under this section, an entity shall be a local agency, a nonprofit private organization (including faith-based and charitable organizations, community-based organizations, and voluntary associations), or a tribal organization, with a demonstrated record of serving victims of family violence, domestic violence, or dating violence and their children.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Application</heading>
+<chapeau class="indent0">An entity seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> a description of how the entity will prioritize the safety of, and confidentiality of information about—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> victims of family violence, victims of domestic violence, and victims of dating violence; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> children of victims described in subparagraph (A);</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a description of how the entity will provide developmentally appropriate and age-appropriate services, and culturally and linguistically appropriate services, to the victims and children; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> a description of how the entity will ensure that professionals working with the children receive the training and technical assistance appropriate and relevant to the unique needs of children exposed to family violence, domestic violence, or dating violence.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Use of funds</heading>
+<chapeau class="indent0">An entity that receives a grant under this section for a family violence, domestic violence, and dating violence service or community-based program described in subsection (a)—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> shall use the funds made available through the grant—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to provide direct counseling, appropriate services consistent with subsection (c)(2), or advocacy on behalf of victims of family violence, domestic violence, or dating violence and their children, including coordinating services with services provided by the child welfare system;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to provide services for nonabusing parents to support those parents’ roles as caregivers and their roles in responding to the social, emotional, and developmental needs of their children; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> where appropriate, to provide the services described in this subsection while working with such a nonabusing parent and child together; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> may use the funds made available through the grant—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to provide early childhood development and mental health services;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to coordinate activities with and provide technical assistance to community-based organizations serving victims of family violence, domestic violence, or dating violence or children exposed to family violence, domestic violence, or dating violence; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to provide additional services and referrals to services for children, including child care, transportation, educational support, respite care, supervised visitation, or other necessary services.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Reports and evaluation</heading>
+<content>
+<p class="indent0">Each entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 312</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3503</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10413.</num>
+<heading> National domestic violence hotline grant</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Secretary shall award a grant to 1 or more private entities to provide for the ongoing operation of a 24-hour, national, toll-free telephone hotline to provide information and assistance to adult and youth victims of family violence, domestic violence, or dating violence, family and household members of such victims, and persons affected by the victimization. The Secretary shall give priority to applicants with experience in operating a hotline that provides assistance to adult and youth victims of family violence, domestic violence, or dating violence.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Term</heading>
+<content>
+<p class="indent0">The Secretary shall award a grant under this section for a period of not more than 5 years.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Conditions on payment</heading>
+<content>
+<p class="indent0">The provision of payments under a grant awarded under this section shall be subject to annual approval by the Secretary and subject to the availability of appropriations for each fiscal year to make the payments.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Application</heading>
+<chapeau class="indent0">To be eligible to receive a grant under this section, an entity shall submit an application to the Secretary that shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> contain such agreements, assurances, and information, be in such form, and be submitted in such manner, as the Secretary shall prescribe;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> include a complete description of the applicant’s plan for the operation of a national domestic violence hotline, including descriptions of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the training program for hotline personnel, including technology training to ensure that all persons affiliated with the hotline are able to effectively operate any technological systems used by the hotline;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the hiring criteria and qualifications for hotline personnel;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the methods for the creation, maintenance, and updating of a resource database;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> a plan for publicizing the availability of the hotline;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> a plan for providing service to non-English speaking callers, including service through hotline personnel who have non-English language capability;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> a plan for facilitating access to the hotline by persons with hearing impairments; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> a plan for providing assistance and referrals to youth victims of domestic violence and for victims of dating violence who are minors, which may be carried out through a national teen dating violence hotline;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> demonstrate that the applicant has recognized expertise in the area of family violence, domestic violence, or dating violence and a record of high quality service to victims of family violence, domestic violence, or dating violence, including a demonstration of support from advocacy groups and State Domestic Violence Coalitions;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> demonstrate that the applicant has the capacity and the expertise to maintain a domestic violence hotline and a comprehensive database of service providers;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> demonstrate the ability to provide information and referrals for callers, directly connect callers to service providers, and employ crisis interventions meeting the standards of family violence, domestic violence, and dating violence providers;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> demonstrate that the applicant has a commitment to diversity and to the provision of services to underserved populations, including to ethnic, racial, and non-English speaking minorities, in addition to older individuals and individuals with disabilities;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> demonstrate that the applicant complies with nondisclosure requirements as described in <ref>section 10406(c)(5) of this title</ref> and follows comprehensive quality assurance practices; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> contain such other information as the Secretary may require.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Hotline activities</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">An entity that receives a grant under this section for activities described, in whole or in part, in subsection (a) shall use funds made available through the grant to establish and operate a 24-hour, national, toll-free telephone hotline to provide information and assistance to adult and youth victims of family violence, domestic violence, or dating violence, and other individuals described in subsection (a).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Activities</heading>
+<chapeau class="indent1">In establishing and operating the hotline, the entity—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> shall contract with a carrier for the use of a toll-free telephone line;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> shall employ, train (including providing technology training), and supervise personnel to answer incoming calls, provide counseling and referral services for callers on a 24-hour-a-day basis, and directly connect callers to service providers;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> shall assemble and maintain a database of information relating to services for adult and youth victims of family violence, domestic violence, or dating violence to which callers may be referred throughout the United States, including information on the availability of shelters and supportive services for victims of family violence, domestic violence, or dating violence;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> shall widely publicize the hotline throughout the United States, including to potential users;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> shall provide assistance and referrals to meet the needs of underserved populations and individuals with disabilities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> shall provide assistance and referrals for youth victims of domestic violence and for victims of dating violence who are minors, which may be carried out through a national teen dating violence hotline;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> may provide appropriate assistance and referrals for family and household members of victims of family violence, domestic violence, or dating violence, and persons affected by the victimization described in subsection (a); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> at the discretion of the hotline operator, may provide assistance, or referrals for counseling or intervention, for identified adult and youth perpetrators, including self-identified perpetrators, of family violence, domestic violence, or dating violence, but shall not be required to provide such assistance or referrals in any circumstance in which the hotline operator fears the safety of a victim may be impacted by an abuser or suspected abuser.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Reports and evaluation</heading>
+<content>
+<p class="indent0">The entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 313</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3504</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10414.</num>
+<heading> Domestic Violence Prevention Enhancement and Leadership Through Alliances (DELTA)</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Secretary shall enter into cooperative agreements with State Domestic Violence Coalitions for the purposes of establishing, operating, and maintaining local community projects to prevent family violence, domestic violence, and dating violence, including violence committed by and against youth, using a coordinated community response model and through prevention and education programs.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Term</heading>
+<content>
+<p class="indent0">The Secretary shall enter into a cooperative agreement under this section for a period of not more than 5 fiscal years.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Conditions on payment</heading>
+<chapeau class="indent0">The provision of payments under a cooperative agreement under this section shall be subject to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> annual approval by the Secretary; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the availability of appropriations for each fiscal year to make the payments.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Eligibility</heading>
+<chapeau class="indent0">To be eligible to enter into a cooperative agreement under this section, an organization shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> be a State Domestic Violence Coalition; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> include representatives of pertinent sectors of the local community, which may include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> health care providers and State or local health departments;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the education community;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the faith-based community;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the criminal justice system;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> family violence, domestic violence, and dating violence service program advocates;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> human service entities such as State child services divisions;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> business and civic leaders; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> other pertinent sectors.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Applications</heading>
+<chapeau class="indent0">An organization that desires to enter into a cooperative agreement under this section shall submit to the Secretary an application, in such form and in such manner as the Secretary shall require, that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> demonstrates the capacity of the applicant, who may enter into a partnership with a local family violence, domestic violence, or dating violence service provider or community-based organization, to undertake the project involved;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> demonstrates that the project will include a coordinated community response to improve and expand prevention strategies through increased communication and coordination among all affected sectors of the local community;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> includes a complete description of the applicant’s plan for the establishment and implementation of the coordinated community response, including a description of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the method to be used for identification and selection of an administrative committee made up of persons knowledgeable about comprehensive family violence, domestic violence, and dating violence prevention planning to oversee the project, hire staff, assure compliance with the project outline, and secure annual evaluation of the project;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the method to be used for identification and selection of project staff and a project evaluator;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the method to be used for identification and selection of a project council consisting of representatives of the community sectors listed in subsection (d)(2); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the method to be used for identification and selection of a steering committee consisting of representatives of the various community sectors who will chair subcommittees of the project council, each of which will focus on 1 of the sectors;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> demonstrates that the applicant has experience in providing, or the capacity to provide, prevention-focused training and technical assistance;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> demonstrates that the applicant has the capacity to carry out collaborative community initiatives to prevent family violence, domestic violence, and dating violence; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> contains such other information, agreements, and assurances as the Secretary may require.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Geographical dispersion</heading>
+<content>
+<p class="indent0">The Secretary shall enter into cooperative agreements under this section with organizations in States geographically dispersed throughout the Nation.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Use of funds</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">An organization that enters into a cooperative agreement under subsection (a) shall use the funds made available through the agreement to establish, operate, and maintain comprehensive family violence, domestic violence, and dating violence prevention programming.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Technical assistance, evaluation and monitoring</heading>
+<chapeau class="indent1">The Secretary may use a portion of the funds provided under this section to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> provide technical assistance;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> monitor the performance of organizations carrying out activities under the cooperative agreements; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> conduct an independent evaluation of the program carried out under this section.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent1">In establishing and operating a project under this section, an eligible organization shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> establish protocols to improve and expand family violence, domestic violence, and dating violence prevention and intervention strategies within affected community sectors described in subsection (d)(2);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> develop comprehensive prevention plans to coordinate prevention efforts with other community sectors;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> provide for periodic evaluation of the project, and analysis to assist in replication of the prevention strategies used in the project in other communities, and submit a report under subsection (h) that contains the evaluation and analysis;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> develop, replicate, or conduct comprehensive, evidence-informed primary prevention programs that reduce risk factors and promote protective factors that reduce the likelihood of family violence, domestic violence, and dating violence, which may include—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> educational workshops and seminars;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> training programs for professionals;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the preparation of informational material;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> developmentally appropriate education programs;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> other efforts to increase awareness of the facts about, or to help prevent, family violence, domestic violence, and dating violence; and</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> the dissemination of information about the results of programs conducted under this subparagraph;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> utilize evidence-informed prevention program planning; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> recognize, in applicable cases, the needs of underserved populations, racial and linguistic populations, and individuals with disabilities.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Reports and evaluation</heading>
+<content>
+<p class="indent0">Each organization entering into a cooperative agreement under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe activities that have been carried out with the funds made available through the agreement, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require. The Secretary shall make the evaluations received under this subsection publicly available on the Department of Health and Human Services website. The reports shall also be submitted to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 98–457, title III, § 314</ref>, as added <ref>Pub. L. 111–320, title II, § 201</ref>, <date date="2010-12-20">Dec. 20, 2010</date>, <ref>124 Stat. 3507</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10415.</num>
+<heading> Repealed. <ref>Pub. L. 108–36, title IV, § 410</ref>, <date date="2003-06-25">June 25, 2003</date>, <ref>117 Stat. 827</ref></heading>
+</section>
+<section>
+<num>§ 10416.</num>
+<heading> Omitted</heading>
+</section>
+<section>
+<num>§ 10417.</num>
+<heading> Repealed. <ref>Pub. L. 108–36, title IV, § 412</ref>, <date date="2003-06-25">June 25, 2003</date>, <ref>117 Stat. 829</ref></heading>
+</section>
+<section>
+<num>§§ 10418, 10419.</num>
+<heading> Omitted</heading>
+</section>
+<section>
+<num>§ 10420.</num>
+<heading> Transferred</heading>
+</section>
+<section>
+<num>§ 10421.</num>
+<heading> Omitted</heading>
+</section>
+</chapter>

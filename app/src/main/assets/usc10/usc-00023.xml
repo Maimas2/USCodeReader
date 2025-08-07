@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 25—</num>
+<heading>ELECTROMAGNETIC WARFARE</heading>
+<section>
+<num>§ 500.</num>
+<heading> Electromagnetic Spectrum Operations Executive Committee</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>There is within the Department of Defense an Electromagnetic Spectrum Operations Executive Committee (in this section referred to as the “Executive Committee”).</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Purposes</inline>.—</heading>
+<chapeau>The Executive Committee shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> serve as the principal forum within the Department of Defense to inform, coordinate, and evaluate matters relating to electromagnetic warfare;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> provide senior oversight, coordination, and budget and capability harmonization with respect to such matters; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> act as an advisory body to the Secretary of Defense, the Deputy Secretary of Defense, and the Management Action Group of the Deputy Secretary with respect to such matters.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Responsibilities</inline>.—</heading>
+<chapeau>The Executive Committee shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> advise key senior level decision-making bodies of the Department of Defense with respect to the development and implementation of acquisition investments relating to electromagnetic warfare and electromagnetic spectrum operations of the Department, including relevant acquisition policies, projects, programs, modeling, and test and evaluation infrastructure;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> provide a forum to enable synchronization and integration support with respect to the development and acquisition of electromagnetic warfare capabilities by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> aligning the processes of the Department for requirements, research, development, acquisition, testing, and sustainment; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> carrying out other related duties; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> act as the senior level review forum for the portfolio of capability investments of the Department relating to electromagnetic warfare and electromagnetic spectrum operations and other related matters.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Coordination With Intelligence Community</inline>.—</heading>
+<content>The Executive Committee, acting through the Under Secretary of Defense for Intelligence and Security, shall coordinate with the intelligence community (as defined in section 3 of the National Security Act of 1947 (<ref>50 U.S.C. 3003</ref>)) to generate requirements, facilitate collaboration, establish interfaces, and align efforts of the Department of Defense with respect to capabilities and acquisition activities related to electromagnetic spectrum operations in areas of dependency or mutual interest.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Meetings</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Executive Committee shall hold meetings not less frequently than quarterly and as necessary to address particular issues.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The Executive Committee may hold meetings by video conference.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Membership</inline>.—</heading>
+<chapeau>The Executive Committee shall be composed of the following principal members:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The Under Secretary of Defense for Acquisition and Sustainment.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The Vice Chairman of the Joint Chiefs of Staff.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The Under Secretary of Defense for Intelligence and Security.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The Under Secretary of Defense for Policy.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> The Commander of the United States Strategic Command.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> The Chief Information Officer of the Department of Defense.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> Such other Federal officers or employees as the Secretary of Defense considers appropriate, consistent with other authorities of the Department of Defense and publications of the Joint Staff, including the Charter for the Electronic Warfare Executive Committee, dated <date date="2015-03-17">March 17, 2015</date>.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading><inline class="small-caps">Co-chairs of Executive Committee</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Under Secretary of Defense for Acquisition and Sustainment and the Vice Chairman of the Joint Chiefs of Staff, or their designees, shall serve as co-chairs of the Executive Committee.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> The co-chairs of the Executive Committee shall—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> preside at all Executive Committee meetings or have their designees preside at such meetings;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> provide administrative control of the Executive Committee;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> jointly guide the activities and actions of the Executive Committee;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> approve all agendas for and summaries of meetings of the Executive Committee;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> charter tailored working groups to conduct mission area analysis, as required, under subsection (i); and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(F)</num>
+<content> perform such other duties as may be necessary to ensure the good order and functioning of the Executive Committee.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(h)</num>
+<heading><inline class="small-caps">Electromagnetic Spectrum Operations Capability Team</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> There is within the Executive Committee an electromagnetic spectrum operations capability team, which shall—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> serve as a flag officer level focus group and executive secretariat subordinate to the Executive Committee; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> in that capacity—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> provide initial senior level coordination on key electromagnetic spectrum operations issues;</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> prepare recommended courses of action to present to the Executive Committee; and</content>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> perform other related duties.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The electromagnetic spectrum operations capability team shall be co-chaired by one representative from the Office of the Under Secretary of Defense for Acquisition and Sustainment and one representative from the Force Structure, Resources, and Assessment Directorate of the Joint Staff (J–8).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> The principal members of the Executive Committee shall designate representatives from their respective staffs to the electromagnetic spectrum operations capability team.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(i)</num>
+<heading><inline class="small-caps">Mission Area Working Groups</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> The Executive Committee shall establish mission area working groups on a temporary basis—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> to address specific issues and mission areas relating to electromagnetic spectrum operations;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> to involve subject matter experts and components of the Department of Defense with expertise in electromagnetic spectrum operations; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> to perform other related duties.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The Executive Committee shall dissolve a mission area working group established under paragraph (1) once the issue the working group was established to address is satisfactorily resolved.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(j)</num>
+<heading><inline class="small-caps">Administration</inline>.—</heading>
+<content>The Under Secretary of Defense for Acquisition and Sustainment shall administratively support the Executive Committee, including by designating not fewer than two officials of the Department of Defense to support the day-to-day operations of the Executive Committee.</content>
+</subsection>
+<subsection class="indent0">
+<num>(k)</num>
+<heading><inline class="small-caps">Report to Congress</inline>.—</heading>
+<content>Not later than <date date="2024-02-28">February 28, 2024</date>, and annually thereafter through 2030, the Executive Committee shall submit to the congressional defense committees a summary of activities of the Executive Committee during the preceding fiscal year.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 118–31, div. A, title XVI, § 1682(a)</ref>, <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 611</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 500a.</num>
+<heading> Guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations</heading>
+<chapeau class="indent0">The Secretary of Defense shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> establish processes and procedures to develop, integrate, and enhance the electromagnetic spectrum operations mission area and the conduct of joint electromagnetic spectrum operations in all domains across the Department of Defense; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> ensure that such processes and procedures provide for integrated defense-wide strategy, planning, and budgeting with respect to the conduct of such operations by the Department, including activities conducted to counter and deter such operations by malign actors.</content>
+</paragraph>
+<sourceCredit>(Added <ref>Pub. L. 118–31, div. A, title XVI, § 1682(a)</ref>, <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 613</ref>, § 501; renumbered § 500a, <ref>Pub. L. 118–159, div. A, title XVII, § 1701(a)(10)</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 2203</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 500b.</num>
+<heading> Annual report on electromagnetic spectrum operations strategy of the Department of Defense</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>At the same time as the President submits to Congress the budget of the President under <ref>section 1105(a) of title 31</ref> for each of fiscal years 2025 through 2029, the Secretary of Defense, in coordination with the Chief Information Officer of the Department of Defense, the Chairman of the Joint Chiefs of Staff, and the Secretary of each of the military departments, shall submit to the congressional defense committees an annual report on the Electromagnetic Spectrum Superiority Strategy of the Department of Defense.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Contents of Report</inline>.—</heading>
+<chapeau>Each report required under subsection (a) shall include each of the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> A description and overview of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the electromagnetic spectrum strategy of the Department of Defense;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> how such strategy supports the national defense strategy under <ref>section 113(g) of this title</ref>; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the organizational structure assigned to oversee the development of the Department’s electromagnetic spectrum strategy, requirements, capabilities, programs, and projects.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> A list of all the electromagnetic spectrum operations acquisition programs and research and development projects of the Department of Defense and a description of how each program or project supports the Department’s electromagnetic spectrum strategy.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> For each unclassified program or project on the list required by paragraph (2)—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the senior acquisition executive and organization responsible for oversight of the program or project;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> whether or not validated requirements exist for the program or project and, if such requirements do exist, the date on which the requirements were validated and the organizational authority that validated such requirements;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the total amount of funding appropriated, obligated, and forecasted by fiscal year for the program or project, including the program element or procurement line number from which the program or project receives funding;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the development or procurement schedule for the program or project;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> an assessment of the cost, schedule, and performance of the program or project as it relates to the program baseline for the program or project, as of the date of the submission of the report, and the original program baseline for such program or project, if such baselines are not the same;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the technology readiness level of each critical technology that is part of the program or project;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> whether or not the program or project is redundant or overlaps with the efforts of another military department; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> the capability gap that the program or project is being developed or procured to fulfill.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> A classified annex that contains the items described in subparagraphs (A) through (H) of paragraph (3) for each classified program or project on the list required by paragraph (2).</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 118–31, div. A, title XVI, § 1682(a)</ref>, <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 614</ref>, § 502; renumbered § 500b, <ref>Pub. L. 118–159, div. A, title XVII, § 1701(a)(10)</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 2203</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 500c.</num>
+<heading> Annual assessment of budget with respect to electromagnetic spectrum operations capabilities</heading>
+<chapeau class="indent0">At the same time as the President submits to Congress the budget of the President under <ref>section 1105(a) of title 31</ref> for each of fiscal years 2025 through 2029, the Secretary of Defense shall submit to the congressional defense committees an assessment by the Electromagnetic Spectrum Operations Executive Committee as to whether sufficient funds are requested in such budget for anticipated activities in such fiscal year for each of the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The development of an electromagnetic battle management capability for joint electromagnetic spectrum operations.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The establishment and operation of associated joint electromagnetic spectrum operations cells.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> The development of a capability for modeling and simulating multi-domain joint electromagnetic spectrum operations to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> assess the ability of the joint force to conduct such operations in support of the operational plans of the combatant commands; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> inform improvements to such operations.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(Added <ref>Pub. L. 118–31, div. A, title XVI, § 1682(a)</ref>, <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 615</ref>, § 503; renumbered § 500c and amended <ref>Pub. L. 118–159, div. A, title XVI, § 1653</ref>, title XVII, § 1701(a)(10), <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 2201</ref>, 2203.)</sourceCredit>
+</section>
+<section>
+<num>§ 500d.</num>
+<heading> Electromagnetic spectrum superiority implementation plan</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>The Chief Information Officer of the Department of Defense shall be responsible for oversight of the electromagnetic superiority implementation plan.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Report Required</inline>.—</heading>
+<chapeau>Concurrent with the submission of the budget of the President to Congress under <ref>section 1105(a) of title 31</ref> for each of fiscal years 2025 through 2029, the Chief Information Officer shall submit to the congressional defense committees a report that includes the following with respect to the electromagnetic superiority implementation plan:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The implementation plan in effect as of the date of the report, noting any revisions from the preceding plan.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> A statement of the elements of the implementation plan that have been achieved.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> For each element that has been achieved, an assessment of whether the element is having its intended effect.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> For any element that has not been achieved, an assessment of progress made in achieving the element, including a description of any obstacles that may hinder further progress.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> For any element that has been removed from the implementation plan, a description of the reason for the removal of the element and an assessment of the impact of not pursuing achievement of the element.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> Such additional matters as the Chief Information Officer considers appropriate.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Electromagnetic Superiority Implementation Plan Defined</inline>.—</heading>
+<content>In this section, the term “electromagnetic superiority implementation plan” means the Electromagnetic Superiority Implementation Plan signed by the Secretary of Defense on <date date="2021-07-15">July 15, 2021</date>, and any successor plan.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 118–31, div. A, title XVI, § 1682(a)</ref>, <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 615</ref>, § 504; renumbered § 500d, <ref>Pub. L. 118–159, div. A, title XVII, § 1701(a)(10)</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 2203</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 500e.</num>
+<heading> Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, the Secretary of Defense shall establish an Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations (in this section referred to as the “operational lead”) at the United States Strategic Command. The operational lead shall report to the Commander of the United States Strategic Command.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Function</inline>.—</heading>
+<content>The operational lead shall be responsible for synchronizing, assessing, and making recommendations to the Chairman of the Joint Chiefs of Staff with respect to the readiness of the combatant commands to conduct joint electromagnetic spectrum operations.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Briefings Required</inline>.—</heading>
+<chapeau>Concurrent with the submission of the budget of the President to Congress under <ref>section 1105(a) of title 31</ref> for each of fiscal years 2025 through 2029, the Chairman, acting through the operational lead, shall provide to the congressional defense committees a briefing on the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Progress made in achieving full operational capability to conduct joint electromagnetic spectrum operations and any impediments to achieving such capability.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The readiness of the combatant commands to conduct such operations.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Recommendations for overcoming any deficiencies in the readiness of the combatant commands to conduct such operations and any material gaps contributing to such deficiencies.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> Such other matters as the Chairman considers important to ensuring that the combatant commands are capable of conducting such operations.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 118–31, div. A, title XVI, § 1682(a)</ref>, <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 616</ref>, § 505; renumbered § 500e, <ref>Pub. L. 118–159, div. A, title XVII, § 1701(a)(10)</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 2203</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 500f.</num>
+<heading> Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Evaluations of Armed Forces</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> Not later than <date date="2024-10-01">October 1, 2024</date>, and annually thereafter through 2029, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations shall each carry out an evaluation of the ability of the armed force concerned to perform electromagnetic spectrum operations missions required by each of the following:</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> The Electromagnetic Spectrum Superiority Strategy.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> The Joint Staff-developed concept of operations for electromagnetic spectrum operations.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> The operations and contingency plans of the combatant commands.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Not later than December 31 of each year in which evaluations are required under paragraph (1), each official specified in that paragraph shall certify to the congressional defense committees that the evaluation required to be carried out by that official has occurred.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<chapeau> Each evaluation under paragraph (1) shall include an assessment of the following:</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<chapeau> Current programs of record, including—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> the ability of weapon systems to perform missions in contested electromagnetic spectrum environments; and</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> the ability of electromagnetic attack with capabilities to disrupt adversary operations.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> Future programs of record, including—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> the need for distributed or network-centric electromagnetic warfare and signals intelligence capabilities; and</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> the need for automated and machine learning- or artificial intelligence-assisted electromagnetic spectrum operations capabilities.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> Order of battle.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> Individual and unit training.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<chapeau> Tactics, techniques, and procedures, including—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> maneuver, distribution of assets, and the use of decoys; and</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> integration of non-kinetic and kinetic fires.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(F)</num>
+<content> Other matters relevant to evaluating the ability of the armed force concerned to perform electromagnetic spectrum operations missions described in paragraph (1).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Evaluations of Combatant Commands</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> Not later than <date date="2024-10-01">October 1, 2024</date>, and annually thereafter through 2029, the Chairman of the Joint Chiefs of Staff, acting through the Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations established under section 500e <ref class="footnoteRef" idref="fn002036">1</ref> (in this section referred to as the “operational lead”), shall carry out an evaluation of the plans and posture of the combatant commands to execute the electromagnetic spectrum operations envisioned in each of the following:</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> The Electromagnetic Spectrum Superiority Strategy.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> The Joint Staff-developed concept of operations for electromagnetic spectrum operations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> Each evaluation under paragraph (1) shall include an assessment, as relevant, of the following:</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> Operation and contingency plans.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> The manning, organizational alignment, and capability of joint electromagnetic spectrum operations cells.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> Mission rehearsal and exercises.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> Force positioning, posture, and readiness.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> Not later than December 31 of each year in which an evaluation is required under paragraph (A), the Chairman of the Joint Chiefs of Staff, acting through the operational lead, shall brief the congressional defense committees on the results of the evaluation.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 118–31, div. A, title XVI, § 1682(a)</ref>, <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 616</ref>, § 506; renumbered § 500f, <ref>Pub. L. 118–159, div. A, title XVII, § 1701(a)(10)</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 2203</ref>.)</sourceCredit>
+</section>
+</chapter>

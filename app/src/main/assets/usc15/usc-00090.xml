@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 65—</num>
+<heading>LIABILITY RISK RETENTION</heading>
+<section>
+<num>§ 3901.</num>
+<heading> Definitions</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<chapeau> As used in this chapter—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> “insurance” means primary insurance, excess insurance, reinsurance, surplus lines insurance, and any other arrangement for shifting and distributing risk which is determined to be insurance under applicable State or Federal law;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> “liability”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> means legal liability for damages (including costs of defense, legal costs and fees, and other claims expenses) because of injuries to other persons, damage to their property, or other damage or loss to such other persons resulting from or arising out of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> any business (whether profit or nonprofit), trade, product, services (including professional services), premises, or operations, or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> any activity of any State or local government, or any agency or political subdivision thereof; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> does not include personal risk liability and an employer’s liability with respect to its employees other than legal liability under the Federal Employers’ Liability Act (<ref>45 U.S.C. 51</ref> et seq.);</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> “personal risk liability” means liability for damages because of injury to any person, damage to property, or other loss or damage resulting from any personal, familial, or household responsibilities or activities, rather than from responsibilities or activities referred to in paragraphs (2)(A) and (2)(B);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> “risk retention group” means any corporation or other limited liability association—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> whose primary activity consists of assuming, and spreading all, or any portion, of the liability exposure of its group members;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> which is organized for the primary purpose of conducting the activity described under subparagraph (A);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> which—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> is chartered or licensed as a liability insurance company under the laws of a State and authorized to engage in the business of insurance under the laws of such State; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> before <date date="1985-01-01">January 1, 1985</date>, was chartered or licensed and authorized to engage in the business of insurance under the laws of Bermuda or the Cayman Islands and, before such date, had certified to the insurance commissioner of at least one State that it satisfied the capitalization requirements of such State, except that any such group shall be considered to be a risk retention group only if it has been engaged in business continuously since such date and only for the purpose of continuing to provide insurance to cover product liability or completed operations liability (as such terms were defined in this section before <date date="1986-10-27">October 27, 1986</date>);</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> which does not exclude any person from membership in the group solely to provide for members of such a group a competitive advantage over such a person;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<chapeau> which—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> has as its owners only persons who comprise the membership of the risk retention group and who are provided insurance by such group; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> has as its sole owner an organization which has as—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> its members only persons who comprise the membership of the risk retention group; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> its owners only persons who comprise the membership of the risk retention group and who are provided insurance by such group;</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> whose members are engaged in businesses or activities similar or related with respect to the liability to which such members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<chapeau> whose activities do not include the provision of insurance other than—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> liability insurance for assuming and spreading all or any portion of the similar or related liability exposure of its group members; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> reinsurance with respect to the similar or related liability exposure of any other risk retention group (or any member of such other group) which is engaged in businesses or activities so that such group (or member) meets the requirement described in subparagraph (F) for membership in the risk retention group which provides such reinsurance; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> the name of which includes the phrase “Risk Retention Group”.<ref class="footnoteRef" idref="fn002507">1</ref></content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> “purchasing group” means any group which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> has as one of its purposes the purchase of liability insurance on a group basis;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> purchases such insurance only for its group members and only to cover their similar or related liability exposure, as described in subparagraph (C);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> is composed of members whose businesses or activities are similar or related with respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> is domiciled in any State;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> “State” means any State of the United States or the District of Columbia; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<chapeau> “hazardous financial condition” means that, based on its present or reasonably anticipated financial condition, a risk retention group is unlikely to be able—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to meet obligations to policyholders with respect to known claims and reasonably anticipated claims; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to pay other obligations in the normal course of business.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> Nothing in this chapter shall be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and the definitions of liability, personal risk liability, and insurance under any State law shall not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 97–45, § 2</ref>, <date date="1981-09-25">Sept. 25, 1981</date>, <ref>95 Stat. 949</ref>; <ref>Pub. L. 98–193</ref>, <date date="1983-12-01">Dec. 1, 1983</date>, <ref>97 Stat. 1344</ref>; <ref>Pub. L. 99–563</ref>, §§ 3, 4, 12(b), <date date="1986-10-27">Oct. 27, 1986</date>, <ref>100 Stat. 3170</ref>, 3171, 3177.)</sourceCredit>
+</section>
+<section>
+<num>§ 3902.</num>
+<heading> Risk retention groups</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Exemptions from State laws, rules, regulations, or orders</heading>
+<chapeau class="indent0">Except as provided in this section, a risk retention group is exempt from any State law, rule, regulation, or order to the extent that such law, rule, regulation, or order would—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> make unlawful, or regulate, directly or indirectly, the operation of a risk retention group except that the jurisdiction in which it is chartered may regulate the formation and operation of such a group and any State may require such a group to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> comply with the unfair claim settlement practices law of the State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> pay, on a nondiscriminatory basis, applicable premium and other taxes which are levied on admitted insurers and surplus lines insurers, brokers, or policyholders under the laws of the State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> participate, on a nondiscriminatory basis, in any mechanism established or authorized under the law of the State for the equitable apportionment among insurers of liability insurance losses and expenses incurred on policies written through such mechanism;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> register with and designate the State insurance commissioner as its agent solely for the purpose of receiving service of legal documents or process;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<chapeau> submit to an examination by the State insurance commissioners in any State in which the group is doing business to determine the group’s financial condition, if—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the commissioner of the jurisdiction in which the group is chartered has not begun or has refused to initiate an examination of the group; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> any such examination shall be coordinated to avoid unjustified duplication and unjustified repetition;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<chapeau> comply with a lawful order issued—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in a delinquency proceeding commenced by the State insurance commissioner if there has been a finding of financial impairment under subparagraph (E); or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in a voluntary dissolution proceeding;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> comply with any State law regarding deceptive, false, or fraudulent acts or practices, except that if the State seeks an injunction regarding the conduct described in this subparagraph, such injunction must be obtained from a court of competent jurisdiction;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> comply with an injunction issued by a court of competent jurisdiction, upon a petition by the State insurance commissioner alleging that the group is in hazardous financial condition or is financially impaired; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> provide the following notice, in 10-point type, in any insurance policy issued by such group:<p class="indent6"><inline class="small-caps">   “notice</inline></p>
+</content>
+</subparagraph>
+</paragraph>
+<continuation class="indent0">“This policy is issued by your risk retention group. Your risk retention group may not be subject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group.”</continuation>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> require or permit a risk retention group to participate in any insurance insolvency guaranty association to which an insurer licensed in the State is required to belong;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> require any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in that State; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> otherwise, discriminate against a risk retention group or any of its members, except that nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Scope of exemptions</heading>
+<chapeau class="indent0">The exemptions specified in subsection (a) apply to laws governing the insurance business pertaining to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> liability insurance coverage provided by a risk retention group for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> such group; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any person who is a member of such group;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the sale of liability insurance coverage for a risk retention group; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> the provision of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> insurance related services;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> management, operations, and investment activities; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> loss control and claims administration (including loss control and claims administration services for uninsured risks retained by any member of such group);</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">for a risk retention group or any member of such group with respect to liability for which the group provides insurance.</continuation>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Licensing of agents or brokers for risk retention groups</heading>
+<content>
+<p class="indent0">A State may require that a person acting, or offering to act, as an agent or broker for a risk retention group obtain a license from that State, except that a State may not impose any qualification or requirement which discriminates against a nonresident agent or broker.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Documents for submission to State insurance commissioners</heading>
+<chapeau class="indent0">Each risk retention group shall submit—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> to the insurance commissioner of the State in which it is chartered—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> before it may offer insurance in any State, a plan of operation or a feasibility study which includes the coverages, deductibles, coverage limits, rates, and rating classification systems for each line of insurance the group intends to offer; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> revisions of such plan or study if the group intends to offer any additional lines of liability insurance;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> to the insurance commissioner of each State in which it intends to do business, before it may offer insurance in such State—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a copy of such plan or study (which shall include the name of the State in which it is chartered and its principal place of business); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a copy of any revisions to such plan or study, as provided in paragraph (1)(B) (which shall include any change in the designation of the State in which it is chartered); and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> to the insurance commissioner of each State in which it is doing business, a copy of the group’s annual financial statement submitted to the State in which the group is chartered as an insurance company, which statement shall be certified by an independent public accountant and contain a statement of opinion on loss and loss adjustment expense reserves made by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a member of the American Academy of Actuaries, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a qualified loss reserve specialist.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Power of courts to enjoin conduct</heading>
+<chapeau class="indent0">Nothing in this section shall be construed to affect the authority of any Federal or State court to enjoin—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the solicitation or sale of insurance by a risk retention group to any person who is not eligible for membership in such group; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the solicitation or sale of insurance by, or operation of, a risk retention group that is in hazardous financial condition or is financially impaired.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> State powers to enforce State laws</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Subject to the provisions of subsection (a)(1)(G) (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e), such injunction must be obtained from a Federal or State court of competent jurisdiction.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> States’ authority to sue</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> State authority to regulate or prohibit ownership interests in risk retention groups</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to affect the authority of any State to regulate or prohibit the ownership interest in a risk retention group by an insurance company in that State, other than in the case of ownership interest in a risk retention group whose members are insurance companies.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 97–45, § 3</ref>, <date date="1981-09-25">Sept. 25, 1981</date>, <ref>95 Stat. 950</ref>; <ref>Pub. L. 99–563</ref>, §§ 5, 7, 8(a), 12(c), <date date="1986-10-27">Oct. 27, 1986</date>, <ref>100 Stat. 3172</ref>, 3175, 3178.)</sourceCredit>
+</section>
+<section>
+<num>§ 3903.</num>
+<heading> Purchasing groups</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Exemptions from State laws, rules, regulations, or orders</heading>
+<chapeau class="indent0">Except as provided in this section and <ref>section 3905 of this title</ref>, a purchasing group is exempt from any State law, rule, regulation, or order to the extent that such law, rule, regulation, or order would—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> prohibit the establishment of a purchasing group;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> make it unlawful for an insurer to provide or offer to provide insurance on a basis providing, to a purchasing group or its members, advantages, based on their loss and expense experience, not afforded to other persons with respect to rates, policy forms, coverages, or other matters;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> prohibit a purchasing group or its members from purchasing insurance on the group basis described in paragraph (2) of this subsection;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> prohibit a purchasing group from obtaining insurance on a group basis because the group has not been in existence for a minimum period of time or because any member has not belonged to the group for a minimum period of time;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> require that a purchasing group must have a minimum number of members, common ownership or affiliation, or a certain legal form;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> require that a certain percentage of a purchasing group must obtain insurance on a group basis;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> require that any insurance policy issued to a purchasing group or any members of the group be countersigned by an insurance agent or broker residing in that State; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> otherwise discriminate against a purchasing group or any of its members.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Scope of exemptions</heading>
+<chapeau class="indent0">The exemptions specified in subsection (a) apply to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> liability insurance provided to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a purchasing group; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any person who is a member of a purchasing group; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> the provision of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> liability coverage;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> insurance related services; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> management services;</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">to a purchasing group or member of the group.</continuation>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Licensing of agents or brokers for purchasing groups</heading>
+<content>
+<p class="indent0">A State may require that a person acting, or offering to act, as an agent or broker for a purchasing group obtain a license from that State, except that a State may not impose any qualification or requirement which discriminates against a nonresident agent or broker.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Notice to State insurance commissioners of intent to do business</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> A purchasing group which intends to do business in any State shall furnish notice of such intention to the insurance commissioner of such State. Such notice—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> shall identify the State in which such group is domiciled;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> shall specify the lines and classifications of liability insurance which the purchasing group intends to purchase;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> shall identify the insurance company from which the group intends to purchase insurance and the domicile of such company; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> shall identify the principal place of business of the group.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Such purchasing group shall notify the commissioner of any such State as to any subsequent changes in any of the items provided in such notice.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Designation of agent for service of documents and process</heading>
+<chapeau class="indent0">A purchasing group shall register with and designate the State insurance commissioner of each State in which it does business as its agent solely for the purpose of receiving service of legal documents or process, except that such requirement shall not apply in the case of a purchasing group—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> was domiciled before <date date="1986-04-01">April 1, 1986</date>; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> is domiciled on and after <date date="1986-10-27">October 27, 1986</date>; <ref class="footnoteRef" idref="fn002508">1</ref></content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">in any State of the United States;</continuation>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> before <date date="1981-09-25">September 25, 1981</date>, purchased insurance from an insurance carrier licensed in any State; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> since <date date="1981-09-25">September 25, 1981</date>, purchases its insurance from an insurance carrier licensed in any State;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> which was a purchasing group under the requirements of this chapter before <date date="1986-10-27">October 27, 1986</date>; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> as long as such group does not purchase insurance that was not authorized for purposes of an exemption under this chapter as in effect before <date date="1986-10-27">October 27, 1986</date>.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Purchases of insurance through licensed agents or brokers acting pursuant to surplus lines laws</heading>
+<content>
+<p class="indent0">A purchasing group may not purchase insurance from a risk retention group that is not chartered in a State or from an insurer not admitted in the State in which the purchasing group is located, unless the purchase is effected through a licensed agent or broker acting pursuant to the surplus lines laws and regulations of such State.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> State powers to enforce State laws</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a purchasing group is not exempt under this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> States’ authority to sue</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 97–45, § 4</ref>, <date date="1981-09-25">Sept. 25, 1981</date>, <ref>95 Stat. 951</ref>; <ref>Pub. L. 99–563</ref>, §§ 6, 8(b), 12(d), <date date="1986-10-27">Oct. 27, 1986</date>, <ref>100 Stat. 3174</ref>, 3175, 3178.)</sourceCredit>
+</section>
+<section>
+<num>§ 3904.</num>
+<heading> Securities laws</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Ownership interest of members in risk retention groups</heading>
+<chapeau class="indent0">The ownership interests of members in a risk retention group shall be—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> considered to be exempted securities for purposes of section 5 of the Securities Act of 1933 [<ref>15 U.S.C. 77e</ref>] and for purposes of section 12 of the Securities Exchange Act of 1934 [<ref>15 U.S.C. 78</ref><i>l</i>]; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> considered to be securities for purposes of the provisions of section 17 of the Securities Act of 1933 [<ref>15 U.S.C. 77q</ref>] and the provisions of section 10 of the Securities Exchange Act of 1934 [<ref>15 U.S.C. 78j</ref>].</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Investment companies</heading>
+<content>
+<p class="indent0">A risk retention group shall not be considered to be an investment company for purposes of the Investment Company Act of 1940 (<ref>15 U.S.C. 80a–1</ref> et seq.).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> State blue sky laws</heading>
+<content>
+<p class="indent0">The ownership interests of members in a risk retention group shall not be considered securities for purposes of any State blue sky law.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 97–45, § 5</ref>, <date date="1981-09-25">Sept. 25, 1981</date>, <ref>95 Stat. 952</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3905.</num>
+<heading> Clarification concerning permissible State authority</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> No exemption from State motor vehicle no-fault and motor vehicle financial responsibility laws</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to exempt a risk retention group or purchasing group authorized under this chapter from the policy form or coverage requirements of any State motor vehicle no-fault or motor vehicle financial responsibility insurance law.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Applicability of exemptions</heading>
+<content>
+<p class="indent0">The exemptions provided under this chapter shall apply only to the provision of liability insurance by a risk retention group or the purchase of liability insurance by a purchasing group, and nothing in this chapter shall be construed to permit the provision or purchase of any other line of insurance by any such group.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Prohibited insurance policy coverage</heading>
+<content>
+<p class="indent0">The terms of any insurance policy provided by a risk retention group or purchased by a purchasing group shall not provide or be construed to provide insurance policy coverage prohibited generally by State statute or declared unlawful by the highest court of the State whose law applies to such policy.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> State authority to specify acceptable means of demonstrating financial responsibility</heading>
+<content>
+<p class="indent0">Subject to the provisions of <ref>section 3902(a)(4) of this title</ref> relating to discrimination, nothing in this chapter shall be construed to preempt the authority of a State to specify acceptable means of demonstrating financial responsibility where the State has required a demonstration of financial responsibility as a condition for obtaining a license or permit to undertake specified activities. Such means may include or exclude insurance coverage obtained from an admitted insurance company, an excess lines company, a risk retention group, or any other source regardless of whether coverage is obtained directly from an insurance company or through a broker, agent, purchasing group, or any other person.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 97–45, § 6</ref>, as added <ref>Pub. L. 99–563, § 8(c)</ref>, <date date="1986-10-27">Oct. 27, 1986</date>, <ref>100 Stat. 3175</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3906.</num>
+<heading> Injunctive orders issued by United States district courts</heading>
+<content>
+<p class="indent0">Any district court of the United States may issue an order enjoining a risk retention group from soliciting or selling insurance, or operating, in any State (or in all States) or in any territory or possession of the United States upon a finding of such court that such group is in hazardous financial condition. Such order shall be binding on such group, its officers, agents, and employees, and on any other person acting in active concert with any such officer, agent, or employee, if such other person has actual notice of such order.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 97–45, § 7</ref>, as added <ref>Pub. L. 99–563, § 9</ref>, <date date="1986-10-27">Oct. 27, 1986</date>, <ref>100 Stat. 3176</ref>.)</sourceCredit>
+</section>
+</chapter>

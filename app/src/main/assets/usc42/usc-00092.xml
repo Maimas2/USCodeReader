@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 65—</num>
+<heading>NOISE CONTROL</heading>
+<section>
+<num>§ 4901.</num>
+<heading> Congressional findings and statement of policy</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<chapeau> The Congress finds—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> that inadequately controlled noise presents a growing danger to the health and welfare of the Nation’s population, particularly in urban areas;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> that the major sources of noise include transportation vehicles and equipment, machinery, appliances, and other products in commerce; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> that, while primary responsibility for control of noise rests with State and local governments, Federal action is essential to deal with major noise sources in commerce control of which require national uniformity of treatment.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> The Congress declares that it is the policy of the United States to promote an environment for all Americans free from noise that jeopardizes their health or welfare. To that end, it is the purpose of this chapter to establish a means for effective coordination of Federal research and activities in noise control, to authorize the establishment of Federal noise emission standards for products distributed in commerce, and to provide information to the public respecting the noise emission and noise reduction characteristics of such products.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 2</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1234</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4902.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">For purposes of this chapter:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The term “Administrator” means the Administrator of the Environmental Protection Agency.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The term “person” means an individual, corporation, partnership, or association, and (except as provided in sections 4910(e) and 4911(a) of this title) includes any officer, employee, department, agency, or instrumentality of the United States, a State, or any political subdivision of a State.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> The term “product” means any manufactured article or goods or component thereof; except that such term does not include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any aircraft, aircraft engine, propeller, or appliance, as such terms are defined in <ref>section 40102(a) of title 49</ref>; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<clause class="indent2">
+<num>(i)</num>
+<content> any military weapons or equipment which are designed for combat use; (ii) any rockets or equipment which are designed for research, experimental, or developmental work to be performed by the National Aeronautics and Space Administration; or (iii) to the extent provided by regulations of the Administrator, any other machinery or equipment designed for use in experimental work done by or for the Federal Government.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The term “ultimate purchaser” means the first person who in good faith purchases a product for purposes other than resale.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> The term “new product” means (A) a product the equitable or legal title of which has never been transferred to an ultimate purchaser, or (B) a product which is imported or offered for importation into the United States and which is manufactured after the effective date of a regulation under section 4905 or 4907 of this title which would have been applicable to such product had it been manufactured in the United States.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> The term “manufacturer” means any person engaged in the manufacturing or assembling of new products, or the importing of new products for resale, or who acts for, and is controlled by, any such person in connection with the distribution of such products.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<chapeau> The term “commerce” means trade, traffic, commerce, or transportation—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> between a place in a State and any place outside thereof, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> which affects trade, traffic, commerce, or transportation described in subparagraph (A).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> The term “distribute in commerce” means sell in, offer for sale in, or introduce or deliver for introduction into, commerce.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Trust Territory of the Pacific Islands.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> The term “Federal agency” means an executive agency (as defined in <ref>section 105 of title 5</ref>) and includes the United States Postal Service.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> The term “environmental noise” means the intensity, duration, and the character of sounds from all sources.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 92–574, § 3</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1234</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4903.</num>
+<heading> Federal programs</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Furtherance of Congressional policy</heading>
+<content>
+<p class="indent0">The Congress authorizes and directs that Federal agencies shall, to the fullest extent consistent with their authority under Federal laws administered by them, carry out the programs within their control in such a manner as to further the policy declared in <ref>section 4901(b) of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Presidential authority to exempt activities or facilities from compliance requirements</heading>
+<chapeau class="indent0">Each department, agency, or instrumentality of the executive, legislative, and judicial branches of the Federal Government—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> having jurisdiction over any property or facility, or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> engaged in any activity resulting, or which may result, in the emission of noise,</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">shall comply with Federal, State, interstate, and local requirements respecting control and abatement of environmental noise to the same extent that any person is subject to such requirements. The President may exempt any single activity or facility, including noise emission sources or classes thereof, of any department, agency, or instrumentality in the executive branch from compliance with any such requirement if he determines it to be in the paramount interest of the United States to do so; except that no exemption, other than for those products referred to in <ref>section 4902(3)(B) of this title</ref>, may be granted from the requirements of sections 4905, 4916, and 4917 of this title. No such exemption shall be granted due to lack of appropriation unless the President shall have specifically requested such appropriation as a part of the budgetary process and the Congress shall have failed to make available such requested appropriation. Any exemption shall be for a period not in excess of one year, but additional exemptions may be granted for periods of not to exceed one year upon the President’s making a new determination. The President shall report each January to the Congress all exemptions from the requirements of this section granted during the preceding calendar year, together with his reason for granting such exemption.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Coordination of programs of Federal agencies; standards and regulations; status reports</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Administrator shall coordinate the programs of all Federal agencies relating to noise research and noise control. Each Federal agency shall, upon request, furnish to the Administrator such information as he may reasonably require to determine the nature, scope, and results of the noise-research and noise-control programs of the agency.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Each Federal agency shall consult with the Administrator in prescribing standards or regulations respecting noise. If at any time the Administrator has reason to believe that a standard or regulation, or any proposed standard or regulation, of any Federal agency respecting noise does not protect the public health and welfare to the extent he believes to be required and feasible, he may request such agency to review and report to him on the advisability of revising such standard or regulation to provide such protection. Any such request may be published in the Federal Register and shall be accompanied by a detailed statement of the information on which it is based. Such agency shall complete the requested review and report to the Administrator within such time as the Administrator specifies in the request, but such time specified may not be less than ninety days from the date the request was made. The report shall be published in the Federal Register and shall be accompanied by a detailed statement of the findings and conclusions of the agency respecting the revision of its standard or regulation. With respect to the Federal Aviation Administration, <ref>section 44715 of title 49</ref> shall apply in lieu of this paragraph.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> On the basis of regular consultation with appropriate Federal agencies, the Administrator shall compile and publish, from time to time, a report on the status and progress of Federal activities relating to noise research and noise control. This report shall describe the noise-control programs of each Federal agency and assess the contributions of those programs to the Federal Government’s overall efforts to control noise.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 4</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1235</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4904.</num>
+<heading> Identification of major noise sources</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Development and publication of criteria</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Administrator shall, after consultation with appropriate Federal agencies and within nine months of <date date="1972-10-27">October 27, 1972</date>, develop and publish criteria with respect to noise. Such criteria shall reflect the scientific knowledge most useful in indicating the kind and extent of all identifiable effects on the public health or welfare which may be expected from differing quantities and qualities of noise.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The Administrator shall, after consultation with appropriate Federal agencies and within twelve months of <date date="1972-10-27">October 27, 1972</date>, publish information on the levels of environmental noise the attainment and maintenance of which in defined areas under various conditions are requisite to protect the public health and welfare with an adequate margin of safety.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Compilation and publication of reports on noise sources and control technology</heading>
+<content>
+<p class="indent0">The Administrator shall, after consultation with appropriate Federal agencies, compile and publish a report or series of reports (1) identifying products (or classes of products) which in his judgment are major sources of noise, and (2) giving information on techniques for control of noise from such products, including available data on the technology, costs, and alternative methods of noise control. The first such report shall be published not later than eighteen months after <date date="1972-10-27">October 27, 1972</date>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Supplemental criteria and reports</heading>
+<content>
+<p class="indent0">The Administrator shall from time to time review and, as appropriate, revise or supplement any criteria or reports published under this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Publication in Federal Register</heading>
+<content>
+<p class="indent0">Any report (or revision thereof) under subsection (b)(1) identifying major noise sources shall be published in the Federal Register. The publication or revision under this section of any criteria or information on control techniques shall be announced in the Federal Register, and copies shall be made available to the general public.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 5</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1236</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4905.</num>
+<heading> Noise emission standards for products distributed in commerce</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Proposed regulations</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> The Administrator shall publish proposed regulations, meeting the requirements of subsection (c), for each product—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> which is identified (or is part of a class identified) in any report published under <ref>section 4904(b)(1) of this title</ref> as a major source of noise,</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> for which, in his judgment, noise emission standards are feasible, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<chapeau> which falls in one of the following categories:</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> Construction equipment.</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> Transportation equipment (including recreational vehicles and related equipment).</content>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> Any motor or engine (including any equipment of which an engine or motor is an integral part).</content>
+</clause>
+<clause class="indent2">
+<num>(iv)</num>
+<content> Electrical or electronic equipment.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<content> Initial proposed regulations under paragraph (1) shall be published not later than eighteen months after <date date="1972-10-27">October 27, 1972</date>, and shall apply to any product described in paragraph (1) which is identified (or is a part of a class identified) as a major source of noise in any report published under <ref>section 4904(b)(1) of this title</ref> on or before the date of publication of such initial proposed regulations.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> In the case of any product described in paragraph (1) which is identified (or is part of a class identified) as a major source of noise in a report published under <ref>section 4904(b)(1) of this title</ref> after publication of the initial proposed regulations under subparagraph (A) of this paragraph, regulations under paragraph (1) for such product shall be proposed and published by the Administrator not later than eighteen months after such report is published.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<chapeau> After proposed regulations respecting a product have been published under paragraph (2), the Administrator shall, unless in his judgment noise emission standards are not feasible for such product, prescribe regulations, meeting the requirements of subsection (c), for such product—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> not earlier than six months after publication of such proposed regulations, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> not later than—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> twenty-four months after <date date="1972-10-27">October 27, 1972</date>, in the case of a product subject to proposed regulations published under paragraph (2)(A), or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> in the case of any other product, twenty-four months after the publication of the report under <ref>section 4904(b)(1) of this title</ref> identifying it (or a class of products of which it is a part) as a major source of noise.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Authority to publish regulations not otherwise required</heading>
+<content>
+<p class="indent0">The Administrator may publish proposed regulations, meeting the requirements of subsection (c), for any product for which he is not required by subsection (a) to prescribe regulations but for which, in his judgment, noise emission standards are feasible and are requisite to protect the public health and welfare. Not earlier than six months after the date of publication of such proposed regulations respecting such product, he may prescribe regulations, meeting the requirements of subsection (c), for such product.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Contents of regulations; appropriate consideration of other standards; participation by interested persons; revision</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Any regulation prescribed under subsection (a) or (b) of this section (and any revision thereof) respecting a product shall include a noise emission standard which shall set limits on noise emissions from such product and shall be a standard which in the Administrator’s judgment, based on criteria published under <ref>section 4904 of this title</ref>, is requisite to protect the public health and welfare, taking into account the magnitude and conditions of use of such product (alone or in combination with other noise sources), the degree of noise reduction achievable through the application of the best available technology, and the cost of compliance. In establishing such a standard for any product, the Administrator shall give appropriate consideration to standards under other laws designed to safeguard the health and welfare of persons, including any standards under chapter 301 of title 49, the Clean Air Act [<ref>42 U.S.C. 7401</ref> et seq.], and the Federal Water Pollution Control Act [<ref>33 U.S.C. 1251</ref> et seq.]. Any such noise emission standards shall be a performance standard. In addition, any regulation under subsection (a) or (b) (and any revision thereof) may contain testing procedures necessary to assure compliance with the emission standard in such regulation, and may contain provisions respecting instructions of the manufacturer for the maintenance, use, or repair of the product.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> After publication of any proposed regulations under this section, the Administrator shall allow interested persons an opportunity to participate in rulemaking in accordance with the first sentence of <ref>section 553(c) of title 5</ref>.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> The Administrator may revise any regulation prescribed by him under this section by (A) publication of proposed revised regulations, and (B) the promulgation, not earlier than six months after the date of such publication, of regulations making the revision; except that a revision which makes only technical or clerical corrections in a regulation under this section may be promulgated earlier than six months after such date if the Administrator finds that such earlier promulgation is in the public interest.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Warranty by manufacturer of conformity of product with regulations; transfer of cost obligation from manufacturer to dealer prohibited</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> On and after the effective date of any regulation prescribed under subsection (a) or (b) of this section, the manufacturer of each new product to which such regulation applies shall warrant to the ultimate purchaser and each subsequent purchaser that such product is designed, built, and equipped so as to conform at the time of sale with such regulation.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Any cost obligation of any dealer incurred as a result of any requirement imposed by paragraph (1) of this subsection shall be borne by the manufacturer. The transfer of any such cost obligation from a manufacturer to any dealer through franchise or other agreement is prohibited.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> If a manufacturer includes in any advertisement a statement respecting the cost or value of noise emission control devices or systems, such manufacturer shall set forth in such statement the cost or value attributed to such devices or systems by the Secretary of Labor (through the Bureau of Labor Statistics). The Secretary of Labor, and his representatives, shall have the same access for this purpose to the books, documents, papers, and rec­ords of a manufacturer as the Comptroller General has to those of a recipient of assistance for purposes of section 311 of the Clean Air Act [<ref>42 U.S.C. 7611</ref>].</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> State and local regulations</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> No State or political subdivision thereof may adopt or enforce—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> with respect to any new product for which a regulation has been prescribed by the Administrator under this section, any law or regulation which sets a limit on noise emissions from such new product and which is not identical to such regulation of the Administrator; or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> with respect to any component incorporated into such new product by the manufacturer of such product, any law or regulation setting a limit on noise emissions from such component when so incorporated.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Subject to sections 4916 and 4917 of this title, nothing in this section precludes or denies the right of any State or political subdivision thereof to establish and enforce controls on environmental noise (or one or more sources thereof) through the licensing, regulation, or restriction of the use, operation, or movement of any product or combination of products.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Publication of notice of receipt of revision petitions and proposed revised regulations</heading>
+<content>
+<p class="indent0">At any time after the promulgation of regulations respecting a product under this section, a State or political subdivision thereof may petition the Administrator to revise such standard on the grounds that a more stringent standard under subsection (c) of this section is necessary to protect the public health and welfare. The Administration shall publish notice of receipt of such petition in the Federal Register and shall within ninety days of receipt of such petition respond by (1) publication of proposed revised regulations in accordance with subsection (c)(3) of this section, or (2) publication in the Federal Register of a decision not to publish such proposed revised regulations at that time, together with a detailed explanation for such decision.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 6</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1237</ref>; <ref>Pub. L. 95–609, § 5</ref>, <date date="1978-11-08">Nov. 8, 1978</date>, <ref>92 Stat. 3081</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4906.</num>
+<heading> Omitted</heading>
+</section>
+<section>
+<num>§ 4907.</num>
+<heading> Labeling</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Regulations</heading>
+<chapeau class="indent0">The Administrator shall by regulation designate any product (or class thereof)—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> which emits noise capable of adversely affecting the public health or welfare; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> which is sold wholly or in part on the basis of its effectiveness in reducing noise.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Manner of notice; form; methods and units of measurement</heading>
+<content>
+<p class="indent0">For each product (or class thereof) designated under subsection (a) the Administrator shall by regulation require that notice be given to the prospective user of the level of the noise the product emits, or of its effectiveness in reducing noise, as the case may be. Such regulations shall specify (1) whether such notice shall be affixed to the product or to the outside of its container, or to both, at the time of its sale to the ultimate purchaser or whether such notice shall be given to the prospective user in some other manner, (2) the form of the notice, and (3) the methods and units of measurement to be used. <ref>Section 4905(c)(2) of this title</ref> shall apply to the prescribing of any regulation under this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> State regulation of product labeling</heading>
+<content>
+<p class="indent0">This section does not prevent any State or political subdivision thereof from regulating product labeling or information respecting products in any way not in conflict with regulations prescribed by the Administrator under this section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 8</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1241</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4908.</num>
+<heading> Imports</heading>
+<content>
+<p class="indent0">The Secretary of the Treasury shall, in consultation with the Administrator, issue regulations to carry out the provisions of this chapter with respect to new products imported or offered for importation.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 92–574, § 9</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1242</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4909.</num>
+<heading> Prohibited acts</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<chapeau> Except as otherwise provided in subsection (b), the following acts or the causing thereof are prohibited:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> In the case of a manufacturer, to distribute in commerce any new product manufactured after the effective date of a regulation prescribed under <ref>section 4905 of this title</ref> which is applicable to such product, except in conformity with such regulation.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> The removal or rendering inoperative by any person, other than for purposes of maintenance, repair, or replacement, of any device or element of design incorporated into any product in compliance with regulations under <ref>section 4905 of this title</ref>, prior to its sale or delivery to the ultimate purchaser or while it is in use, or (B) the use of a product after such device or element of design has been removed or rendered inoperative by any person.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> In the case of a manufacturer, to distribute in commerce any new product manufactured after the effective date of a regulation prescribed under <ref>section 4907(b) of this title</ref> (requiring information respecting noise) which is applicable to such product, except in conformity with such regulation.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The removal by any person of any notice affixed to a product or container pursuant to regulations prescribed under <ref>section 4907(b) of this title</ref>, prior to sale of the product to the ultimate purchaser.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> The importation into the United States by any person of any new product in violation of a regulation prescribed under <ref>section 4908 of this title</ref> which is applicable to such product.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> The failure or refusal by any person to comply with any requirement of section 4910(d) or 4912(a) of this title or regulations prescribed under section 4912(a), 4916, or 4917 of this title.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> For the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security, the Administrator may exempt for a specified period of time any product, or class thereof, from paragraphs (1), (2), (3), and (5) of subsection (a), upon such terms and conditions as he may find necessary to protect the public health or welfare.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Paragraphs (1), (2), (3), and (4) of subsection (a) shall not apply with respect to any product which is manufactured solely for use outside any State and which (and the container of which) is labeled or otherwise marked to show that it is manufactured solely for use outside any State; except that such paragraphs shall apply to such product if it is in fact distributed in commerce for use in any State.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 10</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1242</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4910.</num>
+<heading> Enforcement</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Criminal penalties</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Any person who willfully or knowingly violates paragraph (1), (3), (5), or (6) of subsection (a) of <ref>section 4909 of this title</ref> shall be punished by a fine of not more than $25,000 per day of violation, or by imprisonment for not more than one year, or by both. If the conviction is for a violation committed after a first conviction of such person under this subsection, punishment shall be by a fine of not more than $50,000 per day of violation, or by imprisonment for not more than two years, or by both.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Any person who violates paragraph (1), (3), (5), or (6) of subsection (a) of <ref>section 4909 of this title</ref> shall be subject to a civil penalty not to exceed $10,000 per day of such violation.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Separate violations</heading>
+<content>
+<p class="indent0">For the purpose of this section, each day of violation of any paragraph of <ref>section 4909(a) of this title</ref> shall constitute a separate violation of that section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Actions to restrain violations</heading>
+<content>
+<p class="indent0">The district courts of the United States shall have jurisdiction of actions brought by and in the name of the United States to restrain any violations of <ref>section 4909(a) of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Orders issued to protect public health and welfare; notice; opportunity for hearing</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Whenever any person is in violation of <ref>section 4909(a) of this title</ref>, the Administrator may issue an order specifying such relief as he determines is necessary to protect the public health and welfare.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Any order under this subsection shall be issued only after notice and opportunity for a hearing in accordance with <ref>section 554 of title 5</ref>.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> “Person” defined</heading>
+<content>
+<p class="indent0">The term “person,” as used in this section, does not include a department, agency, or instrumentality of the United States.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 11</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1242</ref>; <ref>Pub. L. 95–609, § 4</ref>, <date date="1978-11-08">Nov. 8, 1978</date>, <ref>92 Stat. 3081</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4911.</num>
+<heading> Citizen suits</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Authority to commence suits</heading>
+<chapeau class="indent0">Except as provided in subsection (b), any person (other than the United States) may commence a civil action on his own behalf—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) <ref class="footnoteRef" idref="fn003379">1</ref>), or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> against—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Administrator of the Environmental Protection Agency where there is alleged a failure of such Administrator to perform any act or duty under this chapter which is not discretionary with such Administrator, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Administrator of the Federal Aviation Administration where there is alleged a failure of such Administrator to perform any act or duty under <ref>section 44715 of title 49</ref> which is not discretionary with such Administrator.</content>
+</subparagraph>
+</paragraph>
+<continuation class="indent0 firstIndent0">The district courts of the United States shall have jurisdiction, without regard to the amount in controversy, to restrain such person from violating such noise control requirement or to order such Administrator to perform such act or duty, as the case may be.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Notice</heading>
+<chapeau class="indent0">No action may be commenced—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> under subsection (a)(1)—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> prior to sixty days after the plaintiff has given notice of the violation (i) to the Administrator of the Environmental Protection Agency (and to the Federal Aviation Administrator in the case of a violation of a noise control requirement under such <ref>section 44715 of title 49</ref>) and (ii) to any alleged violator of such requirement, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> if an Administrator has commenced and is diligently prosecuting a civil action to require compliance with the noise control requirement, but in any such action in a court of the United States any person may intervene as a matter of right, or</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> under subsection (a)(2) prior to sixty days after the plaintiff has given notice to the defendant that he will commence such action.</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">Notice under this subsection shall be given in such manner as the Administrator of the Environmental Protection Agency shall prescribe by regulation.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Intervention</heading>
+<content>
+<p class="indent0">In an action under this section, the Administrator of the Environmental Protection Agency, if not a party, may intervene as a matter of right. In an action under this section respecting a noise control requirement under <ref>section 44715 of title 49</ref>, the Administrator of the Federal Aviation Administration, if not a party, may also intervene as a matter of right.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Litigation costs</heading>
+<content>
+<p class="indent0">The court, in issuing any final order in any action brought pursuant to subsection (a) of this section, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such an award is appropriate.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Other common law or statutory rights of action</heading>
+<content>
+<p class="indent0">Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any noise control requirement or to seek any other relief (including relief against an Administrator).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> “Noise control requirement” defined</heading>
+<content>
+<p class="indent0">For purposes of this section, the term “noise control requirement” means paragraph (1), (2), (3), (4), or (5) of <ref>section 4909(a) of this title</ref>, or a standard, rule, or regulation issued under section 4916 or 4917 of this title or under <ref>section 44715 of title 49</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 12</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1243</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4912.</num>
+<heading> Records, reports, and information</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Duties of manufacturers of products</heading>
+<chapeau class="indent0">Each manufacturer of a product to which regulations under section 4905 or 4907 of this title apply shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> establish and maintain such records, make such reports, provide such information, and make such tests, as the Administrator may reasonably require to enable him to determine whether such manufacturer has acted or is acting in compliance with this chapter,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> upon request of an officer or employee duly designated by the Administrator, permit such officer or employee at reasonable times to have access to such information and the results of such tests and to copy such records, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to the extent required by regulations of the Administrator, make products coming off the assembly line or otherwise in the hands of the manufacturer available for testing by the Administrator.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Confidential information; disclosure</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> All information obtained by the Administrator or his representatives pursuant to subsection (a) of this section, which information contains or relates to a trade secret or other matter referred to in <ref>section 1905 of title 18</ref>, shall be considered confidential for the purpose of that section, except that such information may be disclosed to other Federal officers or employees, in whose possession it shall remain confidential, or when relevant to the matter in controversy in any proceeding under this chapter.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Nothing in this subsection shall authorize the withholding of information by the Administrator, or by any officers or employees under his control, from the duly authorized committees of the Congress.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Violations and penalties</heading>
+<content>
+<p class="indent0">Any person who knowingly makes any false statement, representation, or certification in any application, record, report, plan, or other document filed or required to be maintained under this chapter or who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required to be maintained under this chapter, shall upon conviction be punished by a fine of not more than $10,000, or by imprisonment for not more than six months, or by both.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 13</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1244</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4913.</num>
+<heading> Quiet communities, research, and public information</heading>
+<chapeau class="indent0">To promote the development of effective State and local noise control programs, to provide an adequate Federal noise control research program designed to meet the objectives of this chapter, and to otherwise carry out the policy of this chapter, the Administrator shall, in cooperation with other Federal agencies and through the use of grants, contracts, and direct Federal actions—</chapeau>
+<subsection class="indent1">
+<num>(a)</num>
+<content> develop and disseminate information and educational materials to all segments of the public on the public health and other effects of noise and the most effective means for noise control, through the use of materials for school curricula, volunteer organizations, radio and television programs, publication, and other means;</content>
+</subsection>
+<subsection class="indent1">
+<num>(b)</num>
+<chapeau> conduct or finance research directly or with any public or private organization or any person on the effects, measurement, and control of noise, including but not limited to—</chapeau>
+<paragraph class="indent2">
+<num>(1)</num>
+<content> investigation of the psychological and physiological effects of noise on humans and the effects of noise on domestic animals, wildlife, and property, and the determination of dose/response relationships suitable for use in decisionmaking, with special emphasis on the nonauditory effects of noise;</content>
+</paragraph>
+<paragraph class="indent2">
+<num>(2)</num>
+<content> investigation, development, and demonstration of noise control technology for products subject to possible regulation under sections 4905 and 4907 of this title and <ref>section 44715 of title 49</ref>;</content>
+</paragraph>
+<paragraph class="indent2">
+<num>(3)</num>
+<content> investigation, development, and demonstration of monitoring equipment and other technology especially suited for use by State and local noise control programs;</content>
+</paragraph>
+<paragraph class="indent2">
+<num>(4)</num>
+<content> investigation of the economic impact of noise on property and human activities; and</content>
+</paragraph>
+<paragraph class="indent2">
+<num>(5)</num>
+<content> investigation and demonstration of the use of economic incentives (including emission charges) in the control of noise;</content>
+</paragraph>
+</subsection>
+<subsection class="indent1">
+<num>(c)</num>
+<chapeau> administer a nationwide Quiet Communities Program which shall include, but not be limited to—</chapeau>
+<paragraph class="indent2">
+<num>(1)</num>
+<chapeau> grants to States, local governments, and authorized regional planning agencies for the purpose of—</chapeau>
+<subparagraph class="indent3">
+<num>(A)</num>
+<content> identifying and determining the nature and extent of the noise problem within the subject jurisdiction;</content>
+</subparagraph>
+<subparagraph class="indent3">
+<num>(B)</num>
+<content> planning, developing, and establishing a noise control capacity in such jurisdiction, including purchasing initial equipment;</content>
+</subparagraph>
+<subparagraph class="indent3">
+<num>(C)</num>
+<content> developing abatement plans for areas around major transportation facilities (including airports, highways, and rail yards) and other major stationary sources of noise, and, where appropriate, for the facility or source itself; and,</content>
+</subparagraph>
+<subparagraph class="indent3">
+<num>(D)</num>
+<content> evaluating techniques for controlling noise (including institutional arrangements) and demonstrating the best available techniques in such jurisdiction;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent2">
+<num>(2)</num>
+<content> purchase of monitoring and other equipment for loan to State and local noise control programs to meet special needs or assist in the beginning implementation of a noise control program or project;</content>
+</paragraph>
+<paragraph class="indent2">
+<num>(3)</num>
+<content> development and implementation of a quality assurance program for equipment and monitoring procedures of State and local noise control programs to help communities assure that their data collection activities are accurate;</content>
+</paragraph>
+<paragraph class="indent2">
+<num>(4)</num>
+<content> conduct of studies and demonstrations to determine the resource and personnel needs of States and local governments required for the establishment and implementation of effective noise abatement and control programs; and</content>
+</paragraph>
+<paragraph class="indent2">
+<num>(5)</num>
+<content> development of education and training materials and programs, including national and regional workshops, to support State and local noise abatement and control programs;</content>
+</paragraph>
+<continuation class="indent1 firstIndent0">except that no actions, plans or programs hereunder shall be inconsistent with existing Federal authority under this chapter to regulate sources of noise in interstate commerce;</continuation>
+</subsection>
+<subsection class="indent1">
+<num>(d)</num>
+<content> develop and implement a national noise environmental assessment program to identify trends in noise exposure and response, ambient levels, and compliance data and to determine otherwise the effectiveness of noise abatement actions through the collection of physical, social, and human response data;</content>
+</subsection>
+<subsection class="indent1">
+<num>(e)</num>
+<content> establish regional technical assistance centers which use the capabilities of university and private organizations to assist State and local noise control programs;</content>
+</subsection>
+<subsection class="indent1">
+<num>(f)</num>
+<content> provide technical assistance to State and local governments to facilitate their development and enforcement of noise control, including direct onsite assistance of agency or other personnel with technical expertise, and preparation of model State or local legislation for noise control; and</content>
+</subsection>
+<subsection class="indent1">
+<num>(g)</num>
+<content> provide for the maximum use in programs assisted under this section of senior citizens and persons eligible for participation in programs under the Older Americans Act [<ref>42 U.S.C. 3001</ref> et seq.].</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 14</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1244</ref>; <ref>Pub. L. 95–609, § 2</ref>, <date date="1978-11-08">Nov. 8, 1978</date>, <ref>92 Stat. 3079</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4914.</num>
+<heading> Development of low-noise-emission products</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">For the purpose of this section:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The term “Committee” means the Low-Noise-Emission Product Advisory Committee.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The term “Federal Government” includes the legislative, executive, and judicial branches of the Government of the United States, and the government of the District of Columbia.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The term “low-noise-emission product” means any product which emits noise in amounts significantly below the levels specified in noise emission standards under regulations applicable under <ref>section 4905 of this title</ref> at the time of procurement to that type of product.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The term “retail price” means (A) the maximum statutory price applicable to any type of product; or (B) in any case where there is no applicable maximum statutory price, the most recent procurement price paid for any type of product.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Certification of products; Low-Noise-Emission Product Advisory Committee</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Administrator shall determine which products qualify as low-noise-emission products in accordance with the provisions of this section.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> The Administrator shall certify any product—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> for which a certification application has been filed in accordance with paragraph (5)(A) of this subsection;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> which is a low-noise-emission product as determined by the Administrator; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> which he determines is suitable for use as a substitute for a type of product at that time in use by agencies of the Federal Government.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> The Administrator may establish a Low-Noise-Emission Product Advisory Committee to assist him in determining which products qualify as low-noise-emission products for purposes of this section. The Committee shall include the Administrator or his designee, a representative of the National Institute of Standards and Technology, and representatives of such other Federal agencies and private individuals as the Administrator may deem necessary from time to time. Any member of the Committee not employed on a full-time basis by the United States may receive the daily equivalent of the annual rate of basic pay in effect for Grade GS–18 of the General Schedule for each day such member is engaged upon work of the Committee. Each member of the Committee shall be reimbursed for travel expenses, including per diem in lieu of subsistence as authorized by <ref>section 5703 of title 5</ref> for persons in the Government service employed intermittently.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> Certification under this section shall be effective for a period of one year from the date of issuance.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(5)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<content> Any person seeking to have a class or model of product certified under this section shall file a certification application in accordance with regulations prescribed by the Administrator.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> The Administrator shall publish in the Federal Register a notice of each application received.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(C)</num>
+<content> The Administrator shall make determinations for the purpose of this section in accordance with procedures prescribed by him by regulation.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(D)</num>
+<content> The Administrator shall conduct whatever investigation is necessary, including actual inspection of the product at a place designated in regulations prescribed under subparagraph (A).</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(E)</num>
+<content> The Administrator shall receive and evaluate written comments and documents from interested persons in support of, or in opposition to, certification of the class or model of product under consideration.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(F)</num>
+<content> Within ninety days after the receipt of a properly filed certification application the Administrator shall determine whether such product is a low-noise-emission product for purposes of this section. If the Administrator determines that such product is a low-noise-emission product, then within one hundred and eighty days of such determination the Administrator shall reach a decision as to whether such product is a suitable substitute for any class or classes of products presently being purchased by the Federal Government for use by its agencies.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(G)</num>
+<content> Immediately upon making any determination or decision under subparagraph (F), the Administrator shall publish in the Federal Register notice of such determination or decision, including reasons therefor.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Federal procurement of low-noise-emission products</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Certified low-noise-emission products shall be acquired by purchase or lease by the Federal Government for use by the Federal Government in lieu of other products if the Administrator of General Services determines that such certified products have procurement costs which are no more than 125 per centum of the retail price of the least expensive type of product for which they are certified substitutes.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Data relied upon by the Administrator in determining that a product is a certified low-noise-emission product shall be incorporated in any contract for the procurement of such product.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Product selection</heading>
+<content>
+<p class="indent0">The procuring agency shall be required to purchase available certified low-noise-emission products which are eligible for purchase to the extent they are available before purchasing any other products for which any low-noise-emission product is a certified substitute. In making purchasing selections between competing eligible certified low-noise-emission products, the procuring agency shall give priority to any class or model which does not require extensive periodic maintenance to retain its low-noise-emission qualities or which does not involve operating costs significantly in excess of those products for which it is a certified substitute.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Waiver of statutory price limitations</heading>
+<content>
+<p class="indent0">For the purpose of procuring certified low-noise-emission products any statutory price limitations shall be waived.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Tests of noise emissions from products purchased by Federal Government</heading>
+<content>
+<p class="indent0">The Administrator shall, from time to time as he deems appropriate, test the emissions of noise from certified low-noise-emission products purchased by the Federal Government. If at any time he finds that the noise-emission levels exceed the levels on which certification under this section was based, the Administrator shall give the supplier of such product written notice of this finding, issue public notice of it, and give the supplier an opportunity to make necessary repairs, adjustments, or replacements. If no such repairs, adjustments, or replacements are made within a period to be set by the Administrator, he may order the supplier to show cause why the product involved should be eligible for recertification.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated for paying additional amounts for products pursuant to, and for carrying out the provisions of, this section, $1,000,000 for the fiscal year ending <date date="1973-06-30">June 30, 1973</date>, and $2,000,000 for each of the two succeeding fiscal years, $2,200,000 for the fiscal year ending <date date="1976-06-30">June 30, 1976</date>, $550,000 for the transition period of <date date="1976-07-01">July 1, 1976</date>, through <date date="1976-09-30">September 30, 1976</date>, and $2,420,000 for the fiscal year ending <date date="1977-09-30">September 30, 1977</date>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Promulgation of procedures</heading>
+<content>
+<p class="indent0">The Administrator shall promulgate the procedures required to implement this section within one hundred and eighty days after <date date="1972-10-27">October 27, 1972</date>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 15</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1245</ref>; <ref>Pub. L. 94–301, § 1</ref>, <date date="1976-05-31">May 31, 1976</date>, <ref>90 Stat. 590</ref>; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4915.</num>
+<heading> Judicial review</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Petition for review</heading>
+<content>
+<p class="indent0">A petition for review of action of the Administrator of the Environmental Protection Agency in promulgating any standard or regulation under sections 4905, 4916, or 4917 of this title or any labeling regulation under <ref>section 4907 of this title</ref> may be filed only in the United States Court of Appeals for the District of Columbia Circuit, and a petition for review of action of the Administrator of the Federal Aviation Administration in promulgating any standard or regulation under <ref>section 44715 of title 49</ref> may be filed only in such court. Any such petition shall be filed within ninety days from the date of such promulgation, or after such date if such petition is based solely on grounds arising after such ninetieth day. Action of either Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in civil or criminal proceedings for enforcement.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Additional evidence</heading>
+<content>
+<p class="indent0">If a party seeking review under this chapter applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that the information is material and was not available at the time of the proceeding before the Administrator of such Agency or Administration (as the case may be), the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before such Administrator, and to be adduced upon the hearing, in such manner and upon such terms and conditions as the court may deem proper. Such Administrator may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file with the court such modified or new findings, and his recommendation, if any, for the modification or setting aside of his original order, with the return of such additional evidence.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Stay of agency action</heading>
+<content>
+<p class="indent0">With respect to relief pending review of an action by either Administrator, no stay of an agency action may be granted unless the reviewing court determines that the party seeking such stay is (1) likely to prevail on the merits in the review proceeding and (2) will suffer irreparable harm pending such proceeding.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Subpenas</heading>
+<content>
+<p class="indent0">For the purpose of obtaining information to carry out this chapter, the Administrator of the Environmental Protection Agency may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In cases of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator, to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 16</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1247</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4916.</num>
+<heading> Railroad noise emission standards</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Regulations; standards; consultation with Secretary of Transportation</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Within nine months after <date date="1972-10-27">October 27, 1972</date>, the Administrator shall publish proposed noise emission regulations for surface carriers engaged in interstate commerce by railroad. Such proposed regulations shall include noise emission standards setting such limits on noise emissions resulting from operation of the equipment and facilities of surface carriers engaged in interstate commerce by railroad which reflect the degree of noise reduction achievable through the application of the best available technology, taking into account the cost of compliance. These regulations shall be in addition to any regulations that may be proposed under <ref>section 4905 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Within ninety days after the publication of such regulations as may be proposed under paragraph (1) of this subsection, and subject to the provisions of <ref>section 4915 of this title</ref>, the Administrator shall promulgate final regulations. Such regulations may be revised, from time to time, in accordance with this subsection.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> Any standard or regulation, or revision thereof, proposed under this subsection shall be promulgated only after consultation with the Secretary of Transportation in order to assure appropriate consideration for safety and technological availability.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> Any regulation or revision thereof promulgated under this subsection shall take effect after such period as the Administrator finds necessary, after consultation with the Secretary of Transportation, to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Regulations to insure compliance with noise emission standards</heading>
+<content>
+<p class="indent0">The Secretary of Transportation, after consultation with the Administrator, shall promulgate regulations to insure compliance with all standards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcement and inspection authorized by subtitle V of title 49. Regulations promulgated under this section shall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> High-speed train noise emissions</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary of Transportation, in consultation with the Administrator, may prescribe regulations governing railroad-related noise emission standards for trains operating on the general railroad system of transportation at speeds exceeding 160 miles per hour, including noise related to magnetic levitation systems and other new technologies not traditionally associated with railroads.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Factors in rulemaking</heading>
+<chapeau class="indent1">The regulations prescribed pursuant to paragraph (1) may—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> consider variances in maximum pass-by noise with respect to the speed of the equipment;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> account for current engineering best practices; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> encourage the use of noise mitigation techniques to the extent reasonable if the benefits exceed the costs.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Conventional-speed trains</heading>
+<content>
+<p class="indent1">Railroad-related noise regulations prescribed under subsection (a) shall continue to govern noise emissions from the operation of trains, including locomotives and rail cars, when operating at speeds not exceeding 160 miles per hour.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> State and local standards and controls</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Subject to paragraph (2) but notwithstanding any other provision of this chapter, after the effective date of a regulation under this section applicable to noise emissions resulting from the operation of any equipment or facility of a surface carrier engaged in interstate commerce by railroad, no State or political subdivision thereof may adopt or enforce any standard applicable to noise emissions resulting from the operation of the same equipment or facility of such carrier unless such standard is identical to a standard applicable to noise emissions resulting from such operation prescribed by any regulation under this section.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Nothing in this section shall diminish or enhance the rights of any State or political subdivision thereof to establish and enforce standards or controls on levels of environmental noise, or to control, license, regulate, or restrict the use, operation, or movement of any product if the Administrator, after consultation with the Secretary of Transportation, determines that such standard, control, license, regulation, or restriction is necessitated by special local conditions and is not in conflict with regulations promulgated under this section.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> “Carrier” and “railroad” defined</heading>
+<content>
+<p class="indent0">The terms “carrier” and “railroad” as used in this section shall have the same meaning as the term “railroad carrier” has in <ref>section 20102 of title 49</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 17</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1248</ref>; <ref>Pub. L. 104–287, § 6(i)</ref>, <date date="1996-10-11">Oct. 11, 1996</date>, <ref>110 Stat. 3399</ref>; <ref>Pub. L. 117–58, div. B, title II, § 22423</ref>, <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 752</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4917.</num>
+<heading> Motor carrier noise emission standards</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Regulations; standards; consultation with Secretary of Transportation</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Within nine months after <date date="1972-10-27">October 27, 1972</date>, the Administrator shall publish proposed noise emission regulations for motor carriers engaged in interstate commerce. Such proposed regulations shall include noise emission standards setting such limits on noise emissions resulting from operation of motor carriers engaged in interstate commerce which reflect the degree of noise reduction achievable through the application of the best available technology, taking into account the cost of compliance. These regulations shall be in addition to any regulations that may be proposed under <ref>section 4905 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Within ninety days after the publication of such regulations as may be proposed under paragraph (1) of this subsection, and subject to the provisions of <ref>section 4915 of this title</ref>, the Administrator shall promulgate final regulations. Such regulations may be revised from time to time, in accordance with this subsection.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> Any standard or regulation, or revision thereof, proposed under this subsection shall be promulgated only after consultation with the Secretary of Transportation in order to assure appropriate consideration for safety and technological availability.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> Any regulation or revision thereof promulgated under this subsection shall take effect after such period as the Administrator finds necessary, after consultation with the Secretary of Transportation, to permit the development and application of the requisite technology, giving appropriate consideration to the cost of compliance within such period.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Regulations to insure compliance with noise emission standards</heading>
+<content>
+<p class="indent0">The Secretary of Transportation, after consultation with the Administrator shall promulgate regulations to insure compliance with all standards promulgated by the Administrator under this section. The Secretary of Transportation shall carry out such regulations through the use of his powers and duties of enforcement and inspection authorized by subtitle IV of title 49 and the Department of Transportation Act. Regulations promulgated under this section shall be subject to the provisions of sections 4909, 4910, 4911, and 4915 of this title.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> State and local standards and controls</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Subject to paragraph (2) of this subsection but notwithstanding any other provision of this chapter, after the effective date of a regulation under this section applicable to noise emissions resulting from the operation of any motor carrier engaged in interstate commerce, no State or political subdivision thereof may adopt or enforce any standard applicable to the same operation of such motor carrier, unless such standard is identical to a standard applicable to noise emissions resulting from such operation prescribed by any regulation under this section.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Nothing in this section shall diminish or enhance the rights of any State or political subdivision thereof to establish and enforce standards or controls on levels of environmental noise, or to control, license, regulate, or restrict the use, operation, or movement of any product if the Administrator, after consultation with the Secretary of Transportation, determines that such standard, control, license, regulation, or restriction is necessitated by special local conditions and is not in conflict with regulations promulgated under this section.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> “Motor carrier” defined</heading>
+<content>
+<p class="indent0">For purposes of this section, the term “motor carrier” includes a motor carrier and motor private carrier as those terms are defined in <ref>section 13102 of title 49</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 92–574, § 18</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1249</ref>.; <ref>Pub. L. 104–88, title III, § 339</ref>, <date date="1995-12-29">Dec. 29, 1995</date>, <ref>109 Stat. 955</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4918.</num>
+<heading> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated to carry out this chapter (other than for research and development) $15,000,000 for the fiscal year ending <date date="1979-09-30">September 30, 1979</date>.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 92–574, § 19</ref>, <date date="1972-10-27">Oct. 27, 1972</date>, <ref>86 Stat. 1250</ref>; <ref>Pub. L. 94–301, § 2</ref>, <date date="1976-05-31">May 31, 1976</date>, <ref>90 Stat. 590</ref>; <ref>Pub. L. 95–609, § 6</ref>, <date date="1978-11-08">Nov. 8, 1978</date>, <ref>92 Stat. 3081</ref>.)</sourceCredit>
+</section>
+</chapter>

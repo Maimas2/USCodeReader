@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 109B—</num>
+<heading>SECURE WATER</heading>
+<section>
+<num>§ 10361.</num>
+<heading> Findings</heading>
+<chapeau class="indent0">Congress finds that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> adequate and safe supplies of water are fundamental to the health, economy, security, and ecology of the United States;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> systematic data-gathering with respect to, and research and development of, the water resources of the United States will help ensure the continued existence of sufficient quantities of water to support—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> increasing populations;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> economic growth;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> irrigated agriculture;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> energy production; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the protection of aquatic ecosystems;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> global climate change poses a significant challenge to the protection and use of the water resources of the United States due to an increased uncertainty with respect to the timing, form, and geographical distribution of precipitation, which may have a substantial effect on the supplies of water for agricultural, hydroelectric power, industrial, domestic supply, and environmental needs;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> although States bear the primary responsibility and authority for managing the water resources of the United States, the Federal Government should support the States, as well as regional, local, and tribal governments, by carrying out—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> nationwide data collection and monitoring activities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> relevant research; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> activities to increase the efficiency of the use of water in the United States;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> Federal agencies that conduct water management and related activities have a responsibility—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to take a lead role in assessing risks to the water resources of the United States (including risks posed by global climate change); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> to develop strategies—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to mitigate the potential impacts of each risk described in subparagraph (A); and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to help ensure that the long-term water resources management of the United States is sustainable and will ensure sustainable quantities of water;</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<chapeau> it is critical to continue and expand research and monitoring efforts—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to improve the understanding of the variability of the water cycle; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> to provide basic information necessary—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to manage and efficiently use the water resources of the United States; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to identify new supplies of water that are capable of being reclaimed; and</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<chapeau> the study of water use is vital—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to the understanding of the impacts of human activity on water and ecological resources; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to the assessment of whether available surface and groundwater supplies will be available to meet the future needs of the United States.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9501</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1329</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10362.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Administrator</heading>
+<content>
+<p class="indent1">The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Advisory Committee</heading>
+<chapeau class="indent1">The term “Advisory Committee” means the National Advisory Committee on Water Information established—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> under the Office of Management and Budget Circular 92–01; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to coordinate water data collection activities.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Assessment program</heading>
+<content>
+<p class="indent1">The term “assessment program” means the water availability and use assessment program established by the Secretary under <ref>section 10368(a) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Climate division</heading>
+<content>
+<p class="indent1">The term “climate division” means 1 of the 359 divisions in the United States that represents 2 or more regions located within a State that are as climatically homogeneous as possible, as determined by the Administrator.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Commissioner</heading>
+<content>
+<p class="indent1">The term “Commissioner” means the Commissioner of Reclamation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Director</heading>
+<content>
+<p class="indent1">The term “Director” means the Director of the United States Geological Survey.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Eligible applicant</heading>
+<chapeau class="indent1">The term “eligible applicant” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any State, Indian tribe, irrigation district, or water district;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any State, regional, or local authority, the members of which include 1 or more organizations with water or power delivery authority;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> any other organization with water or power delivery authority; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> any nonprofit conservation organization, if—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the nonprofit conservation organization is acting in partnership with and with the agreement of an entity described in subparagraph (A), (B), or (C); or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in the case of an application for a project to improve the condition of a natural feature or nature-based feature on Federal land, the entities described in subparagraph (A), (B), or (C) from the applicable service area have been notified of the project application and there is no written objection to the project.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Federal Power Marketing Administration</heading>
+<chapeau class="indent1">The term “Federal Power Marketing Administration” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Bonneville Power Administration;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Southeastern Power Administration;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Southwestern Power Administration; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the Western Area Power Administration.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Hydrologic accounting unit</heading>
+<content>
+<p class="indent1">The term “hydrologic accounting unit” means 1 of the 352 river basin hydrologic accounting units used by the United States Geological Survey.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Indian tribe</heading>
+<content>
+<p class="indent1">The term “Indian tribe” has the meaning given the term in <ref>section 5304 of title 25</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Major aquifer system</heading>
+<chapeau class="indent1">The term “major aquifer system” means a groundwater system that is—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> identified as a significant groundwater system by the Director; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> included in the Groundwater Atlas of the United States, published by the United States Geological Survey.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Major reclamation river basin</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The term “major reclamation river basin” means each major river system (including tributaries)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> that is located in a service area of the Bureau of Reclamation; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> at which is located a federally authorized project of the Bureau of Reclamation.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Inclusions</heading>
+<chapeau class="indent2">The term “major reclamation river basin” includes—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the Colorado River;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the Columbia River;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the Klamath River;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the Missouri River;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> the Rio Grande;</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> the Sacramento River;</content>
+</clause>
+<clause class="indent3">
+<num>(vii)</num>
+<content> the San Joaquin River; and</content>
+</clause>
+<clause class="indent3">
+<num>(viii)</num>
+<content> the Truckee River.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Natural feature</heading>
+<content>
+<p class="indent1">The term “natural feature” means a feature that is created through the action of physical, geological, biological, and chemical processes over time.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> Nature-based feature</heading>
+<content>
+<p class="indent1">The term “nature-based feature” means a feature that is created by human design, engineering, and construction to provide a means to reduce water supply and demand imbalances or drought or flood risk by acting in concert with natural processes.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(15)</num>
+<heading class="bold"> Non-Federal participant</heading>
+<chapeau class="indent1">The term “non-Federal participant” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a State, regional, or local authority;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an Indian tribe or tribal organization; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> any other qualifying entity, such as a water conservation district, water conservancy district, or rural water district or association, or a nongovernmental organization.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(16)</num>
+<heading class="bold"> Panel</heading>
+<content>
+<p class="indent1">The term “panel” means the climate change and water intragovernmental panel established by the Secretary under <ref>section 10366(a) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(17)</num>
+<heading class="bold"> Program</heading>
+<chapeau class="indent1">The term “program” means the regional integrated sciences and assessments program—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> established by the Administrator; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> that is comprised of 8 regional programs that use advances in integrated climate sciences to assist decisionmaking processes.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(18)</num>
+<heading class="bold"> Secretary</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Except as provided in subparagraph (B), the term “Secretary” means the Secretary of the Interior.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Exceptions</heading>
+<chapeau class="indent2">The term “Secretary” means—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in the case of sections 10363, 10364, and 10369 of this title, the Secretary of the Interior (acting through the Commissioner); and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in the case of sections 10367 and 10368 of this title, the Secretary of the Interior (acting through the Director).</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(19)</num>
+<heading class="bold"> Service area</heading>
+<content>
+<p class="indent1">The term “service area” means any area that encompasses a watershed that contains a federally authorized reclamation project that is located in any State or area described in <ref>section 391 of title 43</ref>.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9502</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1330</ref>; <ref>Pub. L. 116–260, div. FF, title XI, § 1106(a)</ref>, <date date="2020-12-27">Dec. 27, 2020</date>, <ref>134 Stat. 3240</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10363.</num>
+<heading> Reclamation climate change and water program</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Secretary shall establish a climate change adaptation program—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to coordinate with the Administrator and other appropriate agencies to assess each effect of, and risk resulting from, global climate change with respect to the quantity of water resources located in a service area; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to ensure, to the maximum extent possible, that strategies are developed at watershed and aquifer system scales to address potential water shortages, conflicts, and other impacts to water users located at, and the environment of, each service area.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Required elements</heading>
+<chapeau class="indent0">In carrying out the program described in subsection (a), the Secretary shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> coordinate with the United States Geological Survey, the National Oceanic and Atmospheric Administration, the program, and each appropriate State water resource agency, to ensure that the Secretary has access to the best available scientific information with respect to presently observed and projected future impacts of global climate change on water resources;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> assess specific risks to the water supply of each major reclamation river basin, including any risk relating to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a change in snowpack;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> changes in the timing and quantity of runoff;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> changes in groundwater recharge and discharge; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> any increase in—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the demand for water as a result of increasing temperatures; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the rate of reservoir evaporation;</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> with respect to each major reclamation river basin, analyze the extent to which changes in the water supply of the United States will impact—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the ability of the Secretary to deliver water to the contractors of the Secretary;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> hydroelectric power generation facilities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> recreation at reclamation facilities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> fish and wildlife habitat;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> applicable species listed as an endangered, threatened, or candidate species under the Endangered Species Act of 1973 (<ref>16 U.S.C. 1531</ref> et seq.);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> water quality issues (including salinity levels of each major reclamation river basin);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> flow and water dependent ecological resiliency; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> flood control management;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> in consultation with appropriate non-Federal participants, consider and develop appropriate strategies to mitigate each impact of water supply changes analyzed by the Secretary under paragraph (3), including strategies relating to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the modification of any reservoir storage or operating guideline in existence as of <date date="2009-03-30">March 30, 2009</date>;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the development of new water management, operating, or habitat restoration plans;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> water conservation;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> improved hydrologic models and other decision support systems; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> groundwater and surface water storage needs; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> in consultation with the Director, the Administrator, the Secretary of Agriculture (acting through the Chief of the Natural Resources Conservation Service), and applicable State water resource agencies, develop a monitoring plan to acquire and maintain water resources data—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to strengthen the understanding of water supply trends; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to assist in each assessment and analysis conducted by the Secretary under paragraphs (2) and (3).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Reporting</heading>
+<chapeau class="indent0">Not later than 2 years after <date date="2009-03-30">March 30, 2009</date>, and every 5 years thereafter, the Secretary shall submit to the appropriate committees of Congress a report that describes—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> each effect of, and risk resulting from, global climate change with respect to the quantity of water resources located in each major reclamation river basin;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the impact of global climate change with respect to the operations of the Secretary in each major reclamation river basin;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> each mitigation and adaptation strategy considered and implemented by the Secretary to address each effect of global climate change described in paragraph (1);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> each coordination activity conducted by the Secretary with—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Director;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Administrator;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Secretary of Agriculture (acting through the Chief of the Natural Resources Conservation Service); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> any appropriate State water resource agency; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the implementation by the Secretary of the monitoring plan developed under subsection (b)(5).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Feasibility studies</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Authority of Secretary</heading>
+<content>
+<p class="indent1">The Secretary, in cooperation with any non-Federal participant, may conduct 1 or more studies to determine the feasibility and impact on ecological resiliency of implementing each mitigation and adaptation strategy described in subsection (c)(3), including the construction of any water supply, water management, environmental, or habitat enhancement water infrastructure that the Secretary determines to be necessary to address the effects of global climate change on water resources located in each major reclamation river basin.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Cost sharing</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Federal share</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent3">Except as provided in clause (ii), the Federal share of the cost of a study described in paragraph (1) shall not exceed 50 percent of the cost of the study.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Exception relating to financial hardship</heading>
+<content>
+<p class="indent3">The Secretary may increase the Federal share of the cost of a study described in paragraph (1) to exceed 50 percent of the cost of the study if the Secretary determines that, due to a financial hardship, the non-Federal participant of the study is unable to contribute an amount equal to 50 percent of the cost of the study.</p>
+</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Non-Federal share</heading>
+<content>
+<p class="indent2">The non-Federal share of the cost of a study described in paragraph (1) may be provided in the form of any in-kind services that substantially contribute toward the completion of the study, as determined by the Secretary.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> No effect on existing authority</heading>
+<content>
+<p class="indent0">Nothing in this section amends or otherwise affects any existing authority under reclamation laws that govern the operation of any Federal reclamation project.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023,<ref class="footnoteRef" idref="fn003960">1</ref> to remain available until expended.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9503</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1332</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10364.</num>
+<heading> Water management improvement</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Authorization of grants and cooperative agreements</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Authority of Secretary</heading>
+<chapeau class="indent1">The Secretary may provide any grant to, or enter into an agreement with, any eligible applicant to assist the eligible applicant in planning, designing, or constructing any improvement or carrying out any activity—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to conserve water;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to increase water use efficiency;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to facilitate water markets;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> to enhance water management, including increasing the use of renewable energy in the management and delivery of water;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> to accelerate the adoption and use of advanced water treatment technologies to increase water supply;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> to assist States and water users in complying with interstate compacts or reducing basin water supply-demand imbalances;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> to achieve the prevention of the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listing under the Endangered Species Act of 1973 (<ref>16 U.S.C. 1531</ref> et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> to achieve the acceleration of the recovery of threatened species, endangered species, and designated critical habitats that are adversely affected by Federal reclamation projects or are subject to a recovery plan or conservation plan under the Endangered Species Act of 1973 (<ref>16 U.S.C. 1531</ref> et seq.) under which the Commissioner of Reclamation has implementation responsibilities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> to improve the condition of a natural feature; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(J)</num>
+<chapeau> to carry out any other activity—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to address any climate-related impact to the water supply of the United States that increases ecological resiliency to the impacts of climate change;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to prevent any water-related crisis or conflict at any watershed that has a nexus to a Federal reclamation project located in a service area; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> to plan for or address the impacts of drought.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Application</heading>
+<chapeau class="indent1">To be eligible to receive a grant, or enter into an agreement with the Secretary under paragraph (1), an eligible applicant shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> be located within—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the States and areas referred to in <ref>section 391 of title 43</ref>;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the State of Alaska;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the State of Hawaii; or</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the Commonwealth of Puerto Rico; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> submit to the Secretary an application that includes—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> for a project that is intended to have a quantifiable water savings and would receive a grant of $500,000 or more—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> a proposal for a monitoring plan of at least 5 years that would demonstrate ways in which the proposed improvement or activity would result in improved streamflows or aquatic habitat; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> for a project that does not anticipate improved streamflows or aquatic habitat, an analysis of ways in which the proposed improvement or activity would contribute to 1 or more of the other objectives described in paragraph (1).</content>
+</subclause>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Requirements of grants and cooperative agreements</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Compliance with requirements</heading>
+<content>
+<p class="indent2">Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliance with each requirement described in subparagraphs (B) through (F).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Agricultural operations</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent3">Except as provided in clause (ii), in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the eligible applicant agrees not—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> to use any associated water savings to increase the total irrigated acreage of the eligible applicant; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> to otherwise increase the consumptive use of water in the operation of the eligible applicant, as determined pursuant to the law of the State in which the operation of the eligible applicant is located.</content>
+</subclause>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Indian tribes</heading>
+<chapeau class="indent3">In the case of an eligible applicant that is an Indian tribe, in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the Indian tribe agrees not—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<chapeau> to use any associated water savings to increase the total irrigated acreage more than the water right of that Indian tribe, as determined by—</chapeau>
+<item class="indent5">
+<num>(aa)</num>
+<content> a court decree;</content>
+</item>
+<item class="indent5">
+<num>(bb)</num>
+<content> a settlement;</content>
+</item>
+<item class="indent5">
+<num>(cc)</num>
+<content> a law; or</content>
+</item>
+<item class="indent5">
+<num>(dd)</num>
+<content> any combination of the authorities described in items (aa) through (cc); or</content>
+</item>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> to otherwise increase the consumptive use of water more than the water right of the Indian tribe described in subclause (I).</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Nonreimbursable funds</heading>
+<content>
+<p class="indent2">Any funds provided by the Secretary to an eligible applicant through a grant or agreement under paragraph (1) shall be nonreimbursable.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Title to improvements</heading>
+<content>
+<p class="indent2">If an infrastructure improvement to a federally owned facility is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1), the Federal Government shall continue to hold title to the facility and improvements to the facility.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(E)</num>
+<heading class="bold"> Cost sharing</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Federal share</heading>
+<subclause class="indent6 firstIndent-2">
+<num class="bold">(I)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent4">Except as provided in subclause (II), the Federal share of the cost of any infrastructure improvement or activity that is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1) shall not exceed 50 percent of the cost of the infrastructure improvement or activity.</p>
+</content>
+</subclause>
+<subclause class="indent6 firstIndent-2">
+<num class="bold">(II)</num>
+<heading class="bold"> Increased Federal share for certain infrastructure improvements and activities</heading>
+<chapeau class="indent4">The Federal share of the cost of an infrastructure improvement or activity shall not exceed 75 percent of the cost of the infrastructure improvement or activity, if—</chapeau>
+<item class="indent5">
+<num>(aa)</num>
+<chapeau> the infrastructure improvement or activity was developed as part of a collaborative process by—</chapeau>
+<subitem class="indent6">
+<num>(AA)</num>
+<content> a watershed group (as defined in <ref>section 1015 of title 16</ref>); or</content>
+</subitem>
+<subitem class="indent6">
+<num>(BB)</num>
+<content> a water user and 1 or more stakeholders with diverse interests; and</content>
+</subitem>
+</item>
+<item class="indent5">
+<num>(bb)</num>
+<content> the majority of the benefits of the infrastructure improvement or activity, as determined by the Secretary, are for the purpose of advancing 1 or more components of an established strategy or plan to increase the reliability of water supply for consumptive and nonconsumptive ecological values.</content>
+</item>
+</subclause>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Calculation of non-Federal share</heading>
+<chapeau class="indent3">In calculating the non-Federal share of the cost of an infrastructure improvement or activity proposed by an eligible applicant through an application submitted by the eligible applicant under paragraph (2), the Secretary shall—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> consider the value of any in-kind services that substantially contributes toward the completion of the improvement or activity, as determined by the Secretary; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> not consider any other amount that the eligible applicant receives from a Federal agency.</content>
+</subclause>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iii)</num>
+<heading class="bold"> Maximum amount</heading>
+<content>
+<p class="indent3">The amount provided to an eligible applicant through a grant or other agreement under paragraph (1) shall be not more than $5,000,000.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iv)</num>
+<heading class="bold"> Operation and maintenance costs</heading>
+<content>
+<p class="indent3">The non-Federal share of the cost of operating and maintaining any infrastructure improvement that is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1) shall be 100 percent.</p>
+</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(F)</num>
+<heading class="bold"> Liability</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent3">Except as provided under chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”), the United States shall not be liable for monetary damages of any kind for any injury arising out of an act, omission, or occurrence that arises in relation to any facility created or improved under this section, the title of which is not held by the United States.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Tort Claims Act</heading>
+<content>
+<p class="indent3">Nothing in this section increases the liability of the United States beyond that provided in chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”).</p>
+</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Priority</heading>
+<content>
+<p class="indent1">In providing grants to, and entering into agreements for, projects intended to have a quantifiable water savings under this subsection, the Secretary shall give priority to projects that enhance drought resilience by benefitting the water supply and ecosystem.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Research agreements</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Authority of Secretary</heading>
+<chapeau class="indent1">The Secretary may enter into 1 or more agreements with any university, nonprofit research institution, or eligible applicant to fund any research activity that is designed—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to conserve water resources;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to increase the efficiency of the use of water resources;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to restore a natural feature or use a nature-based feature to reduce water supply and demand imbalances or the risk of drought or flood; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> to enhance the management of water resources, including increasing the use of renewable energy in the management and delivery of water.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Terms and conditions of Secretary</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">An agreement entered into between the Secretary and any university, institution, or organization described in paragraph (1) shall be subject to such terms and conditions as the Secretary determines to be appropriate.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Availability</heading>
+<content>
+<p class="indent2">The agreements under this subsection shall be available to all Reclamation projects and programs that may benefit from project-specific or programmatic cooperative research and development.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Mutual benefit</heading>
+<content>
+<p class="indent0">Grants or other agreements made under this section may be for the mutual benefit of the United States and the entity that is provided the grant or enters into the cooperative agreement.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Relationship to project-specific authority</heading>
+<content>
+<p class="indent0">This section shall not supersede any existing project-specific funding authority.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There is authorized to be appropriated to carry out this section $920,000,000, to remain available until expended.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9504</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1334</ref>; <ref>Pub. L. 113–235, div. D, title II, § 203</ref>, <date date="2014-12-16">Dec. 16, 2014</date>, <ref>128 Stat. 2311</ref>; <ref>Pub. L. 114–113, div. D, title II, § 206</ref>, <date date="2015-12-18">Dec. 18, 2015</date>, <ref>129 Stat. 2407</ref>; <ref>Pub. L. 114–322, title III, § 4009(d)</ref>, <date date="2016-12-16">Dec. 16, 2016</date>, <ref>130 Stat. 1870</ref>; <ref>Pub. L. 115–244, div. A, title II, § 205(b)</ref>, <date date="2018-09-21">Sept. 21, 2018</date>, <ref>132 Stat. 2906</ref>; <ref>Pub. L. 116–9, title VIII, § 8501</ref>, <date date="2019-03-12">Mar. 12, 2019</date>, <ref>133 Stat. 826</ref>; <ref>Pub. L. 116–94, div. C, title II, § 203</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2669</ref>; <ref>Pub. L. 116–260, div. D, title II, § 203</ref>, div. FF, title XI, § 1106(b)–(d), <date date="2020-12-27">Dec. 27, 2020</date>, <ref>134 Stat. 1363</ref>, 3241, 3242; <ref>Pub. L. 117–103, div. D, title II, § 203</ref>, <date date="2022-03-15">Mar. 15, 2022</date>, <ref>136 Stat. 221</ref>; <ref>Pub. L. 117–328, div. D, title II, § 203</ref>, <date date="2022-12-29">Dec. 29, 2022</date>, <ref>136 Stat. 4631</ref>; <ref>Pub. L. 118–42, div. D, title II, § 203</ref>, <date date="2024-03-09">Mar. 9, 2024</date>, <ref>138 Stat. 194</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10365.</num>
+<heading> Hydroelectric power assessment</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Duty of Secretary of Energy</heading>
+<content>
+<p class="indent0">The Secretary of Energy, in consultation with the Administrator of each Federal Power Marketing Administration, shall assess each effect of, and risk resulting from, global climate change with respect to water supplies that are required for the generation of hydroelectric power at each Federal water project that is applicable to a Federal Power Marketing Administration.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Access to appropriate data</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">In carrying out each assessment under subsection (a), the Secretary of Energy shall consult with the United States Geological Survey, the National Oceanic and Atmospheric Administration, the program, and each appropriate State water resource agency, to ensure that the Secretary of Energy has access to the best available scientific information with respect to presently observed impacts and projected future impacts of global climate change on water supplies that are used to produce hydroelectric power.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Access to data for certain assessments</heading>
+<chapeau class="indent1">In carrying out each assessment under subsection (a), with respect to the Bonneville Power Administration and the Western Area Power Administration, the Secretary of Energy shall consult with the Commissioner to access data and other information that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is collected by the Commissioner; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Secretary of Energy determines to be necessary for the conduct of the assessment.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Report</heading>
+<chapeau class="indent0">Not later than 2 years after <date date="2009-03-30">March 30, 2009</date>, and every 5 years thereafter, the Secretary of Energy shall submit to the appropriate committees of Congress a report that describes—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> each effect of, and risk resulting from, global climate change with respect to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> water supplies used for hydroelectric power generation; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> power supplies marketed by each Federal Power Marketing Administration, pursuant to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> long-term power contracts;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> contingent capacity contracts; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> short-term sales; and</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> each recommendation of the Administrator of each Federal Power Marketing Administration relating to any change in any operation or contracting practice of each Federal Power Marketing Administration to address each effect and risk described in paragraph (1), including the use of purchased power to meet long-term commitments of each Federal Power Marketing Administration.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Authority</heading>
+<content>
+<p class="indent0">The Secretary of Energy may enter into contracts, grants, or other agreements with appropriate entities to carry out this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Costs</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Nonreimbursable</heading>
+<content>
+<p class="indent1">Any costs incurred by the Secretary of Energy in carrying out this section shall be nonreimbursable.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> PMA costs</heading>
+<content>
+<p class="indent1">Each Federal Power Marketing Administration shall incur costs in carrying out this section only to the extent that appropriated funds are provided by the Secretary of Energy for that purpose.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023, to remain available until expended.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9505</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1336</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10366.</num>
+<heading> Climate change and water intragovernmental panel</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent0">The Secretary and the Administrator shall establish and lead a climate change and water intragovernmental panel—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to review the current scientific understanding of each impact of global climate change on the quantity and quality of freshwater resources of the United States; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> to develop any strategy that the panel determines to be necessary to improve observational capabilities, expand data acquisition, or take other actions—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to increase the reliability and accuracy of modeling and prediction systems to benefit water managers at the Federal, State, and local levels; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to increase the understanding of the impacts of climate change on aquatic ecosystems.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Membership</heading>
+<chapeau class="indent0">The panel shall be comprised of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the Secretary;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the Director;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the Administrator;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the Secretary of Agriculture (acting through the Under Secretary for Natural Resources and Environment);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the Commissioner;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> the Secretary of the Army, acting through the Chief of Engineers;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> the Administrator of the Environmental Protection Agency; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> the Secretary of Energy.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Review elements</heading>
+<chapeau class="indent0">In conducting the review and developing the strategy under subsection (a), the panel shall consult with State water resource agencies, the Advisory Committee, drinking water utilities, water research organizations, and relevant water user, environmental, and other nongovernmental organizations—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to assess the extent to which the conduct of measures of streamflow, groundwater levels, soil moisture, evapotranspiration rates, evaporation rates, snowpack levels, precipitation amounts, flood risk, and glacier mass is necessary to improve the understanding of the Federal Government and the States with respect to each impact of global climate change on water resources;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to identify data gaps in current water monitoring networks that must be addressed to improve the capability of the Federal Government and the States to measure, analyze, and predict changes to the quality and quantity of water resources, including flood risks, that are directly or indirectly affected by global climate change;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to establish data management and communication protocols and standards to increase the quality and efficiency by which each Federal agency acquires and reports relevant data;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> to consider options for the establishment of a data portal to enhance access to water resource data—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> relating to each nationally significant freshwater watershed and aquifer located in the United States; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> that is collected by each Federal agency and any other public or private entity for each nationally significant freshwater watershed and aquifer located in the United States;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> to facilitate the development of hydrologic and other models to integrate data that reflects groundwater and surface water interactions; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> to apply the hydrologic and other models developed under paragraph (5) to water resource management problems identified by the panel, including the need to maintain or improve ecological resiliency at watershed and aquifer system scales.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Report</heading>
+<content>
+<p class="indent0">Not later than 2 years after <date date="2009-03-30">March 30, 2009</date>, the Secretary shall submit to the appropriate committees of Congress a report that describes the review conducted, and the strategy developed, by the panel under subsection (a).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Demonstration, research, and methodology development projects</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Authority of Secretary</heading>
+<content>
+<p class="indent1">The Secretary, in consultation with the panel and the Advisory Committee, may provide grants to, or enter into any contract, cooperative agreement, interagency agreement, or other transaction with, an appropriate entity to carry out any demonstration, research, or methodology development project that the Secretary determines to be necessary to assist in the implementation of the strategy developed by the panel under subsection (a)(2).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Requirements</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Maximum amount of Federal share</heading>
+<content>
+<p class="indent2">The Federal share of the cost of any demonstration, research, or methodology development project that is the subject of any grant, contract, cooperative agreement, interagency agreement, or other transaction entered into between the Secretary and an appropriate entity under paragraph (1) shall not exceed $1,000,000.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Report</heading>
+<content>
+<p class="indent2">An appropriate entity that receives funds from a grant, contract, cooperative agreement, interagency agreement, or other transaction entered into between the Secretary and the appropriate entity under paragraph (1) shall submit to the Secretary a report describing the results of the demonstration, research, or methodology development project conducted by the appropriate entity.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">There is authorized to be appropriated to carry out subsections (a) through (d) $2,000,000 for each of fiscal years 2009 through 2011, to remain available until expended.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Demonstration, research, and methodology development projects</heading>
+<content>
+<p class="indent1">There is authorized to be appropriated to carry out subsection (e) $10,000,000 for the period of fiscal years 2009 through 2013, to remain available until expended.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9506</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1338</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10367.</num>
+<heading> Water data enhancement by United States Geological Survey</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Federal priority streamgage program</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary, in consultation with the Advisory Committee and the Panel and consistent with this section, shall proceed with implementation of the Federal priority streamgage program.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent1">In conducting the Federal priority streamgage program, the Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> measure streamflow and related environmental variables in nationally significant watersheds—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in a reliable and continuous manner; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to develop a comprehensive source of information on which public and private decisions relating to the management of water resources may be based;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> provide for a better understanding of hydrologic extremes (including floods and droughts) through the conduct of intensive data collection activities during and following hydrologic extremes;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> establish a base network that provides resources that are necessary for—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the monitoring of long-term changes in streamflow; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the conduct of assessments to determine the extent to which each long-term change monitored under clause (i) is related to global climate change;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> integrate the Federal priority streamgage program with data collection activities of Federal agencies and appropriate State water resource agencies (including the National Integrated Drought Information System)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to enhance the comprehensive understanding of water availability;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to improve flood-hazard assessments;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> to identify any data gap with respect to water resources; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> to improve hydrologic forecasting; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> incorporate principles of adaptive management in the conduct of periodic reviews of information collected under the Federal priority streamgage program to assess whether the objectives of the Federal priority streamgage program are being adequately addressed.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Improved methodologies</heading>
+<chapeau class="indent1">The Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> improve methodologies relating to the analysis and delivery of data; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> investigate, develop, and implement new methodologies and technologies to estimate or measure streamflow in a more cost-efficient manner.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Network enhancement</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">Not later than 10 years after <date date="2023-03-30">March 30, 2023</date>, in accordance with subparagraph (B), the Secretary shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> increase the number of streamgages funded by the national streamflow information program to a quantity of not less than 4,700 sites; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> ensure all streamgages are flood-hardened and equipped with precipitation water-quality sensors and modernized telemetry.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Requirements of sites</heading>
+<content>
+<p class="indent2">Each site described in subparagraph (A) shall conform with the Federal needs established through regular solicitation of feedback, such as that documented in the report titled “Re-prioritization of the U.S. Geological Survey Federal Priority streamgage program, 2022” <ref class="footnoteRef" idref="fn003961">1</ref> (Open-file Report 2023–1032).</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Federal share</heading>
+<content>
+<p class="indent1">The Federal share of the Federal priority streamgage network established pursuant to this subsection shall be 100 percent of the cost of carrying out the Federal priority streamgage network.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Except as provided in subparagraph (B), there are authorized to be appropriated such sums as are necessary to operate the Federal priority streamgage program for the period of fiscal years 2009 through 2028, to remain available until expended.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Network enhancement funding</heading>
+<content>
+<p class="indent2">There is authorized to be appropriated to carry out the network enhancements described in paragraph (4) $10,000,000 for each of fiscal years 2009 through 2028, to remain available until expended.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> National groundwater resources monitoring</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary shall develop a systematic groundwater monitoring program for each major aquifer system located in the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Program elements</heading>
+<chapeau class="indent1">In developing the monitoring program described in paragraph (1), the Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> establish appropriate criteria for monitoring wells to ensure the acquisition of long-term, high-quality data sets, including, to the maximum extent possible, the inclusion of real-time instrumentation and reporting;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> in coordination with the Advisory Committee and State and local water resource agencies and Tribes—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> assess the current scope of groundwater monitoring based on the access availability and capability of each monitoring well in existence as of <date date="2009-03-30">March 30, 2009</date>; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> develop and carry out a monitoring plan that maximizes coverage for each major aquifer system that is located in the United States; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> prior to initiating any specific monitoring activities within a State or Tribal lands after <date date="2009-03-30">March 30, 2009</date>, consult and coordinate with the applicable State water resource agency or Tribe with jurisdiction over the aquifer that is the subject of the monitoring activities, and comply with all applicable laws (including regulations) of the State.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Program objectives</heading>
+<chapeau class="indent1">In carrying out the monitoring program described in paragraph (1), the Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> provide data that is necessary for the improvement of understanding with respect to surface water and groundwater interactions;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> by expanding the network of monitoring wells to reach each climate division, support the groundwater climate response network to improve the understanding of the effects of global climate change on groundwater recharge and availability; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> support the objectives of the assessment program.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Improved methodologies</heading>
+<chapeau class="indent1">The Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> improve methodologies relating to the analysis and delivery of data; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> investigate, develop, and implement new methodologies and technologies to estimate or measure groundwater recharge, discharge, and storage in a more cost-efficient manner.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Federal share</heading>
+<content>
+<p class="indent1">The Federal share of the monitoring program described in paragraph (1) may be 100 percent of the cost of carrying out the monitoring program.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Priority</heading>
+<content>
+<p class="indent1">In selecting monitoring activities consistent with the monitoring program described in paragraph (1), the Secretary shall give priority to those activities for which a State, a Tribe or local governmental entity agrees to provide for a substantial share of the cost of establishing or operating a monitoring well or other measuring device to carry out a monitoring activity.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent1">There are authorized to be appropriated $4,000,000 per fiscal year to carry out this subsection for the period of fiscal years 2023 through 2028, to remain available until expended.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Improved water estimation, measurement, and monitoring technologies</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Authority of Secretary</heading>
+<chapeau class="indent1">The Secretary may provide grants on a nonreimbursable basis to appropriate entities with expertise in water resource data acquisition and reporting, including Federal agencies, the Water Resources Research Institutes and other academic institutions, and private entities, to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> investigate, develop, and implement new methodologies and technologies to estimate or measure water resources data in a cost-efficient manner; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> improve methodologies relating to the analysis and delivery of data.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Priority</heading>
+<chapeau class="indent1">In providing grants to appropriate entities under paragraph (1), the Secretary shall give priority to appropriate entities that propose the development of new methods and technologies for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> predicting and measuring streamflows;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> estimating changes in the storage of groundwater;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> improving data standards and methods of analysis (including the validation of data entered into geographic information system databases);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> measuring precipitation and potential evapotranspiration; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> water withdrawals, return flows, and consumptive use.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Partnerships</heading>
+<content>
+<p class="indent1">In recognition of the value of collaboration to foster innovation and enhance research and development efforts, the Secretary shall encourage partnerships, including public-private partnerships, between and among Federal agencies, academic institutions, and private entities to promote the objectives described in paragraph (1).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent1">There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2009 through 2028.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9507</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1339</ref>; <ref>Pub. L. 118–174, § 2</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 2602</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10368.</num>
+<heading> National water availability and use assessment program</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent0">The Secretary, in coordination with the Advisory Committee and State and local water resource agencies, shall establish a national assessment program to be known as the “national water availability and use assessment program”—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to provide a more accurate assessment of the status of the water resources of the United States;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to assist in the determination of the quantity of water that is available for beneficial uses;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to assist in the determination of the quality of the water resources of the United States;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> to identify long-term trends in water availability;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> to use each long-term trend described in paragraph (4) to provide a more accurate assessment of the change in the availability of water in the United States; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> to develop the basis for an improved ability to forecast the availability of water for future economic, energy production, and environmental uses.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Program elements</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Water use</heading>
+<chapeau class="indent1">In carrying out the assessment program, the Secretary shall conduct any appropriate activity to carry out an ongoing assessment of water use in hydrologic accounting units and major aquifer systems located in the United States, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the maintenance of a comprehensive national water use inventory to enhance the level of understanding with respect to the effects of spatial and temporal patterns of water use on the availability and sustainable use of water resources;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the incorporation of water use science principles, with an emphasis on applied research and statistical estimation techniques in the assessment of water use;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the integration of any dataset maintained by any other Federal or State agency into the dataset maintained by the Secretary; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> a focus on the scientific integration of any data relating to water use, water flow, or water quality to generate relevant information relating to the impact of human activity on water and ecological resources.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Water availability</heading>
+<chapeau class="indent1">In carrying out the assessment program, the Secretary shall conduct an ongoing assessment of water availability by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> developing and evaluating nationally consistent indicators that reflect each status and trend relating to the availability of water resources in the United States, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> surface water indicators, such as streamflow and surface water storage measures (including lakes, reservoirs, perennial snowfields, and glaciers);</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> groundwater indicators, including groundwater level measurements and changes in groundwater levels due to—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> natural recharge;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> withdrawals;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> saltwater intrusion;</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> mine dewatering;</content>
+</subclause>
+<subclause class="indent4">
+<num>(V)</num>
+<content> land drainage;</content>
+</subclause>
+<subclause class="indent4">
+<num>(VI)</num>
+<content> artificial recharge; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(VII)</num>
+<content> other relevant factors, as determined by the Secretary; and</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> impaired surface water and groundwater supplies that are known, accessible, and used to meet ongoing water demands;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> maintaining a national database of water availability data that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> is comprised of maps, reports, and other forms of interpreted data;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> provides electronic access to the archived data of the national database; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> provides for real-time data collection; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> developing and applying predictive modeling tools that integrate groundwater, surface water, and ecological systems.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Grant program</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Authority of Secretary</heading>
+<chapeau class="indent1">The Secretary may provide grants to State water resource agencies to assist State water resource agencies in—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> developing water use and availability datasets that are integrated with each appropriate dataset developed or maintained by the Secretary; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> integrating any water use or water availability dataset of the State water resource agency into each appropriate dataset developed or maintained by the Secretary.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Criteria</heading>
+<chapeau class="indent1">To be eligible to receive a grant under paragraph (1), a State water resource agency shall demonstrate to the Secretary that the water use and availability dataset proposed to be established or integrated by the State water resource agency—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is in compliance with each quality and conformity standard established by the Secretary to ensure that the data will be capable of integration with any national dataset; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> will enhance the ability of the officials of the State or the State water resource agency to carry out each water management and regulatory responsibility of the officials of the State in accordance with each applicable law of the State.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Maximum amount</heading>
+<content>
+<p class="indent1">The amount of a grant provided to a State water resource agency under paragraph (1) shall be an amount not more than $250,000.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Report</heading>
+<chapeau class="indent0">Not later than <date date="2012-12-31">December 31, 2012</date>, and every 5 years thereafter, the Secretary shall submit to the appropriate committees of Congress a report that provides a detailed assessment of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> the current availability of water resources in the United States, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> historic trends and annual updates of river basin inflows and outflows;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> surface water storage;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> groundwater reserves; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> estimates of undeveloped potential resources (including saline and brackish water and wastewater);</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> significant trends affecting water availability, including each documented or projected impact to the availability of water as a result of global climate change;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> the withdrawal and use of surface water and groundwater by various sectors, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the agricultural sector;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> municipalities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the industrial sector;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> thermoelectric power generators; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> hydroelectric power generators;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> significant trends relating to each water use sector, including significant changes in water use due to the development of new energy supplies;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> significant water use conflicts or shortages that have occurred or are occurring; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> each factor that has caused, or is causing, a conflict or shortage described in paragraph (5).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">There is authorized to be appropriated to carry out subsections (a), (b), and (d) $20,000,000 for each of fiscal years 2009 through 2023, to remain available until expended.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Grant program</heading>
+<content>
+<p class="indent1">There is authorized to be appropriated to carry out subsection (c) $12,500,000 for the period of fiscal years 2009 through 2013, to remain available until expended.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9508</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1343</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10369.</num>
+<heading> Research agreement authority</heading>
+<content>
+<p class="indent0">The Secretary may enter into contracts, grants, or cooperative agreements, for periods not to exceed 5 years, to carry out research within the Bureau of Reclamation.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9509</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1346</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10370.</num>
+<heading> Effect</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">Nothing in this chapter supersedes or limits any existing authority provided, or responsibility conferred, by any provision of law.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Effect on State water law</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Nothing in this chapter preempts or affects any—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> State water law; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> interstate compact governing water.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Compliance required</heading>
+<content>
+<p class="indent1">The Secretary shall comply with applicable State water laws in carrying out this chapter.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–11, title IX, § 9510</ref>, <date date="2009-03-30">Mar. 30, 2009</date>, <ref>123 Stat. 1346</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 10371.</num>
+<heading> Water prediction and forecasting</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> National Water Center</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Establishment</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The Under Secretary of Commerce for Oceans and Atmosphere shall establish a center—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to serve as the research and operational center of excellence for hydrologic analyses, forecasting, and related decision support services within the National Oceanic and Atmospheric Administration and the National Weather Service; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to facilitate collaboration across Federal and State departments and agencies, academia, and the private sector on matters relating to water resources.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Designation</heading>
+<content>
+<p class="indent2">The center established under subparagraph (A) shall be known as the “National Water Center”.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Functions</heading>
+<chapeau class="indent1">The functions of the National Water Center shall include the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Improving understanding of water resources, stakeholder needs regarding water resources, and identifying science and services gaps relating to water resources.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Developing and implementing advanced water resources modeling capabilities.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Facilitating the transition of hydrologic research into operations.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Delivering analyses, forecasts, and inundation information and guidance for all hydrologic events in the United States, including flash flooding, riverine flooding, and water resources outlooks.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> In coordination with warning coordination meteorologists, providing decision-support services to inform emergency management and water resources decisions.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> National instructions</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than one year after <date date="2020-12-31">December 31, 2020</date>, the Under Secretary, acting through the Director of the National Weather Service, shall make public an operations and services policy directive for the National Water Center.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Contents</heading>
+<chapeau class="indent1">The directive required by paragraph (1) shall include national instructions to perform the functions of the National Water Center, including the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Operational staff responsibilities.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Guidelines for content, format, and provision of hydrologic and inundation products developed by the National Water Center.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Procedures for cooperation and coordination between the National Water Center, the National Weather Service National Centers for Environmental Prediction, National Weather Service River Forecast Centers, and National Weather Service Weather Forecast Offices.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Total water prediction</heading>
+<chapeau class="indent0">The Under Secretary, acting through the Director of the Office of Water Prediction of the National Weather Service, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> initiate and lead research and development activities to develop operational water resource prediction and related decision support products;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> collaborate with, and provide decision support regarding total water prediction to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the relevant Federal agencies represented on the National Science and Technology Council, Committee on Environment, Natural Resources, and Sustainability and the Subcommittee on Disaster Reduction;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> State water resource agencies; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> State and local emergency management agencies; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> in carrying out the responsibilities described in paragraphs (1) and (2), collaboratively develop capabilities necessary for total water predictive capacity, including observations, modeling, data management, supercomputing, social science, and communications.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent0">There are authorized to be appropriated to carry out the activities under this section amounts as follows:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> $44,500,000 for fiscal year 2021.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $45,000,000 for fiscal year 2022.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> $45,500,000 for fiscal year 2023.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> $46,000,000 for fiscal year 2024.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Derivation of funds</heading>
+<content>
+<p class="indent0">Funds to carry out this section shall be derived from amounts authorized to be appropriated to the National Weather Service and the National Ocean Service that are enacted after <date date="2020-12-31">December 31, 2020</date>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 116–271, title III, § 301</ref>, <date date="2020-12-31">Dec. 31, 2020</date>, <ref>134 Stat. 3347</ref>.)</sourceCredit>
+</section>
+</chapter>

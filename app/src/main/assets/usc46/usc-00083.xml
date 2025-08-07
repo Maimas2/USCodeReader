@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 535—</num>
+<heading>CAPITAL CONSTRUCTION FUNDS</heading>
+<section>
+<num>§ 53501.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Agreement vessel</inline>.—</heading>
+<chapeau>The term “agreement vessel” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an eligible vessel or a qualified vessel that is subject to an agreement under this chapter; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a barge or container that is part of the complement of a vessel described in subparagraph (A) if provided for in the agreement.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Eligible vessel</inline>.—</heading>
+<chapeau>The term “eligible vessel” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> a vessel—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> constructed in the United States (and, if reconstructed, reconstructed in the United States), constructed outside the United States but documented under the laws of the United States on <date date="1970-04-15">April 15, 1970</date>, or constructed outside the United States for use in the United States foreign trade pursuant to a contract made before <date date="1970-04-15">April 15, 1970</date>;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> documented under the laws of the United States; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> operated in the foreign or domestic trade of the United States or in the fisheries of the United States; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> a commercial fishing vessel—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> constructed in the United States and, if reconstructed, reconstructed in the United States;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> of at least 2 net tons but less than 5 net tons;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> owned by a citizen of the United States;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> having its home port in the United States; and</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> operated in the commercial fisheries of the United States.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Joint regulations</inline>.—</heading>
+<content>The term “joint regulations” means regulations prescribed jointly by the Secretary and the Secretary of the Treasury under <ref>section 53502(b) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Noncontiguous trade</inline>.—</heading>
+<chapeau>The term “noncontiguous trade” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> trade between—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> one of the contiguous 48 States; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> Alaska, Hawaii, Puerto Rico, or an insular territory or possession of the United States; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> trade between—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a place in Alaska, Hawaii, Puerto Rico, or an insular territory or possession of the United States; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> another place in Alaska, Hawaii, Puerto Rico, or an insular territory or possession of the United States.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Qualified vessel</inline>.—</heading>
+<chapeau>The term “qualified vessel” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> a vessel—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> constructed in the United States (and, if reconstructed, reconstructed in the United States), constructed outside the United States but documented under the laws of the United States on <date date="1970-04-15">April 15, 1970</date>, or constructed outside the United States for use in the United States foreign trade pursuant to a contract made before <date date="1970-04-15">April 15, 1970</date>;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> documented under the laws of the United States; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> agreed, between the Secretary and the person maintaining the capital construction fund established under <ref>section 53503 of this title</ref>, to be operated in the foreign or domestic trade of the United States or in the fisheries of the United States; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> a commercial fishing vessel—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> constructed in the United States and, if reconstructed, reconstructed in the United States;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> of at least 2 net tons but less than 5 net tons;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> owned by a citizen of the United States;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> having its home port in the United States; and</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> operated in the commercial fisheries of the United States.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Secretary</inline>.—</heading>
+<chapeau>The term “Secretary” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Secretary of Commerce with respect to an eligible vessel or a qualified vessel operated or to be operated in the fisheries of the United States; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Secretary of Transportation with respect to other vessels.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<heading><inline class="small-caps">Short sea transportation trade</inline>.—</heading>
+<chapeau>The term “short sea transportation trade” means the carriage by vessel of cargo—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> that is—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> contained in intermodal cargo containers and loaded by crane on the vessel; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> loaded on the vessel by means of wheeled technology; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> that is—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada located in the Great Lakes Saint Lawrence Seaway System; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<heading><inline class="small-caps">United states foreign trade</inline>.—</heading>
+<content>The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<heading><inline class="small-caps">Vessel</inline>.—</heading>
+<chapeau>The term “vessel” includes—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> cargo handling equipment that the Secretary determines is intended for use primarily on the vessel; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an ocean-going towing vessel, an ocean-going barge, or a comparable towing vessel or barge operated on the Great Lakes.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1591</ref>; <ref>Pub. L. 110–140, title XI, § 1122(a)</ref>, <date date="2007-12-19">Dec. 19, 2007</date>, <ref>121 Stat. 1762</ref>; <ref>Pub. L. 115–232, div. C, title XXXV, § 3546(q)</ref>, <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 2327</ref>; <ref>Pub. L. 117–263, div. C, title XXXV, § 3544</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 3100</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53502.</num>
+<heading> Regulations</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>Except as provided in subsection (b), the Secretary shall prescribe regulations to carry out this chapter.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Tax Liability</inline>.—</heading>
+<content>The Secretary and the Secretary of the Treasury shall prescribe joint regulations for the determination of tax liability under this chapter.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1593</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53503.</num>
+<heading> Establishing a capital construction fund</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>A citizen of the United States owning or leasing an eligible vessel may make an agreement with the Secretary under this chapter to establish a capital construction fund for the vessel.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Allowable Purpose</inline>.—</heading>
+<content>The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the foreign or domestic trade of the United States or in the fisheries of the United States.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1593</ref>; <ref>Pub. L. 110–140, title XI, § 1122(b)</ref>, <date date="2007-12-19">Dec. 19, 2007</date>, <ref>121 Stat. 1762</ref>; <ref>Pub. L. 117–263, div. C, title XXXV, § 3545</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 3100</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53504.</num>
+<heading> Deposits and withdrawals</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Required Deposits</inline>.—</heading>
+<content>An agreement to establish a capital construction fund shall provide for the deposit in the fund of the amounts agreed to be appropriate to provide for qualified withdrawals under <ref>section 53509 of this title</ref>.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Applicable Requirements</inline>.—</heading>
+<content>Deposits in and withdrawals from the fund are subject to the requirements included in the agreement or prescribed by the Secretary by regulation. However, the Secretary may not require a person to deposit in the fund for a taxable year more than 50 percent of that portion of the person’s taxable income for that year (as determined under <ref>section 53505(a)(1) of this title</ref>) that is attributable to the operation of an agreement vessel.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1593</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53505.</num>
+<heading> Ceiling on deposits</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Maximum Deposits</inline>.—</heading>
+<chapeau>The amount deposited in a capital construction fund for a taxable year may not exceed the sum of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> that portion of the taxable income of the owner or lessee for the taxable year (computed under chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. ch. 1) but without regard to the carryback of net operating loss or net capital loss or this chapter) that is attributable to the operation of agreement vessels in the foreign or domestic trade of the United States or in the fisheries of the United States;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the amount allowable as a deduction under section 167 of such Code (<ref>26 U.S.C. 167</ref>) for the taxable year for agreement vessels;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> if the transaction is not taken into account for purposes of paragraph (1), the net proceeds (as defined in joint regulations) from the disposition of an agreement vessel or from insurance or indemnity attributable to an agreement vessel; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the receipts from the investment or reinvestment of amounts held in the fund.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Reductions for Lessees</inline>.—</heading>
+<content>For a lessee, the maximum amount that may be deposited for an agreement vessel under subsection (a)(2) for any period shall be reduced by any amount the owner is required or permitted, under the capital construction fund agreement, to deposit for that period for the vessel under subsection (a)(2).</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1593</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53506.</num>
+<heading> Investment and fiduciary requirements</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>Amounts in a capital construction fund shall be kept in the depository specified in the agreement and shall be subject to trustee and other fiduciary requirements prescribed by the Secretary. Except as provided in subsection (b), amounts in the fund may be invested only in interest-bearing securities approved by the Secretary.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Stock Investments</inline>.—</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>With the approval of the Secretary, an agreed percentage (but not more than 60 percent) of the assets of the fund may be invested in the stock of domestic corporations that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> would be acquired by a prudent investor seeking a reasonable income and the preservation of capital.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Preferred stock</inline>.—</heading>
+<content>The preferred stock of a corporation is deemed to satisfy the requirements of this subsection, even though it may not be registered and listed because it is nonvoting stock, if the common stock of the corporation satisfies the requirements and the preferred stock otherwise would satisfy the requirements.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Maintaining Agreed Percentage</inline>.—</heading>
+<content>If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in a way that tends to restore the fair market value of the stock to not more than the agreed percentage.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1594</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53507.</num>
+<heading> Nontaxation of deposits</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Tax Treatment</inline>.—</heading>
+<chapeau>Subject to subsection (b), under the Internal Revenue Code of 1986 (<ref>26 U.S.C. 1</ref> et seq.)—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> taxable income (determined without regard to this chapter and section 7518 of such Code (<ref>26 U.S.C. 7518</ref>)) for the taxable year shall be reduced by the amount deposited for the taxable year out of amounts referred to in <ref>section 53505(a)(1) of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a gain from a transaction referred to in <ref>section 53505(a)(3) of this title</ref> shall not be taken into account if an amount equal to the net proceeds (as defined in joint regulations) from the transaction is deposited in the fund;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the earnings (including gains and losses) from the investment and reinvestment of amounts held in the fund shall not be taken into account;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the earnings and profits of a corporation (within the meaning of section 316 of such Code (<ref>26 U.S.C. 316</ref>)) shall be determined without regard to this chapter and section 7518 of such Code (<ref>26 U.S.C. 7518</ref>); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> in applying the tax imposed by section 531 of such Code (<ref>26 U.S.C. 531</ref>), amounts held in the fund shall not be taken into account.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Condition</inline>.—</heading>
+<content>This section applies to an amount only if the amount is deposited in the fund under the agreement within the time provided in joint regulations.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1594</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53508.</num>
+<heading> Separate accounts within a fund</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<chapeau>A capital construction fund shall have three accounts:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The capital account.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The capital gain account.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The ordinary income account.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Capital Account</inline>.—</heading>
+<chapeau>The capital account shall consist of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> amounts referred to in <ref>section 53505(a)(2) of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> amounts referred to in <ref>section 53505(a)(3) of this title</ref>, except that portion representing a gain not taken into account because of <ref>section 53507(a)(2) of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the percentage applicable under section 243(a)(1) of the Internal Revenue Code of 1986 (<ref>26 U.S.C. 243(a)(1)</ref>) of any dividend received by the fund for which the person maintaining the fund would be allowed (were it not for <ref>section 53507(a)(3) of this title</ref>) a deduction under section 243 of such Code (<ref>26 U.S.C. 243</ref>); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> interest income exempt from taxation under section 103 of such Code (<ref>26 U.S.C. 103</ref>).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Capital Gain Account</inline>.—</heading>
+<chapeau>The capital gain account shall consist of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> amounts representing capital gains on assets held for more than 6 months and referred to in section 53505(a)(3) or (4) of this title; minus</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> amounts representing capital losses on assets held in the fund for more than 6 months.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Ordinary Income Account</inline>.—</heading>
+<chapeau>The ordinary income account shall consist of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> amounts referred to in <ref>section 53505(a)(1) of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> amounts representing capital gains on assets held for not more than 6 months and referred to in section 53505(a)(3) or (4) of this title; minus</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> amounts representing capital losses on assets held in the fund for not more than 6 months;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> interest (except tax-exempt interest referred to in subsection (b)(4)) and other ordinary income (except any dividend referred to in paragraph (5)) received on assets held in the fund;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> ordinary income from a transaction described in <ref>section 53505(a)(3) of this title</ref>; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> that portion of any dividend referred to in subsection (b)(3) not taken into account under subsection (b)(3).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">When Losses Allowed</inline>.—</heading>
+<content>Except on termination of a fund, capital losses referred to in subsection (c) or (d)(2) shall be allowed only as an offset to gains referred to in subsection (c) or (d)(2), respectively.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1595</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53509.</num>
+<heading> Qualified withdrawals</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<chapeau>Subject to subsection (b), a withdrawal from a capital construction fund is a qualified withdrawal if it is made under the terms of the agreement and is for—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the acquisition, construction, or reconstruction of a qualified vessel or a barge or container that is part of the complement of a qualified vessel; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the payment of the principal on indebtedness incurred in the acquisition, construction, or reconstruction of a qualified vessel or a barge or container that is part of the complement of a qualified vessel.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Barges and Containers</inline>.—</heading>
+<content>Except as provided in regulations prescribed by the Secretary, subsection (a) applies to a barge or container only if it is constructed in the United States.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Treatment as Nonqualified Withdrawal</inline>.—</heading>
+<content>Under joint regulations, if the Secretary determines that a substantial obligation under an agreement is not being fulfilled, the Secretary, after notice and opportunity for a hearing to the person maintaining the fund, may treat any amount in the fund as an amount withdrawn from the fund in a nonqualified withdrawal.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1596</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53510.</num>
+<heading> Tax treatment of qualified withdrawals and basis of property</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Order of Withdrawals</inline>.—</heading>
+<chapeau>A qualified withdrawal from a capital construction fund shall be treated as made—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> first from the capital account;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> second from the capital gain account; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> third from the ordinary income account.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Ordinary Income Account Withdrawals</inline>.—</heading>
+<content>If a portion of a qualified withdrawal for a vessel, barge, or container is made from the ordinary income account, the basis of the vessel, barge, or container shall be reduced by an amount equal to that portion.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Capital Gain Account Withdrawals</inline>.—</heading>
+<content>If a portion of a qualified withdrawal for a vessel, barge, or container is made from the capital gain account, the basis of the vessel, barge, or container shall be reduced by an amount equal to that portion.</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Withdrawals To Pay Principal</inline>.—</heading>
+<content>If a portion of a qualified withdrawal to pay the principal on indebtedness is made from the ordinary income account or the capital gain account, an amount equal to the total reduction that would be required by subsections (b) and (c) if the withdrawal were a qualified withdrawal for a purpose described in those subsections shall be applied, in the order provided in joint regulations, to reduce the basis of vessels, barges, and containers owned by the person maintaining the fund. The remaining amount of the withdrawal shall be treated as a nonqualified withdrawal.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Gain on Property With Reduced Basis</inline>.—</heading>
+<content>If property, the basis of which was reduced under subsection (b), (c), or (d), is disposed of, any gain realized on the disposition, to the extent it does not exceed the total reduction in the basis of the property under those subsections, shall be treated as an amount referred to in <ref>section 53511(c)(1) of this title</ref> withdrawn on the date of disposition of the property. Subject to conditions prescribed in joint regulations, this subsection does not apply to a disposition if there is a redeposit, in an amount determined under joint regulations, that restores the fund as far as practicable to the position it was in before the withdrawal.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1596</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53511.</num>
+<heading> Tax treatment of nonqualified withdrawals</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>Except as provided in <ref>section 53513 of this title</ref>, a withdrawal from a fund that is not a qualified withdrawal shall be treated as a nonqualified withdrawal.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Order of Withdrawals</inline>.—</heading>
+<chapeau>A nonqualified withdrawal shall be treated as made—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> first from the ordinary income account;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> second from the capital gain account; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> third from the capital account.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Tax Treatment</inline>.—</heading>
+<chapeau>For purposes of the Internal Revenue Code of 1986 (<ref>26 U.S.C. 1</ref> et seq.)—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a nonqualified withdrawal from the ordinary income account shall be included in income as an item of ordinary income for the taxable year in which the withdrawal is made;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a nonqualified withdrawal from the capital gain account shall be included in income for the taxable year in which the withdrawal is made as an item of gain realized during that year from the disposition of an asset held for more than 6 months; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> for the period through the last date prescribed for payment of tax for the taxable year in which the withdrawal is made—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> no interest shall be payable under section 6601 of such Code (<ref>26 U.S.C. 6601</ref>) and no addition to the tax shall be payable under section 6651 of such Code (<ref>26 U.S.C. 6651</ref>);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> interest on the amount of the additional tax attributable to an amount treated as a nonqualified withdrawal from the ordinary income account or the capital gain account shall be paid at the rate determined under subsection (d) from the last date prescribed for payment of the tax for the taxable year for which the amount was deposited in the fund; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> no interest shall be payable on amounts treated as withdrawn on a last-in-first-out basis under <ref>section 53512 of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Interest Rate</inline>.—</heading>
+<chapeau>The rate of interest under subsection (c)(3)(B) for a nonqualified withdrawal made in a taxable year beginning after 1971 shall be determined and published jointly by the Secretary and the Secretary of the Treasury. The rate shall be such that its relationship to 8 percent is comparable, as determined by the Secretaries under joint regulations, to the relationship between—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the money rates and investment yields for the calendar year immediately before the beginning of the taxable year; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the money rates and investment yields for the calendar year 1970.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Nonqualified Withdrawals</inline>.—</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>The following applicable percentage of any amount that remains in a capital construction fund at the close of the following specified taxable year following the taxable year for which the amount was deposited shall be treated as a nonqualified withdrawal:<table width="50%" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col/><col/></colgroup><thead><tr class="header"><th><p><b> If the amount remains in the fund at</b></p><p><b>  the close of the—</b></p></th><th><p><b>The applicable percentage is—</b></p></th></tr></thead><tbody><tr><td><p class="leaders"><span>26th taxable year</span></p></td><td><p>20 percent  </p></td></tr><tr><td><p class="leaders"><span>27th taxable year</span></p></td><td><p>40 percent  </p></td></tr><tr><td><p class="leaders"><span>28th taxable year</span></p></td><td><p>60 percent  </p></td></tr><tr><td><p class="leaders"><span>29th taxable year</span></p></td><td><p>80 percent  </p></td></tr><tr><td><p class="leaders"><span>30th taxable year</span></p></td><td><p>100 percent.</p></td></tr></tbody></table>
+</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Earnings</inline>.—</heading>
+<content>The earnings of a capital construction fund for any taxable year (except net gains) shall be treated under this subsection as an amount deposited for the taxable year.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Contract for qualified withdrawal</inline>.—</heading>
+<content>Under paragraph (1), an amount shall not be treated as remaining in a capital construction fund at the close of a taxable year to the extent there is a binding contract at the close of the taxable year for a qualified withdrawal of the amount for an identified item for which the withdrawal may be made.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Excess earnings</inline>.—</heading>
+<content>If the Secretary determines that the balance in a capital construction fund exceeds the amount appropriate to meet the vessel construction program objectives of the person that established the fund, the amount of the excess shall be treated as a nonqualified withdrawal under paragraph (1) unless the person develops appropriate program objectives within 3 years to dissipate the excess.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Amounts in fund on <date date="1987-01-01">january 1, 1987</date></inline>.—</heading>
+<content>Under this subsection, amounts in a capital construction fund on <date date="1987-01-01">January 1, 1987</date>, shall be treated as having been deposited in that fund on that date.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Tax Determinations</inline>.—</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>For a taxable year for which there is a nonqualified withdrawal (including an amount treated as a nonqualified withdrawal under subsection (e)), the tax imposed by chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. ch. 1) shall be determined by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> excluding the withdrawal from gross income; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> increasing the tax imposed by chapter 1 of such Code by the product of the amount of the withdrawal and the highest tax rate specified in section 1 (or section 11 for a corporation) of such Code (<ref>26 U.S.C. 1</ref>, 11).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Maximum tax rate</inline>.—</heading>
+<content>For that portion of a nonqualified withdrawal made from the capital gain account during a taxable year to which section 1(h) or 1201(a) <ref class="footnoteRef" idref="fn002037">1</ref> of such Code (<ref>26 U.S.C. 1(h)</ref>, 1201(a)) applies, the tax rate used under paragraph (1)(B) may not exceed 20 percent (or 34 percent for a corporation).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Tax benefit rule</inline>.—</heading>
+<chapeau>If any portion of a nonqualified withdrawal is properly attributable to deposits (except earnings on deposits) made by the taxpayer in a taxable year that did not reduce the taxpayer’s liability for tax under chapter 1 of such Code (26 U.S.C. ch. 1) for a taxable year before the taxable year in which the withdrawal occurs—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> that portion shall not be taken into account under paragraph (1); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an amount equal to that portion shall be allowed as a deduction under section 172 of such Code (<ref>26 U.S.C. 172</ref>) for the taxable year in which the withdrawal occurs.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Coordination with deduction for net operating losses</inline>.—</heading>
+<content>A nonqualified withdrawal excluded from gross income under paragraph (1) shall be excluded in determining taxable income under section 172(b)(2) of such Code (<ref>26 U.S.C. 172(b)(2)</ref>).</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1597</ref>; <ref>Pub. L. 112–240, title I, § 102(c)(1)(E)</ref>, <date date="2013-01-02">Jan. 2, 2013</date>, <ref>126 Stat. 2319</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53512.</num>
+<heading> FIFO and LIFO withdrawals</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">FIFO</inline>.—</heading>
+<content>Except as provided in subsection (b), an amount withdrawn from an account under this chapter shall be treated as withdrawn on a first-in-first-out basis.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">LIFO</inline>.—</heading>
+<chapeau>An amount withdrawn from an account under this chapter shall be treated as withdrawn on a last-in-first-out basis if it is—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a nonqualified withdrawal for research, development, and design expenses incident to new and advanced vessel design, machinery, and equipment; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> an amount treated as a nonqualified withdrawal under <ref>section 53510(d) of this title</ref>.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1599</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53513.</num>
+<heading> Corporate reorganizations and partnership changes</heading>
+<chapeau class="indent0">Under joint regulations—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a transfer of a capital construction fund from one person to another person in a transaction to which section 381 of the Internal Revenue Code of 1986 (<ref>26 U.S.C. 381</ref>) applies may be treated as if the transaction is not a nonqualified withdrawal; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a similar rule shall be applied to a continuation of a partnership (within the meaning of subchapter K of chapter 1 of such Code (<ref>26 U.S.C. 701</ref> et seq.)).</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1599</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53514.</num>
+<heading> Relationship of old fund to new fund</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Definition</inline>.—</heading>
+<content>In this section, the term “old fund” means a capital construction fund maintained before <date date="1970-10-21">October 21, 1970</date>.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Election To Maintain Old Fund</inline>.—</heading>
+<chapeau>A person maintaining an old fund may elect to continue the old fund, but may not—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> hold amounts in the old fund beyond the expiration date provided in the agreement under which the old fund is maintained (determined without regard to an extension or renewal made after <date date="1970-04-14">April 14, 1970</date>); or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> maintain simultaneously the old fund and a new fund established under this chapter.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Application of New Fund Agreement to Old Fund Amounts</inline>.—</heading>
+<content>If a person makes an agreement under this chapter to establish a new fund, the person may agree to extend the agreement to some or all of the amounts in an old fund. Each item in the old fund to be transferred shall be transferred in a nontaxable transaction to the appropriate account in the new fund. For purposes of <ref>section 53511(c)(3) of this title</ref>, the date of the deposit of an item so transferred shall be <date date="1971-07-01">July 1, 1971</date>, or the date of the deposit in the old fund, whichever is later.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1599</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53515.</num>
+<heading> Records and reports</heading>
+<content>
+<p class="indent0">A person maintaining a fund under this chapter shall keep records and make reports as required by the Secretary or the Secretary of the Treasury.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1599</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53516.</num>
+<heading> Termination of agreement after change in regulations</heading>
+<content>
+<p class="indent0">If, after an agreement has been made under this chapter, a change is made either in the joint regulations or in the regulations prescribed by the Secretary under this chapter that could have a substantial effect on the rights or duties of a person maintaining a fund under this chapter, that person may terminate the agreement.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1600</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 53517.</num>
+<heading> Reports</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>Within 120 days after the close of each calendar year, the Secretary of Transportation and the Secretary of Commerce each shall provide the Secretary of the Treasury a written report on the capital construction funds under the particular Secretary’s jurisdiction for the calendar year.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Contents</inline>.—</heading>
+<chapeau>The report shall state the name and taxpayer identification number of each person—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> establishing a capital construction fund during the calendar year;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> maintaining a capital construction fund on the last day of the calendar year;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> terminating a capital construction fund during the calendar year;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> making a deposit to or withdrawal from a capital construction fund during the calendar year, and the amount of the deposit or withdrawal; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> having been determined during the calendar year to have failed to fulfill a substantial obligation under a capital construction fund agreement to which the person is a party.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–304, § 8(c)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1600</ref>.)</sourceCredit>
+</section>
+</chapter>

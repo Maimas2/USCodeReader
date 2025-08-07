@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 99—</num>
+<heading>MARITIME SECURITY AND FISHERIES ENFORCEMENT</heading>
+<section>
+<num>§ 8001.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> AIS</heading>
+<content>
+<p class="indent1">The term “AIS” means Automatic Identification System (as defined in section 164.46 of title 33, Code of Federal Regulations, or a similar successor regulation).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Combined Maritime Forces</heading>
+<content>
+<p class="indent1">The term “Combined Maritime Forces” means the 33-nation naval partnership, originally established in February 2002, which promotes security, stability, and prosperity across approximately 3,200,000 square miles of international waters.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Exclusive economic zone</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">Unless otherwise specified by the President as being in the public interest in a writing published in the Federal Register, the term “exclusive economic zone” means—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the area within a zone established by a maritime boundary that has been established by a treaty in force or a treaty that is being provisionally applied by the United States; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> in the absence of a treaty described in clause (i)—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> a zone, the outer boundary of which is 200 nautical miles from the baseline from which the breadth of the territorial sea is measured; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> if the distance between the United States and another country is less than 400 nautical miles, a zone, the outer boundary of which is represented by a line equidistant between the United States and the other country.</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Inner boundary</heading>
+<chapeau class="indent2">Without affecting any Presidential Proclamation with regard to the establishment of the United States territorial sea or exclusive economic zone, the inner boundary of the exclusive economic zone is—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in the case of coastal States, a line coterminous with the seaward boundary of each such State (as described in <ref>section 1312 of title 43</ref>);</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in the case of the Commonwealth of Puerto Rico, a line that is 3 marine leagues from the coastline of the Commonwealth of Puerto Rico;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> in the case of American Samoa, the United States Virgin Islands, Guam, and the Northern Mariana Islands, a line that is 3 geographic miles from the coastlines of American Samoa, the United States Virgin Islands, Guam, or the Northern Mariana Islands, respectively; or</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> for any possession of the United States not referred to in clause (ii) or (iii), the coastline of such possession.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent2">Nothing in this paragraph may be construed to diminish the authority of the Department of Defense, the Department of the Interior, or any other Federal department or agency.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Food security</heading>
+<content>
+<p class="indent1">The term “food security” means access to, and availability, utilization, and stability of, sufficient food to meet caloric and nutritional needs for an active and healthy life.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Global record of fishing vessels, refrigerated transport vessels, and supply vessels</heading>
+<content>
+<p class="indent1">The term “global record of fishing vessels, refrigerated transport vessels, and supply vessels” means the Food and Agriculture Organization of the United Nations’ initiative to rapidly make available certified data from state authorities about vessels and vessel related activities.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> IUU fishing</heading>
+<content>
+<p class="indent1">The term “IUU fishing” means illegal fishing, unreported fishing, or unregulated fishing (as such terms are defined in paragraph 3 of the International Plan of Action to Prevent, Deter, and Eliminate Illegal, Unreported and Unregulated Fishing, adopted at the 24th Session of the Committee on Fisheries in Rome on <date date="2001-03-02">March 2, 2001</date>).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Port State Measures Agreement</heading>
+<content>
+<p class="indent1">The term “Port State Measures Agreement” means the Agreement on Port State Measures to Prevent, Deter, and Eliminate Illegal, Unreported, and Unregulated Fishing set forth by the Food and Agriculture Organization of the United Nations, done at Rome, Italy <date date="2009-11-22">November 22, 2009</date>, and entered into force <date date="2016-06-05">June 5, 2016</date>, which offers standards for reporting and inspecting fishing activities of foreign-flagged fishing vessels at port.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Priority flag state</heading>
+<chapeau class="indent1">The term “priority flag state” means a country selected in accordance with <ref>section 8032(b)(3) of this title</ref>—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> whereby the flagged vessels of which actively engage in, knowingly profit from, or are complicit in IUU fishing; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> that is willing, but lacks the capacity, to monitor or take effective enforcement action against its fleet.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Priority region</heading>
+<chapeau class="indent1">The term “priority region” means a region selected in accordance with <ref>section 8032(b)(2) of this title</ref>—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> that is at high risk for IUU fishing activity or the entry of illegally caught seafood into the markets of countries in the region; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> in which countries lack the capacity to fully address the illegal activity described in subparagraph (A).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Regional Fisheries Management Organization</heading>
+<content>
+<p class="indent1">The term “Regional Fisheries Management Organization” means an intergovernmental fisheries organization or arrangement, as appropriate, that has the competence to establish conservation and management measures.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Seafood</heading>
+<chapeau class="indent1">The term “seafood”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> means marine finfish, mollusks, crustaceans, and all other forms of marine animal and plant life, including those grown, produced, or reared through marine aquaculture operations or techniques; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> does not include marine mammals, turtles, or birds.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Transnational organized illegal activity</heading>
+<content>
+<p class="indent1">The term “transnational organized illegal activity” means criminal activity conducted by self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, or monetary or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organizational structure and the exploitation of transnational commerce or communication mechanisms.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Transshipment</heading>
+<chapeau class="indent1">The term “transshipment” means the use of refrigerated vessels that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> collect catch from multiple fishing boats;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> carry the accumulated catches back to port; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> deliver supplies to fishing boats, which allows fishing vessels to remain at sea for extended periods without coming into port.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3532</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 1997</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8002.</num>
+<heading> Purposes</heading>
+<chapeau class="indent0">The purposes of this chapter are—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to support a whole-of-government approach across the Federal Government to counter IUU fishing and related threats to maritime security;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to improve data sharing that enhances surveillance, enforcement, and prosecution against IUU fishing and related activities at a global level;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to support coordination and collaboration to counter IUU fishing within priority regions;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> to increase and improve global transparency and traceability across the seafood supply chain as—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a deterrent to IUU fishing; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a tool for strengthening fisheries management and food security;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> to improve global enforcement operations against IUU fishing through a whole-of-government approach by the United States; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> to prevent the use of IUU fishing as a financing source for transnational organized groups that undermine United States and global security interests.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3533</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 1999</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8003.</num>
+<heading> Statement of policy</heading>
+<chapeau class="indent0">It is the policy of the United States_<ref class="footnoteRef" idref="fn002873">1</ref></chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to take action to curtail the global trade in seafood and seafood products derived from IUU fishing, including its links to forced labor and transnational organized illegal activity;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to develop holistic diplomatic, military, law enforcement, economic, and capacity-building tools to counter IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> to provide technical assistance to countries in priority regions and priority flag states to combat IUU fishing, including assistance—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to increase local, national, and regional level capacities to counter IUU fishing through the engagement of law enforcement and security forces;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to enhance port capacity and security, including by supporting other countries in working toward the adoption and implementation of the Port State Measures Agreement;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to combat corruption and increase transparency and traceability in fisheries management and trade;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> to enhance information sharing within and across governments and multilateral organizations through the development and use of agreed standards for information sharing; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> to support effective, science-based fisheries management regimes that promote legal and safe fisheries and act as a deterrent to IUU fishing;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> to promote global maritime security through improved capacity and technological assistance to support improved maritime domain awareness;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> to engage with priority flag states to encourage the use of high quality vessel tracking technologies where existing enforcement tools are lacking;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> to engage with multilateral organizations working on fisheries issues, including Regional Fisheries Management Organizations and the Food and Agriculture Organization of the United Nations, to combat and deter IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> to advance information sharing across governments and multilateral organizations in areas that cross multiple jurisdictions, through the development and use of an agreed standard for information sharing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> to continue to use existing and future trade agreements to combat IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> to employ appropriate assets and resources of the United States Government in a coordinated manner to disrupt the illicit networks involved in IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> to continue to declassify and make available, as appropriate and practicable, technologies developed by the United States Government that can be used to help counter IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> to recognize the ties of IUU fishing to transnational organized illegal activity, including human trafficking and illegal trade in narcotics and arms, and as applicable, to focus on illicit activity in a coordinated, cross-cutting manner;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<content> to recognize and respond to poor working conditions, labor abuses, and other violent crimes in the fishing industry;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<chapeau> to increase and improve global transparency and traceability along the seafood supply chain as—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a deterrent to IUU fishing; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an approach for strengthening fisheries management and food security; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(14)</num>
+<content> to promote technological investment and innovation to combat IUU fishing.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3534</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2000</ref>.)</sourceCredit>
+</section>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>PROGRAMS TO COMBAT IUU FISHING AND INCREASE MARITIME SECURITY</heading>
+<section>
+<num>§ 8011.</num>
+<heading> Coordination with international organizations</heading>
+<content>
+<p class="indent0">The Secretary of State, in consultation with the Secretary of Commerce, shall coordinate with Regional Fisheries Management Organizations and the Food and Agriculture Organization of the United Nations, and may coordinate with other relevant international governmental or nongovernmental organizations, or the private sector, as appropriate, to enhance regional responses to IUU fishing and related transnational organized illegal activities.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3541</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2001</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8012.</num>
+<heading> Engagement of diplomatic missions of the United States</heading>
+<chapeau class="indent0">Not later than 1 year after <date date="2019-12-20">December 20, 2019</date>, each chief of mission (as defined in <ref>section 3902 of title 22</ref>) to a relevant country in a priority region or to a priority flag state may, if the Secretary of State determines such action is appropriate—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> convene a working group, led by Department of State officials, to examine IUU fishing, which may include stakeholders such as—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> United States officials from relevant agencies participating in the interagency Working Group identified in <ref>section 8031 of this title</ref>, foreign officials, nongovernmental organizations, the private sector, and representatives of local fishermen in the region; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> experts on IUU fishing, law enforcement, criminal justice, transnational organized illegal activity, defense, intelligence, vessel movement monitoring, and international development operating in or with knowledge of the region; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> designate a counter-IUU Fishing Coordinator from among existing personnel at the mission if the chief of mission determines such action is appropriate.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3542</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2001</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8013.</num>
+<heading> Assistance by Federal agencies to improve law enforcement within priority regions and priority flag states</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Secretary of State, in consultation with the Secretary of Commerce and the Commandant of the Coast Guard when the Coast Guard is not operating as a service in the Department of the Navy, as well as any other relevant department or agency, shall provide assistance, as appropriate, in accordance with this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Law enforcement training and coordination activities</heading>
+<chapeau class="indent0">The officials referred to in subsection (a) shall evaluate opportunities to provide assistance, as appropriate, to countries in priority regions and priority flag states to improve the effectiveness of IUU fishing enforcement, with clear and measurable targets and indicators of success, including—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> by assessing and using existing resources, enforcement tools, and legal authorities to coordinate efforts to combat IUU fishing with efforts to combat other illegal trade, including weapons, drugs, and human trafficking;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> by expanding existing IUU fishing enforcement training;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> by providing targeted, country- and region-specific training on combating IUU fishing, including in those countries that have not adopted the Port State Measures Agreement;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> by supporting increased effectiveness and transparency of the fisheries enforcement sectors of the governments of such countries; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> by supporting increased outreach to stakeholders in the affected communities as key partners in combating and prosecuting IUU fishing.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Implementation of Port State Measures</heading>
+<content>
+<p class="indent0">The officials referred to in subsection (a) shall evaluate opportunities to provide assistance, as appropriate, to countries in priority regions and priority flag states to help those states implement programs related to port security and capacity for the purposes of preventing IUU fishing products from entering the global seafood market, including by supporting other countries in working toward the adoption and implementation of the Port State Measures Agreement.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Capacity building for investigations and prosecutions</heading>
+<chapeau class="indent0">The officials referred to in subsection (a), in collaboration with the governments of countries in priority regions and of priority flag states, shall evaluate opportunities to assist those countries in designing and implementing programs in such countries, to increase the capacity of IUU fishing enforcement and customs and border security officers to improve their ability—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to conduct effective investigations, including using law enforcement techniques such as undercover investigations and the development of informer networks and actionable intelligence;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to conduct vessel boardings and inspections at sea and associated enforcement actions;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to exercise existing shiprider agreements and to enter into and implement new shiprider agreements, for all priority regions identified by the Working Group, including in those countries that have not adopted the Port State Measures Agreement;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> to conduct vessel inspections at port and associated enforcement actions;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> to assess technology needs and promote the use of technology to improve monitoring, enforcement, and prosecution of IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> to conduct DNA-based and forensic identification of seafood used in trade;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> to conduct training on techniques, such as collecting electronic evidence and using computer forensics, for law enforcement personnel involved in complex investigations related to international matters, financial issues, and government corruption that include IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> to assess financial flows and the use of financial institutions to launder profits related to IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> to conduct training on the legal mechanisms that can be used to prosecute those identified in the investigations as alleged perpetrators of IUU fishing and other associated crimes such as trafficking and forced labor; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> to conduct training to raise awareness of the use of whistleblower information and ways to incentivize whistleblowers to come forward with original information related to IUU fishing.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Capacity building for information sharing</heading>
+<content>
+<p class="indent0">The officials referred to in subsection (a) shall evaluate opportunities to provide assistance, as appropriate, to key countries in priority regions and priority flag states in the form of training, equipment, and systems development to build capacity for information sharing related to maritime enforcement and port security.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Coordination with other relevant agencies</heading>
+<content>
+<p class="indent0">The Secretary of State shall coordinate, as appropriate, with the Secretary of Commerce, the Commandant of the Coast Guard when the Coast Guard is not operating as a service in the Department of the Navy, and with other relevant Federal agencies in accordance with this section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3543</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2002</ref>; <ref>Pub. L. 117–263, div. K, title CXIII, § 11339(b)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 4105</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8014.</num>
+<heading> Expansion of existing mechanisms to combat IUU fishing</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Mechanisms to combat IUU fishing</heading>
+<chapeau class="indent0">The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Defense, the Secretary of Commerce, the Attorney General, and the heads of other appropriate Federal agencies shall assess opportunities to combat IUU fishing by expanding, as appropriate, the use of the following mechanisms:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Including counter-IUU fishing in existing shiprider agreements in which the United States is a party.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Entering into shiprider agreements that include counter-IUU fishing with priority flag states and countries in priority regions with which the United States does not already have such an agreement.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Including counter-IUU fishing as part of the mission of the Combined Maritime Forces.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> Including counter-IUU fishing exercises in the annual at-sea exercises conducted by the Department of Defense, in coordination with the United States Coast Guard.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> Creating partnerships similar to the Oceania Maritime Security Initiative and the Africa Maritime Law Enforcement Partnership in other priority regions.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Information sharing</heading>
+<content>
+<p class="indent0">The Director of National Intelligence, in conjunction with other agencies, as appropriate, shall develop an enterprise approach to appropriately share information and data within the United States Government or with other countries or nongovernmental organizations, or the private sector, as appropriate, on IUU fishing and other connected transnational organized illegal activity occurring in priority regions and elsewhere, including big data analytics and machine learning.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3544</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2003</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8015.</num>
+<heading> Improvement of transparency and traceability programs</heading>
+<chapeau class="indent0">The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Commerce, and the heads of other Federal agencies, if merited, shall work, as appropriate, with priority flag states and key countries in priority regions—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to increase knowledge within such countries about the United States transparency and traceability standards for imports of seafood and seafood products;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to improve the capacity of seafood industries within such countries through information sharing and training to meet the requirements of transparency and traceability standards for seafood and seafood product imports, including catch documentation and trade tracking programs adopted by relevant regional fisheries management organizations; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> to improve the capacities of government, industry, and civil society groups to develop and implement comprehensive traceability systems that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> deter IUU fishing;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> strengthen fisheries management; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> enhance maritime domain awareness.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3545</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2004</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8016.</num>
+<heading> Technology programs</heading>
+<chapeau class="indent0">The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Defense, the Secretary of Commerce, and the heads of other Federal agencies, if merited, shall pursue programs, as appropriate, to expand the role of technology for combating IUU fishing, including by—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> promoting the use of technology to combat IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> assessing the technology needs, including vessel tracking technologies and data sharing, in priority regions and priority flag states;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> engaging with priority flag states to encourage the mandated use of vessel tracking technologies, including vessel monitoring systems, AIS, or other vessel movement monitoring technologies on fishing vessels and transshipment vessels at all times, as appropriate, while at sea as a means to identify IUU fishing activities and the shipment of illegally caught fish products; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> building partnerships with the private sector, including universities, nonprofit research organizations, the seafood industry, and the technology, transportation and logistics sectors, to leverage new and existing technologies and data analytics to address IUU fishing.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3546</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2004</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8017.</num>
+<heading> Savings clause</heading>
+<content>
+<p class="indent0">No provision of <ref>section 8001 of this title</ref> or of this subchapter shall impose, or be interpreted to impose, any duty, responsibility, requirement, or obligation on the Department of Defense, the Department of the Navy, the United States Coast Guard when operating as a service in the Department of Homeland Security, or any official or component of either.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3547</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2005</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8018.</num>
+<heading> Capacity building in foreign fisheries</heading>
+<chapeau class="indent0">The Secretary, in consultation with the heads of other Federal agencies, as appropriate, shall develop and carry out with partner governments and civil society—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> multi-year international environmental cooperation agreements and projects; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> multi-year capacity-building projects for implementing measures to address illegal, unreported, or unregulated fishing, fraud, forced labor, bycatch, and other conservation measures.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 117–263, div. K, title CXIII, § 11339(a)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 4105</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>ESTABLISHMENT OF INTERAGENCY WORKING GROUP ON IUU FISHING</heading>
+<section>
+<num>§ 8031.</num>
+<heading> Interagency Working Group on IUU fishing</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">There is established a collaborative interagency working group on maritime security and IUU fishing (referred to in this chapter as the “Working Group”).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Members</heading>
+<chapeau class="indent0">The members of the Working Group shall be composed of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> 1 chair, who shall rotate between the Secretary of the Department in which the Coast Guard is operating, acting through the Commandant of the Coast Guard, the Secretary of State, and the National Oceanographic and Atmospheric Administration, acting through the Administrator, on a 3-year term;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> 2 deputy chairs, who shall be appointed by their respective agency heads and shall be from a different Department than that of the chair, from—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Coast Guard;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Department of State; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the National Oceanic and Atmospheric Administration;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> 12 members, who shall be appointed by their respective agency heads, from—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Department of Defense;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the United States Navy;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the United States Agency for International Development;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the United States Fish and Wildlife Service;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the Department of Justice;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the Department of the Treasury;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> U.S. Customs and Border Protection;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> U.S. Immigration and Customs Enforcement;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> the Federal Trade Commission;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(J)</num>
+<content> the Department of Agriculture;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(K)</num>
+<content> the Food and Drug Administration; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(L)</num>
+<content> the Department of Labor;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> 1 or more members from the intelligence community (as defined in <ref>section 3003 of title 50</ref>), who shall be appointed by the Director of National Intelligence; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> 5 members, who shall be appointed by the President, from—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the National Security Council;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Council on Environmental Quality;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Office of Management and Budget;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the Office of Science and Technology Policy; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the Office of the United States Trade Representative.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Responsibilities</heading>
+<chapeau class="indent0">The Working Group shall ensure an integrated, Federal Government-wide response to IUU fishing globally, including by—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> improving the coordination of Federal agencies to identify, interdict, investigate, prosecute, and dismantle IUU fishing operations and organizations perpetrating and knowingly benefitting from IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> assessing areas for increased interagency information sharing on matters related to IUU fishing and related crimes;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> establishing standards for information sharing related to maritime enforcement;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> maximizing the utility of the import data collected by the members of the Working Group by harmonizing data standards and entry fields;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> developing a strategy to determine how military assets and intelligence can contribute to enforcement strategies to combat IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> increasing maritime domain awareness relating to IUU fishing and related crimes and developing a strategy to leverage awareness for enhanced enforcement and prosecution actions against IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> supporting the adoption and implementation of the Port State Measures Agreement in relevant countries and assessing the capacity and training needs in such countries;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> outlining a strategy to coordinate, increase, and use shiprider agreements between the Department of Defense or the Coast Guard and relevant countries;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> enhancing cooperation with partner governments to combat IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> identifying opportunities for increased information sharing between Federal agencies and partner governments working to combat IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> consulting and coordinating with the seafood industry and nongovernmental stakeholders that work to combat IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<content> supporting the work of collaborative international initiatives to make available certified data from state authorities about vessel and vessel-related activities related to IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<content> supporting the identification and certification procedures to address IUU fishing in accordance with the High Seas Driftnet Fishing Moratorium Protection Act (<ref>16 U.S.C. 1826d</ref> et seq.); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(14)</num>
+<content> publishing annual reports summarizing nonsensitive information about the Working Group’s efforts to investigate, enforce, and prosecute groups and individuals engaging in IUU fishing.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3551</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2005</ref>; <ref>Pub. L. 117–263, div. K, title CXIII, § 11331(a)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 4099</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8032.</num>
+<heading> Strategic plan</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Strategic plan</heading>
+<content>
+<p class="indent0">Not later than 2 years after <date date="2019-12-20">December 20, 2019</date>, the Working Group, after consultation with the relevant stakeholders, shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Foreign Relations of the Senate, the Committee on Appropriations of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Natural Resources of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of the House of Representatives a 5-year integrated strategic plan on combating IUU fishing and enhancing maritime security, including specific strategies with monitoring benchmarks for addressing IUU fishing in priority regions.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Identification of priority regions and priority flag states</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The strategic plan submitted under subsection (a) shall identify priority regions and priority flag states to be the focus of assistance coordinated by the Working Group under <ref>section 8031 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Priority region selection criteria</heading>
+<chapeau class="indent1">In selecting priority regions under paragraph (1), the Working Group shall select regions that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> are at high risk for IUU fishing activity or the entry of illegally caught seafood into their markets; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> lack the capacity to fully address the issues described in subparagraph (A).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Priority flag states selection criteria</heading>
+<chapeau class="indent1">In selecting priority flag states under paragraph (1), the Working Group shall select countries—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the flagged vessels of which actively engage in, knowingly profit from, or are complicit in IUU fishing; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> that lack the capacity to police their fleet.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3552</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2006</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8033.</num>
+<heading> Reports</heading>
+<chapeau class="indent0">Not later than 5 years after the submission of the 5-year integrated strategic plan under <ref>section 8032 of this title</ref>, and 5 years after, the Working Group shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Foreign Relations of the Senate, the Committee on Appropriations of the Senate, the Committee on the Judiciary of the Senate, the Select Committee on Intelligence of the Senate, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Natural Resources of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of the House of Representatives that contains—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a summary of global and regional trends in IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> an assessment of the extent of the convergence between transnational organized illegal activity, including human trafficking and forced labor, and IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> an assessment of the topics, data sources, and strategies that would benefit from increased information sharing and recommendations regarding harmonization of data collection and sharing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> an assessment of assets, including military assets and intelligence, which can be used for either enforcement operations or strategies to combat IUU fishing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> summaries of the situational threats with respect to IUU fishing in priority regions and an assessment of the capacity of countries within such regions to respond to those threats;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<chapeau> an assessment of the progress of countries in priority regions in responding to those threats as a result of assistance by the United States pursuant to the strategic plan developed under <ref>section 8032 of this title</ref>, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> the identification of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> relevant supply routes, ports of call, methods of landing and entering illegally caught product into legal supply chains, and financial institutions used in each country by participants engaging in IUU fishing; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> indicators of IUU fishing that are related to money laundering;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an assessment of the adherence to, or progress toward adoption of, international treaties related to IUU fishing, including the Port State Measures Agreement, by countries in priority regions;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> an assessment of the implementation by countries in priority regions of seafood traceability or capacity to apply traceability to verify the legality of catch and strengthen fisheries management;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> an assessment of the capacity of countries in priority regions to implement shiprider agreements;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> an assessment of the capacity of countries in priority regions to increase maritime domain awareness; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> an assessment of the capacity of governments of relevant countries in priority regions to sustain the programs for which the United States has provided assistance under this chapter;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> an assessment of the capacity of priority flag states to track the movement of and police their fleet, prevent their flagged vessels from engaging in IUU fishing, and enforce applicable laws and regulations;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> an assessment of the extent of involvement in IUU fishing of organizations designated as foreign terrorist organizations under <ref>section 1189 of title 8</ref>; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> the status of work with global enforcement partners.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3553</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2007</ref>; <ref>Pub. L. 117–263, div. K, title CXIII, § 11339(c)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 4105</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8034.</num>
+<heading> Gulf of Mexico IUU Fishing Subworking Group</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">Not later than 90 days after <date date="2019-12-20">December 20, 2019</date>, the Administrator of the National Oceanic and Atmospheric Administration, in coordination with the Commandant of the Coast Guard and the Secretary of State, shall establish a subworking group to address IUU fishing in the exclusive economic zone of the United States in the Gulf of Mexico.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Functions</heading>
+<chapeau class="indent0">The subworking group established under subsection (a) shall identify—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> Federal actions taken and policies established during the 5-year period immediately preceding <date date="2019-12-20">December 20, 2019</date>, with respect to IUU fishing in the exclusive economic zone of the United States in the Gulf of Mexico, including such actions and policies related to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the surveillance, interdiction, and prosecution of any foreign nationals engaged in such fishing; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the application of the provisions of the High Seas Driftnet Fishing Moratorium Protection Act (<ref>16 U.S.C. 1826d</ref> et seq.) to any relevant nation, including the status of any past or ongoing consultations and certification procedures;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> actions and policies, in addition to the actions and policies described in paragraph (1), each of the Federal agencies described in subsection (a) can take, using existing resources, to combat IUU fishing in the exclusive economic zone of the United States in the Gulf of Mexico; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> any additional authorities that could assist each such agency in more effectively addressing such IUU fishing.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Report</heading>
+<chapeau class="indent0">Not later than 1 year after the IUU Fishing Subworking Group is established under subsection (a), the group shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Natural Resources of the House of Representatives that contains—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the findings identified pursuant to subsection (b); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a timeline for each of the Federal agencies described in subsection (a) to implement each action or policy identified pursuant to subsection (b)(2).</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3554</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2008</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>AUTHORIZATION OF APPROPRIATIONS</heading>
+<section>
+<num>§ 8041.</num>
+<heading> Authorization of appropriations</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Funding</heading>
+<content>
+<p class="indent0">Amounts made available to carry out this chapter shall be derived from amounts appropriated to the relevant agencies and departments.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> No increase in contributions</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to authorize an increase in required or voluntary contributions paid by the United States to any multilateral or international organization.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 116–92, div. C, title XXXV, § 3571</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 2010</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

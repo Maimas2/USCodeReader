@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 46—</num>
+<heading>PUBLIC UTILITY REGULATORY POLICIES</heading>
+<section>
+<num>§ 2601.</num>
+<heading> Findings</heading>
+<chapeau class="indent0">The Congress finds that the protection of the public health, safety, and welfare, the preservation of national security, and the proper exercise of congressional authority under the Constitution to regulate interstate commerce require—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a program providing for increased conservation of electric energy, increased efficiency in the use of facilities and resources by electric utilities, and equitable retail rates for electric consumers,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a program to improve the wholesale distribution of electric energy, the reliability of electric service, the procedures concerning consideration of wholesale rate applications before the Federal Energy Regulatory Commission, the participation of the public in matters before the Commission, and to provide other measures with respect to the regulation of the wholesale sale of electric energy,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> a program to provide for the expeditious development of hydroelectric potential at existing small dams to provide needed hydroelectric power,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> a program for the conservation of natural gas while insuring that rates to natural gas consumers are equitable,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> a program to encourage the development of crude oil transportation systems, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> the establishment of certain other authorities as provided in title VI of this Act.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 95–617, § 2</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3119</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2602.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">As used in this Act, except as otherwise specifically provided—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The term “antitrust laws” includes the Sherman Antitrust Act (<ref>15 U.S.C. 1</ref> and following), the Clayton Act (<ref>15 U.S.C. 12</ref> and following), the Federal Trade Commission Act (<ref>15 U.S.C. 14</ref>[41] and following), the Wilson Tariff Act (<ref>15 U.S.C. 8</ref> and 9), and the Act of <date date="1936-06-19">June 19, 1936</date>, chapter 592 (<ref>15 U.S.C. 13</ref>, 13a, 13b, and 21A).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The term “class” means, with respect to electric consumers, any group of such consumers who have similar characteristics of electric energy use.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The term “Commission” means the Federal Energy Regulatory Commission.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The term “electric utility” means any person, State agency, or Federal agency, which sells electric energy.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> The term “electric consumer” means any person, State agency, or Federal agency, to which electric energy is sold other than for purposes of resale.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<chapeau> The term “evidentiary hearing” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> in the case of a State agency, a proceeding which (i) is open to the public, (ii) includes notice to participants and an opportunity for such participants to present direct and rebuttal evidence and to cross-examine witnesses, (iii) includes a written decision, based upon evidence appearing in a written record of the proceeding, and (iv) is subject to judicial review;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> in the case of a Federal agency, a proceeding conducted as provided in sections 554, 556, and 557 of title 5; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> in the case of a proceeding conducted by any entity other than a State or Federal agency, a proceeding which conforms, to the extent appropriate, with the requirements of subparagraph (A).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> The term “Federal agency” means an executive agency (as defined in <ref>section 105 of title 5</ref>).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> The term “load management technique” means any technique (other than a time-of-day or seasonal rate) to reduce the maximum kilowatt demand on the electric utility, including ripple or radio control mechanisms, and other types of interruptible electric service, energy storage devices, and load-limiting devices.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> The term “nonregulated electric utility” means any electric utility other than a State regulated electric utility.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> The term “rate” means (A) any price, rate, charge, or classification made, demanded, observed, or received with respect to sale of electric energy by an electric utility to an electric consumer, (B) any rule, regulation, or practice respecting any such rate, charge, or classification, and (C) any contract pertaining to the sale of electric energy to an electric consumer.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> The term “ratemaking authority” means authority to fix, modify, approve, or disapprove rates.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<content> The term “rate schedule” means the designation of the rates which an electric utility charges for electric energy.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<content> The term “sale” when used with respect to electric energy includes any exchange of electric energy.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(14)</num>
+<content> The term “Secretary” means the Secretary of Energy.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(15)</num>
+<content> The term “State” means a State, the District of Columbia, and Puerto Rico.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(16)</num>
+<content> The term “State agency” means a State, political subdivision thereof, and any agency or instrumentality of either.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(17)</num>
+<content> The term “State regulatory authority” means any State agency which has ratemaking authority with respect to the sale of electric energy by any electric utility (other than such State agency), and in the case of an electric utility with respect to which the Tennessee Valley Authority has ratemaking authority, such term means the Tennessee Valley Authority.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(18)</num>
+<content> The term “State regulated electric utility” means any electric utility with respect to which a State regulatory authority has ratemaking authority.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(19)</num>
+<content> The term “integrated resource planning” means, in the case of an electric utility, a planning and selection process for new energy resources that evaluates the full range of alternatives, including new generating capacity, power purchases, energy conservation and efficiency, cogeneration and district heating and cooling applications, and renewable energy resources, in order to provide adequate and reliable service to its electric customers at the lowest system cost. The process shall take into account necessary features for system operation, such as diversity, reliability, dispatchability, and other factors of risk; shall take into account the ability to verify energy savings achieved through energy conservation and efficiency and the projected durability of such savings measured over time; and shall treat demand and supply resources on a consistent and integrated basis.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(20)</num>
+<content> The term “system cost” means all direct and quantifiable net costs for an energy resource over its available life, including the cost of production, distribution, transportation, utilization, waste management, and environmental compliance.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(21)</num>
+<content> The term “demand side management” includes load management techniques.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 95–617, § 3</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3119</ref>; <ref>Pub. L. 102–486, title I, § 111(d)</ref>, <date date="1992-10-24">Oct. 24, 1992</date>, <ref>106 Stat. 2796</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2603.</num>
+<heading> Relationship to antitrust laws</heading>
+<chapeau class="indent0">Nothing in this Act or in any amendment made by this Act affects—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the applicability of the antitrust laws to any electric utility or gas utility (as defined in <ref>section 3202 of title 15</ref>), or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> any authority of the Secretary or of the Commission under any other provision of law (including the Federal Power Act [<ref>16 U.S.C. 791a</ref> et seq.] and the Natural Gas Act [<ref>15 U.S.C. 717</ref> et seq.]) respecting unfair methods of competition or anticompetitive acts or practices.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 95–617, § 4</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3120</ref>.)</sourceCredit>
+</section>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>RETAIL REGULATORY POLICIES FOR ELECTRIC UTILITIES</heading>
+<section>
+<num>§ 2611.</num>
+<heading> Purposes</heading>
+<chapeau class="indent0">The purposes of this chapter are to encourage—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> conservation of energy supplied by electric utilities;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the optimization of the efficiency of use of facilities and resources by electric utilities; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> equitable rates to electric consumers.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 101</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3120</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2612.</num>
+<heading> Coverage</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Volume of total retail sales</heading>
+<content>
+<p class="indent0">This chapter applies to each electric utility in any calendar year, and to each proceeding relating to each electric utility in such year, if the total sales of electric energy by such utility for purposes other than resale exceeded 500 million kilowatt-hours during any calendar year beginning after <date date="1975-12-31">December 31, 1975</date>, and before the immediately preceding calendar year.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Exclusion of wholesale sales</heading>
+<content>
+<p class="indent0">The requirements of this chapter do not apply to the operations of an electric utility, or to proceedings respecting such operations, to the extent that such operations or proceedings relate to sales of electric energy for purposes of resale.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> List of covered utilities</heading>
+<content>
+<p class="indent0">Before the beginning of each calendar year, the Secretary shall publish a list identifying each electric utility to which this chapter applies during such calendar year. Promptly after publication of such list each State regulatory authority shall notify the Secretary of each electric utility on the list for which such State regulatory authority has ratemaking authority.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 102</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3121</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2613.</num>
+<heading> Federal contracts</heading>
+<content>
+<p class="indent0">Notwithstanding the limitation contained in <ref>section 2612(b) of this title</ref>, no contract between a Federal agency and any electric utility for the sale of electric energy by such Federal agency for resale which is entered into or renewed after <date date="1978-11-09">November 9, 1978</date>, may contain any provision which will have the effect of preventing the implementation of any requirement of subchapter II or III. Any provision in any such contract which has such effect shall be null and void.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 103</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3121</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>STANDARDS FOR ELECTRIC UTILITIES</heading>
+<section>
+<num>§ 2621.</num>
+<heading> Consideration and determination respecting certain ratemaking standards</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Consideration and determination</heading>
+<content>
+<p class="indent0">Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c), and for purposes of any review of such consideration and determination in any court in accordance with <ref>section 2633 of this title</ref>, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Procedural requirements for consideration and determination</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> The consideration referred to in subsection (a) shall be made after public notice and hearing. The determination referred to in subsection (a) shall be—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> in writing,</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> based upon findings included in such determination and upon the evidence presented at the hearing, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> available to the public.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Except as otherwise provided in paragraph (1), in the second sentence of <ref>section 2622(a) of this title</ref>, and in sections 2631 and 2632 of this title, the procedures for the consideration and determination referred to in subsection (a) shall be those established by the State regulatory authority or the nonregulated electric utility.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Implementation</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> The State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility may, to the extent consistent with otherwise applicable State law—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> implement any such standard determined under subsection (a) to be appropriate to carry out the purposes of this chapter, or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> decline to implement any such standard.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> If a State regulatory authority (with respect to each electric utility for which it has ratemaking authority) or nonregulated electric utility declines to implement any standard established by subsection (d) which is determined under subsection (a) to be appropriate to carry out the purposes of this chapter, such authority or nonregulated electric utility shall state in writing the reasons therefor. Such statement of reasons shall be available to the public.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<chapeau> If a State regulatory authority implements a standard established by subsection (d)(7) or (8), such authority shall—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> consider the impact that implementation of such standard would have on small businesses engaged in the design, sale, supply, installation or servicing of energy conservation, energy efficiency or other demand side management measures, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> implement such standard so as to assure that utility actions would not provide such utilities with unfair competitive advantages over such small businesses.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent0">The following Federal standards are hereby established:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Cost of service</heading>
+<content>
+<p class="indent1">Rates charged by any electric utility for providing electric service to each class of electric consumers shall be designed, to the maximum extent practicable, to reflect the costs of providing electric service to such class, as determined under <ref>section 2625(a) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Declining block rates</heading>
+<content>
+<p class="indent1">The energy component of a rate, or the amount attributable to the energy component in a rate, charged by any electric utility for providing electric service during any period to any class of electric consumers may not decrease as kilowatt-hour consumption by such class increases during such period except to the extent that such utility demonstrates that the costs to such utility of providing electric service to such class, which costs are attributable to such energy component, decrease as such consumption increases during such period.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Time-of-day rates</heading>
+<content>
+<p class="indent1">The rates charged by any electric utility for providing electric service to each class of electric consumers shall be on a time-of-day basis which reflects the costs of providing electric service to such class of electric consumers at different times of the day unless such rates are not cost-effective with respect to such class, as determined under <ref>section 2625(b) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Seasonal rates</heading>
+<content>
+<p class="indent1">The rates charged by an electric utility for providing electric service to each class of electric consumers shall be on a seasonal basis which reflects the costs of providing service to such class of consumers at different seasons of the year to the extent that such costs vary seasonally for such utility.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Interruptible rates</heading>
+<content>
+<p class="indent1">Each electric utility shall offer each industrial and commercial electric consumer an interruptible rate which reflects the cost of providing interruptible service to the class of which such consumer is a member.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Load management techniques</heading>
+<chapeau class="indent1">Each electric utility shall offer to its electric consumers such load management techniques as the State regulatory authority (or the nonregulated electric utility) has determined will—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> be practicable and cost-effective, as determined under <ref>section 2625(c) of this title</ref>,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> be reliable, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> provide useful energy or capacity management advantages to the electric utility.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Integrated resource planning</heading>
+<content>
+<p class="indent1">Each electric utility shall employ integrated resource planning. All plans or filings before a State regulatory authority to meet the requirements of this paragraph must be updated on a regular basis, must provide the opportunity for public participation and comment, and contain a requirement that the plan be implemented.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Investments in conservation and demand management</heading>
+<content>
+<p class="indent1">The rates allowed to be charged by a State regulated electric utility shall be such that the utility’s investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Energy efficiency investments in power generation and supply</heading>
+<content>
+<p class="indent1">The rates charged by any electric utility shall be such that the utility is encouraged to make investments in, and expenditures for, all cost-effective improvements in the energy efficiency of power generation, transmission and distribution. In considering regulatory changes to achieve the objectives of this paragraph, State regulatory authorities and nonregulated electric utilities shall consider the disincentives caused by existing ratemaking policies, and practices, and consider incentives that would encourage better maintenance, and investment in more efficient power generation, transmission and distribution equipment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Consideration of the effects of wholesale power purchases on utility cost of capital; effects of leveraged capital structures on the reliability of wholesale power sellers; and assurance of adequate fuel supplies</heading>
+<subparagraph class="indent1">
+<num>(A)</num>
+<chapeau> To the extent that a State regulatory authority requires or allows electric utilities for which it has ratemaking authority to consider the purchase of long-term wholesale power supplies as a means of meeting electric demand, such authority shall perform a general evaluation of:</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> the potential for increases or decreases in the costs of capital for such utilities, and any resulting increases or decreases in the retail rates paid by electric consumers, that may result from purchases of long-term wholesale power supplies in lieu of the construction of new generation facilities by such utilities;</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> whether the use by exempt wholesale generators (as defined in section 79z–5a <ref class="footnoteRef" idref="fn002731">1</ref> of title 15) of capital structures which employ proportionally greater amounts of debt than the capital structures of such utilities threatens reliability or provides an unfair advantage for exempt wholesale generators over such utilities;</content>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> whether to implement procedures for the advance approval or disapproval of the purchase of a particular long-term wholesale power supply; and</content>
+</clause>
+<clause class="indent2">
+<num>(iv)</num>
+<content> whether to require as a condition for the approval of the purchase of power that there be reasonable assurances of fuel supply adequacy.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> For purposes of implementing the provisions of this paragraph, any reference contained in this section to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="1992-10-24">October 24, 1992</date>.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> Notwithstanding any other provision of Federal law, nothing in this paragraph shall prevent a State regulatory authority from taking such action, including action with respect to the allowable capital structure of exempt wholesale generators, as such State regulatory authority may determine to be in the public interest as a result of performing evaluations under the standards of subparagraph (A).</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> Notwithstanding <ref>section 2634 of this title</ref> and paragraphs (1) and (2) of <ref>section 2622(a) of this title</ref>, each State regulatory authority shall consider and make a determination concerning the standards of subparagraph (A) in accordance with the requirements of subsections (a) and (b) of this section, without regard to any proceedings commenced prior to <date date="1992-10-24">October 24, 1992</date>.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> Notwithstanding subsections (b) and (c) of <ref>section 2622 of this title</ref>, each State regulatory authority shall consider and make a determination concerning whether it is appropriate to implement the standards set out in subparagraph (A) not later than one year after <date date="1992-10-24">October 24, 1992</date>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Net metering</heading>
+<content>
+<p class="indent1">Each electric utility shall make available upon request net metering service to any electric consumer that the electric utility serves. For purposes of this paragraph, the term “net metering service” means service to an electric consumer under which electric energy generated by that electric consumer from an eligible on-site generating facility and delivered to the local distribution facilities may be used to offset electric energy provided by the electric utility to the electric consumer during the applicable billing period.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Fuel sources</heading>
+<content>
+<p class="indent1">Each electric utility shall develop a plan to minimize dependence on 1 fuel source and to ensure that the electric energy it sells to consumers is generated using a diverse range of fuels and technologies, including renewable technologies.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Fossil fuel generation efficiency</heading>
+<content>
+<p class="indent1">Each electric utility shall develop and implement a 10-year plan to increase the efficiency of its fossil fuel generation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> Time-based metering and communications</heading>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> Not later than 18 months after <date date="2005-08-08">August 8, 2005</date>, each electric utility shall offer each of its customer classes, and provide individual customers upon customer request, a time-based rate schedule under which the rate charged by the electric utility varies during different time periods and reflects the variance, if any, in the utility’s costs of generating and purchasing electricity at the wholesale level. The time-based rate schedule shall enable the electric consumer to manage energy use and cost through advanced metering and communications technology.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> The types of time-based rate schedules that may be offered under the schedule referred to in subparagraph (A) include, among others—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> time-of-use pricing whereby electricity prices are set for a specific time period on an advance or forward basis, typically not changing more often than twice a year, based on the utility’s cost of generating and/or purchasing such electricity at the wholesale level for the benefit of the consumer. Prices paid for energy consumed during these periods shall be pre-established and known to consumers in advance of such consumption, allowing them to vary their demand and usage in response to such prices and manage their energy costs by shifting usage to a lower cost period or reducing their consumption overall;</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> critical peak pricing whereby time-of-use prices are in effect except for certain peak days, when prices may reflect the costs of generating and/or purchasing electricity at the wholesale level and when consumers may receive additional discounts for reducing peak period energy consumption;</content>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> real-time pricing whereby electricity prices are set for a specific time period on an advanced or forward basis, reflecting the utility’s cost of generating and/or purchasing electricity at the wholesale level, and may change as often as hourly; and</content>
+</clause>
+<clause class="indent2">
+<num>(iv)</num>
+<content> credits for consumers with large loads who enter into pre-established peak load reduction agreements that reduce a utility’s planned capacity obligations.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> Each electric utility subject to subparagraph (A) shall provide each customer requesting a time-based rate with a time-based meter capable of enabling the utility and customer to offer and receive such rate, respectively.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> For purposes of implementing this paragraph, any reference contained in this section to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2005-08-08">August 8, 2005</date>.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> In a State that permits third-party marketers to sell electric energy to retail electric consumers, such consumers shall be entitled to receive the same time-based metering and communications device and service as a retail electric consumer of the electric utility.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(F)</num>
+<content> Notwithstanding subsections (b) and (c) of <ref>section 2622 of this title</ref>, each State regulatory authority shall, not later than 18 months after <date date="2005-08-08">August 8, 2005</date>, conduct an investigation in accordance with <ref>section 2625(i) of this title</ref> and issue a decision whether it is appropriate to implement the standards set out in subparagraphs (A) and (C).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(15)</num>
+<heading class="bold"> Interconnection</heading>
+<content>
+<p class="indent1">Each electric utility shall make available, upon request, interconnection service to any electric consumer that the electric utility serves. For purposes of this paragraph, the term “interconnection service” means service to an electric consumer under which an on-site generating facility on the consumer’s premises shall be connected to the local distribution facilities. Interconnection services shall be offered based upon the standards developed by the Institute of Electrical and Electronics Engineers: IEEE Standard 1547 for Interconnecting Distributed Resources with Electric Power Systems, as they may be amended from time to time. In addition, agreements and procedures shall be established whereby the services are offered shall promote current best practices of interconnection for distributed generation, including but not limited to practices stipulated in model codes adopted by associations of state regulatory agencies. All such agreements and procedures shall be just and reasonable, and not unduly discriminatory or preferential.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(16)</num>
+<heading class="bold"> Integrated resource planning</heading>
+<chapeau class="indent1">Each electric utility shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> integrate energy efficiency resources into utility, State, and regional plans; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> adopt policies establishing cost-effective energy efficiency as a priority resource.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(17)</num>
+<heading class="bold"> Rate design modifications to promote energy efficiency investments</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The rates allowed to be charged by any electric utility shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> align utility incentives with the delivery of cost-effective energy efficiency; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> promote energy efficiency investments.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Policy options</heading>
+<chapeau class="indent2">In complying with subparagraph (A), each State regulatory authority and each nonregulated utility shall consider—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> removing the throughput incentive and other regulatory and management disincentives to energy efficiency;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> providing utility incentives for the successful management of energy efficiency programs;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> including the impact on adoption of energy efficiency as 1 of the goals of retail rate design, recognizing that energy efficiency must be balanced with other objectives;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> adopting rate designs that encourage energy efficiency for each customer class;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> allowing timely recovery of energy efficiency-related costs; and</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> offering home energy audits, offering demand response programs, publicizing the financial and environmental benefits associated with making home energy efficiency improvements, and educating homeowners about all existing Federal and State incentives, including the availability of low-cost loans, that make energy efficiency improvements more affordable.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(18)</num>
+<heading class="bold"> Consideration of smart grid investments</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">Each State shall consider requiring that, prior to undertaking investments in nonadvanced grid technologies, an electric utility of the State demonstrate to the State that the electric utility considered an investment in a qualified smart grid system based on appropriate factors, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> total costs;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> cost-effectiveness;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> improved reliability;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> security;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> system performance; and</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> societal benefit.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Rate recovery</heading>
+<content>
+<p class="indent2">Each State shall consider authorizing each electric utility of the State to recover from ratepayers any capital, operating expenditure, or other costs of the electric utility relating to the deployment of a qualified smart grid system, including a reasonable rate of return on the capital expenditures of the electric utility for the deployment of the qualified smart grid system.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Obsolete equipment</heading>
+<content>
+<p class="indent2">Each State shall consider authorizing any electric utility or other party of the State to deploy a qualified smart grid system to recover in a timely manner the remaining book-value costs of any equipment rendered obsolete by the deployment of the qualified smart grid system, based on the remaining depreciable life of the obsolete equipment.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(19)</num>
+<heading class="bold"> Smart grid information</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Standard</heading>
+<content>
+<p class="indent2">All electricity purchasers shall be provided direct access, in written or electronic machine-readable form as appropriate, to information from their electricity provider as provided in subparagraph (B).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Information</heading>
+<chapeau class="indent2">Information provided under this section, to the extent practicable, shall include:</chapeau>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Prices</heading>
+<chapeau class="indent3">Purchasers and other interested persons shall be provided with information on—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> time-based electricity prices in the wholesale electricity market; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> time-based electricity retail prices or rates that are available to the purchasers.</content>
+</subclause>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Usage</heading>
+<content>
+<p class="indent3">Purchasers shall be provided with the number of electricity units, expressed in kwh, purchased by them.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iii)</num>
+<heading class="bold"> Intervals and projections</heading>
+<content>
+<p class="indent3">Updates of information on prices and usage shall be offered on not less than a daily basis, shall include hourly price and use information, where available, and shall include a day-ahead projection of such price information to the extent available.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iv)</num>
+<heading class="bold"> Sources</heading>
+<content>
+<p class="indent3">Purchasers and other interested persons shall be provided annually with written information on the sources of the power provided by the utility, to the extent it can be determined, by type of generation, including greenhouse gas emissions associated with each type of generation, for intervals during which such information is available on a cost-effective basis.</p>
+</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Access</heading>
+<content>
+<p class="indent2">Purchasers shall be able to access their own information at any time through the Internet and on other means of communication elected by that utility for Smart Grid applications. Other interested persons shall be able to access information not specific to any purchaser through the Internet. Information specific to any purchaser shall be provided solely to that purchaser.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(20)</num>
+<heading class="bold"> Demand-response practices</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Each electric utility shall promote the use of demand-response and demand flexibility practices by commercial, residential, and industrial consumers to reduce electricity consumption during periods of unusually high demand.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Rate recovery</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent3">Each State regulatory authority shall consider establishing rate mechanisms allowing an electric utility with respect to which the State regulatory authority has ratemaking authority to timely recover the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Nonregulated electric utilities</heading>
+<content>
+<p class="indent3">A nonregulated electric utility may establish rate mechanisms for the timely recovery of the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).</p>
+</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(21)</num>
+<heading class="bold"> Electric vehicle charging programs</heading>
+<chapeau class="indent1">Each State shall consider measures to promote greater electrification of the transportation sector, including the establishment of rates that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> promote affordable and equitable electric vehicle charging options for residential, commercial, and public electric vehicle charging infrastructure;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> improve the customer experience associated with electric vehicle charging, including by reducing charging times for light-, medium-, and heavy-duty vehicles;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> accelerate third-party investment in electric vehicle charging for light-, medium-, and heavy-duty vehicles; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> appropriately recover the marginal costs of delivering electricity to electric vehicles and electric vehicle charging infrastructure.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 111</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3121</ref>; <ref>Pub. L. 102–486, title I, § 111(a)</ref>, (b), title VII, § 712, <date date="1992-10-24">Oct. 24, 1992</date>, <ref>106 Stat. 2795</ref>, 2910; <ref>Pub. L. 109–58, title XII</ref>, §§ 1251(a), 1252(a), 1254(a), <date date="2005-08-08">Aug. 8, 2005</date>, <ref>119 Stat. 962</ref>, 963, 970; <ref>Pub. L. 110–140, title V, § 532(a)</ref>, title XIII, § 1307(a), <date date="2007-12-19">Dec. 19, 2007</date>, <ref>121 Stat. 1665</ref>, 1791; <ref>Pub. L. 111–5, div. A, title IV, § 408(a)</ref>, <date date="2009-02-17">Feb. 17, 2009</date>, <ref>123 Stat. 146</ref>; <ref>Pub. L. 117–58, div. D, title I, § 40104(a)(1)</ref>, title IV, § 40431(a), <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 930</ref>, 1047.)</sourceCredit>
+</section>
+<section>
+<num>§ 2622.</num>
+<heading> Obligations to consider and determine</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Request for consideration and determination</heading>
+<chapeau class="indent0">Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility may undertake the consideration and make the determination referred to in <ref>section 2621 of this title</ref> with respect to any standard established by <ref>section 2621(d) of this title</ref> in any proceeding respecting the rates of the electric utility. Any participant or intervenor (including an intervenor referred to in <ref>section 2631 of this title</ref>) in such a proceeding may request, and shall obtain, such consideration and determination in such proceeding. In undertaking such consideration and making such determination in any such proceeding with respect to the application to any electric utility of any standard established by <ref>section 2621(d) of this title</ref>, a State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or nonregulated electric utility may take into account in such proceeding—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> any appropriate prior determination with respect to such standard—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> which is made in a proceeding which takes place after <date date="1978-11-09">November 9, 1978</date>, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> which was made before such date (or is made in a proceeding pending on such date) and complies, as provided in <ref>section 2634 of this title</ref>, with the requirements of this chapter; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the evidence upon which such prior determination was based (if such evidence is referenced in such proceeding).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Time limitations</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Not later than 2 years after <date date="1978-11-09">November 9, 1978</date> (or after <date date="1992-10-24">October 24, 1992</date>, in the case of standards under paragraphs (7), (8), and (9) of <ref>section 2621(d) of this title</ref>), each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in <ref>section 2621 of this title</ref>, or set a hearing date for such consideration, with respect to each standard established by <ref>section 2621(d) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Not later than three years after <date date="1978-11-09">November 9, 1978</date> (or after <date date="1992-10-24">October 24, 1992</date>, in the case of standards under paragraphs (7), (8), and (9) of <ref>section 2621(d) of this title</ref>), each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in <ref>section 2621 of this title</ref> with respect to each standard established by <ref>section 2621(d) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<content> Not later than 2 years after <date date="2005-08-08">August 8, 2005</date>, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in <ref>section 2621 of this title</ref>, or set a hearing date for such consideration, with respect to each standard established by paragraphs (11) through (13) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> Not later than 3 years after <date date="2005-08-08">August 8, 2005</date>, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in <ref>section 2621 of this title</ref> with respect to each standard established by paragraphs (11) through (13) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<content> Not later than 1 year after <date date="2005-08-08">August 8, 2005</date>, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in <ref>section 2621 of this title</ref>, or set a hearing date for such consideration, with respect to the standard established by paragraph (14) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> Not later than 2 years after <date date="2005-08-08">August 8, 2005</date>, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in <ref>section 2621 of this title</ref> with respect to the standard established by paragraph (14) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(5)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<content> Not later than 1 year after <date date="2005-08-08">August 8, 2005</date>, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated utility shall commence the consideration referred to in <ref>section 2621 of this title</ref>, or set a hearing date for consideration, with respect to the standard established by paragraph (15) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> Not later than two years after <date date="2005-08-08">August 8, 2005</date>, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in <ref>section 2621 of this title</ref> with respect to each standard established by paragraph (15) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(6)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<content> Not later than 1 year after <date date="2007-12-19">December 19, 2007</date>, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated utility shall commence the consideration referred to in <ref>section 2621 of this title</ref>, or set a hearing date for consideration, with respect to the standards established by paragraphs (16) through (19) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> Not later than 2 years after <date date="2007-12-19">December 19, 2007</date>, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in <ref>section 2621 of this title</ref> with respect to each standard established by paragraphs (16) through (19) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(7)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<content> Not later than 1 year after <date date="2021-11-15">November 15, 2021</date>, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority) and each nonregulated electric utility shall commence consideration under <ref>section 2621 of this title</ref>, or set a hearing date for consideration, with respect to the standard established by paragraph (20) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> Not later than 2 years after <date date="2021-11-15">November 15, 2021</date>, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority), and each nonregulated electric utility shall complete the consideration and make the determination under <ref>section 2621 of this title</ref> with respect to the standard established by paragraph (20) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(8)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<content> Not later than 1 year after <date date="2021-11-15">November 15, 2021</date>, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority) and each nonregulated utility shall commence consideration under <ref>section 2621 of this title</ref>, or set a hearing date for consideration, with respect to the standard established by paragraph (21) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> Not later than 2 years after <date date="2021-11-15">November 15, 2021</date>, each State regulatory authority (with respect to each electric utility for which the State has ratemaking authority), and each nonregulated electric utility shall complete the consideration and make the determination under <ref>section 2621 of this title</ref> with respect to the standard established by paragraph (21) of <ref>section 2621(d) of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Failure to comply</heading>
+<content>
+<p class="indent0">Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in <ref>section 2621 of this title</ref> with respect to each standard established by <ref>section 2621(d) of this title</ref> in the first rate proceeding commenced after the date three years after <date date="1978-11-09">November 9, 1978</date>, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of <ref>section 2621(d) of this title</ref>, the reference contained in this subsection to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2005-08-08">August 8, 2005</date>. In the case of the standard established by paragraph (14) of <ref>section 2621(d) of this title</ref>, the reference contained in this subsection to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2005-08-08">August 8, 2005</date>. In the case of the standard established by paragraph (15) of <ref>section 2621(d) of this title</ref>, the reference contained in this subsection to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2005-08-08">August 8, 2005</date>. In the case of the standards established by paragraphs (16) through (19) of <ref>section 2621(d) of this title</ref>, the reference contained in this subsection to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2007-12-19">December 19, 2007</date>. In the case of the standard established by paragraph (20) of <ref>section 2621(d) of this title</ref>, the reference contained in this subsection to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2021-11-15">November 15, 2021</date>. In the case of the standard established by paragraph (21) of <ref>section 2621(d) of this title</ref>, the reference contained in this subsection to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2021-11-15">November 15, 2021</date>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Prior State actions relating to standard under certain paragraphs of section 2621(d)</heading>
+<chapeau class="indent0">Subsections (b) and (c) of this section shall not apply to the standards established by paragraphs (11) through (13) and paragraphs (16) through (19) of <ref>section 2621(d) of this title</ref> in the case of any electric utility in a State if, before <date date="2005-08-08">August 8, 2005</date>—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the State has implemented for such utility the standard concerned (or a comparable standard);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the State regulatory authority for such State or relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard concerned (or a comparable standard) for such utility; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Prior State actions relating to standard under section 2621(d)(14)</heading>
+<chapeau class="indent0">Subsections (b) and (c) of this section shall not apply to the standard established by paragraph (14) of <ref>section 2621(d) of this title</ref> in the case of any electric utility in a State if, before <date date="2005-08-08">August 8, 2005</date>—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the State has implemented for such utility the standard concerned (or a comparable standard);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the State regulatory authority for such State or relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard concerned (or a comparable standard) for such utility within the previous 3 years; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility within the previous 3 years.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Prior State actions relating to standard under section 2621(d)(15)</heading>
+<chapeau class="indent0">Subsections (b) and (c) of this section shall not apply to the standard established by paragraph (15) of <ref>section 2621(d) of this title</ref> in the case of any electric utility in a State if, before <date date="2005-08-08">August 8, 2005</date>—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the State has implemented for such utility the standard concerned (or a comparable standard);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the State regulatory authority for such State or relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard concerned (or a comparable standard) for such utility; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Prior State actions</heading>
+<chapeau class="indent0">Subsections (b) and (c) shall not apply to the standard established by paragraph (20) of <ref>section 2621(d) of this title</ref> in the case of any electric utility in a State if, before <date date="2021-11-15">November 15, 2021</date>—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the State has implemented for the electric utility the standard (or a comparable standard);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the State regulatory authority for the State or the relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard (or a comparable standard) for the electric utility; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Other prior State actions</heading>
+<chapeau class="indent0">Subsections (b) and (c) shall not apply to the standard established by paragraph (21) of <ref>section 2621(d) of this title</ref> in the case of any electric utility in a State if, before <date date="2021-11-15">November 15, 2021</date>—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the State has implemented for the electric utility the standard (or a comparable standard);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the State regulatory authority for the State or the relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard (or a comparable standard) for the electric utility; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility during the 3-year period ending on <date date="2021-11-15">November 15, 2021</date>.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 112</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3122</ref>; <ref>Pub. L. 102–486, title I, § 111(c)</ref>, <date date="1992-10-24">Oct. 24, 1992</date>, <ref>106 Stat. 2795</ref>; <ref>Pub. L. 109–58, title XII</ref>, §§ 1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), <date date="2005-08-08">Aug. 8, 2005</date>, <ref>119 Stat. 963</ref>, 966, 967, 971; <ref>Pub. L. 110–140, title XIII, § 1307(b)</ref>, <date date="2007-12-19">Dec. 19, 2007</date>, <ref>121 Stat. 1793</ref>; <ref>Pub. L. 111–5, div. A, title IV, § 408(b)</ref>, <date date="2009-02-17">Feb. 17, 2009</date>, <ref>123 Stat. 146</ref>; <ref>Pub. L. 117–58, div. D, title I, § 40104(a)(2)(A)</ref>–(C)(i), title IV, § 40431(b)(1)–(3)(A), <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 931</ref>, 932, 1048.)</sourceCredit>
+</section>
+<section>
+<num>§ 2623.</num>
+<heading> Adoption of certain standards</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Adoption of standards</heading>
+<chapeau class="indent0">Not later than two years after <date date="1978-11-09">November 9, 1978</date>, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) and, on the basis of such hearing, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> adopt the standards established by subsection (b) (other than paragraph (4) thereof) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> adopt the standard established by subsection (b)(4) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">For purposes of any determination under paragraphs (1) or (2) and any review of such determination in any court in accordance with <ref>section 2633 of this title</ref>, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to adopt any such standard, pursuant to its authority under otherwise applicable State law.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent0">The following Federal standards are hereby established:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Master metering</heading>
+<content>
+<p class="indent1">To the extent determined appropriate under <ref>section 2625(d) of this title</ref>, master metering of electric service in the case of new buildings shall be prohibited or restricted to the extent necessary to carry out the purposes of this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Automatic adjustment clauses</heading>
+<content>
+<p class="indent1">No electric utility may increase any rate pursuant to an automatic adjustment clause unless such clause meets the requirements of <ref>section 2625(e) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Information to consumers</heading>
+<content>
+<p class="indent1">Each electric utility shall transmit to each of its electric consumers information regarding rate schedules in accordance with the requirements of <ref>section 2625(f) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Procedures for termination of electric service</heading>
+<content>
+<p class="indent1">No electric utility may terminate electric service to any electric consumer except pursuant to procedures described in <ref>section 2625(g) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Advertising</heading>
+<content>
+<p class="indent1">No electric utility may recover from any person other than the shareholders (or other owners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in <ref>section 2625(h) of this title</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Procedural requirements</heading>
+<content>
+<p class="indent0">Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a), shall (1) adopt, pursuant to subsection (a), each of the standards established by subsection (b) or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 113</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3123</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2624.</num>
+<heading> Lifeline rates</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Lower rates</heading>
+<content>
+<p class="indent0">No provision of this chapter prohibits a State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or a nonregulated electric utility from fixing, approving, or allowing to go into effect a rate for essential needs (as defined by the State regulatory authority or by the nonregulated electric utility, as the case may be) of residential electric consumers which is lower than a rate under the standard referred to in <ref>section 2621(d)(1) of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Determination</heading>
+<content>
+<p class="indent0">If any State regulated electric utility or nonregulated electric utility does not have a lower rate as described in subsection (a) in effect two years after <date date="1978-11-09">November 9, 1978</date>, the State regulatory authority having ratemaking authority with respect to such State regulated electric utility or the nonregulated electric utility, as the case may be, shall determine, after an evidentiary hearing, whether such a rate should be implemented by such utility.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Prior proceedings</heading>
+<content>
+<p class="indent0"><ref>Section 2634 of this title</ref> shall not apply to the requirements of this section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 114</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3124</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2625.</num>
+<heading> Special rules for standards</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Cost of service</heading>
+<chapeau class="indent0">In undertaking the consideration and making the determination under <ref>section 2621 of this title</ref> with respect to the standard concerning cost of service established by <ref>section 2621(d)(1) of this title</ref>, the costs of providing electric service to each class of electric consumers shall, to the maximum extent practicable, be determined on the basis of methods prescribed by the State regulatory authority (in the case of a State regulated electric utility) or by the electric utility (in the case of a nonregulated electric utility). Such methods shall to the maximum extent practicable—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> permit identification of differences in cost-incurrence, for each such class of electric consumers, attributable to daily and seasonal time of use of service and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> permit identification of differences in cost-incurrence attributable to differences in customer demand, and energy components of cost. In prescribing such methods, such State regulatory authority or nonregulated electric utility shall take into account the extent to which total costs to an electric utility are likely to change if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> additional capacity is added to meet peak demand relative to base demand; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> additional kilowatt-hours of electric energy are delivered to electric consumers.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Time-of-day rates</heading>
+<content>
+<p class="indent0">In undertaking the consideration and making the determination required under <ref>section 2621 of this title</ref> with respect to the standard for time-of-day rates established by <ref>section 2621(d)(3) of this title</ref> and the standard for time-based metering and communications established by <ref>section 2621(d)(14) of this title</ref>, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering and communications costs and other costs associated with the use of such rates.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Load management techniques</heading>
+<chapeau class="indent0">In undertaking the consideration and making the determination required under <ref>section 2621 of this title</ref> with respect to the standard for load management techniques established by <ref>section 2621(d)(6) of this title</ref>, a load management technique shall be determined, by the State regulatory authority or nonregulated electric utility, to be cost-effective if—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> such technique is likely to reduce maximum kilowatt demand on the electric utility, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the long-run cost-savings to the utility of such reduction are likely to exceed the long-run costs to the utility associated with implementation of such technique.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Master metering</heading>
+<chapeau class="indent0">Separate metering shall be determined appropriate for any new building for purposes of <ref>section 2623(b)(1) of this title</ref> if—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> there is more than one unit in such building,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the occupant of each such unit has control over a portion of the electric energy used in such unit, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> with respect to such portion of electric energy used in such unit, the long-run benefits to the electric consumers in such building exceed the costs of purchasing and installing separate meters in such building.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Automatic adjustment clauses</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> An automatic adjustment clause of an electric utility meets the requirements of this subsection if—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> such clause is determined, not less often than every four years, by the State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or by the electric utility (in the case of a nonregulated electric utility), after an evidentiary hearing, to provide incentives for efficient use of resources (including incentives for economical purchase and use of fuel and electric energy) by such electric utility, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> such clause is reviewed not less often than every two years, in the manner described in paragraph (2), by the State regulatory authority having ratemaking authority with respect to such utility (or by the electric utility in the case of a nonregulated electric utility), to insure the maximum economies in those operations and purchases which affect the rates to which such clause applies.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> In making a review under subparagraph (B) of paragraph (1) with respect to an electric utility, the reviewing authority shall examine and, if appropriate, cause to be audited the practices of such electric utility relating to costs subject to an automatic adjustment clause, and shall require such reports as may be necessary to carry out such review (including a disclosure of any ownership or corporate relationship between such electric utility and the seller to such utility of fuel, electric energy, or other items).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> As used in this subsection and <ref>section 2623(b) of this title</ref>, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include an interim rate which takes effect subject to a later determination of the appropriate amount of the rate.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Information to consumers</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> For purposes of the standard for information to consumers established by <ref>section 2623(b)(3) of this title</ref>, each electric utility shall transmit to each of its electric consumers a clear and concise explanation of the existing rate schedule and any rate schedule applied for (or proposed by a nonregulated electric utility) applicable to such consumer. Such statement shall be transmitted to each such consumer—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> not later than sixty days after the date of commencement of service to such consumer or ninety days after the standard established by <ref>section 2623(b)(3) of this title</ref> is adopted with respect to such electric utility, whichever last occurs, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> not later than thirty days (sixty days in the case of an electric utility which uses a bimonthly billing system) after such utility’s application for any change in a rate schedule applicable to such consumer (or proposal of such a change in the case of a nonregulated utility).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> For purposes of the standard for information to consumers established by <ref>section 2623(b)(3) of this title</ref>, each electric utility shall transmit to each of its electric consumers not less frequently than once each year—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> a clear and concise summary of the existing rate schedules applicable to each of the major classes of its electric consumers for which there is a separate rate, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> an identification of any classes whose rates are not summarized.</content>
+</subparagraph>
+<continuation class="indent0 firstIndent0">Such summary may be transmitted together with such consumer’s billing or in such other manner as the State regulatory authority or nonregulated electric utility deems appropriate.</continuation>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> For purposes of the standard for information to consumers established by <ref>section 2623(b)(3) of this title</ref>, each electric utility, on request of an electric consumer of such utility, shall transmit to such consumer a clear and concise statement of the actual consumption (or degree-day adjusted consumption) of electric energy by such consumer for each billing period during the prior year (unless such consumption data is not reasonably ascertainable by the utility).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Procedures for termination of electric service</heading>
+<chapeau class="indent0">The procedures for termination of service referred to in <ref>section 2623(b)(4) of this title</ref> are procedures prescribed by the State regulatory authority (with respect to electric utilities for which it has ratemaking authority) or by the nonregulated electric utility which provide that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> no electric service to an electric consumer may be terminated unless reasonable prior notice (including notice of rights and remedies) is given to such consumer and such consumer has a reasonable opportunity to dispute the reasons for such termination, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> during any period when termination of service to an electric consumer would be especially dangerous to health, as determined by the State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or nonregulated electric utility, and such consumer establishes that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> he is unable to pay for such service in accordance with the requirements of the utility’s billing, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> he is able to pay for such service but only in installments,</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">such service may not be terminated.</continuation>
+</paragraph>
+<continuation class="indent0 firstIndent0">Such procedures shall take into account the need to include reasonable provisions for elderly and handicapped consumers.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Advertising</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> For purposes of this section and <ref>section 2623(b)(5) of this title</ref>—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> The term “advertising” means the commercial use, by an electric utility, of any media, including newspaper, printed matter, radio, and television, in order to transmit a message to a substantial number of members of the public or to such utility’s electric consumers.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> The term “political advertising” means any advertising for the purpose of influencing public opinion with respect to legislative, administrative, or electoral matters, or with respect to any controversial issue of public importance.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> The term “promotional advertising” means any advertising for the purpose of encouraging any person to select or use the service or additional service of an electric utility or the selection or installation of any appliance or equipment designed to use such utility’s service.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> For purposes of this subsection and <ref>section 2623(b)(5) of this title</ref>, the terms “political advertising” and “promotional advertising” do not include—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> advertising which informs electric consumers how they can conserve energy or can reduce peak demand for electric energy,</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> advertising required by law or regulation, including advertising required under part 1 of title II of the National Energy Conservation Policy Act [<ref>42 U.S.C. 8211</ref> et seq.],</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> advertising regarding service interruptions, safety measures, or emergency conditions,</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> advertising concerning employment opportunities with such utility,</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> advertising which promotes the use of energy efficient appliances, equipment or services, or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(F)</num>
+<content> any explanation or justification of existing or proposed rate schedules, or notifications of hearings thereon.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Time-based metering and communications</heading>
+<content>
+<p class="indent0">In making a determination with respect to the standard established by <ref>section 2621(d)(14) of this title</ref>, the investigation requirement of <ref>section 2621(d)(14)(F) of this title</ref> shall be as follows: Each State regulatory authority shall conduct an investigation and issue a decision whether or not it is appropriate for electric utilities to provide and install time-based meters and communications devices for each of their customers which enable such customers to participate in time-based pricing rate schedules and other demand response programs.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 115</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3125</ref>; <ref>Pub. L. 109–58, title XII, § 1252(b)</ref>, <date date="2005-08-08">Aug. 8, 2005</date>, <ref>119 Stat. 965</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2626.</num>
+<heading> Reports respecting standards</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> State authorities and nonregulated utilities</heading>
+<content>
+<p class="indent0">Not later than one year after <date date="1978-11-09">November 9, 1978</date>, and annually thereafter for ten years, each State regulatory authority (with respect to each State regulated electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall report to the Secretary, in such manner as the Secretary shall prescribe, respecting its consideration of the standards established by sections 2621(d) and 2623(b) of this title. Such report shall include a summary of the determinations made and actions taken with respect to each such standard on a utility-by-utility basis.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Secretary</heading>
+<chapeau class="indent0">Not later than eighteen months after <date date="1978-11-09">November 9, 1978</date>, and annually thereafter for ten years, the Secretary shall submit a report to the President and the Congress containing—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a summary of the reports submitted under subsection (a),</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> his analysis of such reports, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail electric utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 116</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3128</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2627.</num>
+<heading> Relationship to State law</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Revenue and rate of return</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall authorize or require the recovery by an electric utility of revenues, or of a rate of return, in excess of, or less than, the amount of revenues or the rate of return determined to be lawful under any other provision of law.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> State authority</heading>
+<content>
+<p class="indent0">Nothing in this chapter prohibits any State regulatory authority or nonregulated electric utility from adopting, pursuant to State law, any standard or rule affecting electric utilities which is different from any standard established by this subchapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Federal agencies</heading>
+<content>
+<p class="indent0">With respect to any electric utility which is a Federal agency, and with respect to the Tennessee Valley Authority when it is treated as a State regulatory authority as provided in <ref>section 2602(17) of this title</ref>, any reference in section 2621 or 2623 of this title to State law shall be treated as a reference to Federal law.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 117</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3128</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>INTERVENTION AND JUDICIAL REVIEW</heading>
+<section>
+<num>§ 2631.</num>
+<heading> Intervention in proceedings</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Authority to intervene and participate</heading>
+<content>
+<p class="indent0">In order to initiate and participate in the consideration of one or more of the standards established by subchapter II or other concepts which contribute to the achievement of the purposes of this chapter, the Secretary, any affected electric utility, or any electric consumer of an affected electric utility may intervene and participate as a matter of right in any ratemaking proceeding or other appropriate regulatory proceeding relating to rates or rate design which is conducted by a State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or by a nonregulated electric utility.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Access to information</heading>
+<content>
+<p class="indent0">Any intervenor or participant in a proceeding described in subsection (a) shall have access to information available to other parties to the proceeding if such information is relevant to the issues to which his intervention or participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State regulatory authority (in the case of proceedings concerning electric utilities for which it has ratemaking authority) or by the nonregulated electric utility (in the case of a proceeding conducted by a nonregulated electric utility).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Effective date; procedures</heading>
+<content>
+<p class="indent0">Any intervention or participation under this section, in any proceeding commenced before <date date="1978-11-09">November 9, 1978</date>, but not completed before such date, shall be permitted under this section only to the extent such intervention or participation is timely under otherwise applicable law.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 121</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3128</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2632.</num>
+<heading> Consumer representation</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Compensation for costs of participation or intervention</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> If no alternative means for assuring representation of electric consumers is adopted in accordance with subsection (b) and if an electric consumer of an electric utility substantially contributed to the approval, in whole or in part, of a position advocated by such consumer in a proceeding concerning such utility, and relating to any standard set forth in subchapter II, such utility shall be liable to compensate such consumer (pursuant to paragraph (2)) for reasonable attorneys’ fees, expert witness fees, and other reasonable costs incurred in preparation and advocacy of such position in such proceeding (including fees and costs of obtaining judicial review of any determination made in such proceeding with respect to such position).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> A consumer entitled to fees and costs under paragraph (1) may collect such fees and costs from an electric utility by bringing a civil action in any State court of competent jurisdiction, unless the State regulatory authority (in the case of a proceeding concerning a State regulated electric utility) or nonregulated electric utility (in the case of a proceeding concerning such nonregulated electric utility) has adopted a reasonable procedure pursuant to which such authority or nonregulated electric utility—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> determines the amount of such fees and costs, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> includes an award of such fees and costs in its order in the proceeding.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<chapeau> The procedure adopted by such State regulatory authority or nonregulated utility under paragraph (2) may include a preliminary proceeding to require that—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> as a condition of receiving compensation under such procedure such consumer demonstrate that, but for the ability to receive such award, participation or intervention in such proceeding may be a significant financial hardship for such consumer, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> persons with the same or similar interests have a common legal representative in the proceeding as a condition to receiving compensation.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Alternative means</heading>
+<chapeau class="indent0">Compensation shall not be required under subsection (a) if the State, the State regulatory authority (in the case of a proceeding concerning a State regulated electric utility), or the nonregulated electric utility (in the case of a proceeding concerning such nonregulated electric utility) has provided an alternative means for providing adequate compensation to persons—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> who have, or represent, an interest—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> which would not otherwise be adequately represented in the proceeding, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> representation of which is necessary for a fair determination in the proceeding, and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> who are, or represent an interest which is, unable to effectively participate or intervene in the proceeding because such persons cannot afford to pay reasonable attorneys’ fees, expert witness fees, and other reasonable costs of preparing for, and participating or intervening in, such proceeding (including fees and costs of obtaining judicial review of such proceeding).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Transcripts</heading>
+<content>
+<p class="indent0">The State regulatory authority or nonregulated electric utility, as the case may be, shall make transcripts of the proceeding available, at cost of reproduction, to parties or intervenors in any ratemaking proceeding, or other regulatory proceeding relating to rates or rate design, before a State regulatory authority or nonregulated electric utility.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Federal agencies</heading>
+<content>
+<p class="indent0">Any claim under this section against any Federal agency shall be subject to the availability of appropriated funds.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Rights under other authority</heading>
+<content>
+<p class="indent0">Nothing in this section affects or restricts any rights of any participant or intervenor in any proceeding under any other applicable law or rule of law.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 122</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3129</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2633.</num>
+<heading> Judicial review and enforcement</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Limitation of Federal jurisdiction</heading>
+<chapeau class="indent0">Notwithstanding any other provision of law, no court of the United States shall have jurisdiction over any action arising under any provision of subchapter I or II or of this subchapter except for—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> an action over which a court of the United States has jurisdiction under subsection (b) or (c)(2); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> review of any action in the Supreme Court of the United States in accordance with sections 1257 and 1258 of title 28.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Enforcement of intervention right</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Secretary may bring an action in any appropriate court of the United States to enforce his right to intervene and participate under <ref>section 2631(a) of this title</ref>, and such court shall have jurisdiction to grant appropriate relief.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> If any electric utility or electric consumer having a right to intervene under <ref>section 2631(a) of this title</ref> is denied such right by any State court, such electric utility or electric consumer may bring an action in the appropriate United States district court to require the State regulatory authority or nonregulated electric utility to permit such intervention and participation, and such court shall have jurisdiction to grant appropriate relief.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> Nothing in this subsection prohibits any person bringing any action under this subsection in a court of the United States from seeking review and enforcement at any time in any State court of any rights he may have with respect to any motion to intervene or participate in any proceeding.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Review and enforcement</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Any person (including the Secretary) may obtain review of any determination made under subchapter I or II or under this subchapter with respect to any electric utility (other than a utility which is a Federal agency) in the appropriate State court if such person (or the Secretary) intervened or otherwise participated in the original proceeding or if State law otherwise permits such review. Any person (including the Secretary) may bring an action to enforce the requirements of this chapter in the appropriate State court, except that no such action may be brought in a State court with respect to a utility which is a Federal agency. Such review or action in a State court shall be pursuant to any applicable State procedures.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Any person (including the Secretary) may obtain review in the appropriate court of the United States of any determination made under subchapter I or II or this subchapter by a Federal agency if such person (or the Secretary) intervened or otherwise participated in the original proceeding or if otherwise applicable law permits such review. Such court shall have jurisdiction to grant appropriate relief. Any person (including the Secretary) may bring an action to enforce the requirements of subchapter I or II or this subchapter with respect to any Federal agency in the appropriate court of the United States and such court shall have jurisdiction to grant appropriate relief.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> In addition to his authority to obtain review under paragraph (1) or (2), the Secretary may also participate as an amicus curiae in any review by any court of an action arising under the provisions of subchapter I or II or this subchapter.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Other authority of Secretary</heading>
+<chapeau class="indent0">Nothing in this section prohibits the Secretary from—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> intervening and participating in any proceeding, or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> intervening and participating in any review by any court of any action</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">under <ref>section 6804 of title 42</ref>.</continuation>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 123</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3130</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2634.</num>
+<heading> Prior and pending proceedings</heading>
+<content>
+<p class="indent0">For purposes of subchapters I and II, and this subchapter, proceedings commenced by State regulatory authorities (with respect to electric utilities for which it has ratemaking authority) and nonregulated electric utilities before <date date="1978-11-09">November 9, 1978</date>, and actions taken before such date in such proceedings shall be treated as complying with the requirements of subchapters I and II, and this subchapter if such proceedings and actions substantially conform to such requirements. For purposes of subchapters I and II, and this subchapter, any such proceeding or action commenced before <date date="1978-11-09">November 9, 1978</date>, but not completed before such date, shall comply with the requirements of subchapters I and II, and this subchapter, to the maximum extent practicable, with respect to so much of such proceeding or action as takes place after such date, except as otherwise provided in <ref>section 2631(c) of this title</ref>. In the case of each standard established by paragraphs (11) through (13) of <ref>section 2621(d) of this title</ref>, the reference contained in this section to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2005-08-08">August 8, 2005</date>. In the case of the standard established by paragraph (14) of <ref>section 2621(d) of this title</ref>, the reference contained in this section to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2005-08-08">August 8, 2005</date>. In the case of each standard established by paragraph (15) of <ref>section 2621(d) of this title</ref>, the reference contained in this section to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2005-08-08">August 8, 2005</date>. In the case of the standard established by paragraph (20) of <ref>section 2621(d) of this title</ref>, the reference contained in this section to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2021-11-15">November 15, 2021</date>. In the case of the standard established by paragraph (21) of <ref>section 2621(d) of this title</ref>, the reference contained in this section to <date date="1978-11-09">November 9, 1978</date>, shall be deemed to be a reference to <date date="2021-11-15">November 15, 2021</date>.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 124</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3131</ref>; <ref>Pub. L. 109–58, title XII</ref>, §§ 1251(b)(3)(B), 1252(i)(2), 1254(b)(3)(B), <date date="2005-08-08">Aug. 8, 2005</date>, <ref>119 Stat. 963</ref>, 967, 971; <ref>Pub. L. 117–58, div. D, title I, § 40104(a)(2)(C)(ii)</ref>, title IV, § 40431(b)(3)(B), <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 932</ref>, 1048.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER IV—</num>
+<heading>ADMINISTRATIVE PROVISIONS</heading>
+<section>
+<num>§ 2641.</num>
+<heading> Voluntary guidelines</heading>
+<content>
+<p class="indent0">The Secretary may prescribe voluntary guidelines respecting the standards established by sections 2621(d) and 2623(b) of this title. Such guidelines may not expand the scope or legal effect of such standards or establish additional standards respecting electric utility rates.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 131</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3131</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2642.</num>
+<heading> Responsibilities of Secretary</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Authority</heading>
+<chapeau class="indent0">The Secretary may periodically notify the State regulatory authorities, and electric utilities identified pursuant to <ref>section 2612(c) of this title</ref>, of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> load management techniques and the results of studies and experiments concerning load management techniques;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> developments and innovations in electric utility ratemaking throughout the United States, including the results of studies and experiments in rate structure and rate reform;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> methods for determining cost of service;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> any other data or information which the Secretary determines would assist such authorities and utilities in carrying out the provisions of this chapter; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> technologies, techniques, and rate-making methods related to advanced metering and communications and the use of these technologies, techniques and methods in demand response programs.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Technical assistance</heading>
+<content>
+<p class="indent0">The Secretary may provide such technical assistance as he determines appropriate to assist the State regulatory authorities in carrying out their responsibilities under subchapter II and as is requested by any State regulatory authority relating to the standards established by subchapter II.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated to carry out the purposes of subsection (b) not to exceed $1,000,000 for each of the fiscal years 1979 and 1980.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Demand response</heading>
+<chapeau class="indent0">The Secretary shall be responsible for—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> educating consumers on the availability, advantages, and benefits of advanced metering and communications technologies, including the funding of demonstration or pilot projects;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> working with States, utilities, other energy providers and advanced metering and communications experts to identify and address barriers to the adoption of demand response programs; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> not later than 180 days after <date date="2005-08-08">August 8, 2005</date>, providing Congress with a report that identifies and quantifies the national benefits of demand response and makes a recommendation on achieving specific levels of such benefits by <date date="2007-01-01">January 1, 2007</date>.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 132</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3131</ref>; <ref>Pub. L. 109–58, title XII, § 1252(c)</ref>, (d), <date date="2005-08-08">Aug. 8, 2005</date>, <ref>119 Stat. 965</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2643.</num>
+<heading> Gathering information on costs of service</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Information required to be gathered</heading>
+<chapeau class="indent0">Each electric utility shall periodically gather information under such rules (promulgated by the Commission) as the Commission determines necessary to allow determination of the costs associated with providing electric service. For purposes of this section, and for purposes of any consideration and determination respecting the standard established by <ref>section 2621(d)(2) of this title</ref>, such costs shall be separated, to the maximum extent practicable, into the following components: customer cost component, demand cost component, and energy cost component. Rules under this subsection shall include requirements for the gathering of the following information with respect to each electric utility—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the costs of serving each electric consumer class, including costs of serving different consumption patterns within such class, based on voltage level, time of use, and other appropriate factors;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> daily kilowatt demand load curves for all electric consumer classes combined representative of daily and seasonal differences in demand, and daily kilowatt demand load curves for each electric consumer class for which there is a separate rate, representative of daily and seasonal differences in demand;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> annual capital, operating, and maintenance costs—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> for transmission and distribution services, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> for each type of generating unit; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> costs of purchased power, including representative daily and seasonal differences in the amount of such costs.</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">Such rules shall provide that information required to be gathered under this section shall be presented in such categories and such detail as may be necessary to carry out the purposes of this section.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Commission rules</heading>
+<content>
+<p class="indent0">The Commission shall, within 180 days after <date date="1978-11-09">November 9, 1978</date>, by rule, prescribe the methods, procedure, and format to be used by electric utilities in gathering the information described in this section. Such rules may provide for the exemption by the Commission of an electric utility or class of electric utilities from gathering all or part of such information, in cases where such utility or utilities show and the Commission finds, after public notice and opportunity for the presentation of written data, views, and arguments, that gathering such information is not likely to carry out the purposes of this section. The Commission shall periodically review such findings and may revise such rules.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Filing and publication</heading>
+<chapeau class="indent0">Not later than two years after <date date="1978-11-09">November 9, 1978</date>, and periodically, but not less frequently than every two years thereafter, each electric utility shall file with—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the Commission, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> any State regulatory authority which has ratemaking authority for such utility,</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">the information gathered pursuant to this section and make such information available to the public in such form and manner as the Commission shall prescribe. In addition, at the time of application for, or proposal of, any rate increase, each electric utility shall make such information available to the public in such form and manner as the Commission shall prescribe. The two-year period after <date date="1978-11-09">November 9, 1978</date>, specified in this subsection may be extended by the Commission for a reasonable additional period in the case of any electric utility for good cause shown.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Enforcement</heading>
+<content>
+<p class="indent0">For purposes of enforcement, any violation of a requirement of this section shall be treated as a violation of a provision of the Energy Supply and Environmental Coordination Act of 1974 [<ref>15 U.S.C. 791</ref> et seq.] enforceable under section 12 of such Act [<ref>15 U.S.C. 797</ref>] (notwithstanding any expiration date in such Act) except that in applying the provisions of such section 12 any reference to the Federal Energy Administrator shall be treated as a reference to the Commission.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 133</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3132</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2644.</num>
+<heading> Relationship to other authority</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to limit or affect any authority of the Secretary or the Commission under any other provision of law.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 95–617, title I, § 134</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3133</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2645.</num>
+<heading> Utility regulatory institute</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Matching grants</heading>
+<chapeau class="indent0">The Secretary may make grants under this section to an institute established by the National Association of Regulatory Utility Commissioners to enable such institute to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> conduct research on electric and gas utility regulatory policy issues,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> develop data processing and retrieval methods for electric and gas utility ratemaking, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> perform other functions directly related to assisting State regulatory authorities in carrying out their functions under State law and this Act.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Federal share</heading>
+<chapeau class="indent0">Grants under this section shall not be used to provide more than the following percentages of the cost to the institute of carrying out the activities specified in subsection (a):</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> 80 percent for the fiscal year 1979; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> 60 percent for the fiscal year 1980.</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">The remaining amounts expended by the institute may not be provided from Federal sources.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Restrictions</heading>
+<chapeau class="indent0">Grants under this section may not be made subject to terms and conditions other than those the Secretary deems necessary for purposes of administering this section and for purposes of assuring that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> all information gathered by the institute is available to the Secretary, the Commission, and the public, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> no portion of any such grant is used to support or oppose any legislative proposal except by means of testimony by representatives of the institute provided by invitation to a committee of Congress or of a State legislature.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There is authorized to be appropriated not more than $2,000,000 for each of the fiscal years 1979 and 1980 for purposes of making grants under this section. No amounts may be appropriated for any fiscal year after the fiscal year 1980 to carry out the purposes of this section without a specific authorization of Congress.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–617, title VI, § 603</ref>, <date date="1978-11-09">Nov. 9, 1978</date>, <ref>92 Stat. 3165</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

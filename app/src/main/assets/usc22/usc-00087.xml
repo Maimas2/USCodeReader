@@ -1,0 +1,1835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 75—</num>
+<heading>CHEMICAL WEAPONS CONVENTION IMPLEMENTATION</heading>
+<section>
+<num>§ 6701.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Chemical weapon</heading>
+<chapeau class="indent1">The term “chemical weapon” means the following, together or separately:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> A toxic chemical and its precursors, except where intended for a purpose not prohibited under this chapter as long as the type and quantity is consistent with such a purpose.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> A munition or device, specifically designed to cause death or other harm through toxic properties of those toxic chemicals specified in subparagraph (A), which would be released as a result of the employment of such munition or device.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Any equipment specifically designed for use directly in connection with the employment of munitions or devices specified in subparagraph (B).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Chemical Weapons Convention; Convention</heading>
+<content>
+<p class="indent1">The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on <date date="1993-01-13">January 13, 1993</date>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Key component of a binary or multicomponent chemical system</heading>
+<content>
+<p class="indent1">The term “key component of a binary or multicomponent chemical system” means the precursor which plays the most important role in determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> National of the United States</heading>
+<content>
+<p class="indent1">The term “national of the United States” has the same meaning given such term in <ref>section 1101(a)(22) of title 8</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Organization</heading>
+<content>
+<p class="indent1">The term “Organization” means the Organization for the Prohibition of Chemical Weapons.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Person</heading>
+<content>
+<p class="indent1">The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Precursor</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The term “precursor” means any chemical reactant which takes part at any stage in the production by whatever method of a toxic chemical. The term includes any key component of a binary or multicomponent chemical system.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> List of precursors</heading>
+<content>
+<p class="indent2">Precursors which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Purposes not prohibited by this chapter</heading>
+<chapeau class="indent1">The term “purposes not prohibited by this chapter” means the following:</chapeau>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Peaceful purposes</heading>
+<content>
+<p class="indent2">Any peaceful purpose related to an industrial, agricultural, research, medical, or pharmaceutical activity or other activity.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Protective purposes</heading>
+<content>
+<p class="indent2">Any purpose directly related to protection against toxic chemicals and to protection against chemical weapons.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Unrelated military purposes</heading>
+<content>
+<p class="indent2">Any military purpose of the United States that is not connected with the use of a chemical weapon and that is not dependent on the use of the toxic or poisonous properties of the chemical weapon to cause death or other harm.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Law enforcement purposes</heading>
+<content>
+<p class="indent2">Any law enforcement purpose, including any domestic riot control purpose and including imposition of capital punishment.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Technical Secretariat</heading>
+<content>
+<p class="indent1">The term “Technical Secretariat” means the Technical Secretariat of the Organization for the Prohibition of Chemical Weapons established by the Chemical Weapons Convention.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Schedule 1 chemical agent</heading>
+<chapeau class="indent1">The term “Schedule 1 chemical agent” means any of the following, together or separately:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> O-Alkyl (≤C<sub>10</sub>, incl. cycloalkyl) alkyl<p class="indent3">(Me, Et, n-Pr or i-Pr)-phosphonofluoridates</p>
+<p class="indent3">(e.g. Sarin: O-Isopropyl methylphosphonofluoridate Soman: O-Pinacolyl methylphosphonofluoridate).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> O-Alkyl (≤C<sub>10</sub>, incl. cycloalkyl) N,N-dialkyl<p class="indent3">(Me, Et, n-Pr or i-Pr)-phosphoramidocyanidates</p>
+<p class="indent3">(e.g. Tabun: O-Ethyl N,N-dimethyl phosphoramidocyanidate).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> O-Alkyl (H or ≤C<sub>10</sub>, incl. cycloalkyl) S-2-dialkyl<p class="indent3">(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl</p>
+<p class="indent3">(Me, Et, n-Pr or i-Pr) phosphonothiolates and corresponding alkylated or protonated salts</p>
+<p class="indent3">(e.g. VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Sulfur mustards:<p class="indent3" role="listItem">2-Chloroethylchloromethylsulfide</p>
+<p class="indent3" role="listItem">Mustard gas: (Bis(2-chloroethyl)sulfide <ref class="footnoteRef" idref="fn002349">1</ref></p>
+<p class="indent3">Bis(2-chloroethylthio)methane</p>
+<p class="indent3">Sesquimustard: 1,2-Bis(2-chloroethylthio)ethane</p>
+<p class="indent3">1,3-Bis(2-chloroethylthio)-n-propane</p>
+<p class="indent3">1,4-Bis(2-chloroethylthio)-n-butane</p>
+<p class="indent3">1,5-Bis(2-chloroethylthio)-n-pentane</p>
+<p class="indent3">Bis(2-chloroethylthiomethyl)ether</p>
+<p class="indent3">O-Mustard: Bis(2-chloroethylthioethyl)ether.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> Lewisites:<p class="indent3" role="listItem">Lewisite 1: 2-Chlorovinyldichloroarsine</p>
+<p class="indent3" role="listItem">Lewisite 2: Bis(2-chlorovinyl)chloroarsine</p>
+<p class="indent3">Lewisite 3: Tris(2-clorovinyl)arsine.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> Nitrogen mustards:<p class="indent3" role="listItem">HN1: Bis(2-chloroethyl)ethylamine</p>
+<p class="indent3" role="listItem">HN2: Bis(2-chloroethyl)methylamine</p>
+<p class="indent3">HN3: Tris(2-chloroethyl)amine.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> Saxitoxin.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> Ricin.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> Alkyl (Me, Et, n-Pr or i-Pr) phosphonyldifluorides<p class="indent3">e.g. DF: Methylphosphonyldifluoride.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(J)</num>
+<content> O-Alkyl (H or ≤C<sub>10</sub>, incl. cycloalkyl)O-2-dialkyl<p class="indent3">(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl</p>
+<p class="indent3">(Me, Et, n-Pr or i-Pr) phosphonites and corresponding alkylated or protonated salts</p>
+<p class="indent3">e.g. QL: O-Ethyl O-2-diisopropylaminoethyl methylphosphonite.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(K)</num>
+<content> Chlorosarin: O-Isopropyl methylphosphonochloridate.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(L)</num>
+<content> Chlorosoman: O-Pinacolyl methylphosphonochloridate.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Schedule 2 chemical agent</heading>
+<chapeau class="indent1">The term “Schedule 2 chemical agent” means the following, together or separately:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Amiton: O,O-Diethyl S-[2-(diethylamino)ethyl]<p class="indent3">phosphorothiolate and corresponding alkylated or protonated salts.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> BZ: 3-Quinuclidinyl benzilate</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Chemicals, except for those listed in Schedule 1, containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms,<p class="indent3">e.g. Methylphosphonyl dichloride Dimethyl methylphosphonate</p>
+<p class="indent3">Exemption: Fonofos: O-Ethyl S-phenyl ethylphosphonothiolothionate.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> N,N-Dialkyl (Me, Et, n-Pr or i-Pr) phosphoramidic dihalides.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> Dialkyl (Me, Et, n-Pr or i-Pr) N,N-dialkyl (Me, Et, n-Pr or i-Pr)-phosphoramidates.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> arsenic trichloride.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> 2,2-Diphenyl-2-hydroxyacetic acid.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> Quinuclidine-3-ol.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(J)</num>
+<content> N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethyl-2-chlorides and corresponding protonated salts.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(K)</num>
+<content> N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-ols and corresponding protonated salts<p class="indent2">Exemptions: N,N-Dimethylaminoethanol and corresponding protonated salts N,N-Diethylaminoethanol and corresponding protonated salts.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(L)</num>
+<content> N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-thiols and corresponding protonated salts.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(M)</num>
+<content> Thiodiglycol: Bis(2-hydroxyethyl)sulfide.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(N)</num>
+<content> Pinacolyl alcohol: 3,3-Dimethylbutane-2-ol.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Schedule 3 chemical agent</heading>
+<chapeau class="indent1">The term “Schedule 3 chemical agent” means any of the following, together or separately:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Phosgene: carbonyl dichloride.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Cyanogen chloride.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Hydrogen cyanide.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Chloropicrin: trichloronitromethane.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> Phosphorous oxychloride.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> Phosphorous trichloride.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> Phosphorous pentachloride.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> Trimethyl phosphite.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> Triethyl phosphite.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(J)</num>
+<content> Dimethyl phosphite.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(K)</num>
+<content> Diethyl phosphite.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(L)</num>
+<content> Sulfur monochloride.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(M)</num>
+<content> Sulfur dichloride.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(N)</num>
+<content> Thionyl chloride.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(O)</num>
+<content> Ethyldiethanolamine.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(P)</num>
+<content> Methyldiethanolamine.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(Q)</num>
+<content> Triethanolamine.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Toxic chemical</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The term “toxic chemical” means any chemical which through its chemical action on life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> List of toxic chemicals</heading>
+<content>
+<p class="indent2">Toxic chemicals which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> United States</heading>
+<chapeau class="indent1">The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any of the places within the provisions of paragraph (41) <ref class="footnoteRef" idref="fn002350">2</ref> of <ref>section 40102 of title 49</ref>;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),<sup>2</sup> respectively, of <ref>section 40102 of title 49</ref>; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> any vessel of the United States, as such term is defined in <ref>section 70502(b) of title 46</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(15)</num>
+<heading class="bold"> Unscheduled discrete organic chemical</heading>
+<content>
+<p class="indent1">The term “unscheduled discrete organic chemical” means any chemical not listed on any schedule contained in the Annex on Chemicals of the Convention that belongs to the class of chemical compounds consisting of all compounds of carbon, except for its oxides, sulfides, and metal carbonates.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, § 3</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–856</ref>.)</sourceCredit>
+</section>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>GENERAL PROVISIONS</heading>
+<section>
+<num>§ 6711.</num>
+<heading> Designation of United States National Authority</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Designation</heading>
+<content>
+<p class="indent0">Pursuant to paragraph 4 of Article VII of the Chemical Weapons Convention, the President shall designate the Department of State to be the United States National Authority.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Purposes</heading>
+<chapeau class="indent0">The United States National Authority shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> serve as the national focal point for effective liaison with the Organization for the Prohibition of Chemical Weapons and other States Parties to the Convention; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> implement the provisions of this chapter in coordination with an interagency group designated by the President consisting of the Secretary of Commerce, Secretary of Defense, Secretary of Energy, the Attorney General, and the heads of agencies considered necessary or advisable by the President.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Director</heading>
+<content>
+<p class="indent0">The Secretary of State shall serve as the Director of the United States National Authority.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Powers</heading>
+<content>
+<p class="indent0">The Director may utilize the administrative authorities otherwise available to the Secretary of State in carrying out the responsibilities of the Director set forth in this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Implementation</heading>
+<content>
+<p class="indent0">The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title I, § 101</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–860</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6712.</num>
+<heading> No abridgement of constitutional rights</heading>
+<content>
+<p class="indent0">No person may be required, as a condition for entering into a contract with the United States or as a condition for receiving any benefit from the United States, to waive any right under the Constitution for any purpose related to this chapter or the Convention.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title I, § 102</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–861</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6713.</num>
+<heading> Civil liability of United States</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Claims for taking of property</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Jurisdiction of courts of the United States</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> United States Court of Federal Claims</heading>
+<content>
+<p class="indent2">The United States Court of Federal Claims shall, subject to subparagraph (B), have jurisdiction of any civil action or claim against the United States for any taking of property without just compensation that occurs by reason of the action of any officer or employee of the Organization for the Prohibition of Chemical Weapons, including any member of an inspection team of the Technical Secretariat, or by reason of the action of any officer or employee of the United States pursuant to this chapter or the Convention. For purposes of this subsection, action taken pursuant to or under the color of this chapter or the Convention shall be deemed to be action taken by the United States for a public purpose.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> District courts</heading>
+<content>
+<p class="indent2">The district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any civil action or claim described in subparagraph (A) that does not exceed $10,000.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Notification</heading>
+<content>
+<p class="indent1">Any person intending to bring a civil action pursuant to paragraph (1) shall notify the United States National Authority of that intent at least one year before filing the claim in the United States Court of Federal Claims. Action on any claim filed during that one-year period shall be stayed. The one-year period following the notification shall not be counted for purposes of any law limiting the period within which the civil action may be commenced.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Initial steps by United States Government to seek remedies</heading>
+<content>
+<p class="indent1">During the period between a notification pursuant to paragraph (2) and the filing of a claim covered by the notification in the United States Court of Federal Claims, the United States National Authority shall pursue all diplomatic and other remedies that the United States National Authority considers necessary and appropriate to seek redress for the claim including, but not limited to, the remedies provided for in the Convention and under this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Burden of proof</heading>
+<chapeau class="indent1">In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff’s claim. In deciding whether the plaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the value of proprietary information;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the availability of the proprietary information;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the extent to which the proprietary information is based on patents, trade secrets, or other protected intellectual property;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the significance of proprietary information; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the emergence of technology elsewhere a reasonable time after the inspection.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Tort liability</heading>
+<content>
+<p class="indent0">The district courts of the United States shall have exclusive jurisdiction of civil actions for money damages for any tort under the Constitution or any Federal or State law arising from the acts or omissions of any officer or employee of the United States or the Organization, including any member of an inspection team of the Technical Secretariat, taken pursuant to or under color of the Convention or this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Waiver of sovereign immunity of United States</heading>
+<content>
+<p class="indent0">In any action under subsection (a) or (b), the United States may not raise sovereign immunity as a defense.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Authority for cause of action</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> United States actions in United States district court</heading>
+<content>
+<p class="indent1">Notwithstanding any other law, the Attorney General of the United States is authorized to bring an action in the United States District Court for the District of Columbia against any foreign nation for money damages resulting from that nation’s refusal to provide indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat who is a national of that foreign nation acting at the direction or the behest of that foreign nation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> United States actions in courts outside the United States</heading>
+<content>
+<p class="indent1">The Attorney General is authorized to seek any and all available redress in any international tribunal for indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat, and to seek such redress in the courts of the foreign nation from which the inspector is a national.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Actions brought by individuals and businesses</heading>
+<content>
+<p class="indent1">Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution or any Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Recoupment</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Policy</heading>
+<content>
+<p class="indent1">It is the policy of the United States to recoup all funds withdrawn from the Treasury of the United States in payment for any tort under Federal or State law or taking under the Constitution arising from the acts or omissions of any foreign person, officer, or employee of the Organization, including any member of an inspection team of the Technical Secretariat, taken under color of the Chemical Weapons Convention or this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Sanctions on foreign companies</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Imposition of sanctions</heading>
+<chapeau class="indent2">The sanctions provided in subparagraph (B) shall be imposed for a period of not less than ten years upon—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> any foreign person, officer, or employee of the Organization, including any member of an inspection team of the Technical Secretariat, for whose actions or omissions the United States has been held liable for a tort or taking pursuant to this chapter; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> any foreign person or business entity organized and operating under the laws of a foreign nation which knowingly assisted, encouraged or induced, in any way, a foreign person described in clause (i) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Sanctions</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Arms export transactions</heading>
+<content>
+<p class="indent3">The United States Government shall not sell to a person described in subparagraph (A) any item on the United States Munitions List and shall terminate sales of any defense articles, defense services, or design and construction services to a person described in subparagraph (A) under the Arms Export Control Act [<ref>22 U.S.C. 2751</ref> et seq.].</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Sanctions under Export Administration Act of 1979</heading>
+<content>
+<p class="indent3">The authorities under section 6 <ref class="footnoteRef" idref="fn002351">1</ref> of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) <ref class="footnoteRef" idref="fn002351">1</ref> of that Act to a person described in subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iii)</num>
+<heading class="bold"> International financial assistance</heading>
+<content>
+<p class="indent3">The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with <ref>section 262d of this title</ref> to a person described in subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iv)</num>
+<heading class="bold"> Export-Import Bank transactions</heading>
+<content>
+<p class="indent3">The United States shall not give approval to guarantee, insure, or extend credit, or to participate in the extension of credit to a person described in subparagraph (A) through the Export-Import Bank of the United States.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(v)</num>
+<heading class="bold"> Private bank transactions</heading>
+<content>
+<p class="indent3">Regulations shall be issued to prohibit any United States bank from making any loan or providing any credit to a person described in subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(vi)</num>
+<heading class="bold"> Blocking of assets</heading>
+<content>
+<p class="indent3">The President shall take all steps necessary to block any transactions in any property subject to the jurisdiction of the United States in which a person described in subparagraph (A) has any interest whatsoever, for the purpose of recouping funds in accordance with the policy in paragraph (1).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(vii)</num>
+<heading class="bold"> Denial of landing rights</heading>
+<content>
+<p class="indent3">Landing rights in the United States shall be denied to any private aircraft or air carrier owned by a person described in subparagraph (A) except as necessary to provide for emergencies in which the safety of the aircraft or its crew or passengers is threatened.</p>
+</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Sanctions on foreign governments</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Imposition of sanctions</heading>
+<content>
+<p class="indent2">Whenever the President determines that persuasive information is available indicating that a foreign country has knowingly assisted, encouraged or induced, in any way, a person described in paragraph (2)(A) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information, the President shall, within 30 days after the receipt of such information by the executive branch of Government, notify the Congress in writing of such determination and, subject to the requirements of paragraphs (4) and (5), impose the sanctions provided under subparagraph (B) for a period of not less than five years.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Sanctions</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Arms export transactions</heading>
+<content>
+<p class="indent3">The United States Government shall not sell a country described in subparagraph (A) any item on the United States Munitions List, shall terminate sales of any defense articles, defense services, or design and construction services to that country under the Arms Export Control Act [<ref>22 U.S.C. 2751</ref> et seq.], and shall terminate all foreign military financing for that country under the Arms Export Control Act.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Denial of certain licenses</heading>
+<content>
+<p class="indent3">Licenses shall not be issued for the export to the sanctioned country of any item on the United States Munitions List or commercial satellites.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iii)</num>
+<heading class="bold"> Denial of assistance</heading>
+<content>
+<p class="indent3">No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, or extending military credits or making guarantees to a country described in subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iv)</num>
+<heading class="bold"> Sanctions under Export Administration Act of 1979</heading>
+<content>
+<p class="indent3">The authorities of section 6 <sup>1</sup> of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) <sup>1</sup> of that Act to a country described in subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(v)</num>
+<heading class="bold"> International financial assistance</heading>
+<content>
+<p class="indent3">The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with <ref>section 262d of this title</ref> to a country described in subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(vi)</num>
+<heading class="bold"> Termination of assistance under Foreign Assistance Act of 1961</heading>
+<content>
+<p class="indent3">The United States shall terminate all assistance to a country described in subparagraph (A) under the Foreign Assistance Act of 1961 [<ref>22 U.S.C. 2151</ref> et seq.], except for urgent humanitarian assistance.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(vii)</num>
+<heading class="bold"> Private bank transactions</heading>
+<content>
+<p class="indent3">The United States shall not give approval to guarantee, insure, or extend credit, or participate in the extension of credit through the Export-Import Bank of the United States to a country described in subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(viii)</num>
+<heading class="bold"> Private bank transactions</heading>
+<content>
+<p class="indent3">Regulations shall be issued to prohibit any United States bank from making any loan or providing any credit to a country described in subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ix)</num>
+<heading class="bold"> Denial of landing rights</heading>
+<content>
+<p class="indent3">Landing rights in the United States shall be denied to any air carrier owned by a country described in subparagraph (A), except as necessary to provide for emergencies in which the safety of the aircraft or its crew or passengers is threatened.</p>
+</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Suspension of sanctions upon recoupment by payment</heading>
+<content>
+<p class="indent1">Sanctions imposed under paragraph (2) or (3) may be suspended if the sanctioned person, business entity, or country, within the period specified in that paragraph, provides full and complete compensation to the United States Government, in convertible foreign exchange or other mutually acceptable compensation equivalent to the full value thereof, in satisfaction of a tort or taking for which the United States has been held liable pursuant to this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Waiver of sanctions on foreign countries</heading>
+<content>
+<p class="indent1">The President may waive some or all of the sanctions provided under paragraph (3) in a particular case if he determines and certifies in writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that such waiver is necessary to protect the national security interests of the United States. The certification shall set forth the reasons supporting the determination and shall take effect on the date on which the certification is received by the Congress.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Notification to Congress</heading>
+<content>
+<p class="indent1">Not later than five days after sanctions become effective against a foreign person pursuant to this chapter, the President shall transmit written notification of the imposition of sanctions against that foreign person to the chairmen and ranking members of the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Sanctions for unauthorized disclosure of United States confidential business information</heading>
+<chapeau class="indent0">The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States any alien who, after <date date="1998-10-21">October 21, 1998</date>—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <ref class="footnoteRef" idref="fn002352">2</ref> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> traffics in United States confidential business information, a proven claim to which is owned by a United States national;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> is a corporate officer, principal, shareholder with a controlling interest of an entity which has been involved in the unauthorized disclosure of United States confidential business information, a proven claim to which is owned by a United States national; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> is a spouse, minor child, or agent of a person excludable under paragraph (1), (2), or (3).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> “United States confidential business information” defined</heading>
+<chapeau class="indent0">In this section, the term “United States confidential business information” means any trade secrets or commercial or financial information that is privileged and confidential—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> data described in <ref>section 6724(e)(2) of this title</ref>,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any chemical structure,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> any plant design process, technology, or operating method,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> any operating requirement, input, or result that identifies any type or quantity of chemicals used, processed, or produced, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> any commercial sale, shipment, or use of a chemical, or</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> as described in <ref>section 552(b)(4) of title 5</ref>,</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">and that is obtained—</continuation>
+</subsection>
+<subsection class="indent0">
+<num>(i)</num>
+<content> from a United States person; or</content>
+</subsection>
+<subsection class="indent0">
+<num>(ii)</num>
+<content> through the United States Government or the conduct of an inspection on United States territory under the Convention.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title I, § 103</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–861</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>INSPECTIONS</heading>
+<section>
+<num>§ 6721.</num>
+<heading> Definitions</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">In this subchapter, the terms “challenge inspection”, “plant site”, “plant”, “facility agreement”, “inspection team”, and “requesting state party” have the meanings given those terms in Part I of the Annex on Implementation and Verification of the Chemical Weapons Convention. The term “routine inspection” means an inspection, other than an “initial inspection”, undertaken pursuant to Article VI of the Convention.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> “Judge of the United States” defined</heading>
+<content>
+<p class="indent0">In this subchapter, the term “judge of the United States” means a judge or magistrate judge of a district court of the United States.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title III, § 301</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–872</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6722.</num>
+<heading> Facility agreements</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Authorization of inspections</heading>
+<content>
+<p class="indent0">Inspections by the Technical Secretariat of plants, plant sites, or other facilities or locations for which the United States has a facility agreement with the Organization shall be conducted in accordance with the facility agreement. Any such facility agreement may not in any way limit the right of the owner or operator of the facility to withhold consent to an inspection request.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Types of facility agreements</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Schedule 2 facilities</heading>
+<content>
+<p class="indent1">The United States National Authority shall ensure that facility agreements for plants, plant sites, or other facilities or locations that are subject to inspection pursuant to paragraph 4 of Article VI of the Convention are concluded unless the owner, operator, occupant, or agent in charge of the facility and the Technical Secretariat agree that such an agreement is not necessary.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Schedule 3 facilities</heading>
+<content>
+<p class="indent1">The United States National Authority shall ensure that facility agreements are concluded for plants, plant sites, or other facilities or locations that are subject to inspection pursuant to paragraph 5 or 6 of Article VI of the Convention if so requested by the owner, operator, occupant, or agent in charge of the facility.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Notification requirements</heading>
+<content>
+<p class="indent0">The United States National Authority shall ensure that the owner, operator, occupant, or agent in charge of a facility prior to the development of the agreement relating to that facility is notified and, if the person notified so requests, the person may participate in the preparations for the negotiation of such an agreement. To the maximum extent practicable consistent with the Convention, the owner and the operator, occupant or agent in charge of a facility may observe negotiations of the agreement between the United States and the Organization concerning that facility.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Content of facility agreements</heading>
+<chapeau class="indent0">Facility agreements shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> identify the areas, equipment, computers, records, data, and samples subject to inspection;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> describe the procedures for providing notice of an inspection to the owner, occupant, operator, or agent in charge of a facility;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> describe the timeframes for inspections; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> detail the areas, equipment, computers, records, data, and samples that are not subject to inspection.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title III, § 302</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–872</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6723.</num>
+<heading> Authority to conduct inspections</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Prohibition</heading>
+<content>
+<p class="indent0">No inspection of a plant, plant site, or other facility or location in the United States shall take place under the Convention without the authorization of the United States National Authority in accordance with the requirements of this subchapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Authority</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Technical Secretariat inspection teams</heading>
+<content>
+<p class="indent1">Any duly designated member of an inspection team of the Technical Secretariat may inspect any plant, plant site, or other facility or location in the United States subject to inspection pursuant to the Convention.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> United States Government representatives</heading>
+<chapeau class="indent1">The United States National Authority shall coordinate the designation of employees of the Federal Government (and, in the case of an inspection of a United States Government facility, the designation of contractor personnel who shall be led by an employee of the Federal Government) to accompany members of an inspection team of the Technical Secretariat and, in doing so, shall ensure that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a special agent of the Federal Bureau of Investigation, as designated by the Federal Bureau of Investigation, accompanies each inspection team visit pursuant to paragraph (1);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> no employee of the Environmental Protection Agency or the Occupational Safety and Health Administration accompanies any inspection team visit conducted pursuant to paragraph (1); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the number of duly designated representatives shall be kept to the minimum necessary.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Objections to individuals serving as inspectors</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">In deciding whether to exercise the right of the United States under the Convention to object to an individual serving as an inspector, the President shall give great weight to his reasonable belief that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> such individual is or has been a member of, or a participant in, any group or organization that has engaged in, or attempted or conspired to engage in, or aided or abetted in the commission of, any terrorist act or activity;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> such individual has committed any act or activity which would be a felony under the laws of the United States; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the participation of such individual as a member of an inspection team would pose a risk to the national security or economic well-being of the United States.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Not subject to judicial review</heading>
+<content>
+<p class="indent2">Any objection by the President to an individual serving as an inspector, whether made pursuant to this section or otherwise, shall not be reviewable in any court.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Exception</heading>
+<content>
+<p class="indent0">The requirement under subsection (b)(2)(A) shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title III, § 303</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–873</ref>; <ref>Pub. L. 106–280, title III, § 305</ref>, <date date="2000-10-06">Oct. 6, 2000</date>, <ref>114 Stat. 854</ref>; <ref>Pub. L. 107–107, div. A, title XII, § 1204(a)</ref>, <date date="2001-12-28">Dec. 28, 2001</date>, <ref>115 Stat. 1247</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6724.</num>
+<heading> Procedures for inspections</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Types of inspections</heading>
+<content>
+<p class="indent0">Each inspection of a plant, plant site, or other facility or location in the United States under the Convention shall be conducted in accordance with this section and <ref>section 6725 of this title</ref>, except where other procedures are provided in a facility agreement entered into under <ref>section 6722 of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Notice</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">An inspection referred to in subsection (a) may be made only upon issuance of an actual written notice by the United States National Authority to the owner and to the operator, occupant, or agent in charge of the premises to be inspected.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Time of notification</heading>
+<content>
+<p class="indent1">The notice for a routine inspection shall be submitted to the owner and to the operator, occupant, or agent in charge within six hours of receiving the notification of the inspection from the Technical Secretariat or as soon as possible thereafter. Notice for a challenge inspection shall be provided at any appropriate time determined by the United States National Authority. Notices may be posted prominently at the plant, plant site, or other facility or location if the United States is unable to provide actual written notice to the owner, operator, or agent in charge of the premises.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Content of notice</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The notice under paragraph (1) shall include all appropriate information supplied by the Technical Secretariat to the United States National Authority concerning—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the type of inspection;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the basis for the selection of the plant, plant site, or other facility or location for the type of inspection sought;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the time and date that the inspection will begin and the period covered by the inspection; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the names and titles of the inspectors.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Special rule for challenge inspections</heading>
+<content>
+<p class="indent2">In the case of a challenge inspection pursuant to Article IX of the Convention, the notice shall also include all appropriate evidence or reasons provided by the requesting state party to the Convention for seeking the inspection.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Separate notices required</heading>
+<content>
+<p class="indent1">A separate notice shall be provided for each inspection, except that a notice shall not be required for each entry made during the period covered by the inspection.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Credentials</heading>
+<content>
+<p class="indent0">The head of the inspection team of the Technical Secretariat and the accompanying employees of the Federal Government (and, in the case of an inspection of a United States Government facility, any accompanying contractor personnel) shall display appropriate identifying credentials to the owner, operator, occupant, or agent in charge of the premises before the inspection is commenced.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Timeframe for inspections</heading>
+<content>
+<p class="indent0">Consistent with the provisions of the Convention, each inspection shall be commenced and completed with reasonable promptness and shall be conducted at reasonable times, within reasonable limits, and in a reasonable manner.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Scope</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Except as provided in a warrant issued under <ref>section 6725 of this title</ref> or a facility agreement entered into under <ref>section 6722 of this title</ref>, an inspection conducted under this subchapter may extend to all things within the premises inspected (including records, files, papers, processes, controls, structures and vehicles) related to whether the requirements of the Convention applicable to such premises have been complied with.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Exception</heading>
+<chapeau class="indent1">Unless required by the Convention, no inspection under this subchapter shall extend to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> financial data;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> sales and marketing data (other than shipment data);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> pricing data;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> personnel data;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> research data;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> patent data;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> data maintained for compliance with environmental or occupational health and safety regulations; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> personnel and vehicles entering and personnel and personal passenger vehicles exiting the facility.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Sampling and safety</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Director of the United States National Authority is authorized to require the provision of samples to a member of the inspection team of the Technical Secretariat in accordance with the provisions of the Convention. The owner or the operator, occupant or agent in charge of the premises to be inspected shall determine whether the sample shall be taken by representatives of the premises or the inspection team or other individuals present. No sample collected in the United States pursuant to an inspection permitted by this chapter may be transferred for analysis to any laboratory outside the territory of the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Compliance with regulations</heading>
+<content>
+<p class="indent1">In carrying out their activities, members of the inspection team of the Technical Secretariat and representatives of agencies or departments accompanying the inspection team shall observe safety regulations established at the premises to be inspected, including those for protection of controlled environments within a facility and for personal safety.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Coordination</heading>
+<content>
+<p class="indent0">The appropriate representatives of the United States, as designated, if present, shall assist the owner and the operator, occupant or agent in charge of the premises to be inspected in interacting with the members of the inspection team of the Technical Secretariat.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title III, § 304</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–874</ref>; <ref>Pub. L. 107–107, div. A, title XII, § 1204(b)</ref>, <date date="2001-12-28">Dec. 28, 2001</date>, <ref>115 Stat. 1247</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6725.</num>
+<heading> Warrants</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in <ref>section 6724(a) of this title</ref>. If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b), the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Routine inspections</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Obtaining administrative search warrants</heading>
+<content>
+<p class="indent1">For any routine inspection conducted on the territory of the United States pursuant to Article VI of the Convention, where consent has been withheld, the United States Government shall first obtain an administrative search warrant from a judge of the United States. The United States Government shall provide to the judge of the United States all appropriate information supplied by the Technical Secretariat to the United States National Authority regarding the basis for the selection of the plant site, plant, or other facility or location for the type of inspection sought. The United States Government shall also provide any other appropriate information available to it relating to the reasonableness of the selection of the plant, plant site, or other facility or location for the inspection.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Content of affidavits for administrative search warrants</heading>
+<chapeau class="indent1">The judge of the United States shall promptly issue a warrant authorizing the requested inspection upon an affidavit submitted by the United States Government showing that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Chemical Weapons Convention is in force for the United States;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the plant site, plant, or other facility or location sought to be inspected is required to report data under subchapter III of this chapter and is subject to routine inspection under the Convention;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> the purpose of the inspection is—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in the case of any facility owned or operated by a non-Government entity related to Schedule 1 chemical agents, to verify that the facility is not used to produce any Schedule 1 chemical agent except for declared chemicals; quantities of Schedule 1 chemicals produced, processed, or consumed are correctly declared and consistent with needs for the declared purpose; and Schedule 1 chemicals are not diverted or used for other purposes;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in the case of any facility related to Schedule 2 chemical agents, to verify that activities are in accordance with obligations under the Convention and consistent with the information provided in data declarations; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> in the case of any facility related to Schedule 3 chemical agents and any other chemical production facility, to verify that the activities of the facility are consistent with the information provided in data declarations;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the items, documents, and areas to be searched and seized;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> in the case of a facility related to Schedule 2 or Schedule 3 chemical agents or unscheduled discrete organic chemicals, the plant site has not been subject to more than 1 routine inspection in the current calendar year, and, in the case of facilities related to Schedule 3 chemical agents or unscheduled discrete organic chemicals, the inspection will not cause the number of routine inspections in the United States to exceed 20 in a calendar year;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<chapeau> the selection of the site was made in accordance with procedures established under the Convention and, in particular—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in the case of any facility owned or operated by a non-Government entity related to Schedule 1 chemical agents, the intensity, duration, timing, and mode of the requested inspection is based on the risk to the object and purpose of the Convention by the quantities of chemical produced, the characteristics of the facility and the nature of activities carried out at the facility, and the requested inspection, when considered with previous such inspections of the facility undertaken in the current calendar year, shall not exceed the number reasonably required based on the risk to the object and purpose of the Convention as described above;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in the case of any facility related to Schedule 2 chemical agents, the Technical Secretariat gave due consideration to the risk to the object and purpose of the Convention posed by the relevant chemical, the characteristics of the plant site and the nature of activities carried out there, taking into account the respective facility agreement as well as the results of the initial inspections and subsequent inspections; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> in the case of any facility related to Schedule 3 chemical agents or unscheduled discrete organic chemicals, the facility was selected randomly by the Technical Secretariat using appropriate mechanisms, such as specifically designed computer software, on the basis of two weighting factors: (I) equitable geographical distribution of inspections; and (II) the information on the declared sites available to the Technical Secretariat, related to the relevant chemical, the characteristics of the plant site, and the nature of activities carried out there;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> the earliest commencement and latest closing dates and times of the inspection; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> the duration of inspection will not exceed time limits specified in the Convention unless agreed by the owner, operator, or agent in charge of the plant.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Content of warrants</heading>
+<content>
+<p class="indent1">A warrant issued under paragraph (2) shall specify the same matters required of an affidavit under that paragraph. In addition to the requirements for a warrant issued under this paragraph, each warrant shall contain, if known, the identities of the representatives of the Technical Secretariat conducting the inspection and the observers of the inspection and, if applicable, the identities of the representatives of agencies or departments of the United States accompanying those representatives.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Challenge inspections</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Criminal search warrant</heading>
+<content>
+<p class="indent2">For any challenge inspection conducted on the territory of the United States pursuant to Article IX of the Chemical Weapons Convention, where consent has been withheld, the United States Government shall first obtain from a judge of the United States a criminal search warrant based upon probable cause, supported by oath or affirmation, and describing with particularity the place to be searched and the person or things to be seized.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Information provided</heading>
+<chapeau class="indent2">The United States Government shall provide to the judge of the United States—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> all appropriate information supplied by the Technical Secretariat to the United States National Authority regarding the basis for the selection of the plant site, plant, or other facility or location for the type of inspection sought;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> any other appropriate information relating to the reasonableness of the selection of the plant, plant site, or other facility or location for the inspection;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<chapeau> information concerning—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the duration and scope of the inspection;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> areas to be inspected;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> records and data to be reviewed; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> samples to be taken;</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> appropriate evidence or reasons provided by the requesting state party for the inspection;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> any other evidence showing probable cause to believe that a violation of this chapter has occurred or is occurring; and</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> the identities of the representatives of the Technical Secretariat on the inspection team and the Federal Government employees accompanying the inspection team.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Content of warrant</heading>
+<chapeau class="indent2">The warrant shall specify—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the type of inspection authorized;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the purpose of the inspection;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the type of plant site, plant, or other facility or location to be inspected;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the areas of the plant site, plant, or other facility or location to be inspected;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> the items, documents, data, equipment, and computers that may be inspected or seized;</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> samples that may be taken;</content>
+</clause>
+<clause class="indent3">
+<num>(vii)</num>
+<content> the earliest commencement and latest concluding dates and times of the inspection; and</content>
+</clause>
+<clause class="indent3">
+<num>(viii)</num>
+<content> the identities of the representatives of the Technical Secretariat on the inspection teams and the Federal Government employees accompanying the inspection team.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title III, § 305</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–875</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6726.</num>
+<heading> Prohibited acts relating to inspections</heading>
+<content>
+<p class="indent0">It shall be unlawful for any person willfully to fail or refuse to permit entry or inspection, or to disrupt, delay, or otherwise impede an inspection, authorized by this chapter.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title III, § 306</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–878</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6727.</num>
+<heading> National security exception</heading>
+<content>
+<p class="indent0">Consistent with the objective of eliminating chemical weapons, the President may deny a request to inspect any facility in the United States in cases where the President determines that the inspection may pose a threat to the national security interests of the United States.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title III, § 307</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–878</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6728.</num>
+<heading> Annual report on inspections</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">Not later than one year after <date date="1998-10-21">October 21, 1998</date>, and annually thereafter, the President shall submit a report in classified and unclassified form to the appropriate congressional committees on inspections made under the Convention during the preceding year.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Content of reports</heading>
+<chapeau class="indent0">Each report shall contain the following information for the reporting period:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The name of each company or entity subject to the jurisdiction of the United States reporting data pursuant to subchapter III of this chapter.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The number of inspections under the Convention conducted on the territory of the United States.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The number and identity of inspectors conducting any inspection described in paragraph (2) and the number of inspectors barred from inspection by the United States.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The cost to the United States for each inspection described in paragraph (2).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> The total costs borne by United States business firms in the course of inspections described in paragraph (2).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> A description of the circumstances surrounding inspections described in paragraph (2), including instances of possible industrial espionage and misconduct of inspectors.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> The identity of parties claiming loss of trade secrets, the circumstances surrounding those losses, and the efforts taken by the United States Government to redress those losses.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> A description of instances where inspections under the Convention outside the United States have been disrupted or delayed.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> “Appropriate congressional committees” defined</heading>
+<content>
+<p class="indent0">The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title III, § 309</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–879</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6729.</num>
+<heading> United States assistance in inspections at private facilities</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Assistance in preparation for inspections</heading>
+<content>
+<p class="indent0">At the request of an owner of a facility not owned or operated by the United States Government, or contracted for use by or for the United States Government, the Secretary of Defense may assist the facility to prepare the facility for possible inspections pursuant to the Convention.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Reimbursement requirement</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Except as provided in paragraph (2), the owner of a facility provided assistance under subsection (a) shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Exception</heading>
+<content>
+<p class="indent1">In the case of assistance provided under subsection (a) to a facility owned by a person described in subsection (c), the United States National Authority shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Owners covered by United States National Authority reimbursements</heading>
+<chapeau class="indent0">Subsection (b)(2) applies in the case of assistance provided to the following:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Small business concerns</heading>
+<content>
+<p class="indent1">A small business concern as defined in <ref>section 632 of title 15</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Domestic producers of Schedule 3 or unscheduled discrete organic chemicals</heading>
+<chapeau class="indent1">Any person located in the United States that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> does not possess, produce, process, consume, import, or export any Schedule 1 or Schedule 2 chemical; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> in the calendar year preceding the year in which the assistance is to be provided, produced—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> more than 30 metric tons of Schedule 3 or unscheduled discrete organic chemicals that contain phosphorous, sulfur, or fluorine; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> more than 200 metric tons of unscheduled discrete organic chemicals.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title III, § 310</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–880</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>REPORTS</heading>
+<section>
+<num>§ 6741.</num>
+<heading> Reports required by United States National Authority</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Regulations on recordkeeping</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent1">The United States National Authority shall ensure that regulations are prescribed that require each person located in the United States who produces, processes, consumes, exports, or imports, or proposes to produce, process, consume, export, or import, a chemical substance that is subject to the Convention to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> maintain and permit access to records related to that production, processing, consumption, export, or import of such substance; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> submit to the Director of the United States National Authority such reports as the United States National Authority may reasonably require to provide to the Organization, pursuant to subparagraph 1(a) of the Annex on Confidentiality of the Convention, the minimum amount of information and data necessary for the timely and efficient conduct by the Organization of its responsibilities under the Convention.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Rulemaking</heading>
+<content>
+<p class="indent1">The Director of the United States National Authority shall ensure that regulations pursuant to this section are prescribed expeditiously.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Coordination</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Avoidance of duplication</heading>
+<content>
+<p class="indent1">To the extent feasible, the United States Government shall not require the submission of any report that is unnecessary or duplicative of any report required by or under any other law. The head of each Federal agency shall coordinate the actions of that agency with the heads of the other Federal agencies in order to avoid the imposition of duplicative reporting requirements under this chapter or any other law.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Definition</heading>
+<content>
+<p class="indent1">As used in paragraph (1), the term “Federal agency” has the meaning given the term “agency” in <ref>section 551(1) of title 5</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title IV, § 401</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–880</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6742.</num>
+<heading> Prohibition relating to low concentrations of Schedules 2 and 3 chemicals</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Prohibition</heading>
+<chapeau class="indent0">Notwithstanding any other provision of this chapter, no person located in the United States shall be required to report on, or to submit to, any routine inspection conducted for the purpose of verifying the production, possession, consumption, exportation, importation, or proposed production, possession, consumption, exportation, or importation of any substance that contains less than—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> 10 percent concentration of a Schedule 2 chemical; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> 80 percent concentration of a Schedule 3 chemical.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Standard for measurement of concentration</heading>
+<content>
+<p class="indent0">The percent concentration of a chemical in a substance shall be measured on the basis of volume or total weight, which measurement yields the lesser percent.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title IV, § 402</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–881</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6743.</num>
+<heading> Prohibition relating to unscheduled discrete organic chemicals and coincidental byproducts in waste streams</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> <ref class="footnoteRef" idref="fn002353">1</ref> Prohibition</heading>
+<chapeau class="indent0">Notwithstanding any other provision of this chapter, no person located in the United States shall be required to report on, or to submit to, any routine inspection conducted for the purpose of verifying the production, possession, consumption, exportation, importation, or proposed production, possession, consumption, exportation, or importation of any substance that is—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> an unscheduled discrete organic chemical; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a coincidental byproduct of a manufacturing or production process that is not isolated or captured for use or sale during the process and is routed to, or escapes, from the waste stream of a stack, incinerator, or wastewater treatment system or any other waste stream.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title IV, § 403</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–881</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6744.</num>
+<heading> Confidentiality of information</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Freedom of Information Act exemption for certain Convention information</heading>
+<content>
+<p class="indent0">Except as provided in subsection (b) or (c), any confidential business information, as defined in <ref>section 6713(g) of this title</ref>, reported to, or otherwise acquired by, the United States Government under this chapter or under the Convention shall not be disclosed under <ref>section 552(a) of title 5</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Exceptions</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Information for the Technical Secretariat</heading>
+<content>
+<p class="indent1">Information shall be disclosed or otherwise provided to the Technical Secretariat or other states parties to the Chemical Weapons Convention in accordance with the Convention, in particular, the provisions of the Annex on the Protection of Confidential Information.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Information for Congress</heading>
+<content>
+<p class="indent1">Information shall be made available to any committee or subcommittee of Congress with appropriate jurisdiction upon the written request of the chairman or ranking minority member of such committee or subcommittee, except that no such committee or subcommittee, and no member and no staff member of such committee or subcommittee, shall disclose such information or material except as otherwise required or authorized by law.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Information for enforcement actions</heading>
+<content>
+<p class="indent1">Information shall be disclosed to other Federal agencies for enforcement of this chapter or any other law, and shall be disclosed or otherwise provided when relevant in any proceeding under this chapter or any other law, except that disclosure or provision in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Information disclosed in national interest</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Authority</heading>
+<content>
+<p class="indent1">The United States Government shall disclose any information reported to, or otherwise required by the United States Government under this chapter or the Convention, including categories of such information, that it determines is in the national interest to disclose and may specify the form in which such information is to be disclosed.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Notice of disclosure</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Requirement</heading>
+<chapeau class="indent2">If any Department or agency of the United States Government proposes pursuant to paragraph (1) to publish or disclose or otherwise provide information exempt from disclosure under subsection (a), the United States National Authority shall, unless contrary to national security or law enforcement needs, provide notice of intent to disclose the information—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to the person that submitted such information; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in the case of information about a person received from another source, to the person to whom that information pertains.</content>
+</clause>
+<continuation class="indent2 firstIndent0">The information may not be disclosed until the expiration of 30 days after notice under this paragraph has been provided.</continuation>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Proceedings on objections</heading>
+<content>
+<p class="indent2">In the event that the person to which the information pertains objects to the disclosure, the agency shall promptly review the grounds for each objection of the person and shall afford the objecting person a hearing for the purpose of presenting the objections to the disclosure. Not later than 10 days before the scheduled or rescheduled date for the disclosure, the United States National Authority shall notify such person regarding whether such disclosure will occur notwithstanding the objections.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Criminal penalty for wrongful disclosure</heading>
+<content>
+<p class="indent0">Any officer or employee of the United States, and any former officer or employee of the United States, who by reason of such employment or official position has obtained possession of, or has access to, information the disclosure or other provision of which is prohibited by subsection (a), and who, knowing that disclosure or provision of such information is prohibited by such subsection, willfully discloses or otherwise provides the information in any manner to any person (including any person located outside the territory of the United States) not authorized to receive it, shall be fined under title 18 or imprisoned for not more than five years, or both.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Criminal forfeiture</heading>
+<content>
+<p class="indent0">The property of any person who violates subsection (d) shall be subject to forfeiture to the United States in the same manner and to the same extent as is provided in section 229C <ref class="footnoteRef" idref="fn002354">1</ref> of title 18.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> International inspectors</heading>
+<content>
+<p class="indent0">The provisions of this section shall also apply to employees of the Technical Secretariat.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title IV, § 404</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–882</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6745.</num>
+<heading> Recordkeeping violations</heading>
+<chapeau class="indent0">It shall be unlawful for any person willfully to fail or refuse—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to establish or maintain any record required by this chapter or any regulation prescribed under this chapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to submit any report, notice, or other information to the United States Government in accordance with this chapter or any regulation prescribed under this chapter; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to permit access to or copying of any record that is exempt from disclosure under this chapter or any regulation prescribed under this chapter.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title IV, § 405</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–883</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER IV—</num>
+<heading>ENFORCEMENT</heading>
+<section>
+<num>§ 6761.</num>
+<heading> Penalties</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Civil</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Penalty amounts</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Prohibited acts relating to inspections</heading>
+<content>
+<p class="indent2">Any person that is determined, in accordance with paragraph (2), to have violated <ref>section 6726 of this title</ref> shall be required by order to pay a civil penalty in an amount not to exceed $25,000 for each such violation. For purposes of this paragraph, each day such a violation of <ref>section 6726 of this title</ref> continues shall constitute a separate violation of that section.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Recordkeeping violations</heading>
+<content>
+<p class="indent2">Any person that is determined, in accordance with paragraph (2), to have violated <ref>section 6745 of this title</ref> shall be required by order to pay a civil penalty in an amount not to exceed $5,000 for each such violation.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Hearing</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Before imposing an order described in paragraph (1) against a person under this subsection for a violation of section 6726 or 6745 of this title, the Secretary of State shall provide the person or entity with notice and, upon request made within 15 days of the date of the notice, a hearing respecting the violation.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Conduct of hearing</heading>
+<content>
+<p class="indent2">Any hearing so requested shall be conducted before an administrative law judge. The hearing shall be conducted in accordance with the requirements of <ref>section 554 of title 5</ref>. If no hearing is so requested, the Secretary of State’s imposition of the order shall constitute a final and unappealable order.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Issuance of orders</heading>
+<content>
+<p class="indent2">If the administrative law judge determines, upon the preponderance of the evidence received, that a person or entity named in the complaint has violated section 6726 or 6745 of this title, the administrative law judge shall state his findings of fact and issue and cause to be served on such person or entity an order described in paragraph (1).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Factors for determination of penalty amounts</heading>
+<content>
+<p class="indent2">In determining the amount of any civil penalty, the administrative law judge shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, the ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, the existence of an internal compliance program, and such other matters as justice may require.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Administrative appellate review</heading>
+<content>
+<p class="indent1">The decision and order of an administrative law judge shall become the final agency decision and order of the head of the United States National Authority unless, within 30 days, the head of the United States National Authority modifies or vacates the decision and order, with or without conditions, in which case the decision and order of the head of the United States National Authority shall become a final order under this subsection.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Offsets</heading>
+<content>
+<p class="indent1">The amount of the civil penalty under a final order of the United States National Authority may be deducted from any sums owed by the United States to the person.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Judicial review</heading>
+<content>
+<p class="indent1">A person adversely affected by a final order respecting an assessment may, within 30 days after the date the final order is issued, file a petition in the Court of Appeals for the District of Columbia Circuit or for any other circuit in which the person resides or transacts business.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Enforcement of orders</heading>
+<chapeau class="indent1">If a person fails to comply with a final order issued under this subsection against the person or entity—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> after the order making the assessment has become a final order and if such person does not file a petition for judicial review of the order in accordance with paragraph (5), or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> after a court in an action brought under paragraph (5) has entered a final judgment in favor of the United States National Authority,</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">the Secretary of State shall file a suit to seek compliance with the order in any appropriate district court of the United States, plus interest at currently prevailing rates calculated from the date of expiration of the 30-day period referred to in paragraph (5) or the date of such final judgment, as the case may be. In any such suit, the validity and appropriateness of the final order shall not be subject to review.</continuation>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Criminal</heading>
+<content>
+<p class="indent0">Any person who knowingly violates any provision of section 6726 or 6745 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than one year, or both.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title V, § 501</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–883</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6762.</num>
+<heading> Specific enforcement</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Jurisdiction</heading>
+<chapeau class="indent0">The district courts of the United States shall have jurisdiction over civil actions to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> restrain any violation of section 6726 or 6745 of this title; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> compel the taking of any action required by or under this chapter or the Convention.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Civil actions</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">A civil action described in subsection (a) may be brought—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> in the case of a civil action described in subsection (a)(1), in the United States district court for the judicial district in which any act, omission, or transaction constituting a violation of section 6726 or 6745 of this title occurred or in which the defendant is found or transacts business; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> in the case of a civil action described in subsection (a)(2), in the United States district court for the judicial district in which the defendant is found or transacts business.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Service of process</heading>
+<content>
+<p class="indent1">In any such civil action process may be served on a defendant wherever the defendant may reside or may be found, whether the defendant resides or may be found within the United States or elsewhere.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title V, § 502</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–885</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6763.</num>
+<heading> Expedited judicial review</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Civil action</heading>
+<content>
+<p class="indent0">Any person or entity subject to a search under this chapter may file a civil action challenging the constitutionality of any provision of this chapter. Notwithstanding any other provision of law, during the full calendar year of, and the two full calendar years following <date date="1998-10-21">October 21, 1998</date>, the district court shall accord such a case a priority in its disposition ahead of all other civil actions except for actions challenging the legality and conditions of confinement.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> En banc review</heading>
+<content>
+<p class="indent0">Notwithstanding any other provision of law, during the full calendar year of, and the two full calendar years following <date date="1998-10-21">October 21, 1998</date>, any appeal from a final order entered by a district court in an action brought under subsection (a) shall be heard promptly by the full Court of Appeals sitting en banc.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title V, § 503</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–885</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER V—</num>
+<heading>MISCELLANEOUS PROVISIONS</heading>
+<section>
+<num>§ 6771.</num>
+<heading> Prohibition</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Neither the Secretary of Defense nor any other officer or employee of the United States may, directly or by contract—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> conduct any test or experiment involving the use of any chemical or biological agent on a civilian population; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> use human subjects for the testing of chemical or biological agents.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Construction</heading>
+<content>
+<p class="indent0">Nothing in subsection (a) may be construed to prohibit actions carried out for purposes not prohibited by this chapter (as defined in <ref>section 6701(8) of this title</ref>).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> “Biological agent” defined</heading>
+<chapeau class="indent0">In this section, the term “biological agent” means any micro-organism (including bacteria, viruses, fungi, rickettsiae or protozoa), pathogen, or infectious substance, or any naturally occurring, bio-engineered or synthesized component of any such micro-organism, pathogen, or infectious substance, whatever its origin or method of production, capable of causing—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> death, disease, or other biological malfunction in a human, an animal, a plant, or another living organism;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> deterioration of food, water, equipment, supplies, or materials of any kind; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> deleterious alteration of the environment.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. I, title VI, § 602</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–886</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

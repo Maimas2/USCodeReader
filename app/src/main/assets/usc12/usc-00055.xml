@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 49—</num>
+<heading>HOMEOWNERS PROTECTION</heading>
+<section>
+<num>§ 4901.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter, the following definitions shall apply:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Adjustable rate mortgage</heading>
+<content>
+<p class="indent1">The term “adjustable rate mortgage” means a residential mortgage that has an interest rate that is subject to change. A residential mortgage that: (A) does not fully amortize over the term of the obligation; and (B) contains a conditional right to refinance or modify the unamortized principal at the maturity date of the term, shall be considered to be an adjustable rate mortgage for purposes of this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Cancellation date</heading>
+<chapeau class="indent1">The term “cancellation date” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> with respect to a fixed rate mortgage, at the option of the mortgagor, the date on which the principal balance of the mortgage—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> based solely on the initial amortization schedule for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 80 percent of the original value of the property securing the loan; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> based solely on actual payments, reaches 80 percent of the original value of the property securing the loan; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> with respect to an adjustable rate mortgage, at the option of the mortgagor, the date on which the principal balance of the mortgage—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 80 percent of the original value of the property securing the loan; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> based solely on actual payments, first reaches 80 percent of the original value of the property securing the loan.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Fixed rate mortgage</heading>
+<content>
+<p class="indent1">The term “fixed rate mortgage” means a residential mortgage that has an interest rate that is not subject to change.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Good payment history</heading>
+<chapeau class="indent1">The term “good payment history” means, with respect to a mortgagor, that the mortgagor has not—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> made a mortgage payment that was 60 days or longer past due during the 12-month period beginning 24 months before the later of (i) the date on which the mortgage reaches the cancellation date, or (ii) the date that the mortgagor submits a request for cancellation under <ref>section 4902(a)(1) of this title</ref>; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> made a mortgage payment that was 30 days or longer past due during the 12-month period preceding the later of (i) the date on which the mortgage reaches the cancellation date, or (ii) the date that the mortgagor submits a request for cancellation under <ref>section 4902(a)(1) of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Initial amortization schedule</heading>
+<chapeau class="indent1">The term “initial amortization schedule” means a schedule established at the time at which a residential mortgage transaction is consummated with respect to a fixed rate mortgage, showing—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the amount of principal and interest that is due at regular intervals to retire the principal balance and accrued interest over the amortization period of the loan; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the unpaid principal balance of the loan after each scheduled payment is made.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Amortization schedule then in effect</heading>
+<chapeau class="indent1">The term “amortization schedule then in effect” means, with respect to an adjustable rate mortgage, a schedule established at the time at which the residential mortgage transaction is consummated or, if such schedule has been changed or recalculated, is the most recent schedule under the terms of the note or mortgage, which shows—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the amount of principal and interest that is due at regular intervals to retire the principal balance and accrued interest over the remaining amortization period of the loan; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the unpaid balance of the loan after each such scheduled payment is made.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Midpoint of the amortization period</heading>
+<content>
+<p class="indent1">The term “midpoint of the amortization period” means, with respect to a residential mortgage transaction, the point in time that is halfway through the period that begins upon the first day of the amortization period established at the time a residential mortgage transaction is consummated and ends upon the completion of the entire period over which the mortgage is scheduled to be amortized.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Mortgage insurance</heading>
+<content>
+<p class="indent1">The term “mortgage insurance” means insurance, including any mortgage guaranty insurance, against the nonpayment of, or default on, an individual mortgage or loan involved in a residential mortgage transaction.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Mortgage insurer</heading>
+<content>
+<p class="indent1">The term “mortgage insurer” means a provider of private mortgage insurance, as described in this chapter, that is authorized to transact such business in the State in which the provider is transacting such business.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Mortgagee</heading>
+<content>
+<p class="indent1">The term “mortgagee” means the holder of a residential mortgage at the time at which that mortgage transaction is consummated.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Mortgagor</heading>
+<content>
+<p class="indent1">The term “mortgagor” means the original borrower under a residential mortgage or his or her successors or assignees.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Original value</heading>
+<content>
+<p class="indent1">The term “original value”, with respect to a residential mortgage transaction, means the lesser of the sales price of the property securing the mortgage, as reflected in the contract, or the appraised value at the time at which the subject residential mortgage transaction was consummated. In the case of a residential mortgage transaction for refinancing the principal residence of the mortgagor, such term means only the appraised value relied upon by the mortgagee to approve the refinance transaction.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Private mortgage insurance</heading>
+<content>
+<p class="indent1">The term “private mortgage insurance” means mortgage insurance other than mortgage insurance made available under the National Housing Act [<ref>12 U.S.C. 1701</ref> et seq.], title 38, or title V of the Housing Act of 1949 [<ref>42 U.S.C. 1471</ref> et seq.].</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> Residential mortgage</heading>
+<content>
+<p class="indent1">The term “residential mortgage” means a mortgage, loan, or other evidence of a security interest created with respect to a single-family dwelling that is the principal residence of the mortgagor.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(15)</num>
+<heading class="bold"> Residential mortgage transaction</heading>
+<content>
+<p class="indent1">The term “residential mortgage transaction” means a transaction consummated on or after the date that is 1 year after <date date="1998-07-29">July 29, 1998</date>, in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against a single-family dwelling that is the principal residence of the mortgagor to finance the acquisition, initial construction, or refinancing of that dwelling.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(16)</num>
+<heading class="bold"> Servicer</heading>
+<content>
+<p class="indent1">The term “servicer” has the same meaning as in <ref>section 2605(i)(2) of this title</ref>, with respect to a residential mortgage.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(17)</num>
+<heading class="bold"> Single-family dwelling</heading>
+<content>
+<p class="indent1">The term “single-family dwelling” means a residence consisting of 1 family dwelling unit.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(18)</num>
+<heading class="bold"> Termination date</heading>
+<chapeau class="indent1">The term “termination date” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> with respect to a fixed rate mortgage, the date on which the principal balance of the mortgage, based solely on the initial amortization schedule for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 78 percent of the original value of the property securing the loan; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> with respect to an adjustable rate mortgage, the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 78 percent of the original value of the property securing the loan.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 105–216, § 2</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 897</ref>; <ref>Pub. L. 106–569, title IV</ref>, §§ 402(a)(1), (b), 405(a), 406(b)–(d), <date date="2000-12-27">Dec. 27, 2000</date>, <ref>114 Stat. 2956</ref>, 2958, 2959.)</sourceCredit>
+</section>
+<section>
+<num>§ 4902.</num>
+<heading> Termination of private mortgage insurance</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Borrower cancellation</heading>
+<chapeau class="indent0">A requirement for private mortgage insurance in connection with a residential mortgage transaction shall be canceled on the cancellation date or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4), if the mortgagor—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> submits a request in writing to the servicer that cancellation be initiated;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> has a good payment history with respect to the residential mortgage;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> is current on the payments required by the terms of the residential mortgage transaction; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> has satisfied any requirement of the holder of the mortgage (as of the date of a request under paragraph (1)) for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> evidence (of a type established in advance and made known to the mortgagor by the servicer promptly upon receipt of a request under paragraph (1)) that the value of the property securing the mortgage has not declined below the original value of the property; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> certification that the equity of the mortgagor in the residence securing the mortgage is unencumbered by a subordinate lien.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Automatic termination</heading>
+<chapeau class="indent0">A requirement for private mortgage insurance in connection with a residential mortgage transaction shall terminate with respect to payments for that mortgage insurance made by the mortgagor—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> on the termination date if, on that date, the mortgagor is current on the payments required by the terms of the residential mortgage transaction; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> if the mortgagor is not current on the termination date, on the first day of the first month beginning after the date that the mortgagor becomes current on the payments required by the terms of the residential mortgage transaction.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Final termination</heading>
+<content>
+<p class="indent0">If a requirement for private mortgage insurance is not otherwise canceled or terminated in accordance with subsection (a) or (b), in no case may such a requirement be imposed on residential mortgage transactions beyond the first day of the month immediately following the date that is the midpoint of the amortization period of the loan if the mortgagor is current on the payments required by the terms of the mortgage.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Treatment of loan modifications</heading>
+<content>
+<p class="indent0">If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification of the terms or conditions of a loan pursuant to a residential mortgage transaction, the cancellation date, termination date, or final termination shall be recalculated to reflect the modified terms and conditions of such loan.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> No further payments</heading>
+<chapeau class="indent0">No payments or premiums may be required from the mortgagor in connection with a private mortgage insurance requirement terminated or canceled under this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> in the case of cancellation under subsection (a), more than 30 days after the later of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the date on which a request under subsection (a)(1) is received; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the date on which the mortgagor satisfies any evidence and certification requirements under subsection (a)(4);</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> in the case of termination under subsection (b), more than 30 days after the termination date or the date referred to in subsection (b)(2), as applicable; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> in the case of termination under subsection (c), more than 30 days after the final termination date established under that subsection.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Return of unearned premiums</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than 45 days after the termination or cancellation of a private mortgage insurance requirement under this section, all unearned premiums for private mortgage insurance shall be returned to the mortgagor by the servicer.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Transfer of funds to servicer</heading>
+<content>
+<p class="indent1">Not later than 30 days after notification by the servicer of termination or cancellation of private mortgage insurance under this chapter with respect to a mortgagor, a mortgage insurer that is in possession of any unearned premiums of that mortgagor shall transfer to the servicer of the subject mortgage an amount equal to the amount of the unearned premiums for repayment in accordance with paragraph (1).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Exceptions for high risk loans</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">The termination and cancellation provisions in subsections (a) and (b) do not apply to any residential mortgage transaction that, at the time at which the residential mortgage transaction is consummated, has high risks associated with the extension of the loan—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> as determined in accordance with guidelines published by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, in the case of a mortgage loan with an original principal balance that does not exceed the applicable annual conforming loan limit for the secondary market established pursuant to <ref>section 1454(a)(2) of this title</ref>, so as to require the imposition or continuation of a private mortgage insurance requirement beyond the terms specified in subsection (a) or (b) of this section; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> as determined by the mortgagee in the case of any other mortgage, except that termination shall occur—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> with respect to a fixed rate mortgage, on the date on which the principal balance of the mortgage, based solely on the initial amortization schedule for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> with respect to an adjustable rate mortgage, on the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 77 percent of the original value of the property securing the loan.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Termination at midpoint</heading>
+<content>
+<p class="indent1">A private mortgage insurance requirement in connection with a residential mortgage transaction described in paragraph (1) shall terminate in accordance with subsection (c).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent1">Nothing in this subsection may be construed to require a residential mortgage or residential mortgage transaction described in paragraph (1)(A) to be purchased by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> GAO report</heading>
+<chapeau class="indent1">Not later than 2 years after <date date="1998-07-29">July 29, 1998</date>, the Comptroller General of the United States shall submit to the Congress a report describing the volume and characteristics of residential mortgages and residential mortgage transactions that, pursuant to paragraph (1) of this subsection, are exempt from the application of subsections (a) and (b). The report shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> determine the number or volume of such mortgages and transactions compared to residential mortgages and residential mortgage transactions that are not classified as high-risk for purposes of paragraph (1); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> identify the characteristics of such mortgages and transactions that result in their classification (for purposes of paragraph (1)) as having high risks associated with the extension of the loan and describe such characteristics, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the income levels and races of the mortgagors involved;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the amount of the downpayments involved and the downpayments expressed as percentages of the acquisition costs of the properties involved;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the types and locations of the properties involved;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the mortgage principal amounts; and</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> any other characteristics of such mortgages and transactions that may contribute to their classification as high risk for purposes of paragraph (1), including whether such mortgages are purchase-money mortgages or refinancings and whether and to what extent such loans are low-documentation loans.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Accrued obligation for premium payments</heading>
+<content>
+<p class="indent0">The cancellation or termination under this section of the private mortgage insurance of a mortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–216, § 3</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 899</ref>; <ref>Pub. L. 106–569, title IV</ref>, §§ 402(a)(2), (c)(1), 403(a), 404, 405(b), (c), <date date="2000-12-27">Dec. 27, 2000</date>, <ref>114 Stat. 2956–2958</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4903.</num>
+<heading> Disclosure requirements</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Disclosures for new mortgages at time of transaction</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Disclosures for non-exempted transactions</heading>
+<chapeau class="indent1">In any case in which private mortgage insurance is required in connection with a residential mortgage transaction (other than a residential mortgage transaction described in <ref>section 4902(g)(1) of this title</ref>), at the time at which the transaction is consummated, the mortgagee shall provide to the mortgagor—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> if the transaction relates to a fixed rate mortgage—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a written initial amortization schedule; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> written notice—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> that the mortgagor may cancel the requirement in accordance with <ref>section 4902(a) of this title</ref> indicating the date on which the mortgagor may request cancellation, based solely on the initial amortization schedule;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> that the mortgagor may request cancellation in accordance with <ref>section 4902(a) of this title</ref> earlier than provided for in the initial amortization schedule, based on actual payments;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> that the requirement for private mortgage insurance will automatically terminate on the termination date in accordance with <ref>section 4902(b) of this title</ref>, and what that termination date is with respect to that mortgage; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> that there are exemptions to the right to cancellation and automatic termination of a requirement for private mortgage insurance in accordance with <ref>section 4902(g) of this title</ref>, and whether such an exemption applies at that time to that transaction; and</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> if the transaction relates to an adjustable rate mortgage, a written notice that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the mortgagor may cancel the requirement in accordance with <ref>section 4902(a) of this title</ref> on the cancellation date, and that the servicer will notify the mortgagor when the cancellation date is reached;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the requirement for private mortgage insurance will automatically terminate on the termination date, and that on the termination date, the mortgagor will be notified of the termination or that the requirement will be terminated as soon as the mortgagor is current on loan payments; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> there are exemptions to the right of cancellation and automatic termination of a requirement for private mortgage insurance in accordance with <ref>section 4902(g) of this title</ref>, and whether such an exemption applies at that time to that transaction.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Disclosures for excepted transactions</heading>
+<content>
+<p class="indent1">In the case of a residential mortgage transaction described in <ref>section 4902(g)(1) of this title</ref>, at the time at which the transaction is consummated, the mortgagee shall provide written notice to the mortgagor that in no case may private mortgage insurance be required beyond the date that is the midpoint of the amortization period of the loan, if the mortgagor is current on payments required by the terms of the residential mortgage.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Annual disclosures</heading>
+<chapeau class="indent1">If private mortgage insurance is required in connection with a residential mortgage transaction, the servicer shall disclose to the mortgagor in each such transaction in an annual written statement—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the rights of the mortgagor under this chapter to cancellation or termination of the private mortgage insurance requirement; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an address and telephone number that the mortgagor may use to contact the servicer to determine whether the mortgagor may cancel the private mortgage insurance.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Applicability</heading>
+<content>
+<p class="indent1">Paragraphs (1) through (3) shall apply with respect to each residential mortgage transaction consummated on or after the date that is 1 year after <date date="1998-07-29">July 29, 1998</date>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Disclosures for existing mortgages</heading>
+<chapeau class="indent0">If private mortgage insurance was required in connection with a residential mortgage entered into at any time before the effective date of this chapter, the servicer shall disclose to the mortgagor in each such transaction in an annual written statement—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> that the private mortgage insurance may, under certain circumstances, be canceled by the mortgagor (with the consent of the mortgagee or in accordance with applicable State law); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> an address and telephone number that the mortgagor may use to contact the servicer to determine whether the mortgagor may cancel the private mortgage insurance.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Inclusion in other annual notices</heading>
+<content>
+<p class="indent0">The information and disclosures required under subsection (b) and subsection (a)(3) may be provided on the annual disclosure relating to the escrow account made as required under the Real Estate Settlement Procedures Act of 1974 [<ref>12 U.S.C. 2601</ref> et seq.], or as part of the annual disclosure of interest payments made pursuant to Internal Revenue Service regulations, and on a form promulgated by the Internal Revenue Service for that purpose.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Standardized forms</heading>
+<content>
+<p class="indent0">The mortgagee or servicer may use standardized forms for the provision of disclosures required under this section, which disclosures shall relate to the mortgagor’s rights under this chapter.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–216, § 4</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 902</ref>; <ref>Pub. L. 106–569, title IV</ref>, §§ 402(c)(2), 403(b), <date date="2000-12-27">Dec. 27, 2000</date>, <ref>114 Stat. 2957</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4904.</num>
+<heading> Notification upon cancellation or termination</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Not later than 30 days after the date of cancellation or termination of a private mortgage insurance requirement in accordance with this chapter, the servicer shall notify the mortgagor in writing—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> that the private mortgage insurance has terminated and that the mortgagor no longer has private mortgage insurance; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> that no further premiums, payments, or other fees shall be due or payable by the mortgagor in connection with the private mortgage insurance.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Notice of grounds</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">If a servicer determines that a mortgage did not meet the requirements for termination or cancellation of private mortgage insurance under subsection (a) or (b) of <ref>section 4902 of this title</ref>, the servicer shall provide written notice to the mortgagor of the grounds relied on to make the determination (including the results of any appraisal used to make the determination).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Timing</heading>
+<chapeau class="indent1">Notice required by paragraph (1) shall be provided—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> with respect to cancellation of private mortgage insurance under <ref>section 4902(a) of this title</ref>, not later than 30 days after the later of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the date on which a request is received under <ref>section 4902(a)(1) of this title</ref>; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the date on which the mortgagor satisfies any evidence and certification requirements under section 4902(a)(3) <ref class="footnoteRef" idref="fn002442">1</ref> of this title; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> with respect to termination of private mortgage insurance under <ref>section 4902(b) of this title</ref>, not later than 30 days after the scheduled termination date.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–216, § 5</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 903</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4905.</num>
+<heading> Disclosure requirements for lender paid mortgage insurance</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">For purposes of this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the term “borrower paid mortgage insurance” means private mortgage insurance that is required in connection with a residential mortgage transaction, payments for which are made by the borrower;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the term “lender paid mortgage insurance” means private mortgage insurance that is required in connection with a residential mortgage transaction, payments for which are made by a person other than the borrower; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the term “loan commitment” means a prospective mortgagee’s written confirmation of its approval, including any applicable closing conditions, of the application of a prospective mortgagor for a residential mortgage loan.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Exclusion</heading>
+<content>
+<p class="indent0">Sections 4902 through 4904 of this title do not apply in the case of lender paid mortgage insurance.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Notices to mortgagor</heading>
+<chapeau class="indent0">In the case of lender paid mortgage insurance that is required in connection with a residential mortgage transaction—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> not later than the date on which a loan commitment is made for the residential mortgage transaction, the prospective mortgagee shall provide to the prospective mortgagor a written notice—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> that lender paid mortgage insurance differs from borrower paid mortgage insurance, in that lender paid mortgage insurance may not be canceled by the mortgagor, while borrower paid mortgage insurance could be cancelable by the mortgagor in accordance with <ref>section 4902(a) of this title</ref>, and could automatically terminate on the termination date in accordance with <ref>section 4902(b) of this title</ref>;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> that lender paid mortgage insurance—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> usually results in a residential mortgage having a higher interest rate than it would in the case of borrower paid mortgage insurance; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> terminates only when the residential mortgage is refinanced (under the meaning given such term in the regulations issued by the Board of Governors of the Federal Reserve System to carry out the Truth in Lending Act (<ref>15 U.S.C. 1601</ref> et seq.)), paid off, or otherwise terminated; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> that lender paid mortgage insurance and borrower paid mortgage insurance both have benefits and disadvantages, including a generic analysis of the differing costs and benefits of a residential mortgage in the case lender paid mortgage insurance versus borrower paid mortgage insurance over a 10-year period, assuming prevailing interest and property appreciation rates;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> that lender paid mortgage insurance may be tax-deductible for purposes of Federal income taxes, if the mortgagor itemizes expenses for that purpose; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> not later than 30 days after the termination date that would apply in the case of borrower paid mortgage insurance, the servicer shall provide to the mortgagor a written notice indicating that the mortgagor may wish to review financing options that could eliminate the requirement for private mortgage insurance in connection with the residential mortgage transaction.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Standard forms</heading>
+<content>
+<p class="indent0">The servicer of a residential mortgage transaction may develop and use a standardized form or forms for the provision of notices to the mortgagor, as required under subsection (c).</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–216, § 6</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 904</ref>; <ref>Pub. L. 106–569, title IV</ref>, §§ 403(c), 406(a), <date date="2000-12-27">Dec. 27, 2000</date>, <ref>114 Stat. 2957</ref>, 2959.)</sourceCredit>
+</section>
+<section>
+<num>§ 4906.</num>
+<heading> Fees for disclosures</heading>
+<content>
+<p class="indent0">No fee or other cost may be imposed on any mortgagor with respect to the provision of any notice or information to the mortgagor pursuant to this chapter.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 105–216, § 7</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 905</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4907.</num>
+<heading> Civil liability</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Any servicer, mortgagee, or mortgage insurer that violates a provision of this chapter shall be liable to each mortgagor to whom the violation relates for—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> in the case of an action by an individual, or a class action in which the liable party is not subject to <ref>section 4909 of this title</ref>, any actual damages sustained by the mortgagor as a result of the violation, including interest (at a rate determined by the court) on the amount of actual damages, accruing from the date on which the violation commences;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> in the case of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an action by an individual, such statutory damages as the court may allow, not to exceed $2,000; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> in the case of a class action—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in which the liable party is subject to <ref>section 4909 of this title</ref>, such amount as the court may allow, except that the total recovery under this subparagraph in any class action or series of class actions arising out of the same violation by the same liable party shall not exceed the lesser of $500,000 or 1 percent of the net worth of the liable party, as determined by the court; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in which the liable party is not subject to <ref>section 4909 of this title</ref>, such amount as the court may allow, not to exceed $1,000 as to each member of the class, except that the total recovery under this subparagraph in any class action or series of class actions arising out of the same violation by the same liable party shall not exceed the lesser of $500,000 or 1 percent of the gross revenues of the liable party, as determined by the court;</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> costs of the action; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> reasonable attorney fees, as determined by the court.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Timing of actions</heading>
+<content>
+<p class="indent0">No action may be brought by a mortgagor under subsection (a) later than 2 years after the date of the discovery of the violation that is the subject of the action.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Limitations on liability</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">With respect to a residential mortgage transaction, the failure of a servicer to comply with the requirements of this chapter due to the failure of a mortgage insurer or a mortgagee to comply with the requirements of this chapter, shall not be construed to be a violation of this chapter by the servicer.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent1">Nothing in paragraph (1) shall be construed to impose any additional requirement or liability on a mortgage insurer, a mortgagee, or a holder of a residential mortgage.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–216, § 8</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 905</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4908.</num>
+<heading> Effect on other laws and agreements</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Effect on State law</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">With respect to any residential mortgage or residential mortgage transaction consummated after the effective date of this chapter, and except as provided in paragraph (2), the provisions of this chapter shall supersede any provisions of the law of any State relating to requirements for obtaining or maintaining private mortgage insurance in connection with residential mortgage transactions, cancellation or automatic termination of such private mortgage insurance, any disclosure of information addressed by this chapter, and any other matter specifically addressed by this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Protection of existing State laws</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The provisions of this chapter do not supersede protected State laws, except to the extent that the protected State laws are inconsistent with any provision of this chapter, and then only to the extent of the inconsistency.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Inconsistencies</heading>
+<chapeau class="indent2">A protected State law shall not be considered to be inconsistent with a provision of this chapter if the protected State law—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<chapeau> requires termination of private mortgage insurance or other mortgage guaranty insurance—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> at a date earlier than as provided in this chapter; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> when a mortgage principal balance is achieved that is higher than as provided in this chapter; or</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> requires disclosure of information—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> that provides more information than the information required by this chapter; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> more often or at a date earlier than is required by this chapter.</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Protected State laws</heading>
+<chapeau class="indent2">For purposes of this paragraph, the term “protected State law” means a State law—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> regarding any requirements relating to private mortgage insurance in connection with residential mortgage transactions;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> that was enacted not later than 2 years after <date date="1998-07-29">July 29, 1998</date>; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> that is the law of a State that had in effect, on or before <date date="1998-01-02">January 2, 1998</date>, any State law described in clause (i).</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Effect on other agreements</heading>
+<content>
+<p class="indent0">The provisions of this chapter shall supersede any conflicting provision contained in any agreement relating to the servicing of a residential mortgage loan entered into by the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or any private investor or note holder (or any successors thereto).</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–216, § 9</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 906</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4909.</num>
+<heading> Enforcement</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Subject to subtitle B of the Consumer Financial Protection Act of 2010 [<ref>12 U.S.C. 5511</ref> et seq.], compliance with the requirements imposed under this chapter shall be enforced under—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> section 8 of the Federal Deposit Insurance Act [<ref>12 U.S.C. 1818</ref>], by the appropriate Federal banking agency (as defined in section 3(q) of that Act [<ref>12 U.S.C. 1813(q)</ref>]), with respect to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> insured depository institutions (as defined in section 3(c)(2) of that Act [<ref>12 U.S.C. 1813(c)(2)</ref>]);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act [<ref>12 U.S.C. 461(b)(1)(A)</ref>] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act [<ref>12 U.S.C. 1813(c)(2)</ref>]); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> depository institutions described in clause (v) or (vi) of section 19(b)(1)(A) of the Federal Reserve Act [<ref>12 U.S.C. 461(b)(1)(A)</ref>] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act [<ref>12 U.S.C. 1813(c)(2)</ref>]);</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the Federal Credit Union Act [<ref>12 U.S.C. 1751</ref> et seq.], by the National Credit Union Administration Board in the case of depository institutions described in clause (iv) of section 19(b)(1)(A) of the Federal Reserve Act [<ref>12 U.S.C. 461(b)(1)(A)</ref>];</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> part C of title V of the Farm Credit Act of 1971 (<ref>12 U.S.C. 2261</ref> et seq.), by the Farm Credit Administration in the case of an institution that is a member of the Farm Credit System; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> subtitle E of the Consumer Financial Protection Act of 2010 [<ref>12 U.S.C. 5561</ref> et seq.], by the Bureau of Consumer Financial Protection, with respect to any person subject to this chapter.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Additional enforcement powers</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Violation of this chapter treated as violation of other Acts</heading>
+<content>
+<p class="indent1">For purposes of the exercise by any agency referred to in subsection (a) of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Enforcement authority under other Acts</heading>
+<content>
+<p class="indent1">In addition to the powers of any agency referred to in subsection (a) under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 [<ref>12 U.S.C. 5511</ref> et seq.].</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Enforcement and reimbursement</heading>
+<chapeau class="indent0">In carrying out its enforcement activities under this section, each agency referred to in subsection (a) shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> notify the mortgagee or servicer of any failure of the mortgagee or servicer to comply with 1 or more provisions of this chapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> with respect to each such failure to comply, require the mortgagee or servicer, as applicable, to correct the account of the mortgagor to reflect the date on which the mortgage insurance should have been canceled or terminated under this chapter; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> require the mortgagee or servicer, as applicable, to reimburse the mortgagor in an amount equal to the total unearned premiums paid by the mortgagor after the date on which the obligation to pay those premiums ceased under this chapter.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–216, § 10</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 907</ref>; <ref>Pub. L. 111–203, title X, § 1095</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 2101</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4910.</num>
+<heading> Construction</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> PMI not required</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to impose any requirement for private mortgage insurance in connection with a residential mortgage transaction.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> No preclusion of cancellation or termination agreements</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to preclude cancellation or termination, by agreement between a mortgagor and the holder of the mortgage, of a requirement for private mortgage insurance in connection with a residential mortgage transaction before the cancellation or termination date established by this chapter for the mortgage.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–216, § 11</ref>, <date date="1998-07-29">July 29, 1998</date>, <ref>112 Stat. 908</ref>.)</sourceCredit>
+</section>
+</chapter>

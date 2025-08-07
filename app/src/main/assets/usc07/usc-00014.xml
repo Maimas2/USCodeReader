@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 10—</num>
+<heading>WAREHOUSES</heading>
+<section>
+<num>§ 241.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Agricultural product</heading>
+<content>
+<p class="indent1">The term “agricultural product” means an agricultural commodity, as determined by the Secretary, including a processed product of an agricultural commodity.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Approval</heading>
+<content>
+<p class="indent1">The term “approval” means the consent provided by the Secretary for a person to engage in an activity authorized by this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Department</heading>
+<content>
+<p class="indent1">The term “Department” means the Department of Agriculture.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Electronic document</heading>
+<content>
+<p class="indent1">The term “electronic document” means a document that is generated, sent, received, or stored by electronic, optical, or similar means, including electronic data interchange, electronic mail, telegram, telex, or telecopy.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Electronic receipt</heading>
+<content>
+<p class="indent1">The term “electronic receipt” means a receipt that is authorized by the Secretary to be issued or transmitted under this chapter in the form of an electronic document.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Holder</heading>
+<content>
+<p class="indent1">The term “holder” means a person that has possession in fact or by operation of law of a receipt or any electronic document.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Person</heading>
+<chapeau class="indent1">The term “person” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a person (as defined in <ref>section 1 of title 1</ref>);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a State; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a political subdivision of a State.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Receipt</heading>
+<content>
+<p class="indent1">The term “receipt” means a warehouse receipt issued in accordance with this chapter, including an electronic receipt.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Secretary</heading>
+<content>
+<p class="indent1">The term “Secretary” means the Secretary of Agriculture.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Warehouse</heading>
+<content>
+<p class="indent1">The term “warehouse” means a structure or other approved storage facility, as determined by the Secretary, in which any agricultural product may be stored or handled for the purposes of interstate or foreign commerce.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Warehouse operator</heading>
+<content>
+<p class="indent1">The term “warehouse operator” means a person that is lawfully engaged in the business of storing or handling agricultural products.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 2, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2061</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 242.</num>
+<heading> Powers of Secretary</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Secretary shall have exclusive power, jurisdiction, and authority, to the extent that this chapter applies, with respect to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> each warehouse operator licensed under this chapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> each person that has obtained an approval to engage in an activity under this chapter; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> each person claiming an interest in an agricultural product by means of a document or receipt subject to this chapter.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Covered agricultural products</heading>
+<content>
+<p class="indent0">The Secretary shall specify, after an opportunity for notice and comment, those agricultural products for which a warehouse license may be issued under this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Investigations</heading>
+<content>
+<p class="indent0">The Secretary may investigate the storing, warehousing, classifying according to grade and otherwise, weighing, and certifying of agricultural products.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Inspections</heading>
+<content>
+<p class="indent0">The Secretary may inspect or cause to be inspected any person or warehouse licensed under this chapter and any warehouse for which a license is applied for under this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Suitability for storage</heading>
+<content>
+<p class="indent0">The Secretary may determine whether a licensed warehouse, or a warehouse for which a license is applied for under this chapter, is suitable for the proper storage of the agricultural product or products stored or proposed for storage in the warehouse.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Classification</heading>
+<content>
+<p class="indent0">The Secretary may classify a licensed warehouse, or a warehouse for which a license is applied for under this chapter, in accordance with the ownership, location, surroundings, capacity, conditions, and other qualities of the warehouse and as to the kinds of licenses issued or that may be issued for the warehouse under this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Warehouse operator’s duties</heading>
+<content>
+<p class="indent0">Subject to the other provisions of this chapter, the Secretary may prescribe the duties of a warehouse operator operating a warehouse licensed under this chapter with respect to the warehouse operator’s care of and responsibility for agricultural products stored or handled by the warehouse operator.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Systems for electronic conveyance</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Regulations governing electronic systems</heading>
+<content>
+<p class="indent1">Except as provided in paragraph (2), the Secretary may promulgate regulations governing one or more electronic systems under which electronic receipts may be issued and transferred and other electronic documents relating to the shipment, payment, and financing of the sale of agricultural products may be issued or transferred.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Limitations</heading>
+<chapeau class="indent1">The Secretary shall not have the authority under this chapter to establish—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> one or more central filing systems for the filing of financing statements or the filing of the notice of financing statements; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> rules to determine security interests of persons affected by this chapter.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Examination and audits</heading>
+<chapeau class="indent0">In addition to the authority provided under subsection (<i>l</i>), on request of the person, State agency, or commodity exchange, the Secretary may conduct an examination, audit, or similar activity with respect to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> any person that is engaged in the business of storing an agricultural product that is subject to this chapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> any State agency that regulates the storage of an agricultural product by such a person; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> any commodity exchange with regulatory authority over the storage of agricultural products that are subject to this chapter.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(j)</num>
+<heading class="bold"> Licenses for operation of warehouses</heading>
+<chapeau class="indent0">The Secretary may issue to any warehouse operator a license for the operation of a warehouse in accordance with this chapter if—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the Secretary determines that the warehouse is suitable for the proper storage of the agricultural product or products stored or proposed for storage in the warehouse; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the warehouse operator agrees, as a condition of the license, to comply with this chapter (including regulations promulgated under this chapter).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(k)</num>
+<heading class="bold"> Licensing of other persons</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">On presentation of satisfactory proof of competency to carry out the activities described in this paragraph, the Secretary may issue to any person a Federal license—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to inspect any agricultural product stored or handled in a warehouse subject to this chapter;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to sample such an agricultural product;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to classify such an agricultural product according to condition, grade, or other class and certify the condition, grade, or other class of the agricultural product; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> to weigh such an agricultural product and certify the weight of the agricultural product.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Condition</heading>
+<content>
+<p class="indent1">As a condition of a license issued under paragraph (1), the licensee shall agree to comply with this chapter (including regulations promulgated under this chapter).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(l)</num>
+<heading class="bold"> Examination of books, records, papers, and accounts</heading>
+<chapeau class="indent0">The Secretary may examine and audit, using designated officers, employees, or agents of the Department, all books, records, papers, and accounts relating to activities subject to this chapter of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a warehouse operator operating a warehouse licensed under this chapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a person operating a system for the electronic recording and transfer of receipts and other documents authorized by the Secretary; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> any other person issuing receipts or electronic documents authorized by the Secretary under this chapter.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(m)</num>
+<heading class="bold"> Cooperation with States</heading>
+<chapeau class="indent0">The Secretary may—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> cooperate with officers and employees of a State who administer or enforce State laws relating to warehouses, warehouse operators, weighers, graders, inspectors, samplers, or classifiers; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> enter into cooperative agreements with States to perform activities authorized under this chapter.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 3, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2062</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 243.</num>
+<heading> Imposition and collection of fees</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Secretary shall assess persons covered by this chapter fees to cover the costs of administering this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Rates</heading>
+<content>
+<p class="indent0">The fees under this section shall be set at a rate determined by the Secretary.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Treatment of fees</heading>
+<content>
+<p class="indent0">All fees collected under this section shall be credited to the account that incurs the costs of administering this chapter and shall be available to the Secretary without further appropriation and without fiscal year limitation.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Interest</heading>
+<content>
+<p class="indent0">Funds collected under this section may be deposited in an interest-bearing account with a financial institution, and any interest earned on the account shall be credited under subsection (c).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Efficiencies and cost effectiveness</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary shall seek to minimize the fees established under this section by improving efficiencies and reducing costs, including the efficient use of personnel to the extent practicable and consistent with the effective implementation of this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Report</heading>
+<content>
+<p class="indent1">The Secretary shall publish an annual report on the actions taken by the Secretary to comply with paragraph (1).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 4, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2064</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 244.</num>
+<heading> Quality and value standards</heading>
+<content>
+<p class="indent0">If standards for the evaluation or determination of the quality or value of an agricultural product are not established under another Federal law, the Secretary may establish standards for the evaluation or determination of the quality or value of the agricultural product under this chapter.</p>
+</content>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 5, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2064</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 245.</num>
+<heading> Bonding and other financial assurance requirements</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">As a condition of receiving a license or approval under this chapter (including regulations promulgated under this chapter), the person applying for the license or approval shall execute and file with the Secretary a bond, or provide such other financial assurance as the Secretary determines appropriate, to secure the person’s performance of the activities so licensed or approved.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Service of process</heading>
+<content>
+<p class="indent0">To qualify as a suitable bond or other financial assurance under subsection (a), the surety, sureties, or financial institution shall be subject to service of process in suits on the bond or other financial assurance in the State, district, or territory in which the warehouse is located.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Additional assurances</heading>
+<content>
+<p class="indent0">If the Secretary determines that a previously approved bond or other financial assurance is insufficient, the Secretary may suspend or revoke the license or approval covered by the bond or other financial assurance if the person that filed the bond or other financial assurance does not provide such additional bond or other financial assurance as the Secretary determines appropriate.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Third party actions</heading>
+<content>
+<p class="indent0">Any person injured by the breach of any obligation arising under this chapter for which a bond or other financial assurance has been obtained as required by this section may sue with respect to the bond or other financial assurance in a district court of the United States to recover the damages that the person sustained as a result of the breach.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 6, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2064</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 246.</num>
+<heading> Maintenance of records</heading>
+<chapeau class="indent0">To facilitate the administration of this chapter, the following persons shall maintain such records and make such reports, as the Secretary may by regulation require:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> A warehouse operator that is licensed under this chapter.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> A person operating a system for the electronic recording and transfer of receipts and other documents that are authorized under this chapter.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Any other person engaged in the issuance of electronic receipts or the transfer of documents under this chapter.</content>
+</paragraph>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 7, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2065</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 247.</num>
+<heading> Fair treatment in storage of agricultural products</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Subject to the capacity of a warehouse, a warehouse operator shall deal, in a fair and reasonable manner, with persons storing, or seeking to store, an agricultural product in the warehouse if the agricultural product—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> is of the kind, type, and quality customarily stored or handled in the area in which the warehouse is located;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> is tendered to the warehouse operator in a suitable condition for warehousing; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> is tendered in a manner that is consistent with the ordinary and usual course of business.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Allocation</heading>
+<content>
+<p class="indent0">Nothing in this section prohibits a warehouse operator from entering into an agreement with a depositor of an agricultural product to allocate available storage space.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 8, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2065</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 248.</num>
+<heading> Commingling of agricultural products</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">A warehouse operator may commingle agricultural products in a manner approved by the Secretary.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Liability</heading>
+<content>
+<p class="indent0">A warehouse operator shall be severally liable to each depositor or holder for the care and redelivery of the share of the depositor and holder of the commingled agricultural product to the same extent and under the same circumstances as if the agricultural products had been stored separately.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 9, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2065</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 249.</num>
+<heading> Transfer of stored agricultural products</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">In accordance with regulations promulgated under this chapter, a warehouse operator may transfer a stored agricultural product from one warehouse to another warehouse for continued storage.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Continued duty</heading>
+<content>
+<p class="indent0">The warehouse operator from which agricultural products have been transferred under subsection (a) shall deliver to the rightful owner of such products, on request at the original warehouse, such products in the quantity and of the kind, quality, and grade called for by the receipt or other evidence of storage of the owner.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 10, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2065</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 250.</num>
+<heading> Warehouse receipts</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">At the request of the depositor of an agricultural product stored or handled in a warehouse licensed under this chapter, the warehouse operator shall issue a receipt to the depositor as prescribed by the Secretary.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Actual storage required</heading>
+<content>
+<p class="indent0">A receipt may not be issued under this section for an agricultural product unless the agricultural product is actually stored in the warehouse at the time of the issuance of the receipt.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Contents</heading>
+<content>
+<p class="indent0">Each receipt issued for an agricultural product stored or handled in a warehouse licensed under this chapter shall contain such information, for each agricultural product covered by the receipt, as the Secretary may require by regulation.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Prohibition on additional receipts or other documents</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Receipts</heading>
+<content>
+<p class="indent1">While a receipt issued under this chapter is outstanding and uncanceled by the warehouse operator, an additional receipt may not be issued for the same agricultural product (or any portion of the same agricultural product) represented by the outstanding receipt, except as authorized by the Secretary.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Other documents</heading>
+<content>
+<p class="indent1">If a document is transferred under this section, no duplicate document in any form may be transferred by any person with respect to the same agricultural product represented by the document, except as authorized by the Secretary.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Electronic receipts and electronic documents</heading>
+<chapeau class="indent0">Except as provided in <ref>section 242(h)(2) of this title</ref>, notwithstanding any other provision of Federal or State law:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary may promulgate regulations that authorize the issuance, recording, and transfer of electronic receipts, and the transfer of other electronic documents, in accordance with this subsection.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Electronic receipt or electronic document systems</heading>
+<content>
+<p class="indent1">Electronic receipts may be issued, recorded, and transferred, and electronic documents may be transferred, under this subsection with respect to an agricultural product under, a system or systems maintained in one or more locations and approved by the Secretary in accordance with regulations issued under this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Treatment of holder</heading>
+<content>
+<p class="indent1">Any person designated as the holder of an electronic receipt or other electronic document issued or transferred under this chapter shall, for the purpose of perfecting the security interest of the person under Federal or State law and for all other purposes, be considered to be in possession of the receipt or other electronic document.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Nondiscrimination</heading>
+<content>
+<p class="indent1">An electronic receipt issued, or other electronic document transferred, in accordance with this chapter shall not be denied legal effect, validity, or enforceability on the ground that the information is generated, sent, received, or stored by electronic or similar means.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Security interests</heading>
+<content>
+<p class="indent1">If more than one security interest exists in the agricultural product that is the subject of an electronic receipt or other electronic document under this chapter, the priority of the security interest shall be determined by the applicable Federal or State law.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> No electronic receipt required</heading>
+<content>
+<p class="indent1">A person shall not be required to issue in electronic form a receipt or document with respect to an agricultural product.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Option for non-federally licensed warehouse operators</heading>
+<content>
+<p class="indent1">Notwithstanding any other provision of this chapter, a warehouse operator not licensed under this chapter may, at the option of the warehouse operator and in accordance with regulations established by the Secretary, issue electronic receipts and transfer other electronic documents in accordance with this chapter.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Application to State-licensed warehouse operators</heading>
+<chapeau class="indent1">This subsection shall not apply to a warehouse operator that is licensed under State law to store agricultural commodities in a warehouse in the State if the warehouse operator elects—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> not to issue electronic receipts authorized under this subsection; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to issue electronic receipts authorized under State law.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 11, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2065</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 251.</num>
+<heading> Conditions for delivery of agricultural products</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Prompt delivery</heading>
+<chapeau class="indent0">In the absence of a lawful excuse, a warehouse operator shall, without unnecessary delay, deliver the agricultural product stored or handled in the warehouse on a demand made by—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the holder of the receipt for the agricultural product; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the person that deposited the product, if no receipt has been issued.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Payment to accompany demand</heading>
+<content>
+<p class="indent0">Prior to delivery of the agricultural product, payment of the accrued charges associated with the storage of the agricultural product, including satisfaction of the warehouseman’s lien, shall be made if requested by the warehouse operator.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Surrender of receipt</heading>
+<content>
+<p class="indent0">When the holder of a receipt requests delivery of an agricultural product covered by the receipt, the holder shall surrender the receipt to the warehouse operator, in the manner prescribed by the Secretary, to obtain the agricultural product.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Cancellation of receipt</heading>
+<content>
+<p class="indent0">A warehouse operator shall cancel each receipt returned to the warehouse operator upon the delivery of the agricultural product for which the receipt was issued.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 12, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2067</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 252.</num>
+<heading> Suspension or revocation of licenses</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">After providing notice and an opportunity for a hearing in accordance with this section, the Secretary may suspend or revoke any license issued, or approval for an activity provided, under this chapter—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> for a material violation of, or failure to comply, with any provision of this chapter (including regulations promulgated under this chapter); or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> on the ground that unreasonable or exorbitant charges have been imposed for services rendered.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Temporary suspension</heading>
+<content>
+<p class="indent0">The Secretary may temporarily suspend a license or approval for an activity under this chapter prior to an opportunity for a hearing for any violation of, or failure to comply with, any provision of this chapter (including regulations promulgated under this chapter).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Authority to conduct hearings</heading>
+<content>
+<p class="indent0">The agency within the Department that is responsible for administering regulations promulgated under this chapter shall have exclusive authority to conduct any hearing required under this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Judicial review</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Jurisdiction</heading>
+<content>
+<p class="indent1">A final administrative determination issued subsequent to a hearing may be reviewable only in a district court of the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Procedure</heading>
+<content>
+<p class="indent1">The review shall be conducted in accordance with the standards set forth in <ref>section 706(2) of title 5</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 13, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2067</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 253.</num>
+<heading> Public information</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Secretary may release to the public the names, addresses, and locations of all persons—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> that have been licensed under this chapter or that have been approved to engage in an activity under this chapter; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> with respect to which a license or approval has been suspended or revoked under <ref>section 252 of this title</ref>, the results of any investigation made or hearing conducted under this chapter, including the reasons for the suspension or revocation.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Confidentiality</heading>
+<content>
+<p class="indent0">Except as otherwise provided by law, an officer, employee, or agent of the Department shall not divulge confidential business information obtained during a warehouse examination or other function performed as part of the duties of the officer, employee, or agent under this chapter.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 14, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2068</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 254.</num>
+<heading> Penalties for noncompliance</heading>
+<chapeau class="indent0">If a person fails to comply with any requirement of this chapter (including regulations promulgated under this chapter), the Secretary may assess, on the record after an opportunity for a hearing, a civil penalty—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> of not more than $25,000 per violation, if an agricultural product is not involved in the violation; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> of not more than 100 percent of the value of the agricultural product, if an agricultural product is involved in the violation.</content>
+</paragraph>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 15, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2068</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 255.</num>
+<heading> Jurisdiction and arbitration</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Federal jurisdiction</heading>
+<content>
+<p class="indent0">A district court of the United States shall have exclusive jurisdiction over any action brought under this chapter without regard to the amount in controversy or the citizenship of the parties.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Arbitration</heading>
+<content>
+<p class="indent0">Nothing in this chapter prevents the enforceability of an agreement to arbitrate that would otherwise be enforceable under chapter 1 of title 9.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 16, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2068</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 256.</num>
+<heading> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated such sums as are necessary to carry out this chapter.</p>
+</content>
+<sourceCredit>(<ref>Aug. 11, 1916, ch. 313</ref>, pt. C, § 17, as added <ref>Pub. L. 106–472, title II, § 201</ref>, <date date="2000-11-09">Nov. 9, 2000</date>, <ref>114 Stat. 2068</ref>.)</sourceCredit>
+</section>
+</chapter>

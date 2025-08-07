@@ -1,0 +1,2140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 3—</num>
+<heading>SECURITY AND ACCOUNTABILITY FOR EVERY PORT</heading>
+<section>
+<num>§ 901.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this Act:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Appropriate congressional committees</heading>
+<chapeau class="indent1">Except as otherwise provided, the term “appropriate congressional committees” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Committee on Appropriations of the Senate;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Committee on Commerce, Science, and Transportation of the Senate;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Committee on Finance of the Senate;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the Committee on Homeland Security and Governmental Affairs of the Senate;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the Committee on Appropriations of the House of Representatives;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the Committee on Homeland Security of the House of Representatives;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> the Committee on Transportation and Infrastructure of the House of Representatives;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> the Committee on Ways and Means of the House of Representatives; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> other congressional committees, as appropriate.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Commercial Operations Advisory Committee</heading>
+<content>
+<p class="indent1">The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (<ref>19 U.S.C. 2071</ref> note) <ref class="footnoteRef" idref="fn002130">1</ref> or any successor committee.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Commercial seaport personnel</heading>
+<content>
+<p class="indent1">The term “commercial seaport personnel” includes any person engaged in an activity relating to the loading or unloading of cargo or passengers, the movement or tracking of cargo, the maintenance and repair of intermodal equipment, the operation of cargo-related equipment (whether or not integral to the vessel), and the handling of mooring lines on the dock when a vessel is made fast or let go in the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Commissioner</heading>
+<content>
+<p class="indent1">The term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection of the Department of Homeland Security.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Container</heading>
+<content>
+<p class="indent1">The term “container” has the meaning given the term in the International Convention for Safe Containers, with annexes, done at Geneva, <date date="1972-12-02">December 2, 1972</date> (29 UST 3707).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Container security device</heading>
+<content>
+<p class="indent1">The term “container security device” means a device, or system, designed, at a minimum, to identify positively a container, to detect and record the unauthorized intrusion of a container, and to secure a container against tampering throughout the supply chain. Such a device, or system, shall have a low false alarm rate as determined by the Secretary.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Department</heading>
+<content>
+<p class="indent1">The term “Department” means the Department of Homeland Security.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Examination</heading>
+<content>
+<p class="indent1">The term “examination” means an inspection of cargo to detect the presence of misdeclared, restricted, or prohibited items that utilizes nonintrusive imaging and detection technology.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Inspection</heading>
+<content>
+<p class="indent1">The term “inspection” means the comprehensive process used by the United States Customs and Border Protection to assess goods entering the United States to appraise them for duty purposes, to detect the presence of restricted or prohibited items, and to ensure compliance with all applicable laws. The process may include screening, conducting an examination, or conducting a search.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> International supply chain</heading>
+<content>
+<p class="indent1">The term “international supply chain” means the end-to-end process for shipping goods to or from the United States beginning at the point of origin (including manufacturer, supplier, or vendor) through a point of distribution to the destination.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Radiation detection equipment</heading>
+<content>
+<p class="indent1">The term “radiation detection equipment” means any technology that is capable of detecting or identifying nuclear and radiological material or nuclear and radiological explosive devices.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Scan</heading>
+<content>
+<p class="indent1">The term “scan” means utilizing nonintrusive imaging equipment, radiation detection equipment, or both, to capture data, including images of a container.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Screening</heading>
+<content>
+<p class="indent1">The term “screening” means a visual or automated review of information about goods, including manifest or entry documentation accompanying a shipment being imported into the United States, to determine the presence of misdeclared, restricted, or prohibited items and assess the level of threat posed by such cargo.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> Search</heading>
+<content>
+<p class="indent1">The term “search” means an intrusive examination in which a container is opened and its contents are devanned and visually inspected for the presence of misdeclared, restricted, or prohibited items.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(15)</num>
+<heading class="bold"> Secretary</heading>
+<content>
+<p class="indent1">The term “Secretary” means the Secretary of Homeland Security.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(16)</num>
+<heading class="bold"> Transportation disruption</heading>
+<content>
+<p class="indent1">The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in section 70101(6) <sup>1</sup> of title 46).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(17)</num>
+<heading class="bold"> Transportation security incident</heading>
+<content>
+<p class="indent1">The term “transportation security incident” has the meaning given the term in section 70101(6) <sup>1</sup> of title 46.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 109–347, § 2</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1886</ref>.)</sourceCredit>
+</section>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>SECURITY OF UNITED STATES SEAPORTS</heading>
+<part>
+<num class="small-caps">Part A—</num>
+<heading class="small-caps">Port Security Grants; Training and Exercise Programs</heading>
+<section>
+<num>§ 911.</num>
+<heading> Repealed. <ref>Pub. L. 111–281, title VIII, § 821(b)</ref>, <date date="2010-10-15">Oct. 15, 2010</date>, <ref>124 Stat. 3003</ref></heading>
+</section>
+<section>
+<num>§ 912.</num>
+<heading> Port Security Exercise Program</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Under Secretary for Preparedness and in coordination with the Commandant of the Coast Guard, shall establish a Port Security Exercise Program (referred to in this section as the “Exercise Program”) for the purpose of testing and evaluating the capabilities of Federal, State, local, and foreign governments, commercial seaport personnel and management, governmental and nongovernmental emergency response providers, the private sector, or any other organization or entity, as the Secretary determines to be appropriate, to prevent, prepare for, mitigate against, respond to, and recover from acts of terrorism, natural disasters, and other emergencies at facilities required to submit a plan under <ref>section 70103(c) of title 46</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent0">The Secretary shall ensure that the Exercise Program—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> conducts, on a periodic basis, port security exercises at such facilities that are—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> scaled and tailored to the needs of each facility;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> live, in the case of the most at-risk facilities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> as realistic as practicable and based on current risk assessments, including credible threats, vulnerabilities, and consequences;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> consistent with the National Incident Management System, the National Response Plan, the National Infrastructure Protection Plan, the National Preparedness Guidance, the National Preparedness Goal, the National Maritime Transportation Security Plan, and other such national initiatives;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> evaluated against clear and consistent performance measures;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> assessed to learn best practices, which shall be shared with appropriate Federal, State, and local officials, commercial seaport personnel and management, governmental and nongovernmental emergency response providers, and the private sector; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> followed by remedial action in response to lessons learned; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> assists State and local governments and facilities in designing, implementing, and evaluating exercises that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> conform to the requirements of paragraph (1); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> are consistent with any applicable Area Maritime Transportation Security Plan and State or Urban Area Homeland Security Plan.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Improvement plan</heading>
+<chapeau class="indent0">The Secretary shall establish a port security exercise improvement plan process to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> identify and analyze each port security exercise for lessons learned and best practices;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> disseminate lessons learned and best practices to participants in the Exercise Program;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> monitor the implementation of lessons learned and best practices by participants in the Exercise Program; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> conduct remedial action tracking and long-term trend analysis.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title I, § 114</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1896</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 913.</num>
+<heading> Facility exercise requirements</heading>
+<content>
+<p class="indent0">The Secretary of the Department in which the Coast Guard is operating shall require each high risk facility to conduct live or full-scale exercises described in section 105.220(c) of title 33, Code of Federal Regulations, not less frequently than once every 2 years, in accordance with the facility security plan required under <ref>section 70103(c) of title 46</ref>.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–347, title I, § 115</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1897</ref>.)</sourceCredit>
+</section>
+</part>
+<part>
+<num class="small-caps">Part B—</num>
+<heading class="small-caps">Port Operations</heading>
+<section>
+<num>§ 921.</num>
+<heading> Domestic radiation detection and imaging</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Scanning containers</heading>
+<content>
+<p class="indent0">Subject to <ref>section 1318 of title 19</ref>, not later than <date date="2007-12-31">December 31, 2007</date>, all containers entering the United States through the 22 ports through which the greatest volume of containers enter the United States by vessel shall be scanned for radiation. To the extent practicable, the Secretary shall deploy next generation radiation detection technology.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Strategy</heading>
+<chapeau class="indent0">The Secretary shall develop a strategy for the deployment of radiation detection capabilities that includes—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a risk-based prioritization of ports of entry at which radiation detection equipment will be deployed;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a proposed timeline of when radiation detection equipment will be deployed at each port of entry identified under paragraph (1);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the type of equipment to be used at each port of entry identified under paragraph (1), including the joint deployment and utilization of radiation detection equipment and nonintrusive imaging equipment;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> standard operating procedures for examining containers with such equipment, including sensor alarming, networking, and communications and response protocols;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> operator training plans;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> an evaluation of the environmental health and safety impacts of nonintrusive imaging technology and a radiation risk reduction plan, in consultation with the Nuclear Regulatory Commission, the Occupational Safety and Health Administration, and the National Institute for Occupational Safety and Health, that seeks to minimize radiation exposure of workers and the public to levels as low as reasonably achievable;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> the policy of the Department for using nonintrusive imaging equipment in tandem with radiation detection equipment; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<chapeau> a classified annex that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> details plans for covert testing; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> outlines the risk-based prioritization of ports of entry identified under paragraph (1).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Standards</heading>
+<chapeau class="indent0">The Secretary, acting through the Director for Domestic Nuclear Detection <ref class="footnoteRef" idref="fn002131">1</ref> and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> should take into account relevant standards and procedures utilized by other Federal departments or agencies as well as those developed by international bodies; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> shall not be designed so as to endorse specific companies or create sovereignty conflicts with participating countries.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Implementation</heading>
+<content>
+<p class="indent0">Not later than 3 years after <date date="2006-10-13">October 13, 2006</date>, the Secretary shall fully implement the strategy developed under subsection (b).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Expansion to other United States ports of entry</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">As soon as practicable after—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> implementation of the program for the examination of containers for radiation at ports of entry described in subsection (a); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> submission of the strategy developed under subsection (b),</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">but not later than <date date="2008-12-31">December 31, 2008</date>, the Secretary shall expand the strategy developed under subsection (b), in a manner consistent with the requirements of subsection (b), to provide for the deployment of radiation detection capabilities at all other United States ports of entry not covered by the strategy developed under subsection (b).</continuation>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Risk assessment</heading>
+<content>
+<p class="indent1">In expanding the strategy under paragraph (1), the Secretary shall identify and assess the risks to those other ports of entry in order to determine what equipment and practices will best mitigate the risks.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Intermodal Rail Radiation Detection Test Center</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent1">In accordance with subsection (b), and in order to comply with this section, the Secretary shall establish an Intermodal Rail Radiation Detection Test Center (referred to in this subsection as the “Test Center”).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Projects</heading>
+<content>
+<p class="indent1">The Secretary shall conduct multiple, concurrent projects at the Test Center to rapidly identify and test concepts specific to the challenges posed by on-dock rail.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Location</heading>
+<content>
+<p class="indent1">The Test Center shall be located within a public port facility at which a majority of the containerized cargo is directly laden from (or unladen to) on-dock, intermodal rail.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title I, § 121</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1898</ref>; <ref>Pub. L. 115–254, div. J, § 1816(b)</ref>, <date date="2018-10-05">Oct. 5, 2018</date>, <ref>132 Stat. 3541</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 921a.</num>
+<heading> Integration of detection equipment and technologies</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Responsibility of Secretary</heading>
+<content>
+<p class="indent0">The Secretary of Homeland Security shall have responsibility for ensuring that domestic chemical, biological, radiological, and nuclear detection equipment and technologies are integrated, as appropriate, with other border security systems and detection technologies.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Report</heading>
+<content>
+<p class="indent0">Not later than 6 months after <date date="2007-08-03">August 3, 2007</date>, the Secretary shall submit a report to Congress that contains a plan to develop a departmental technology assessment process to determine and certify the technology readiness levels of chemical, biological, radiological, and nuclear detection technologies before the full deployment of such technologies within the United States.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 110–53, title XI, § 1104</ref>, <date date="2007-08-03">Aug. 3, 2007</date>, <ref>121 Stat. 380</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 922.</num>
+<heading> Repealed. <ref>Pub. L. 115–254, div. J, § 1816(c)</ref>, <date date="2018-10-05">Oct. 5, 2018</date>, <ref>132 Stat. 3541</ref></heading>
+</section>
+<section>
+<num>§ 923.</num>
+<heading> Random searches of containers</heading>
+<content>
+<p class="indent0">Not later than 1 year after <date date="2006-10-13">October 13, 2006</date>, the Secretary, acting through the Commissioner, shall develop and implement a plan, utilizing best practices for empirical scientific research design and random sampling, to conduct random searches of containers in addition to any targeted or preshipment inspection of such containers required by law or regulation or conducted under any other program conducted by the Secretary. Nothing in this section shall be construed to mean that implementation of the random sampling plan precludes additional searches of containers not inspected pursuant to the plan.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–347, title I, § 123</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1899</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 924.</num>
+<heading> Threat assessment screening of port truck drivers</heading>
+<content>
+<p class="indent0">Not later than 90 days after <date date="2006-10-13">October 13, 2006</date>, the Secretary shall implement a threat assessment screening, including name-based checks against terrorist watch lists and immigration status check, for all port truck drivers with access to secure areas of a port who have a commercial driver’s license but do not have a current and valid hazardous materials endorsement issued in accordance with section 1572 <ref class="footnoteRef" idref="fn002132">1</ref> of title 49, Code of Federal Regulations, that is the same as the threat assessment screening required for facility employees and longshoremen by the Commandant of the Coast Guard under Coast Guard Notice USCG–2006–24189 (Federal Register, Vol. 71, No. 82, Friday, <date date="2006-04-28">April 28, 2006</date>).</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–347, title I, § 125</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1900</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 925.</num>
+<heading> Border Patrol unit for United States Virgin Islands</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Secretary may establish at least 1 Border Patrol unit for the United States Virgin Islands.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Report</heading>
+<content>
+<p class="indent0">Not later than 180 days after <date date="2006-10-13">October 13, 2006</date>, the Secretary shall submit a report to the appropriate congressional committees that includes the schedule, if any, for carrying out subsection (a).</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title I, § 126</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1900</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 926.</num>
+<heading> Center of Excellence for Maritime Domain Awareness</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent0">The Secretary shall establish a university-based Center for Excellence for Maritime Domain Awareness following the merit-review processes and procedures that have been established by the Secretary for selecting university program centers of excellence.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Duties</heading>
+<chapeau class="indent0">The Center established under subsection (a) shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> prioritize its activities based on the “National Plan To Improve Maritime Domain Awareness” published by the Department in October 2005;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> recognize the extensive previous and ongoing work and existing competence in the field of maritime domain awareness at numerous academic and research institutions, such as the Naval Postgraduate School;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> leverage existing knowledge and continue development of a broad base of expertise within academia and industry in maritime domain awareness; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> provide educational, technical, and analytical assistance to Federal agencies with responsibilities for maritime domain awareness, including the Coast Guard, to focus on the need for interoperability, information sharing, and common information technology standards and architecture.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title I, § 128</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1900</ref>.)</sourceCredit>
+</section>
+</part>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>SECURITY OF THE INTERNATIONAL SUPPLY CHAIN</heading>
+<part>
+<num class="small-caps">Part A—</num>
+<heading class="small-caps">General Provisions</heading>
+<section>
+<num>§ 941.</num>
+<heading> Strategic plan to enhance the security of the international supply chain</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Strategic plan</heading>
+<content>
+<p class="indent0">The Secretary, in consultation with appropriate Federal, State, local, and tribal government agencies and private sector stakeholders responsible for security matters that affect or relate to the movement of containers through the international supply chain, shall develop, implement, and update, triennially, a strategic plan to enhance the security of the international supply chain.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent0">The strategic plan required under subsection (a) shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> describe the roles, responsibilities, and authorities of Federal, State, local, and tribal government agencies and private-sector stakeholders that relate to the security of the movement of containers through the international supply chain;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> identify and address gaps and unnecessary overlaps in the roles, responsibilities, or authorities described in paragraph (1);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> identify and make recommendations regarding legislative, regulatory, and organizational changes necessary to improve coordination among the entities or to enhance the security of the international supply chain;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> provide measurable goals, including objectives, mechanisms, and a schedule, for furthering the security of commercial operations from point of origin to point of destination;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> build on available resources and consider costs and benefits;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> provide incentives for additional voluntary measures to enhance cargo security, as recommended by the Commissioner;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> consider the impact of supply chain security requirements on small- and medium-sized companies;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> include a process for sharing intelligence and information with private-sector stakeholders to assist in their security efforts;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> identify a framework for prudent and measured response in the event of a transportation security incident involving the international supply chain;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> provide protocols for the expeditious resumption of the flow of trade in accordance with <ref>section 942 of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> consider the linkages between supply chain security and security programs within other systems of movement, including travel security and terrorism finance programs; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<content> expand upon and relate to existing strategies and plans, including the National Response Plan, the National Maritime Transportation Security Plan, the National Strategy for Maritime Security, and the 8 supporting plans of the Strategy, as required by Homeland Security Presidential Directive 13.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Consultation</heading>
+<content>
+<p class="indent0">In developing protocols under subsection (b)(10), the Secretary shall consult with Federal, State, local, and private sector stakeholders, including the National Maritime Security Advisory Committee and the Commercial Operations Advisory Committee.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Communication</heading>
+<content>
+<p class="indent0">To the extent practicable, the strategic plan developed under subsection (a) shall provide for coordination with, and lines of communication among, appropriate Federal, State, local, and private-sector stakeholders on law enforcement actions, intermodal rerouting plans, and other strategic infrastructure issues resulting from a transportation security incident or transportation disruption.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Utilization of Advisory Committees</heading>
+<content>
+<p class="indent0">As part of the consultations described in subsection (a), the Secretary shall, to the extent practicable, utilize the Homeland Security Advisory Committee, the National Maritime Security Advisory Committee, and the Commercial Operations Advisory Committee to review, as necessary, the draft strategic plan and any subsequent updates to the strategic plan.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> International standards and practices</heading>
+<content>
+<p class="indent0">In furtherance of the strategic plan required under subsection (a), the Secretary is encouraged to consider proposed or established standards and practices of foreign governments and international organizations, including the International Maritime Organization, the World Customs Organization, the International Labor Organization, and the International Organization for Standardization, as appropriate, to establish standards and best practices for the security of containers moving through the international supply chain.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Reports</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Initial report</heading>
+<content>
+<p class="indent1">Not later than 270 days after <date date="2006-10-13">October 13, 2006</date>, the Secretary shall submit to the appropriate congressional committees a report that contains the strategic plan required by subsection (a).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Updates</heading>
+<content>
+<p class="indent1">Not later than 270 days after <date date="2018-10-05">October 5, 2018</date>, and triennially thereafter, the Secretary shall submit to the appropriate congressional committees a report that contains any updates to the strategic plan under subsection (a) since the prior report.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 201</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1901</ref>; <ref>Pub. L. 115–254, div. J, § 1804</ref>, <date date="2018-10-05">Oct. 5, 2018</date>, <ref>132 Stat. 3533</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 942.</num>
+<heading> Post-incident resumption of trade</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Secretary shall develop and update, as necessary, protocols for the resumption of trade in accordance with <ref>section 941(b)(10) of this title</ref> in the event of a transportation disruption or a transportation security incident. The protocols shall include—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the identification of the appropriate initial incident commander, if the Commandant of the Coast Guard is not the appropriate person, and lead departments, agencies, or offices to execute such protocols;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a plan to redeploy resources and personnel, as necessary, to reestablish the flow of trade;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> a plan to provide training for the periodic instruction of personnel of the United States Customs and Border Protection, the Coast Guard, and the Transportation Security Administration in trade resumption functions and responsibilities; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> appropriate factors for establishing prioritization of vessels and cargo determined by the President to be critical for response and recovery, including factors relating to public health, national security, and economic need.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Vessels</heading>
+<chapeau class="indent0">In determining the prioritization of vessels accessing facilities (as defined under <ref>section 70101 of title 46</ref>), the Commandant of the Coast Guard may, to the extent practicable and consistent with the protocols and plans required under this section to ensure the safe and secure transit of vessels to ports in the United States after a transportation security incident, give priority to a vessel—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> that has an approved security plan under <ref>section 70103(c) of title 46</ref> or a valid international ship security certificate, as provided under part 104 of title 33, Code of Federal Regulations;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> that is manned by individuals who are described in <ref>section 70105(b)(2)(B) of title 46</ref>; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> that is operated by validated participants in the Customs-Trade Partnership Against Terrorism program.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Cargo</heading>
+<chapeau class="indent0">In determining the prioritization of the resumption of the flow of cargo and consistent with the protocols established under this section, the Commissioner may give preference to cargo—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> entering a port of entry directly from a foreign seaport designated under the Container Security Initiative;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> from the supply chain of a validated C–TPAT participant and other private sector entities, as appropriate; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> that has undergone—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a nuclear or radiological detection scan;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an x-ray, density, or other imaging scan; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a system to positively identify the container at the last port of departure prior to arrival in the United States, which data has been evaluated and analyzed by personnel of the United States Customs and Border Protection.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Coordination</heading>
+<content>
+<p class="indent0">The Secretary shall ensure that there is appropriate coordination among the Commandant of the Coast Guard, the Commissioner, and other Federal officials following a maritime disruption or maritime transportation security incident in order to provide for the resumption of trade.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Communication</heading>
+<content>
+<p class="indent0">Consistent with <ref>section 941 of this title</ref>, the Commandant of the Coast Guard, Commissioner, and other appropriate Federal officials, shall promptly communicate any revised procedures or instructions intended for the private sector following a maritime disruption or maritime transportation security incident.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 202</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1903</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 943.</num>
+<heading> Automated Targeting System</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> identify and seek the submission of data related to the movement of a shipment of cargo through the international supply chain; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> analyze the data described in paragraph (1) to identify high-risk cargo for inspection.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Requirement</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, shall require the electronic transmission to the Department of additional data elements for improved high-risk targeting, including appropriate security elements of entry data, as determined by the Secretary, to be provided as advanced information with respect to cargo destined for importation into the United States prior to loading of such cargo on vessels at foreign seaports.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Consideration</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> consider the cost, benefit, and feasibility of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> requiring additional nonmanifest documentation;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> reducing the time period allowed by law for revisions to a container cargo manifest;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> reducing the time period allowed by law for submission of certain elements of entry data, for vessel or cargo; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> such other actions the Secretary considers beneficial for improving the information relied upon for the Automated Targeting System and any successor targeting system in furthering the security and integrity of the international supply chain; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> consult with stakeholders, including the Commercial Operations Advisory Committee, and identify to them the need for such information, and the appropriate timing of its submission.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Regulations</heading>
+<content>
+<p class="indent0">The Secretary shall promulgate regulations to carry out this section. In promulgating such regulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 (<ref>19 U.S.C. 2071</ref> note),<ref class="footnoteRef" idref="fn002133">1</ref> including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> System improvements</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> conduct, through an independent panel, a review of the effectiveness and capabilities of the Automated Targeting System;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> consider future iterations of the Automated Targeting System, which would incorporate smart features, such as more complex algorithms and real-time intelligence, instead of relying solely on rule sets that are periodically updated;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> ensure that the Automated Targeting System has the capability to electronically compare manifest and other available data for cargo entered into or bound for the United States to detect any significant anomalies between such data and facilitate the resolution of such anomalies;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> ensure that the Automated Targeting System has the capability to electronically identify, compile, and compare select data elements for cargo entered into or bound for the United States following a maritime transportation security incident, in order to efficiently identify cargo for increased inspection or expeditious release; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> develop a schedule to address the recommendations of the Comptroller General of the United States, the Inspector General of the Department of the Treasury, and the Inspector General of the Department with respect to the operation of the Automated Targeting System.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Secure transmission of certain information</heading>
+<content>
+<p class="indent0">All information required by the Department from supply chain partners shall be transmitted in a secure fashion, as determined by the Secretary, so as to protect the information from unauthorized access.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent0">There are authorized to be appropriated to the United States Customs and Border Protection to carry out the Automated Targeting System for identifying high-risk oceanborne container cargo for inspection—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> $33,200,000 for fiscal year 2008;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $35,700,000 for fiscal year 2009; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> $37,485,000 for fiscal year 2010.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 203</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1904</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 944.</num>
+<heading> Container security standards and procedures</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than 90 days after <date date="2006-10-13">October 13, 2006</date>, the Secretary shall initiate a rulemaking proceeding to establish minimum standards and procedures for securing containers in transit to the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Interim rule</heading>
+<content>
+<p class="indent1">Not later than 180 days after <date date="2006-10-13">October 13, 2006</date>, the Secretary shall issue an interim final rule pursuant to the proceeding described in paragraph (1).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Missed deadline</heading>
+<content>
+<p class="indent1">If the Secretary is unable to meet the deadline established pursuant to paragraph (2), the Secretary shall submit a letter to the appropriate congressional committees explaining why the Secretary is unable to meet that deadline and describing what must be done before such minimum standards and procedures can be established.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Deadline for enforcement</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Enforcement of rule</heading>
+<content>
+<p class="indent2">Not later than 2 years after the date on which the standards and procedures are established pursuant to paragraph (1), all containers bound for ports of entry in the United States shall meet such standards and procedures.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Interim requirement</heading>
+<chapeau class="indent2">If the interim final rule described in paragraph (2) is not issued by <date date="2008-04-01">April 1, 2008</date>, then—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> effective not later than <date date="2008-10-15">October 15, 2008</date>, all containers in transit to the United States shall be required to meet the requirements of International Organization for Standardization Publicly Available Specification 17712 standard for sealing containers; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the requirements of this subparagraph shall cease to be effective upon the effective date of the interim final rule issued pursuant to this subsection.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Review and enhancement</heading>
+<content>
+<p class="indent0">The Secretary shall regularly review and enhance the standards and procedures established pursuant to subsection (a), as appropriate, based on tests of technologies as they become commercially available to detect container intrusion and the highest consequence threats, particularly weapons of mass destruction.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> International cargo security standards</heading>
+<content>
+<p class="indent0">The Secretary, in consultation with the Secretary of State, the Secretary of Energy, and other Federal Government officials, as appropriate, and with the Commercial Operations Advisory Committee, the Homeland Security Advisory Committee, and the National Maritime Security Advisory Committee, is encouraged to promote and establish international standards for the security of containers moving through the international supply chain with foreign governments and international organizations, including the International Maritime Organization, the International Organization for Standardization, the International Labor Organization, and the World Customs Organization.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> International trade and other obligations</heading>
+<content>
+<p class="indent0">In carrying out this section, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders and ensure that actions under this section do not violate international trade obligations or other international obligations of the United States.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 204</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1905</ref>; <ref>Pub. L. 110–53, title XVII, § 1701(b)</ref>, <date date="2007-08-03">Aug. 3, 2007</date>, <ref>121 Stat. 491</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 945.</num>
+<heading> Container Security Initiative</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, shall establish and implement a program (referred to in this section as the “Container Security Initiative” or “CSI”) to identify and examine or search maritime containers that pose a security risk before loading such containers in a foreign port for shipment to the United States, either directly or through a foreign port.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Assessment</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, may designate foreign seaports to participate in the Container Security Initiative after the Secretary has assessed the costs, benefits, and other factors associated with such designation, including—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the level of risk for the potential compromise of containers by terrorists, or other threats as determined by the Secretary;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the volume of cargo being imported to the United States directly from, or being transshipped through, the foreign seaport;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the results of the Coast Guard assessments conducted pursuant to <ref>section 70108 of title 46</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the commitment of the government of the country in which the foreign seaport is located to cooperating with the Department in sharing critical data and risk management information and to maintain programs to ensure employee integrity; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the potential for validation of security practices at the foreign seaport by the Department.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Notification</heading>
+<content>
+<p class="indent0">The Secretary shall notify the appropriate congressional committees of the designation of a foreign port under the Container Security Initiative or the revocation of such a designation before notifying the public of such designation or revocation.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Negotiations</heading>
+<content>
+<p class="indent0">The Secretary, in cooperation with the Secretary of State and in consultation with the United States Trade Representative, may enter into negotiations with the government of each foreign nation in which a seaport is designated under the Container Security Initiative to ensure full compliance with the requirements under the Container Security Initiative.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Overseas inspections</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Requirements and procedures</heading>
+<chapeau class="indent1">The Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> establish minimum technical capability criteria and standard operating procedures for the use of nonintrusive inspection and nuclear and radiological detection systems in conjunction with CSI;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> require each port designated under CSI to operate nonintrusive inspection and nuclear and radiological detection systems in accordance with the technical capability criteria and standard operating procedures established under subparagraph (A);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> continually monitor the technologies, processes, and techniques used to inspect cargo at ports designated under CSI to ensure adherence to such criteria and the use of such procedures; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> consult with the Secretary of Energy in establishing the minimum technical capability criteria and standard operating procedures established under subparagraph (A) pertaining to radiation detection technologies to promote consistency in detection systems at foreign ports designated under CSI.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Constraints</heading>
+<chapeau class="indent1">The criteria and procedures established under paragraph (1)(A)—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> shall be consistent, as practicable, with relevant standards and procedures utilized by other Federal departments or agencies, or developed by international bodies if the United States consents to such standards and procedures;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> shall not apply to activities conducted under the Megaports Initiative of the Department of Energy; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> shall not be designed to endorse the product or technology of any specific company or to conflict with the sovereignty of a country in which a foreign seaport designated under the Container Security Initiative is located.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Savings provision</heading>
+<content>
+<p class="indent0">The authority of the Secretary under this section shall not affect any authority or duplicate any efforts or responsibilities of the Federal Government with respect to the deployment of radiation detection equipment outside of the United States.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Coordination</heading>
+<chapeau class="indent0">The Secretary shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> coordinate with the Secretary of Energy, as necessary, to provide radiation detection equipment required to support the Container Security Initiative through the Department of Energy’s Second Line of Defense Program and Megaports Initiative; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> work with the private sector or host governments, when possible, to obtain radiation detection equipment that meets the Department’s and the Department of Energy’s technical specifications for such equipment.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Staffing</heading>
+<content>
+<p class="indent0">The Secretary shall develop a human capital management plan to determine adequate staffing levels in the United States and in foreign seaports including, as appropriate, the remote location of personnel in countries in which foreign seaports are designated under the Container Security Initiative.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Annual discussions</heading>
+<content>
+<p class="indent0">The Secretary, in coordination with the appropriate Federal officials, shall hold annual discussions with foreign governments of countries in which foreign seaports designated under the Container Security Initiative are located regarding best practices, technical assistance, training needs, and technological developments that will assist in ensuring the efficient and secure movement of international cargo.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(j)</num>
+<heading class="bold"> Lesser risk port</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, may treat cargo loaded in a foreign seaport designated under the Container Security Initiative as presenting a lesser risk than similar cargo loaded in a foreign seaport that is not designated under the Container Security Initiative, for the purpose of clearing such cargo into the United States.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(k)</num>
+<heading class="bold"> Prohibition</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">The Secretary shall issue a “do not load” order, using existing authorities, to prevent the onload of any cargo loaded at a port designated under CSI that has been identified as high risk, including by the Automated Targeting System, unless the cargo is determined to no longer be high risk through—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a scan of the cargo with nonintrusive imaging equipment and radiation detection equipment;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a search of the cargo; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> additional information received by the Department.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent1">Nothing in this subsection shall be construed to interfere with the ability of the Secretary to deny entry of any cargo into the United States.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(l)</num>
+<heading class="bold"> Report</heading>
+<chapeau class="indent0">Not later than 270 days after <date date="2018-10-05">October 5, 2018</date>, the Secretary, acting through the Commissioner, shall, in consultation with other appropriate government officials and the Commercial Operations Advisory Committee, submit a report to the appropriate congressional committees on the effectiveness of, and the need for any improvements to, the Container Security Initiative. The report shall include—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a description of the technical assistance delivered to, as well as needed at, each designated seaport;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a description of the human capital management plan at each designated seaport;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> a summary of the requests made by the United States to foreign governments to conduct physical or nonintrusive inspections of cargo at designated seaports, and whether each such request was granted or denied by the foreign government;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> an assessment of the effectiveness of screening, scanning, and inspection protocols and technologies utilized at designated seaports and the effect on the flow of commerce at such seaports, as well as any recommendations for improving the effectiveness of screening, scanning, and inspection protocols and technologies utilized at designated seaports;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> a description and assessment of the outcome of any security incident involving a foreign seaport designated under the Container Security Initiative;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> the rationale for the continuance of each port designated under CSI;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> a description of the potential for remote targeting to decrease the number of personnel who are deployed at foreign ports under CSI; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> a summary and assessment of the aggregate number and extent of trade compliance lapses at each seaport designated under the Container Security Initiative.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(m)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent0">There are authorized to be appropriated to the United States Customs and Border Protection to carry out the provisions of this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> $144,000,000 for fiscal year 2008;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $146,000,000 for fiscal year 2009; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> $153,300,000 for fiscal year 2010.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 205</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1906</ref>; <ref>Pub. L. 115–254, div. J, § 1812</ref>, <date date="2018-10-05">Oct. 5, 2018</date>, <ref>132 Stat. 3539</ref>.)</sourceCredit>
+</section>
+</part>
+<part>
+<num class="small-caps">Part B—</num>
+<heading class="small-caps">Customs–Trade Partnership Against Terrorism</heading>
+<section>
+<num>§ 961.</num>
+<heading> Establishment</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, is authorized to establish a voluntary government-private sector program (to be known as the “Customs–Trade Partnership Against Terrorism” or “C–TPAT”) to strengthen and improve the overall security of the international supply chain and United States border security, and to facilitate the movement of secure cargo through the international supply chain, by providing benefits to participants meeting or exceeding the program requirements. Participants in C–TPAT shall include Tier 1 participants, Tier 2 participants, and Tier 3 participants.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Minimum security requirements</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, shall review the minimum security requirements of C–TPAT at least once every year and update such requirements as necessary.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 211</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1909</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 962.</num>
+<heading> Eligible entities</heading>
+<content>
+<p class="indent0">Importers, customs brokers, forwarders, air, sea, land carriers, contract logistics providers, and other entities in the international supply chain and intermodal transportation system are eligible to apply to voluntarily enter into partnerships with the Department under C–TPAT.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 212</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1909</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 963.</num>
+<heading> Minimum requirements</heading>
+<chapeau class="indent0">An applicant seeking to participate in C–TPAT shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> demonstrate a history of moving cargo in the international supply chain;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> conduct an assessment of its supply chain based upon security criteria established by the Secretary, acting through the Commissioner, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> business partner requirements;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> container security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> physical security and access controls;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> personnel security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> procedural security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> security training and threat awareness; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> information technology security;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> implement and maintain security measures and supply chain security practices meeting security criteria established by the Commissioner; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> meet all other requirements established by the Commissioner, in consultation with the Commercial Operations Advisory Committee.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 213</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1909</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 964.</num>
+<heading> Tier 1 participants in C–TPAT</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Benefits</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, shall offer limited benefits to a Tier 1 participant who has been certified in accordance with the guidelines referred to in subsection (b). Such benefits may include a reduction in the score assigned pursuant to the Automated Targeting System of not greater than 20 percent of the high-risk threshold established by the Secretary.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Guidelines</heading>
+<content>
+<p class="indent0">Not later than 180 days after <date date="2006-10-13">October 13, 2006</date>, the Secretary, acting through the Commissioner, shall update the guidelines for certifying a C–TPAT participant’s security measures and supply chain security practices under this section. Such guidelines shall include a background investigation and extensive documentation review.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Timeframe</heading>
+<content>
+<p class="indent0">To the extent practicable, the Secretary, acting through the Commissioner, shall complete the Tier 1 certification process within 90 days of receipt of an application for participation in C–TPAT.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 214</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1910</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 965.</num>
+<heading> Tier 2 participants in C–TPAT</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Validation</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, shall validate the security measures and supply chain security practices of a Tier 1 participant in accordance with the guidelines referred to in subsection (c). Such validation shall include on-site assessments at appropriate foreign locations utilized by the Tier 1 participant in its supply chain and shall, to the extent practicable, be completed not later than 1 year after certification as a Tier 1 participant.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Benefits</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, shall extend benefits to each C–TPAT participant that has been validated as a Tier 2 participant under this section, which may include—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> reduced scores in the Automated Targeting System;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> reduced examinations of cargo; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> priority searches of cargo.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Guidelines</heading>
+<content>
+<p class="indent0">Not later than 180 days after <date date="2006-10-13">October 13, 2006</date>, the Secretary, acting through the Commissioner, shall develop a schedule and update the guidelines for validating a participant’s security measures and supply chain security practices under this section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 215</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1910</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 966.</num>
+<heading> Tier 3 participants in C–TPAT</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, shall establish a third tier of C–TPAT participation that offers additional benefits to participants who demonstrate a sustained commitment to maintaining security measures and supply chain security practices that exceed the guidelines established for validation as a Tier 2 participant in C–TPAT under <ref>section 965 of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Criteria</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, shall designate criteria for validating a C–TPAT participant as a Tier 3 participant under this section. Such criteria may include—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> compliance with any additional guidelines established by the Secretary that exceed the guidelines established pursuant to <ref>section 965 of this title</ref> for validating a C–TPAT participant as a Tier 2 participant, particularly with respect to controls over access to cargo throughout the supply chain;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> submission of additional information regarding cargo prior to loading, as determined by the Secretary;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> utilization of container security devices, technologies, policies, or practices that meet standards and criteria established by the Secretary; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> compliance with any other cargo requirements established by the Secretary.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Benefits</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, in consultation with the Commercial Operations Advisory Committee and the National Maritime Security Advisory Committee, shall extend benefits to each C–TPAT participant that has been validated as a Tier 3 participant under this section, which may include—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the expedited release of a Tier 3 participant’s cargo in destination ports within the United States during all threat levels designated by the Secretary;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> further reduction in examinations of cargo;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> priority for examinations of cargo; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> further reduction in the risk score assigned pursuant to the Automated Targeting System; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> inclusion in joint incident management exercises, as appropriate.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Deadline</heading>
+<content>
+<p class="indent0">Not later than 2 years after <date date="2006-10-13">October 13, 2006</date>, the Secretary, acting through the Commissioner, shall designate appropriate criteria pursuant to subsection (b) and provide benefits to validated Tier 3 participants pursuant to subsection (c).</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 216</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1910</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 967.</num>
+<heading> Consequences for lack of compliance</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">If at any time a C–TPAT participant’s security measures and supply chain security practices fail to meet any of the requirements under this part, the Commissioner may deny the participant benefits otherwise available under this part, in whole or in part. The Commissioner shall develop procedures that provide appropriate protections to C–TPAT participants before benefits are revoked. Such procedures may not limit the ability of the Commissioner to take actions to protect the national security of the United States.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> False or misleading information</heading>
+<content>
+<p class="indent0">If a C–TPAT participant knowingly provides false or misleading information to the Commissioner during the validation process provided for under this part, the Commissioner shall suspend or expel the participant from C–TPAT for an appropriate period of time. The Commissioner, after the completion of the process under subsection (c), may publish in the Federal Register a list of participants who have been suspended or expelled from C–TPAT pursuant to this subsection, and may make such list available to C–TPAT participants.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Right of appeal</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">A C–TPAT participant may appeal a decision of the Commissioner pursuant to subsection (a). Such appeal shall be filed with the Secretary not later than 90 days after the date of the decision, and the Secretary shall issue a determination not later than 180 days after the appeal is filed.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Appeals of other decisions</heading>
+<content>
+<p class="indent1">A C–TPAT participant may appeal a decision of the Commissioner pursuant to subsection (b). Such appeal shall be filed with the Secretary not later than 30 days after the date of the decision, and the Secretary shall issue a determination not later than 180 days after the appeal is filed.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 217</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1911</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 968.</num>
+<heading> Third party validations</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Plan</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, shall develop a plan to implement a 1-year voluntary pilot program to test and assess the feasibility, costs, and benefits of using third party entities to conduct validations of C–TPAT participants.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Consultations</heading>
+<content>
+<p class="indent0">Not later than 120 days after <date date="2006-10-13">October 13, 2006</date>, after consulting with private sector stakeholders, including the Commercial Operations Advisory Committee, the Secretary shall submit a report to the appropriate congressional committees on the plan described in subsection (a).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Pilot program</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than 1 year after the consultations described in subsection (b), the Secretary shall carry out the 1-year pilot program to conduct validations of C–TPAT participants using third party entities described in subsection (a).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Authority of the Secretary</heading>
+<content>
+<p class="indent1">The decision to validate a C–TPAT participant is solely within the discretion of the Secretary, or the Secretary’s designee.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Certification of third party entities</heading>
+<chapeau class="indent0">The Secretary shall certify a third party entity to conduct validations under subsection (c) if the entity—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> demonstrates to the satisfaction of the Secretary that the entity has the ability to perform validations in accordance with standard operating procedures and requirements designated by the Secretary; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> agrees—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to perform validations in accordance with such standard operating procedures and requirements (and updates to such procedures and requirements); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to maintain liability insurance coverage at policy limits and in accordance with conditions to be established by the Secretary; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> signs an agreement to protect all proprietary information of C–TPAT participants with respect to which the entity will conduct validations.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Information for establishing limits of liability insurance</heading>
+<content>
+<p class="indent0">A third party entity seeking a certificate under subsection (d) shall submit to the Secretary necessary information for establishing the limits of liability insurance required to be maintained by the entity under this Act.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Additional requirements</heading>
+<chapeau class="indent0">The Secretary shall ensure that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> any third party entity certified under this section does not have—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any beneficial interest in or any direct or indirect control over the C–TPAT participant for which the validation services are performed; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any other conflict of interest with respect to the C–TPAT participant; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the C–TPAT participant has entered into a contract with the third party entity under which the C–TPAT participant agrees to pay all costs associated with the validation.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Monitoring</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary shall regularly monitor and inspect the operations of a third party entity conducting validations under subsection (c) to ensure that the entity is meeting the minimum standard operating procedures and requirements for the validation of C–TPAT participants established by the Secretary and all other applicable requirements for validation services.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Revocation</heading>
+<chapeau class="indent1">If the Secretary determines that a third party entity is not meeting the minimum standard operating procedures and requirements designated by the Secretary under subsection (d)(1), the Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> revoke the entity’s certificate of conformance issued under subsection (d)(1); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> review any validations conducted by the entity.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Limitation on authority</heading>
+<content>
+<p class="indent0">The Secretary may only grant a C–TPAT validation by a third party entity pursuant to subsection (c) if the C–TPAT participant voluntarily submits to validation by such third party entity.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Report</heading>
+<chapeau class="indent0">Not later than 30 days after the completion of the pilot program conducted pursuant to subsection (c), the Secretary shall submit a report to the appropriate congressional committees that contains—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the results of the pilot program, including the extent to which the pilot program ensured sufficient protection for proprietary commercial information;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the cost and efficiency associated with validations under the pilot program;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the impact of the pilot program on the rate of validations conducted under C–TPAT;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> any impact on national security of the pilot program; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> any recommendations by the Secretary based upon the results of the pilot program.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 218</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1912</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 969.</num>
+<heading> Revalidation</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, shall develop and implement—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a revalidation process for Tier 2 and Tier 3 participants;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a framework based upon objective criteria for identifying participants for periodic revalidation not less frequently than once during each 4-year period following the initial validation; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> an annual plan for revalidation that includes—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> performance measures;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an assessment of the personnel needed to perform the revalidations; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the number of participants that will be revalidated during the following year.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 219</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1913</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 970.</num>
+<heading> Noncontainerized cargo</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, shall consider the potential for participation in C–TPAT by importers of noncontainerized cargoes that otherwise meet the requirements under this part.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 220</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1914</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 971.</num>
+<heading> C–TPAT program management</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, shall establish sufficient internal quality controls and record management to support the management systems of C–TPAT. In managing the program, the Secretary shall ensure that the program includes:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Strategic plan</heading>
+<content>
+<p class="indent1">A 5-year plan to identify outcome-based goals and performance measures of the program.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Annual plan</heading>
+<content>
+<p class="indent1">An annual plan for each fiscal year designed to match available resources to the projected workload.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Standardized work program</heading>
+<content>
+<p class="indent1">A standardized work program to be used by agency personnel to carry out the certifications, validations, and revalidations of participants. The Secretary shall keep records and monitor staff hours associated with the completion of each such review.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Documentation of reviews</heading>
+<content>
+<p class="indent0">The Secretary, acting through the Commissioner, shall maintain a record management system to document determinations on the reviews of each C–TPAT participant, including certifications, validations, and revalidations.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Confidential information safeguards</heading>
+<content>
+<p class="indent0">In consultation with the Commercial Operations Advisory Committee, the Secretary, acting through the Commissioner, shall develop and implement procedures to ensure the protection of confidential data collected, stored, or shared with government agencies or as part of the application, certification, validation, and revalidation processes.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Resource management staffing plan</heading>
+<chapeau class="indent0">The Secretary, acting through the Commissioner, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> develop a staffing plan to recruit and train staff (including a formalized training program) to meet the objectives identified in the strategic plan of the C–TPAT program; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> provide cross-training in postincident trade resumption for personnel who administer the C–TPAT program.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Report to Congress</heading>
+<content>
+<p class="indent0">In connection with the President’s annual budget submission for the Department, the Secretary shall report to the appropriate congressional committees on the progress made by the Commissioner to certify, validate, and revalidate C–TPAT participants. Such report shall be due on the same date that the President’s budget is submitted to the Congress.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 221</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1914</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 972.</num>
+<heading> Additional personnel</heading>
+<content>
+<p class="indent0">For fiscal years 2008 and 2009, the Commissioner shall increase by not less than 50 the number of full-time personnel engaged in the validation and revalidation of C–TPAT participants (over the number of such personnel on the last day of the previous fiscal year), and shall provide appropriate training and support to such additional personnel.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 222</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1914</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 973.</num>
+<heading> Authorization of appropriations</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> C–TPAT</heading>
+<chapeau class="indent0">There are authorized to be appropriated to the United States Customs and Border Protection to carry out the provisions of sections 961 through 971 of this title to remain available until expended—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> $65,000,000 for fiscal year 2008;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $72,000,000 for fiscal year 2009; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> $75,600,000 for fiscal year 2010.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Additional personnel</heading>
+<chapeau class="indent0">In addition to any amounts otherwise appropriated to the United States Customs and Border Protection, there are authorized to be appropriated for the purpose of meeting the staffing requirement provided for in <ref>section 972 of this title</ref>, to remain available until expended—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> $8,500,000 for fiscal year 2008;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $17,600,000 for fiscal year 2009;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> $19,000,000 for fiscal year 2010;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> $20,000,000 for fiscal year 2011; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> $21,000,000 for fiscal year 2012.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 223</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1915</ref>.)</sourceCredit>
+</section>
+</part>
+<part>
+<num class="small-caps">Part C—</num>
+<heading class="small-caps">Miscellaneous Provisions</heading>
+<section>
+<num>§ 981.</num>
+<heading> Pilot integrated scanning system</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Designations</heading>
+<content>
+<p class="indent0">Not later than 90 days after <date date="2006-10-13">October 13, 2006</date>, the Secretary shall designate 3 foreign seaports through which containers pass or are transshipped to the United States for the establishment of pilot integrated scanning systems that couple nonintrusive imaging equipment and radiation detection equipment. In making the designations under this subsection, the Secretary shall consider 3 distinct ports with unique features and differing levels of trade volume.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Coordination</heading>
+<chapeau class="indent0">The Secretary shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> coordinate with the Secretary of Energy, as necessary, to provide radiation detection equipment through the Department of Energy’s Second Line of Defense and Megaports programs; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> work with the private sector or, when possible, host governments to obtain radiation detection equipment that meets both the Department’s and the Department of Energy’s technical specifications for such equipment.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Pilot system implementation</heading>
+<chapeau class="indent0">Not later than 1 year after <date date="2006-10-13">October 13, 2006</date>, the Secretary shall achieve a full-scale implementation of the pilot integrated scanning system at the ports designated under subsection (a), which—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> shall scan all containers destined for the United States that are loaded in such ports;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> shall electronically transmit the images and information to appropriate United States Government personnel in the country in which the port is located or in the United States for evaluation and analysis;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> shall resolve every radiation alarm according to established Department procedures;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> shall utilize the information collected to enhance the Automated Targeting System or other relevant programs;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> shall store the information for later retrieval and analysis; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> may provide an automated notification of questionable or high-risk cargo as a trigger for further inspection by appropriately trained personnel.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Report</heading>
+<chapeau class="indent0">Not later than 180 days after achieving full-scale implementation under subsection (c), the Secretary, in consultation with the Secretary of State and, as appropriate, the Secretary of Energy, shall submit a report to the appropriate congressional committees, that includes—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> an evaluation of the lessons derived from the pilot system implemented under this subsection;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> an analysis of the efficacy of the Automated Targeting System or other relevant programs in utilizing the images captured to examine high-risk containers;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> an evaluation of the effectiveness of the integrated scanning system in detecting shielded and unshielded nuclear and radiological material;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> an evaluation of software and other technologies that are capable of automatically identifying potential anomalies in scanned containers; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> an analysis of the need and feasibility of expanding the integrated scanning system to other container security initiative ports, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an analysis of the infrastructure requirements;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a projection of the effect on current average processing speed of containerized cargo;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> an evaluation of the scalability of the system to meet both current and future forecasted trade flows;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the ability of the system to automatically maintain and catalog appropriate data for reference and analysis in the event of a transportation disruption;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> an analysis of requirements, including costs, to install and maintain an integrated scanning system;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the ability of administering personnel to efficiently manage and utilize the data produced by a nonintrusive scanning system;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> the ability to safeguard commercial data generated by, or submitted to, a nonintrusive scanning system; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> an assessment of the reliability of currently available technology to implement an integrated scanning system.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 231</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1915</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 981a.</num>
+<heading> Pilot integrated scanning system</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Designations</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than 90 days after <date date="2006-10-04">October 4, 2006</date>, the Secretary of Homeland Security (referred to in this section as the “Secretary”) shall designate three foreign seaports through which containers pass or are transshipped to the United States to pilot an integrated scanning system that couples nonintrusive imaging equipment and radiation detection equipment, which may be provided by the Megaports Initiative of the Department of Energy. In making designations under this subsection, the Secretary shall consider three distinct ports with unique features and differing levels of trade volume.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Collaboration and cooperation</heading>
+<content>
+<p class="indent1">The Secretary shall collaborate with the Secretary of Energy and cooperate with the private sector and host foreign government to implement the pilot program under this subsection.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Implementation</heading>
+<chapeau class="indent0">Not later than one year after <date date="2006-10-04">October 4, 2006</date>, the Secretary shall achieve a full-scale implementation of the pilot integrated screening system, which shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> scan all containers destined for the United States that transit through the terminal;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> electronically transmit the images and information to the container security initiative personnel in the host country and/or Customs and Border Protection personnel in the United States for evaluation and analysis;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> resolve every radiation alarm according to established Department procedures;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> utilize the information collected to enhance the Automated Targeting System or other relevant programs; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> store the information for later retrieval and analysis.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Evaluation</heading>
+<chapeau class="indent0">The Secretary shall evaluate the pilot program in subsection (b) to determine whether such a system—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> has a sufficiently low false alarm rate for use in the supply chain;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> is capable of being deployed and operated at ports overseas, including consideration of cost, personnel, and infrastructure required to operate the system;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> is capable of integrating, where necessary, with existing systems;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> does not significantly impact trade capacity and flow of cargo at foreign or United States ports; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> provides an automated notification of questionable or high-risk cargo as a trigger for further inspection by appropriately trained personnel.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Report</heading>
+<chapeau class="indent0">Not later than 120 days after achieving full-scale implementation under subsection (b), the Secretary, in consultation with the Secretary of Energy and the Secretary of State, shall submit a report, to the appropriate congressional committees, that includes—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> an evaluation of the lessons derived from the pilot program implemented under this section;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> an analysis of the efficacy of the Automated Targeted System or other relevant programs in utilizing the images captured to examine high-risk containers;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> an evaluation of software that is capable of automatically identifying potential anomalies in scanned containers; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> a plan and schedule to expand the integrated scanning system developed under this section to other container security initiative ports.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Implementation</heading>
+<content>
+<p class="indent0">If the Secretary determines the available technology meets the criteria outlined in subsection (c), the Secretary, in cooperation with the Secretary of State, shall seek to secure the cooperation of foreign governments to initiate and maximize the use of such technology at foreign ports to scan all cargo bound for the United States as quickly as possible.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–295, title V, § 558</ref>, <date date="2006-10-04">Oct. 4, 2006</date>, <ref>120 Stat. 1392</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 982.</num>
+<heading> Screening and scanning of cargo containers</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> One hundred percent screening of cargo containers and 100 percent scanning of high-risk containers</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Screening of cargo containers</heading>
+<content>
+<p class="indent1">The Secretary shall ensure that 100 percent of the cargo containers originating outside the United States and unloaded at a United States seaport undergo a screening to identify high-risk containers.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Scanning of high-risk containers</heading>
+<content>
+<p class="indent1">The Secretary shall ensure that 100 percent of the containers that have been identified as high-risk under paragraph (1), or through other means, are scanned or searched before such containers leave a United States seaport facility.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Full-scale implementation</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">A container that was loaded on a vessel in a foreign port shall not enter the United States (either directly or via a foreign port) unless the container was scanned by nonintrusive imaging equipment and radiation detection equipment at a foreign port before it was loaded on a vessel.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Application</heading>
+<chapeau class="indent1">Paragraph (1) shall apply with respect to containers loaded on a vessel in a foreign country on or after the earlier of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content><date date="2012-07-01">July 1, 2012</date>; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> such other date as may be established by the Secretary under paragraph (3).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Establishment of earlier deadline</heading>
+<content>
+<p class="indent1">The Secretary shall establish a date under (2)(B) <ref class="footnoteRef" idref="fn002134">1</ref> pursuant to the lessons learned through the pilot integrated scanning systems established under <ref>section 981 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Extensions</heading>
+<chapeau class="indent1">The Secretary may extend the date specified in paragraph (2)(A) or (2)(B) for 2 years, and may renew the extension in additional 2-year increments, for containers loaded in a port or ports, if the Secretary certifies to Congress that at least two of the following conditions exist:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Systems to scan containers in accordance with paragraph (1) are not available for purchase and installation.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Systems to scan containers in accordance with paragraph (1) do not have a sufficiently low false alarm rate for use in the supply chain.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Systems to scan containers in accordance with paragraph (1) cannot be purchased, deployed, or operated at ports overseas, including, if applicable, because a port does not have the physical characteristics to install such a system.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Systems to scan containers in accordance with paragraph (1) cannot be integrated, as necessary, with existing systems.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> Use of systems that are available to scan containers in accordance with paragraph (1) will significantly impact trade capacity and the flow of cargo.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> Systems to scan containers in accordance with paragraph (1) do not adequately provide an automated notification of questionable or high-risk cargo as a trigger for further inspection by appropriately trained personnel.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Exemption for military cargo</heading>
+<content>
+<p class="indent1">Notwithstanding any other provision in the section, supplies bought by the Secretary of Defense and transported in compliance <ref>section 2631 of title 10</ref> and military cargo of foreign countries are exempt from the requirements of this section.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Report on extensions</heading>
+<chapeau class="indent1">An extension under paragraph (4) for a port or ports shall take effect upon the expiration of the 60-day period beginning on the date the Secretary provides a report to Congress that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> states what container traffic will be affected by the extension;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> provides supporting evidence to support the Secretary’s certification of the basis for the extension; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> explains what measures the Secretary is taking to ensure that scanning can be implemented as early as possible at the port or ports that are the subject of the report.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Report on renewal of extension</heading>
+<content>
+<p class="indent1">If an extension under paragraph (4) takes effect, the Secretary shall, after one year, submit a report to Congress on whether the Secretary expects to seek to renew the extension.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Scanning technology standards</heading>
+<chapeau class="indent1">In implementing paragraph (1), the Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> establish technological and operational standards for systems to scan containers;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> ensure that the standards are consistent with the global nuclear detection architecture developed under the Homeland Security Act of 2002 [<ref>6 U.S.C. 101</ref> et seq.]; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> coordinate with other Federal agencies that administer scanning or detection programs at foreign ports.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> International trade and other obligations</heading>
+<content>
+<p class="indent1">In carrying out this subsection, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders, and ensure that actions under this section do not violate international trade obligations, and are consistent with the World Customs Organization framework, or other international obligations of the United States.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Report</heading>
+<content>
+<p class="indent0">Not later than 6 months after the submission of a report under <ref>section 981(d) of this title</ref>, and every 6 months thereafter, the Secretary shall submit a report to the appropriate congressional committees describing the status of full-scale deployment under subsection (b) and the cost of deploying the system at each foreign port at which the integrated scanning systems are deployed.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 232</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1916</ref>; <ref>Pub. L. 110–53, title XVII, § 1701(a)</ref>, <date date="2007-08-03">Aug. 3, 2007</date>, <ref>121 Stat. 489</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 983.</num>
+<heading> Inspection technology and training</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Secretary, in coordination with the Secretary of State, the Secretary of Energy, and appropriate representatives of other Federal agencies, may provide technical assistance, equipment, and training to facilitate the implementation of supply chain security measures at ports designated under the Container Security Initiative.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Acquisition and training</heading>
+<chapeau class="indent0">Unless otherwise prohibited by law, the Secretary may—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> lease, loan, provide, or otherwise assist in the deployment of nonintrusive inspection and radiation detection equipment at foreign land and sea ports under such terms and conditions as the Secretary prescribes, including nonreimbursable loans or the transfer of ownership of equipment; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> provide training and technical assistance for domestic or foreign personnel responsible for operating or maintaining such equipment.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 233(a)</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1917</ref>; <ref>Pub. L. 115–254, div. J, § 1816(e)(1)</ref>, <date date="2018-10-05">Oct. 5, 2018</date>, <ref>132 Stat. 3541</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 984.</num>
+<heading> Repealed. <ref>Pub. L. 115–254, div. J, § 1816(f)</ref>, <date date="2018-10-05">Oct. 5, 2018</date>, <ref>132 Stat. 3541</ref></heading>
+</section>
+<section>
+<num>§ 985.</num>
+<heading> Information sharing relating to supply chain security cooperation</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Purposes</heading>
+<chapeau class="indent0">The purposes of this section are—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to establish continuing liaison and to provide for supply chain security cooperation between Department and the private sector; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to provide for regular and timely interchange of information between the private sector and the Department concerning developments and security risks in the supply chain environment.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> System</heading>
+<content>
+<p class="indent0">The Secretary shall develop a system to collect from and share appropriate risk information related to the supply chain with the private sector entities determined appropriate by the Secretary.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Consultation</heading>
+<content>
+<p class="indent0">In developing the system under subsection (b), the Secretary shall consult with the Commercial Operations Advisory Committee and a broad range of public and private sector entities likely to utilize the system, including importers, exporters, carriers, customs brokers, and freight forwarders, among other parties.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Independently obtained information</heading>
+<content>
+<p class="indent0">Nothing in this section shall be construed to limit or otherwise affect the ability of a Federal, State, or local government entity, under applicable law, to obtain supply chain security information, including any information lawfully and properly disclosed generally or broadly to the public and to use such information in any manner permitted by law.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Authority to issue warnings</heading>
+<chapeau class="indent0">The Secretary may provide advisories, alerts, and warnings to relevant companies, targeted sectors, other governmental entities, or the general public regarding potential risks to the supply chain as appropriate. In issuing a warning, the Secretary shall take appropriate actions to protect from disclosure—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the source of any voluntarily submitted supply chain security information that forms the basis for the warning; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> information that is proprietary, business sensitive, relates specifically to the submitting person or entity, or is otherwise not appropriately in the public domain.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title II, § 236</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1919</ref>.)</sourceCredit>
+</section>
+</part>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>ADMINISTRATION</heading>
+<section>
+<num>§ 1001.</num>
+<heading> Designation of liaison office of Department of State</heading>
+<content>
+<p class="indent0">The Secretary of State shall designate a liaison office within the Department of State to assist the Secretary, as appropriate, in negotiating cargo security-related international agreements.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–347, title III, § 301(b)</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1920</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1002.</num>
+<heading> Homeland Security Science and Technology Advisory Committee</heading>
+<content>
+<p class="indent0">The Under Secretary for Science and Technology shall utilize the Homeland Security Science and Technology Advisory Committee, as appropriate, to provide outside expertise in advancing cargo security technology.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 109–347, title III, § 302(c)</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1921</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1003.</num>
+<heading> Research, development, test, and evaluation efforts in furtherance of maritime and cargo security</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Secretary shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> direct research, development, testing, and evaluation efforts in furtherance of maritime and cargo security;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> coordinate with public and private sector entities to develop and test technologies, and process innovations in furtherance of these objectives; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> evaluate such technologies.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Coordination</heading>
+<chapeau class="indent0">The Secretary, in coordination with the Under Secretary for Science and Technology, the Assistant Secretary for Policy, the Commandant of the Coast Guard, the Director for Domestic Nuclear Detection,<ref class="footnoteRef" idref="fn002135">1</ref> the Chief Financial Officer, and the heads of other appropriate offices or entities of the Department, shall ensure that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> research, development, testing, and evaluation efforts funded by the Department in furtherance of maritime and cargo security are coordinated within the Department and with other appropriate Federal agencies to avoid duplication of efforts; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the results of such efforts are shared throughout the Department and with other Federal, State, and local agencies, as appropriate.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 109–347, title III, § 303</ref>, <date date="2006-10-13">Oct. 13, 2006</date>, <ref>120 Stat. 1921</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

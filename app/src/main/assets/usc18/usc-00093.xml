@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 121—</num>
+<heading>STORED WIRE AND ELECTRONIC COMMUNICATIONS AND TRANSACTIONAL RECORDS ACCESS</heading>
+<section>
+<num>§ 2701.</num>
+<heading> Unlawful access to stored communications</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Offense</inline>.—</heading>
+<chapeau>Except as provided in subsection (c) of this section whoever—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> intentionally accesses without authorization a facility through which an electronic communication service is provided; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> intentionally exceeds an authorization to access that facility;</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">and thereby obtains, alters, or prevents authorized access to a wire or electronic communication while it is in electronic storage in such system shall be punished as provided in subsection (b) of this section.</continuation>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Punishment</inline>.—</heading>
+<chapeau>The punishment for an offense under subsection (a) of this section is—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> if the offense is committed for purposes of commercial advantage, malicious destruction or damage, or private commercial gain, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a fine under this title or imprisonment for not more than 5 years, or both, in the case of a first offense under this subparagraph; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a fine under this title or imprisonment for not more than 10 years, or both, for any subsequent offense under this subparagraph; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> in any other case—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a fine under this title or imprisonment for not more than 1 year or both, in the case of a first offense under this paragraph; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a fine under this title or imprisonment for not more than 5 years, or both, in the case of an offense under this subparagraph that occurs after a conviction of another offense under this section.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Exceptions</inline>.—</heading>
+<chapeau>Subsection (a) of this section does not apply with respect to conduct authorized—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> by the person or entity providing a wire or electronic communications service;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> by a user of that service with respect to a communication of or intended for that user; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> in section 2703, 2704 or 2518 of this title.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1860</ref>; amended <ref>Pub. L. 103–322, title XXXIII, § 330016(1)(K)</ref>, (U), <date date="1994-09-13">Sept. 13, 1994</date>, <ref>108 Stat. 2147</ref>, 2148; <ref>Pub. L. 104–294, title VI, § 601(a)(3)</ref>, <date date="1996-10-11">Oct. 11, 1996</date>, <ref>110 Stat. 3498</ref>; <ref>Pub. L. 107–296, title XXII, § 2207(j)(2)</ref>, formerly title II, § 225(j)(2), <date date="2002-11-25">Nov. 25, 2002</date>, <ref>116 Stat. 2158</ref>, renumbered § 2207(j)(2), <ref>Pub. L. 115–278, § 2(g)(2)(I)</ref>, <date date="2018-11-16">Nov. 16, 2018</date>, <ref>132 Stat. 4178</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2702.</num>
+<heading> Voluntary disclosure of customer communications or records</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Prohibitions</inline>.—</heading>
+<chapeau>Except as provided in subsection (b) or (c)—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a person or entity providing an electronic communication service to the public shall not knowingly divulge to any person or entity the contents of a communication while in electronic storage by that service; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> a person or entity providing remote computing service to the public shall not knowingly divulge to any person or entity the contents of any communication which is carried or maintained on that service—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> on behalf of, and received by means of electronic transmission from (or created by means of computer processing of communications received by means of electronic transmission from), a subscriber or customer of such service;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> solely for the purpose of providing storage or computer processing services to such subscriber or customer, if the provider is not authorized to access the contents of any such communications for purposes of providing any services other than storage or computer processing; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> a provider of remote computing service or electronic communication service to the public shall not knowingly divulge a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by paragraph (1) or (2)) to any governmental entity.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Exceptions for disclosure of communications</inline>.—</heading>
+<chapeau>A provider described in subsection (a) may divulge the contents of a communication—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to an addressee or intended recipient of such communication or an agent of such addressee or intended recipient;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> as otherwise authorized in section 2517, 2511(2)(a), or 2703 of this title;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> with the lawful consent of the originator or an addressee or intended recipient of such communication, or the subscriber in the case of remote computing service;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> to a person employed or authorized or whose facilities are used to forward such communication to its destination;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 2258A;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<chapeau> to a law enforcement agency—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> if the contents—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> were inadvertently obtained by the service provider; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> appear to pertain to the commission of a crime; or</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>[(B)</num>
+<content> Repealed. <ref>Pub. L. 108–21, title V, § 508(b)(1)(A)</ref>, <date date="2003-04-30">Apr. 30, 2003</date>, <ref>117 Stat. 684</ref>]</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> to a foreign government pursuant to an order from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Exceptions for Disclosure of Customer Records</inline>.—</heading>
+<chapeau>A provider described in subsection (a) may divulge a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a)(1) or (a)(2))—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> as otherwise authorized in section 2703;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> with the lawful consent of the customer or subscriber;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of information relating to the emergency;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 2258A;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> to any person other than a governmental entity; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> to a foreign government pursuant to an order from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Reporting of Emergency Disclosures</inline>.—</heading>
+<chapeau>On an annual basis, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> a summary of the basis for disclosure in those instances where—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> voluntary disclosures under subsection (b)(8) were made to the Department of Justice; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the investigation pertaining to those disclosures was closed without the filing of criminal charges; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (c)(4).</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1860</ref>; amended <ref>Pub. L. 100–690, title VII, § 7037</ref>, <date date="1988-11-18">Nov. 18, 1988</date>, <ref>102 Stat. 4399</ref>; <ref>Pub. L. 105–314, title VI, § 604(b)</ref>, <date date="1998-10-30">Oct. 30, 1998</date>, <ref>112 Stat. 2984</ref>; <ref>Pub. L. 107–56, title II, § 212(a)(1)</ref>, <date date="2001-10-26">Oct. 26, 2001</date>, <ref>115 Stat. 284</ref>; <ref>Pub. L. 107–296, title XXII, § 2207(d)(1)</ref>, formerly title II, § 225(d)(1), <date date="2002-11-25">Nov. 25, 2002</date>, <ref>116 Stat. 2157</ref>, renumbered § 2207(d)(1), <ref>Pub. L. 115–278, § 2(g)(2)(I)</ref>, <date date="2018-11-16">Nov. 16, 2018</date>, <ref>132 Stat. 4178</ref>; <ref>Pub. L. 108–21, title V, § 508(b)</ref>, <date date="2003-04-30">Apr. 30, 2003</date>, <ref>117 Stat. 684</ref>; <ref>Pub. L. 109–177, title I, § 107(a)</ref>, (b)(1), (c), <date date="2006-03-09">Mar. 9, 2006</date>, <ref>120 Stat. 202</ref>, 203; <ref>Pub. L. 110–401, title V, § 501(b)(2)</ref>, <date date="2008-10-13">Oct. 13, 2008</date>, <ref>122 Stat. 4251</ref>; <ref>Pub. L. 114–23, title VI, § 602(d)</ref>, <date date="2015-06-02">June 2, 2015</date>, <ref>129 Stat. 295</ref>; <ref>Pub. L. 115–141, div. V, § 104(2)(A)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1216</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2703.</num>
+<heading> Required disclosure of customer communications or records</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Contents of Wire or Electronic Communications in Electronic Storage</inline>.—</heading>
+<content>A governmental entity may require the disclosure by a provider of electronic communication service of the contents of a wire or electronic communication, that is in electronic storage in an electronic communications system for one hundred and eighty days or less, only pursuant to a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President) by a court of competent jurisdiction. A governmental entity may require the disclosure by a provider of electronic communications services of the contents of a wire or electronic communication that has been in electronic storage in an electronic communications system for more than one hundred and eighty days by the means available under subsection (b) of this section.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Contents of Wire or Electronic Communications in a Remote Computing Service</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> A governmental entity may require a provider of remote computing service to disclose the contents of any wire or electronic communication to which this paragraph is made applicable by paragraph (2) of this subsection—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> without required notice to the subscriber or customer, if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President) by a court of competent jurisdiction; or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> with prior notice from the governmental entity to the subscriber or customer if the governmental entity—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena; or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> obtains a court order for such disclosure under subsection (d) of this section;</content>
+</clause>
+<continuation class="indent1 firstIndent0">except that delayed notice may be given pursuant to <ref>section 2705 of this title</ref>.</continuation>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> Paragraph (1) is applicable with respect to any wire or electronic communication that is held or maintained on that service—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> on behalf of, and received by means of electronic transmission from (or created by means of computer processing of communications received by means of electronic transmission from), a subscriber or customer of such remote computing service; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> solely for the purpose of providing storage or computer processing services to such subscriber or customer, if the provider is not authorized to access the contents of any such communications for purposes of providing any services other than storage or computer processing.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Records Concerning Electronic Communication Service or Remote Computing Service</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> A governmental entity may require a provider of electronic communication service or remote computing service to disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications) only when the governmental entity—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President) by a court of competent jurisdiction;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> obtains a court order for such disclosure under subsection (d) of this section;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> has the consent of the subscriber or customer to such disclosure;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> submits a formal written request relevant to a law enforcement investigation concerning telemarketing fraud for the name, address, and place of business of a subscriber or customer of such provider, which subscriber or customer is engaged in telemarketing (as such term is defined in <ref>section 2325 of this title</ref>); or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> seeks information under paragraph (2).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> A provider of electronic communication service or remote computing service shall disclose to a governmental entity the—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> name;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> address;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> local and long distance telephone connection records, or records of session times and durations;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> length of service (including start date) and types of service utilized;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> telephone or instrument number or other subscriber number or identity, including any temporarily assigned network address; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(F)</num>
+<content> means and source of payment for such service (including any credit card or bank account number),</content>
+</subparagraph>
+<continuation class="indent0 firstIndent0">of a subscriber to or customer of such service when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under paragraph (1).</continuation>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> A governmental entity receiving records or information under this subsection is not required to provide notice to a subscriber or customer.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Requirements for Court Order</inline>.—</heading>
+<content>A court order for disclosure under subsection (b) or (c) may be issued by any court that is a court of competent jurisdiction and shall issue only if the governmental entity offers specific and articulable facts showing that there are reasonable grounds to believe that the contents of a wire or electronic communication, or the records or other information sought, are relevant and material to an ongoing criminal investigation. In the case of a State governmental authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the service provider, may quash or modify such order, if the information or records requested are unusually voluminous in nature or compliance with such order otherwise would cause an undue burden on such provider.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">No Cause of Action Against a Provider Disclosing Information Under This Chapter</inline>.—</heading>
+<content>No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with the terms of a court order, warrant, subpoena, statutory authorization, or certification under this chapter.</content>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading>
+<inline class="small-caps">Requirement To Preserve Evidence.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>A provider of wire or electronic communication services or a remote computing service, upon the request of a governmental entity, shall take all necessary steps to preserve records and other evidence in its possession pending the issuance of a court order or other process.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Period of retention</inline>.—</heading>
+<content>Records referred to in paragraph (1) shall be retained for a period of 90 days, which shall be extended for an additional 90-day period upon a renewed request by the governmental entity.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading><inline class="small-caps">Presence of Officer Not Required</inline>.—</heading>
+<content>Notwithstanding <ref>section 3105 of this title</ref>, the presence of an officer shall not be required for service or execution of a search warrant issued in accordance with this chapter requiring disclosure by a provider of electronic communications service or remote computing service of the contents of communications or records or other information pertaining to a subscriber to or customer of such service.</content>
+</subsection>
+<subsection class="indent0">
+<num>(h)</num>
+<heading>
+<inline class="small-caps">Comity Analysis and Disclosure of Information Regarding Legal Process Seeking Contents of Wire or Electronic Communication.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this subsection—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> the term “qualifying foreign government” means a foreign government—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> with which the United States has an executive agreement that has entered into force under section 2523; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the laws of which provide to electronic communication service providers and remote computing service providers substantive and procedural opportunities similar to those provided under paragraphs (2) and (5); and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the term “United States person” has the meaning given the term in section 2523.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Motions to quash or modify</inline>.—</heading>
+<subparagraph class="indent1">
+<num>(A)</num>
+<chapeau> A provider of electronic communication service to the public or remote computing service, including a foreign electronic communication service or remote computing service, that is being required to disclose pursuant to legal process issued under this section the contents of a wire or electronic communication of a subscriber or customer, may file a motion to modify or quash the legal process where the provider reasonably believes—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> that the customer or subscriber is not a United States person and does not reside in the United States; and</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> that the required disclosure would create a material risk that the provider would violate the laws of a qualifying foreign government.<p class="indent2 firstIndent0">Such a motion shall be filed not later than 14 days after the date on which the provider was served with the legal process, absent agreement with the government or permission from the court to extend the deadline based on an application made within the 14 days. The right to move to quash is without prejudice to any other grounds to move to quash or defenses thereto, but it shall be the sole basis for moving to quash on the grounds of a conflict of law related to a qualifying foreign government.</p>
+</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> Upon receipt of a motion filed pursuant to subparagraph (A), the court shall afford the governmental entity that applied for or issued the legal process under this section the opportunity to respond. The court may modify or quash the legal process, as appropriate, only if the court finds that—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> the required disclosure would cause the provider to violate the laws of a qualifying foreign government;</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> based on the totality of the circumstances, the interests of justice dictate that the legal process should be modified or quashed; and</content>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> the customer or subscriber is not a United States person and does not reside in the United States.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Comity analysis</inline>.—</heading>
+<chapeau>For purposes of making a determination under paragraph (2)(B)(ii), the court shall take into account, as appropriate—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the interests of the United States, including the investigative interests of the governmental entity seeking to require the disclosure;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the interests of the qualifying foreign government in preventing any prohibited disclosure;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the likelihood, extent, and nature of penalties to the provider or any employees of the provider as a result of inconsistent legal requirements imposed on the provider;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the location and nationality of the subscriber or customer whose communications are being sought, if known, and the nature and extent of the subscriber or customer’s connection to the United States, or if the legal process has been sought on behalf of a foreign authority pursuant to section 3512, the nature and extent of the subscriber or customer’s connection to the foreign authority’s country;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the nature and extent of the provider’s ties to and presence in the United States;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the importance to the investigation of the information required to be disclosed;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> the likelihood of timely and effective access to the information required to be disclosed through means that would cause less serious negative consequences; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> if the legal process has been sought on behalf of a foreign authority pursuant to section 3512, the investigative interests of the foreign authority making the request for assistance.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Disclosure obligations during pendency of challenge</inline>.—</heading>
+<content>A service provider shall preserve, but not be obligated to produce, information sought during the pendency of a motion brought under this subsection, unless the court finds that immediate production is necessary to prevent an adverse result identified in section 2705(a)(2).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Disclosure to qualifying foreign government</inline>.—</heading>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> It shall not constitute a violation of a protective order issued under section 2705 for a provider of electronic communication service to the public or remote computing service to disclose to the entity within a qualifying foreign government, designated in an executive agreement under section 2523, the fact of the existence of legal process issued under this section seeking the contents of a wire or electronic communication of a customer or subscriber who is a national or resident of the qualifying foreign government.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> Nothing in this paragraph shall be construed to modify or otherwise affect any other authority to make a motion to modify or quash a protective order issued under section 2705.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1861</ref>; amended <ref>Pub. L. 100–690, title VII</ref>, §§ 7038, 7039, <date date="1988-11-18">Nov. 18, 1988</date>, <ref>102 Stat. 4399</ref>; <ref>Pub. L. 103–322, title XXXIII, § 330003(b)</ref>, <date date="1994-09-13">Sept. 13, 1994</date>, <ref>108 Stat. 2140</ref>; <ref>Pub. L. 103–414, title II, § 207(a)</ref>, <date date="1994-10-25">Oct. 25, 1994</date>, <ref>108 Stat. 4292</ref>; <ref>Pub. L. 104–132, title VIII, § 804</ref>, <date date="1996-04-24">Apr. 24, 1996</date>, <ref>110 Stat. 1305</ref>; <ref>Pub. L. 104–293, title VI, § 601(b)</ref>, <date date="1996-10-11">Oct. 11, 1996</date>, <ref>110 Stat. 3469</ref>; <ref>Pub. L. 104–294, title VI, § 605(f)</ref>, <date date="1996-10-11">Oct. 11, 1996</date>, <ref>110 Stat. 3510</ref>; <ref>Pub. L. 105–184, § 8</ref>, <date date="1998-06-23">June 23, 1998</date>, <ref>112 Stat. 522</ref>; <ref>Pub. L. 107–56, title II</ref>, §§ 209(2), 210, 212(b)(1), 220(a)(1), (b), <date date="2001-10-26">Oct. 26, 2001</date>, <ref>115 Stat. 283</ref>, 285, 291, 292; <ref>Pub. L. 107–273, div. B, title IV, § 4005(a)(2)</ref>, div. C, title I, § 11010, <date date="2002-11-02">Nov. 2, 2002</date>, <ref>116 Stat. 1812</ref>, 1822; <ref>Pub. L. 107–296, title XXII, § 2207(h)(1)</ref>, formerly title II, § 225(h)(1), <date date="2002-11-25">Nov. 25, 2002</date>, <ref>116 Stat. 2158</ref>, renumbered § 2207(h)(1), <ref>Pub. L. 115–278, § 2(g)(2)(I)</ref>, <date date="2018-11-16">Nov. 16, 2018</date>, <ref>132 Stat. 4178</ref>; <ref>Pub. L. 109–162, title XI, § 1171(a)(1)</ref>, <date date="2006-01-05">Jan. 5, 2006</date>, <ref>119 Stat. 3123</ref>; <ref>Pub. L. 111–79, § 2(1)</ref>, <date date="2009-10-19">Oct. 19, 2009</date>, <ref>123 Stat. 2086</ref>; <ref>Pub. L. 114–328, div. E, title LVII, § 5228(b)(1)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2912</ref>; <ref>Pub. L. 115–141, div. V, § 103(b)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1214</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2704.</num>
+<heading> Backup preservation</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Backup Preservation</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> A governmental entity acting under section 2703(b)(2) may include in its subpoena or court order a requirement that the service provider to whom the request is directed create a backup copy of the contents of the electronic communications sought in order to preserve those communications. Without notifying the subscriber or customer of such subpoena or court order, such service provider shall create such backup copy as soon as practicable consistent with its regular business practices and shall confirm to the governmental entity that such backup copy has been made. Such backup copy shall be created within two business days after receipt by the service provider of the subpoena or court order.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Notice to the subscriber or customer shall be made by the governmental entity within three days after receipt of such confirmation, unless such notice is delayed pursuant to section 2705(a).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<chapeau> The service provider shall not destroy such backup copy until the later of—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> the delivery of the information; or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> the resolution of any proceedings (including appeals of any proceeding) concerning the government’s subpoena or court order.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<chapeau> The service provider shall release such backup copy to the requesting governmental entity no sooner than fourteen days after the governmental entity’s notice to the subscriber or customer if such service provider—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> has not received notice from the subscriber or customer that the subscriber or customer has challenged the governmental entity’s request; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> has not initiated proceedings to challenge the request of the governmental entity.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(5)</num>
+<content> A governmental entity may seek to require the creation of a backup copy under subsection (a)(1) of this section if in its sole discretion such entity determines that there is reason to believe that notification under <ref>section 2703 of this title</ref> of the existence of the subpoena or court order may result in destruction of or tampering with evidence. This determination is not subject to challenge by the subscriber or customer or service provider.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Customer Challenges</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> Within fourteen days after notice by the governmental entity to the subscriber or customer under subsection (a)(2) of this section, such subscriber or customer may file a motion to quash such subpoena or vacate such court order, with copies served upon the governmental entity and with written notice of such challenge to the service provider. A motion to vacate a court order shall be filed in the court which issued such order. A motion to quash a subpoena shall be filed in the appropriate United States district court or State court. Such motion or application shall contain an affidavit or sworn statement—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> stating that the applicant is a customer or subscriber to the service from which the contents of electronic communications maintained for him have been sought; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> stating the applicant’s reasons for believing that the records sought are not relevant to a legitimate law enforcement inquiry or that there has not been substantial compliance with the provisions of this chapter in some other respect.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Service shall be made under this section upon a governmental entity by delivering or mailing by registered or certified mail a copy of the papers to the person, office, or department specified in the notice which the customer has received pursuant to this chapter. For the purposes of this section, the term “delivery” has the meaning given that term in the Federal Rules of Civil Procedure.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> If the court finds that the customer has complied with paragraphs (1) and (2) of this subsection, the court shall order the governmental entity to file a sworn response, which may be filed in camera if the governmental entity includes in its response the reasons which make in camera review appropriate. If the court is unable to determine the motion or application on the basis of the parties’ initial allegations and response, the court may conduct such additional proceedings as it deems appropriate. All such proceedings shall be completed and the motion or application decided as soon as practicable after the filing of the governmental entity’s response.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> If the court finds that the applicant is not the subscriber or customer for whom the communications sought by the governmental entity are maintained, or that there is a reason to believe that the law enforcement inquiry is legitimate and that the communications sought are relevant to that inquiry, it shall deny the motion or application and order such process enforced. If the court finds that the applicant is the subscriber or customer for whom the communications sought by the governmental entity are maintained, and that there is not a reason to believe that the communications sought are relevant to a legitimate law enforcement inquiry, or that there has not been substantial compliance with the provisions of this chapter, it shall order the process quashed.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(5)</num>
+<content> A court order denying a motion or application under this section shall not be deemed a final order and no interlocutory appeal may be taken therefrom by the customer.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1863</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2705.</num>
+<heading> Delayed notice</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Delay of Notification</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> A governmental entity acting under <ref>section 2703(b) of this title</ref> may—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> where a court order is sought, include in the application a request, which the court shall grant, for an order delaying the notification required under <ref>section 2703(b) of this title</ref> for a period not to exceed ninety days, if the court determines that there is reason to believe that notification of the existence of the court order may have an adverse result described in paragraph (2) of this subsection; or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> where an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury subpoena is obtained, delay the notification required under <ref>section 2703(b) of this title</ref> for a period not to exceed ninety days upon the execution of a written certification of a supervisory official that there is reason to believe that notification of the existence of the subpoena may have an adverse result described in paragraph (2) of this subsection.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> An adverse result for the purposes of paragraph (1) of this subsection is—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> endangering the life or physical safety of an individual;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> flight from prosecution;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> destruction of or tampering with evidence;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> intimidation of potential witnesses; or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> otherwise seriously jeopardizing an investigation or unduly delaying a trial.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> The governmental entity shall maintain a true copy of certification under paragraph (1)(B).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> Extensions of the delay of notification provided in section 2703 of up to ninety days each may be granted by the court upon application, or by certification by a governmental entity, but only in accordance with subsection (b) of this section.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(5)</num>
+<chapeau> Upon expiration of the period of delay of notification under paragraph (1) or (4) of this subsection, the governmental entity shall serve upon, or deliver by registered or first-class mail to, the customer or subscriber a copy of the process or request together with notice that—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> states with reasonable specificity the nature of the law enforcement inquiry; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> informs such customer or subscriber—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> that information maintained for such customer or subscriber by the service provider named in such process or request was supplied to or requested by that governmental authority and the date on which the supplying or request took place;</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> that notification of such customer or subscriber was delayed;</content>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> what governmental entity or court made the certification or determination pursuant to which that delay was made; and</content>
+</clause>
+<clause class="indent2">
+<num>(iv)</num>
+<content> which provision of this chapter allowed such delay.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(6)</num>
+<content> As used in this subsection, the term “supervisory official” means the investigative agent in charge or assistant investigative agent in charge or an equivalent of an investigating agency’s headquarters or regional office, or the chief prosecuting attorney or the first assistant prosecuting attorney or an equivalent of a prosecuting attorney’s headquarters or regional office.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Preclusion of Notice to Subject of Governmental Access</inline>.—</heading>
+<chapeau>A governmental entity acting under section 2703, when it is not required to notify the subscriber or customer under section 2703(b)(1), or to the extent that it may delay such notice pursuant to subsection (a) of this section, may apply to a court for an order commanding a provider of electronic communications service or remote computing service to whom a warrant, subpoena, or court order is directed, for such period as the court deems appropriate, not to notify any other person of the existence of the warrant, subpoena, or court order. The court shall enter such an order if it determines that there is reason to believe that notification of the existence of the warrant, subpoena, or court order will result in—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> endangering the life or physical safety of an individual;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> flight from prosecution;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> destruction of or tampering with evidence;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> intimidation of potential witnesses; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> otherwise seriously jeopardizing an investigation or unduly delaying a trial.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1864</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2706.</num>
+<heading> Cost reimbursement</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Payment</inline>.—</heading>
+<content>Except as otherwise provided in subsection (c), a governmental entity obtaining the contents of communications, records, or other information under section 2702, 2703, or 2704 of this title shall pay to the person or entity assembling or providing such information a fee for reimbursement for such costs as are reasonably necessary and which have been directly incurred in searching for, assembling, reproducing, or otherwise providing such information. Such reimbursable costs shall include any costs due to necessary disruption of normal operations of any electronic communication service or remote computing service in which such information may be stored.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Amount</inline>.—</heading>
+<content>The amount of the fee provided by subsection (a) shall be as mutually agreed by the governmental entity and the person or entity providing the information, or, in the absence of agreement, shall be as determined by the court which issued the order for production of such information (or the court before which a criminal prosecution relating to such information would be brought, if no court order was issued for production of the information).</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Exception</inline>.—</heading>
+<content>The requirement of subsection (a) of this section does not apply with respect to records or other information maintained by a communications common carrier that relate to telephone toll records and telephone listings obtained under <ref>section 2703 of this title</ref>. The court may, however, order a payment as described in subsection (a) if the court determines the information required is unusually voluminous in nature or otherwise caused an undue burden on the provider.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1866</ref>; amended <ref>Pub. L. 100–690, title VII, § 7061</ref>, <date date="1988-11-18">Nov. 18, 1988</date>, <ref>102 Stat. 4404</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2707.</num>
+<heading> Civil action</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Cause of Action</inline>.—</heading>
+<content>Except as provided in section 2703(e), any provider of electronic communication service, subscriber, or other person aggrieved by any violation of this chapter in which the conduct constituting the violation is engaged in with a knowing or intentional state of mind may, in a civil action, recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Relief</inline>.—</heading>
+<chapeau>In a civil action under this section, appropriate relief includes—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> such preliminary and other equitable or declaratory relief as may be appropriate;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> damages under subsection (c); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> a reasonable attorney’s fee and other litigation costs reasonably incurred.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Damages</inline>.—</heading>
+<content>The court may assess as damages in a civil action under this section the sum of the actual damages suffered by the plaintiff and any profits made by the violator as a result of the violation, but in no case shall a person entitled to recover receive less than the sum of $1,000. If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court.</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Administrative Discipline</inline>.—</heading>
+<content>If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Defense</inline>.—</heading>
+<chapeau>A good faith reliance on—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a court warrant or order, a grand jury subpoena, a legislative authorization, or a statutory authorization (including a request of a governmental entity under <ref>section 2703(f) of this title</ref>);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a request of an investigative or law enforcement officer under <ref>section 2518(7) of this title</ref>; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> a good faith determination that section 2511(3), section 2702(b)(9), or <ref>section 2702(c)(7) of this title</ref> permitted the conduct complained of;</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">is a complete defense to any civil or criminal action brought under this chapter or any other law.</continuation>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Limitation</inline>.—</heading>
+<content>A civil action under this section may not be commenced later than two years after the date upon which the claimant first discovered or had a reasonable opportunity to discover the violation.</content>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading><inline class="small-caps">Improper Disclosure</inline>.—</heading>
+<content>Any willful disclosure of a “record”, as that term is defined in <ref>section 552a(a) of title 5</ref>, United States Code, obtained by an investigative or law enforcement officer, or a governmental entity, pursuant to <ref>section 2703 of this title</ref>, or from a device installed pursuant to section 3123 or 3125 of this title, that is not a disclosure made in the proper performance of the official functions of the officer or governmental entity making the disclosure, is a violation of this chapter. This provision shall not apply to information previously lawfully disclosed (prior to the commencement of any civil or administrative proceeding under this chapter) to the public by a Federal, State, or local governmental entity or by the plaintiff in a civil action under this chapter.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1866</ref>; amended <ref>Pub. L. 104–293, title VI, § 601(c)</ref>, <date date="1996-10-11">Oct. 11, 1996</date>, <ref>110 Stat. 3469</ref>; <ref>Pub. L. 107–56, title II</ref>, §§ 223(b), title VIII, § 815, <date date="2001-10-26">Oct. 26, 2001</date>, <ref>115 Stat. 293</ref>, 384; <ref>Pub. L. 107–273, div. B, title IV, § 4005(f)(2)</ref>, <date date="2002-11-02">Nov. 2, 2002</date>, <ref>116 Stat. 1813</ref>; <ref>Pub. L. 115–141, div. V, § 104(2)(B)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1216</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2708.</num>
+<heading> Exclusivity of remedies</heading>
+<content>
+<p class="indent0">The remedies and sanctions described in this chapter are the only judicial remedies and sanctions for nonconstitutional violations of this chapter.</p>
+</content>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1867</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2709.</num>
+<heading> Counterintelligence access to telephone toll and transactional records</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Duty to Provide</inline>.—</heading>
+<content>A wire or electronic communication service provider shall comply with a request for subscriber information and toll billing records information, or electronic communication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Required Certification</inline>.—</heading>
+<chapeau>The Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> request the name, address, length of service, and local and long distance toll billing records of a person or entity if the Director (or his designee) certifies in writing to the wire or electronic communication service provider to which the request is made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> request the name, address, and length of service of a person or entity if the Director (or his designee) certifies in writing to the wire or electronic communication service provider to which the request is made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Prohibition of Certain Disclosure.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading>
+<inline class="small-caps">Prohibition.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>If a certification is issued under subparagraph (B) and notice of the right to judicial review under subsection (d) is provided, no wire or electronic communication service provider that receives a request under subsection (b), or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Certification</inline>.—</heading>
+<chapeau>The requirements of subparagraph (A) shall apply if the Director of the Federal Bureau of Investigation, or a designee of the Director whose rank shall be no lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office, certifies that the absence of a prohibition of disclosure under this subsection may result in—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a danger to the national security of the United States;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> interference with a criminal, counterterrorism, or counterintelligence investigation;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> interference with diplomatic relations; or</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> danger to the life or physical safety of any person.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading>
+<inline class="small-caps">Exception.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>A wire or electronic communication service provider that receives a request under subsection (b), or officer, employee, or agent thereof, may disclose information otherwise subject to any applicable nondisclosure requirement to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> those persons to whom disclosure is necessary in order to comply with the request;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> an attorney in order to obtain legal advice or assistance regarding the request; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> other persons as permitted by the Director of the Federal Bureau of Investigation or the designee of the Director.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Application</inline>.—</heading>
+<content>A person to whom disclosure is made under subparagraph (A) shall be subject to the nondisclosure requirements applicable to a person to whom a request is issued under subsection (b) in the same manner as the person to whom the request is issued.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading><inline class="small-caps">Notice</inline>.—</heading>
+<content>Any recipient that discloses to a person described in subparagraph (A) information otherwise subject to a nondisclosure requirement shall notify the person of the applicable nondisclosure requirement.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<heading><inline class="small-caps">Identification of disclosure recipients</inline>.—</heading>
+<content>At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under clause (i) or (iii) of subparagraph (A) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading>
+<inline class="small-caps">Judicial Review.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>A request under subsection (b) or a nondisclosure requirement imposed in connection with such request under subsection (c) shall be subject to judicial review under section 3511.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Notice</inline>.—</heading>
+<content>A request under subsection (b) shall include notice of the availability of judicial review described in paragraph (1).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Dissemination by Bureau</inline>.—</heading>
+<content>The Federal Bureau of Investigation may disseminate information and records obtained under this section only as provided in guidelines approved by the Attorney General for foreign intelligence collection and foreign counterintelligence investigations conducted by the Federal Bureau of Investigation, and, with respect to dissemination to an agency of the United States, only if such information is clearly relevant to the authorized responsibilities of such agency.</content>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Requirement That Certain Congressional Bodies Be Informed</inline>.—</heading>
+<content>On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.</content>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading><inline class="small-caps">Libraries</inline>.—</heading>
+<content>A library (as that term is defined in section 213(1) of the Library Services and Technology Act (<ref>20 U.S.C. 9122(1)</ref>), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) (“electronic communication service”) of this title.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1867</ref>; amended <ref>Pub. L. 103–142</ref>, <date date="1993-11-17">Nov. 17, 1993</date>, <ref>107 Stat. 1491</ref>; <ref>Pub. L. 104–293, title VI, § 601(a)</ref>, <date date="1996-10-11">Oct. 11, 1996</date>, <ref>110 Stat. 3469</ref>; <ref>Pub. L. 107–56, title V, § 505(a)</ref>, <date date="2001-10-26">Oct. 26, 2001</date>, <ref>115 Stat. 365</ref>; <ref>Pub. L. 109–177, title I, § 116(a)</ref>, <date date="2006-03-09">Mar. 9, 2006</date>, <ref>120 Stat. 213</ref>; <ref>Pub. L. 109–178</ref>, §§ 4(b), 5, <date date="2006-03-09">Mar. 9, 2006</date>, <ref>120 Stat. 280</ref>, 281; <ref>Pub. L. 114–23, title V</ref>, §§ 501(a), 502(a), 503(a), <date date="2015-06-02">June 2, 2015</date>, <ref>129 Stat. 282</ref>, 283, 289.)</sourceCredit>
+</section>
+<section>
+<num>§ 2710.</num>
+<heading> Wrongful disclosure of video tape rental or sale records</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>For purposes of this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the term “consumer” means any renter, purchaser, or subscriber of goods or services from a video tape service provider;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the term “ordinary course of business” means only debt collection activities, order fulfillment, request processing, and the transfer of ownership;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the term “personally identifiable information” includes information which identifies a person as having requested or obtained specific video materials or services from a video tape service provider; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the term “video tape service provider” means any person, engaged in the business, in or affecting interstate or foreign commerce, of rental, sale, or delivery of prerecorded video cassette tapes or similar audio visual materials, or any person or other entity to whom a disclosure is made under subparagraph (D) or (E) of subsection (b)(2), but only with respect to the information contained in the disclosure.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Video Tape Rental and Sale Records</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> A video tape service provider who knowingly discloses, to any person, personally identifiable information concerning any consumer of such provider shall be liable to the aggrieved person for the relief provided in subsection (d).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> A video tape service provider may disclose personally identifiable information concerning any consumer—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> to the consumer;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> to any person with the informed, written consent (including through an electronic means using the Internet) of the consumer that—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> is in a form distinct and separate from any form setting forth other legal or financial obligations of the consumer;</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<chapeau> at the election of the consumer—</chapeau>
+<subclause class="indent3">
+<num>(I)</num>
+<content> is given at the time the disclosure is sought; or</content>
+</subclause>
+<subclause class="indent3">
+<num>(II)</num>
+<content> is given in advance for a set period of time, not to exceed 2 years or until consent is withdrawn by the consumer, whichever is sooner; and</content>
+</subclause>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> the video tape service provider has provided an opportunity, in a clear and conspicuous manner, for the consumer to withdraw on a case-by-case basis or to withdraw from ongoing disclosures, at the consumer’s election;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> to a law enforcement agency pursuant to a warrant issued under the Federal Rules of Criminal Procedure, an equivalent State warrant, a grand jury subpoena, or a court order;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<chapeau> to any person if the disclosure is solely of the names and addresses of consumers and if—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> the video tape service provider has provided the consumer with the opportunity, in a clear and conspicuous manner, to prohibit such disclosure; and</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> the disclosure does not identify the title, description, or subject matter of any video tapes or other audio visual material; however, the subject matter of such materials may be disclosed if the disclosure is for the exclusive use of marketing goods and services directly to the consumer;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> to any person if the disclosure is incident to the ordinary course of business of the video tape service provider; or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(F)</num>
+<chapeau> pursuant to a court order, in a civil proceeding upon a showing of compelling need for the information that cannot be accommodated by any other means, if—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> the consumer is given reasonable notice, by the person seeking the disclosure, of the court proceeding relevant to the issuance of the court order; and</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> the consumer is afforded the opportunity to appear and contest the claim of the person seeking the disclosure.</content>
+</clause>
+</subparagraph>
+<continuation class="indent0 firstIndent0">If an order is granted pursuant to subparagraph (C) or (F), the court shall impose appropriate safeguards against unauthorized disclosure.</continuation>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> Court orders authorizing disclosure under subparagraph (C) shall issue only with prior notice to the consumer and only if the law enforcement agency shows that there is probable cause to believe that the records or other information sought are relevant to a legitimate law enforcement inquiry. In the case of a State government authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the video tape service provider, may quash or modify such order if the information or records requested are unreasonably voluminous in nature or if compliance with such order otherwise would cause an unreasonable burden on such provider.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Civil Action</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Any person aggrieved by any act of a person in violation of this section may bring a civil action in a United States district court.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> The court may award—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> actual damages but not less than liquidated damages in an amount of $2,500;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> punitive damages;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> reasonable attorneys’ fees and other litigation costs reasonably incurred; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> such other preliminary and equitable relief as the court determines to be appropriate.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> No action may be brought under this subsection unless such action is begun within 2 years from the date of the act complained of or the date of discovery.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> No liability shall result from lawful disclosure permitted by this section.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Personally Identifiable Information</inline>.—</heading>
+<content>Personally identifiable information obtained in any manner other than as provided in this section shall not be received in evidence in any trial, hearing, arbitration, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision of a State.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Destruction of Old Records</inline>.—</heading>
+<content>A person subject to this section shall destroy personally identifiable information as soon as practicable, but no later than one year from the date the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (b)(2) or (c)(2) or pursuant to a court order.</content>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Preemption</inline>.—</heading>
+<content>The provisions of this section preempt only the provisions of State or local law that require disclosure prohibited by this section.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 100–618, § 2(a)(2)</ref>, <date date="1988-11-05">Nov. 5, 1988</date>, <ref>102 Stat. 3195</ref>; amended <ref>Pub. L. 112–258, § 2</ref>, <date date="2013-01-10">Jan. 10, 2013</date>, <ref>126 Stat. 2414</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2711.</num>
+<heading> Definitions for chapter</heading>
+<chapeau class="indent0">As used in this chapter—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the terms defined in <ref>section 2510 of this title</ref> have, respectively, the definitions given such terms in that section;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the term “remote computing service” means the provision to the public of computer storage or processing services by means of an electronic communications system;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> the term “court of competent jurisdiction” includes—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> any district court of the United States (including a magistrate judge of such a court) or any United States court of appeals that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> has jurisdiction over the offense being investigated;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> is in or for a district in which the provider of a wire or electronic communication service is located or in which the wire or electronic communications, records, or other information are stored; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> is acting on a request for foreign assistance pursuant to <ref>section 3512 of this title</ref>;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a court of general criminal jurisdiction of a State authorized by the law of that State to issue search warrants; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice) to which a military judge has been detailed; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the term “governmental entity” means a department or agency of the United States or any State or political subdivision thereof.</content>
+</paragraph>
+<sourceCredit>(Added <ref>Pub. L. 99–508, title II, § 201[(a)]</ref>, <date date="1986-10-21">Oct. 21, 1986</date>, <ref>100 Stat. 1868</ref>, § 2710; renumbered § 2711, <ref>Pub. L. 100–618, § 2(a)(1)</ref>, <date date="1988-11-05">Nov. 5, 1988</date>, <ref>102 Stat. 3195</ref>; amended <ref>Pub. L. 107–56, title II, § 220(a)(2)</ref>, <date date="2001-10-26">Oct. 26, 2001</date>, <ref>115 Stat. 292</ref>; <ref>Pub. L. 109–177, title I, § 107(b)(2)</ref>, <date date="2006-03-09">Mar. 9, 2006</date>, <ref>120 Stat. 202</ref>; <ref>Pub. L. 111–79, § 2(2)</ref>, <date date="2009-10-19">Oct. 19, 2009</date>, <ref>123 Stat. 2086</ref>; <ref>Pub. L. 114–328, div. E, title LVII, § 5228(b)(2)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2913</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2712.</num>
+<heading> Civil actions against the United States</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<chapeau>Any person who is aggrieved by any willful violation of this chapter or of chapter 119 of this title or of sections 106(a), 305(a), or 405(a) of the Foreign Intelligence Surveillance Act of 1978 (<ref>50 U.S.C. 1801</ref> et seq.) may commence an action in United States District Court against the United States to recover money damages. In any such action, if a person who is aggrieved successfully establishes such a violation of this chapter or of chapter 119 of this title or of the above specific provisions of title 50, the Court may assess as damages—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> actual damages, but not less than $10,000, whichever amount is greater; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> litigation costs, reasonably incurred.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Procedures</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Any action against the United States under this section may be commenced only after a claim is presented to the appropriate department or agency under the procedures of the Federal Tort Claims Act, as set forth in title 28, United States Code.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Any action against the United States under this section shall be forever barred unless it is presented in writing to the appropriate Federal agency within 2 years after such claim accrues or unless action is begun within 6 months after the date of mailing, by certified or registered mail, of notice of final denial of the claim by the agency to which it was presented. The claim shall accrue on the date upon which the claimant first has a reasonable opportunity to discover the violation.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> Any action under this section shall be tried to the court without a jury.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> Notwithstanding any other provision of law, the procedures set forth in section 106(f), 305(g), or 405(f) of the Foreign Intelligence Surveillance Act of 1978 (<ref>50 U.S.C. 1801</ref> et seq.) shall be the exclusive means by which materials governed by those sections may be reviewed.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(5)</num>
+<content> An amount equal to any award against the United States under this section shall be reimbursed by the department or agency concerned to the fund described in <ref>section 1304 of title 31</ref>, United States Code, out of any appropriation, fund, or other account (excluding any part of such appropriation, fund, or account that is available for the enforcement of any Federal law) that is available for the operating expenses of the department or agency concerned.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Administrative Discipline</inline>.—</heading>
+<content>If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Exclusive Remedy</inline>.—</heading>
+<content>Any action against the United States under this subsection shall be the exclusive remedy against the United States for any claims within the purview of this section.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Stay of Proceedings</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Upon the motion of the United States, the court shall stay any action commenced under this section if the court determines that civil discovery will adversely affect the ability of the Government to conduct a related investigation or the prosecution of a related criminal case. Such a stay shall toll the limitations periods of paragraph (2) of subsection (b).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> In this subsection, the terms “related criminal case” and “related investigation” mean an actual prosecution or investigation in progress at the time at which the request for the stay or any subsequent motion to lift the stay is made. In determining whether an investigation or a criminal case is related to an action commenced under this section, the court shall consider the degree of similarity between the parties, witnesses, facts, and circumstances involved in the 2 proceedings, without requiring that any one or more factors be identical.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> In requesting a stay under paragraph (1), the Government may, in appropriate cases, submit evidence ex parte in order to avoid disclosing any matter that may adversely affect a related investigation or a related criminal case. If the Government makes such an ex parte submission, the plaintiff shall be given an opportunity to make a submission to the court, not ex parte, and the court may, in its discretion, request further information from either party.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 107–56, title II, § 223(c)(1)</ref>, <date date="2001-10-26">Oct. 26, 2001</date>, <ref>115 Stat. 294</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 2713.</num>
+<heading> Required preservation and disclosure of communications and records</heading>
+<content>
+<p class="indent0">A provider of electronic communication service or remote computing service shall comply with the obligations of this chapter to preserve, backup, or disclose the contents of a wire or electronic communication and any record or other information pertaining to a customer or subscriber within such provider’s possession, custody, or control, regardless of whether such communication, record, or other information is located within or outside of the United States.</p>
+</content>
+<sourceCredit>(Added <ref>Pub. L. 115–141, div. V, § 103(a)(1)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1214</ref>.)</sourceCredit>
+</section>
+</chapter>

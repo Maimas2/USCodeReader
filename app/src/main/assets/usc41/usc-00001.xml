@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 1—</num>
+<heading>DEFINITIONS</heading>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>SUBTITLE DEFINITIONS</heading>
+<section>
+<num>§ 101.</num>
+<heading> Administrator</heading>
+<content>
+<p class="indent0">In this subtitle, the term “Administrator” means the Administrator for Federal Procurement Policy appointed under <ref>section 1102 of this title</ref>.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3678</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 102.</num>
+<heading> Commercial component</heading>
+<content>
+<p class="indent0">In this subtitle, the term “commercial component” means a component that is a commercial product.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3678</ref>; <ref>Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(A)</ref>, <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 1860</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 103.</num>
+<heading> Commercial product</heading>
+<chapeau class="indent0">In this subtitle, the term “commercial product” means any of the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> A product, other than real property, that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is of a type customarily used by the general public or by nongovernmental entities for purposes other than governmental purposes; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> has been sold, leased, or licensed, or offered for sale, lease, or license, to the general public.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> A product that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> evolved from a product described in paragraph (1) through advances in technology or performance; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> is not yet available in the commercial marketplace but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> A product that would satisfy the criteria in paragraph (1) or (2) were it not for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> modifications of a type customarily available in the commercial marketplace; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> minor modifications made to meet Federal Government requirements.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> Any combination of products meeting the requirements of paragraph (1), (2), or (3) that are of a type customarily combined and sold in combination to the general public.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> A product, or combination of products, referred to in paragraphs (1) through (4), even though the product, or combination of products, is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<chapeau> A nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the product was developed exclusively at private expense; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> has been sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(Added <ref>Pub. L. 115–232, div. A, title VIII, § 836(a)(1)</ref>, <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 1859</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 103a.</num>
+<heading> Commercial service</heading>
+<chapeau class="indent0">In this subtitle, the term “commercial service” means any of the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> Installation services, maintenance services, repair services, training services, and other services if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> those services are procured for support of a commercial product, regardless of whether the services are provided by the same source or at the same time as the commercial product; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> Services of a type offered and sold competitively, in substantial quantities, in the commercial marketplace—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> based on established catalog or market prices;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> for specific tasks performed or specific outcomes to be achieved; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> under standard commercial terms and conditions.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> A service described in paragraph (1) or (2), even though the service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.</content>
+</paragraph>
+<sourceCredit>(Added <ref>Pub. L. 115–232, div. A, title VIII, § 836(a)(1)</ref>, <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 1860</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 104.</num>
+<heading> Commercially available off-the-shelf item</heading>
+<chapeau class="indent0">In this subtitle, the term “commercially available off-the-shelf item”—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> means an item that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is a commercial product (as described in <ref>section 103(1) of this title</ref>);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> is sold in substantial quantities in the commercial marketplace; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> is offered to the Federal Government, without modification, in the same form in which it is sold in the commercial marketplace; but</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> does not include bulk cargo, as defined in <ref>section 40102(4) of title 46</ref>, such as agricultural products and petroleum products.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3679</ref>; <ref>Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(B)</ref>, <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 1860</ref>; <ref>Pub. L. 116–283, div. A, title X, § 1081(d)(4)(A)</ref>, <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 3874</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 105.</num>
+<heading> Component</heading>
+<content>
+<p class="indent0">In this subtitle, the term “component” means an item supplied to the Federal Government as part of an end item or of another component.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3680</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 106.</num>
+<heading> Federal Acquisition Regulation</heading>
+<content>
+<p class="indent0">In this subtitle, the term “Federal Acquisition Regulation” means the regulation issued under <ref>section 1303(a)(1) of this title</ref>.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3680</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 107.</num>
+<heading> Full and open competition</heading>
+<content>
+<p class="indent0">In this subtitle, the term “full and open competition”, when used with respect to a procurement, means that all responsible sources are permitted to submit sealed bids or competitive proposals on the procurement.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3680</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 108.</num>
+<heading> Item and item of supply</heading>
+<chapeau class="indent0">In this subtitle, the terms “item” and “item of supply”—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> mean an individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service life of the system, including spare parts and replenishment spare parts; but</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> do not include packaging or labeling associated with shipment or identification of an item.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3680</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 109.</num>
+<heading> Major system</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>In this subtitle, the term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. These elements may include hardware, equipment, software, or a combination of hardware, equipment, and software, but do not include construction or other improvements to real property.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">System Deemed To Be Major System</inline>.—</heading>
+<chapeau>A system is deemed to be a major system if—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the Department of Defense is responsible for the system and the total expenditures for research, development, testing, and evaluation for the system are estimated to exceed $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement exceeds $300,000,000 (based on fiscal year 1980 constant dollars);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed the greater of $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a major system established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the head of the agency responsible for the system designates the system a major system.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3680</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 110.</num>
+<heading> Nondevelopmental item</heading>
+<chapeau class="indent0">In this subtitle, the term “nondevelopmental item” means—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> a commercial product;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a previously developed item of supply that is in use by a department or agency of the Federal Government, a State or local government, or a foreign government with which the United States has a mutual defense cooperation agreement;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> an item of supply described in paragraph (1) or (2) that requires only minor modification or modification of the type customarily available in the commercial marketplace to meet the requirements of the procuring department or agency; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> an item of supply currently being produced that does not meet the requirements of paragraph (1), (2), or (3) solely because the item is not yet in use.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3680</ref>; <ref>Pub. L. 115–232, div. A, title VIII, § 836(a)(2)(C)</ref>, <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 1860</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 111.</num>
+<heading> Procurement</heading>
+<content>
+<p class="indent0">In this subtitle, the term “procurement” includes all stages of the process of acquiring property or services, beginning with the process for determining a need for property or services and ending with contract completion and closeout.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3681</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 112.</num>
+<heading> Procurement system</heading>
+<content>
+<p class="indent0">In this subtitle, the term “procurement system” means the integration of the procurement process, the professional development of procurement personnel, and the management structure for carrying out the procurement function.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3681</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 113.</num>
+<heading> Responsible source</heading>
+<chapeau class="indent0">In this subtitle, the term “responsible source” means a prospective contractor that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> has adequate financial resources to perform the contract or the ability to obtain those resources;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> is able to comply with the required or proposed delivery or performance schedule, taking into consideration all existing commercial and Government business commitments;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> has a satisfactory performance record;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> has a satisfactory record of integrity and business ethics;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> has the necessary organization, experience, accounting and operational controls, and technical skills, or the ability to obtain the organization, experience, controls, and skills;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> has the necessary production, construction, and technical equipment and facilities, or the ability to obtain the equipment and facilities; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> is otherwise qualified and eligible to receive an award under applicable laws and regulations.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3681</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 114.</num>
+<heading> Standards</heading>
+<content>
+<p class="indent0">In this subtitle, the term “standards” means the criteria for determining the effectiveness of the procurement system by measuring the performance of the various elements of the system.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3681</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 115.</num>
+<heading> Supplies</heading>
+<content>
+<p class="indent0">In this subtitle, the term “supplies” has the same meaning as the terms “item” and “item of supply”.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3681</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 116.</num>
+<heading> Technical data</heading>
+<chapeau class="indent0">In this subtitle, the term “technical data”—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency; but</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3681</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>DIVISION B DEFINITIONS</heading>
+<section>
+<num>§ 131.</num>
+<heading> Acquisition</heading>
+<chapeau class="indent0">In division B, the term “acquisition”—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> means the process of acquiring, with appropriated amounts, by contract for purchase or lease, property or services (including construction) that support the missions and goals of an executive agency, from the point at which the requirements of the executive agency are established in consultation with the chief acquisition officer of the executive agency; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> includes—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the process of acquiring property or services that are already in existence, or that must be created, developed, demonstrated, and evaluated;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the description of requirements to satisfy agency needs;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> solicitation and selection of sources;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> award of contracts;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> contract performance;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> contract financing;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> management and measurement of contract performance through final delivery and payment; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> technical and management functions directly related to the process of fulfilling agency requirements by contract.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3682</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 132.</num>
+<heading> Competitive procedures</heading>
+<content>
+<p class="indent0">In division B, the term “competitive procedures” means procedures under which an agency enters into a contract pursuant to full and open competition.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3682</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 133.</num>
+<heading> Executive agency</heading>
+<chapeau class="indent0">In division B, the term “executive agency” means—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> an executive department specified in <ref>section 101 of title 5</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a military department specified in <ref>section 102 of title 5</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> an independent establishment as defined in <ref>section 104(1) of title 5</ref>; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> a wholly owned Government corporation fully subject to chapter 91 of title 31.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3682</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 134.</num>
+<heading> Simplified acquisition threshold</heading>
+<content>
+<p class="indent0">In division B, the term “simplified acquisition threshold” means $250,000.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3682</ref>; <ref>Pub. L. 115–91, div. A, title VIII, § 805</ref>, <date date="2017-12-12">Dec. 12, 2017</date>, <ref>131 Stat. 1456</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>DIVISION C DEFINITIONS</heading>
+<section>
+<num>§ 151.</num>
+<heading> Agency head</heading>
+<content>
+<p class="indent0">In division C, the term “agency head” means the head or any assistant head of an executive agency, and may at the option of the Administrator of General Services include the chief official of any principal organizational unit of the General Services Administration.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3682</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 152.</num>
+<heading> Competitive procedures</heading>
+<chapeau class="indent0">In division C, the term “competitive procedures” means procedures under which an executive agency enters into a contract pursuant to full and open competition. The term also includes—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> procurement of architectural or engineering services conducted in accordance with chapter 11 of title 40;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the competitive selection of basic research proposals resulting from a general solicitation and the peer review or scientific review (as appropriate) of those proposals;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> the procedures established by the Administrator of General Services for the multiple awards schedule program of the General Services Administration if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> participation in the program has been open to all responsible sources; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> orders and contracts under those procedures result in the lowest overall cost alternative to meet the needs of the Federal Government;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> procurements conducted in furtherance of section 15 of the Small Business Act (<ref>15 U.S.C. 644</ref>) as long as all responsible business concerns that are entitled to submit offers for those procurements are permitted to compete; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> a competitive selection of research proposals resulting from a general solicitation and peer review or scientific review (as appropriate) solicited pursuant to section 9 of that Act (<ref>15 U.S.C. 638</ref>).</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3683</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 153.</num>
+<heading> Simplified acquisition threshold for contract in support of humanitarian or peacekeeping operation</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>In division C, the term “simplified acquisition threshold” has the meaning provided that term in <ref>section 134 of this title</ref>, except that, in the case of a contract to be awarded and performed, or purchase to be made, outside the United States in support of a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in <ref>section 134 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<heading><inline class="small-caps">Definition</inline>.—</heading>
+<content>In paragraph (1), the term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 111–350, § 3</ref>, <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3683</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

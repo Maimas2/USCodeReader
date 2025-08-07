@@ -1,0 +1,2353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 6—</num>
+<heading>INFRASTRUCTURE FINANCE</heading>
+<section>
+<num>§ 601.</num>
+<heading> Generally applicable provisions</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>The following definitions apply to sections 601 through 609:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Contingent commitment</inline>.—</heading>
+<chapeau>The term “contingent commitment” means a commitment to obligate an amount from future available budget authority that is—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> contingent on those funds being made available in law at a future date; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> not an obligation of the Federal Government.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Eligible project costs</inline>.—</heading>
+<chapeau>The term “eligible project costs” means amounts substantially all of which are paid by, or for the account of, an obligor in connection with a project, including the cost of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, preliminary engineering and design work, and other preconstruction activities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> construction, reconstruction, rehabilitation, replacement, and acquisition of real property (including land relating to the project and improvements to land), environmental mitigation, construction contingencies, and acquisition of equipment;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> capitalizing a rural projects fund.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Federal credit instrument</inline>.—</heading>
+<content>The term “Federal credit instrument” means a secured loan, loan guarantee, or line of credit authorized to be made available under the TIFIA program with respect to a project.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Investment-grade rating</inline>.—</heading>
+<content>The term “investment-grade rating” means a rating of BBB minus, Baa3, bbb minus, BBB (low), or higher assigned by a rating agency to project obligations.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Lender</inline>.—</heading>
+<chapeau>The term “lender” means any non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 (<ref>15 U.S.C. 77a</ref> et seq.)), including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a qualified retirement plan (as defined in section 4974(c) of the Internal Revenue Code of 1986) that is a qualified institutional buyer; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986) that is a qualified institutional buyer.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Letter of interest</inline>.—</heading>
+<chapeau>The term “letter of interest” means a letter submitted by a potential applicant prior to an application for credit assistance in a format prescribed by the Secretary on the website of the TIFIA program that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> describes the project and the location, purpose, and cost of the project;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> outlines the proposed financial plan, including the requested credit assistance and the proposed obligor;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> provides a status of environmental review; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> provides information regarding satisfaction of other eligibility requirements of the TIFIA program.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<heading><inline class="small-caps">Line of credit</inline>.—</heading>
+<content>The term “line of credit” means an agreement entered into by the Secretary with an obligor under section 604 to provide a direct loan at a future date upon the occurrence of certain events.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<heading><inline class="small-caps">Limited buydown</inline>.—</heading>
+<chapeau>The term “limited buydown” means, subject to the conditions described in section 603(b)(4)(C), a buydown of the interest rate by the obligor if the interest rate has increased between—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<clause class="indent2">
+<num>(i)</num>
+<content> the date on which a project application acceptable to the Secretary is submitted; or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> the date on which the Secretary entered into a master credit agreement; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the date on which the Secretary executes the Federal credit instrument.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<heading><inline class="small-caps">Loan guarantee</inline>.—</heading>
+<content>The term “loan guarantee” means any guarantee or other pledge by the Secretary to pay all or part of the principal of and interest on a loan or other debt obligation issued by an obligor and funded by a lender.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<heading><inline class="small-caps">Master credit agreement</inline>.—</heading>
+<chapeau>The term “master credit agreement” means a conditional agreement to extend credit assistance for a program of related projects secured by a common security pledge covered under section 602(b)(2)(A) or for a single project covered under section 602(b)(2)(B) that does not provide for a current obligation of Federal funds, and that would—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> make contingent commitments of 1 or more secured loans or other Federal credit instruments at future dates, subject to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the availability of future funds being made available to carry out the TIFIA program; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the satisfaction of all of the conditions for the provision of credit assistance under the TIFIA program, including section 603(b)(1);</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> establish the maximum amounts and general terms and conditions of the secured loans or other Federal credit instruments;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> identify the 1 or more dedicated non-Federal revenue sources that will secure the repayment of the secured loans or secured Federal credit instruments;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> provide for the obligation of funds for the secured loans or secured Federal credit instruments after all requirements have been met for the projects subject to the master credit agreement, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> completion of an environmental impact statement or similar analysis required under the National Environmental Policy Act of 1969 (<ref>42 U.S.C. 4321</ref> et seq.);</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> receiving an investment grade rating from a rating agency;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> compliance with such other requirements as are specified under the TIFIA program, including sections 602(c) and 603(b)(1); and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the availability of funds to carry out the TIFIA program; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> require that contingent commitments result in a financial close and obligation of credit assistance not later than 5 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<heading><inline class="small-caps">Obligor</inline>.—</heading>
+<chapeau>The term “obligor” means a party that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is primarily liable for payment of the principal of or interest on a Federal credit instrument; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<heading><inline class="small-caps">Project</inline>.—</heading>
+<chapeau>The term “project” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any surface transportation project eligible for Federal assistance under this title or chapter 53 of title 49;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a project for an international bridge or tunnel for which an international entity authorized under Federal or State law is responsible;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a project for intercity passenger bus or rail facilities and vehicles, including facilities and vehicles owned by the National Railroad Passenger Corporation and components of magnetic levitation transportation systems;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> a project that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<chapeau> is a project—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> for a public freight rail facility or a private facility providing public benefit for highway users by way of direct freight interchange between highway and rail carriers;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> for an intermodal freight transfer facility;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> for a means of access to a facility described in subclause (I) or (II);</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> for a service improvement for a facility described in subclause (I) or (II) (including a capital investment for an intelligent transportation system); or</content>
+</subclause>
+<subclause class="indent4">
+<num>(V)</num>
+<content> that comprises a series of projects described in subclauses (I) through (IV) with the common objective of improving the flow of goods;</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> may involve the combining of private and public sector funds, including investment of public funds in private sector facility improvements;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> if located within the boundaries of a port terminal, includes only such surface transportation infrastructure modifications as are necessary to facilitate direct intermodal interchange, transfer, and access into and out of the port; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<chapeau> a project to improve or construct public infrastructure—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<chapeau> that—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(4)(G)(v) <ref class="footnoteRef" idref="fn002020">1</ref> of title 49, and related infrastructure; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<chapeau> is a project for economic development, including commercial and residential development, and related infrastructure and activities—</chapeau>
+<item class="indent5">
+<num>(aa)</num>
+<content> that incorporates private investment;</content>
+</item>
+<item class="indent5">
+<num>(bb)</num>
+<content> that is physically or functionally related to a passenger rail station or multimodal station that includes rail service;</content>
+</item>
+<item class="indent5">
+<num>(cc)</num>
+<content> for which the project sponsor has a high probability of commencing the contracting process for construction by not later than 90 days after the date on which credit assistance under the TIFIA program is provided for the project; and</content>
+</item>
+<item class="indent5">
+<num>(dd)</num>
+<content> that has a high probability of reducing the need for financial assistance under any other Federal program for the relevant passenger rail station or service by increasing ridership, tenant lease payments, or other activities that generate revenue exceeding costs; and</content>
+</item>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> for which, by not later than <date date="2026-09-30">September 30, 2026</date>, the Secretary has—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> received a letter of interest; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> determined that the project is eligible for assistance;</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the capitalization of a rural projects fund;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<chapeau> an eligible airport-related project (as defined in <ref>section 40117(a) of title 49</ref>) for which, not later than <date date="2025-09-30">September 30, 2025</date>, the Secretary has—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> received a letter of interest; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> determined that the project is eligible for assistance; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<chapeau> a project for the acquisition of plant and wildlife habitat pursuant to a conservation plan that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> has been approved by the Secretary of the Interior pursuant to section 10 of the Endangered Species Act of 1973 (<ref>16 U.S.C. 1539</ref>); and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in the judgment of the Secretary, would mitigate the environmental impacts of transportation infrastructure projects otherwise eligible for assistance under this title.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<heading><inline class="small-caps">Project obligation</inline>.—</heading>
+<content>The term “project obligation” means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project, other than a Federal credit instrument.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(14)</num>
+<heading><inline class="small-caps">Rating agency</inline>.—</heading>
+<content>The term “rating agency” means a credit rating agency registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization (as that term is defined in section 3(a) of the Securities Exchange Act of 1934 (<ref>15 U.S.C. 78c(a)</ref>)).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(15)</num>
+<heading><inline class="small-caps">Rural infrastructure project</inline>.—</heading>
+<content>The term “rural infrastructure project” means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(16)</num>
+<heading><inline class="small-caps">Rural projects fund</inline>.—</heading>
+<chapeau>The term “rural projects fund” means a fund—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> established by a State infrastructure bank in accordance with section 610(d)(4);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> capitalized with the proceeds of a secured loan made to the bank in accordance with sections 602 and 603; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> for the purpose of making loans to sponsors of rural infrastructure projects in accordance with section 610.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(17)</num>
+<heading><inline class="small-caps">Secured loan</inline>.—</heading>
+<content>The term “secured loan” means a direct loan or other debt obligation issued by an obligor and funded by the Secretary in connection with the financing of a project under section 603.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(18)</num>
+<heading><inline class="small-caps">State</inline>.—</heading>
+<content>The term “State” has the meaning given the term in section 101.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(19)</num>
+<heading><inline class="small-caps">State infrastructure bank</inline>.—</heading>
+<content>The term “State infrastructure bank” means an infrastructure bank established under section 610.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(20)</num>
+<heading><inline class="small-caps">Subsidy amount</inline>.—</heading>
+<chapeau>The term “subsidy amount” means the amount of budget authority sufficient to cover the estimated long-term cost to the Federal Government of a Federal credit instrument—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> calculated on a net present value basis; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> excluding administrative costs and any incidental effects on governmental receipts or outlays in accordance with the Federal Credit Reform Act of 1990 (<ref>2 U.S.C. 661</ref> et seq.).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(21)</num>
+<heading><inline class="small-caps">Substantial completion</inline>.—</heading>
+<chapeau>The term “substantial completion” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the opening of a project to vehicular or passenger traffic; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a comparable event, as determined by the Secretary and specified in the credit agreement.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(22)</num>
+<heading><inline class="small-caps">TIFIA program</inline>.—</heading>
+<content>The term “TIFIA program” means the transportation infrastructure finance and innovation program of the Department established under sections 602 through 609.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Treatment of Chapter</inline>.—</heading>
+<content>For purposes of this title, this chapter shall be treated as being part of chapter 1.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 105–178, title I, § 1503(a)</ref>, <date date="1998-06-09">June 9, 1998</date>, <ref>112 Stat. 241</ref>, § 181; renumbered § 601 and amended <ref>Pub. L. 109–59, title I</ref>, §§ 1601(a), 1602(b)(1), (5), (d), <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1239</ref>, 1246, 1247; <ref>Pub. L. 109–291, § 4(b)(6)</ref>, <date date="2006-09-29">Sept. 29, 2006</date>, <ref>120 Stat. 1338</ref>; <ref>Pub. L. 110–244, title I, § 101(r)</ref>, <date date="2008-06-06">June 6, 2008</date>, <ref>122 Stat. 1577</ref>; <ref>Pub. L. 112–141, div. A, title II, § 2002</ref>, <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 607</ref>; <ref>Pub. L. 114–94, div. A, title II, § 2001(a)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1439</ref>; <ref>Pub. L. 117–58, div. A, title II, § 12001(a)</ref>, div. C, § 30001(b)(1), <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 617</ref>, 890.)</sourceCredit>
+</section>
+<section>
+<num>§ 602.</num>
+<heading> Determination of eligibility and project selection</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">Eligibility.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>A project shall be eligible to receive credit assistance under the TIFIA program if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the entity proposing to carry out the project submits a letter of interest prior to submission of a formal application for the project; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the project meets the criteria described in this subsection.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading>
+<inline class="small-caps">Creditworthiness.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>To be eligible for assistance under the TIFIA program, a project shall satisfy applicable creditworthiness standards, which, at a minimum, shall include—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a rate covenant, if applicable;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> adequate coverage requirements to ensure repayment;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> an investment grade rating from at least 2 rating agencies on debt senior to the Federal credit instrument; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> an investment-grade rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $150,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Senior debt</inline>.—</heading>
+<content>Notwithstanding subparagraph (A), in a case in which the Federal credit instrument is senior debt, the Federal credit instrument shall be required to receive an investment grade rating from at least 2 rating agencies, unless the total amount of other senior debt and the Federal credit instrument is less than $150,000,000, in which case 1 rating agency opinion shall be sufficient.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Inclusion in transportation plans and programs</inline>.—</heading>
+<content>A project shall satisfy the applicable planning and programming requirements of sections 134 and 135 at such time as an agreement to make available a Federal credit instrument is entered into under the TIFIA program.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Application</inline>.—</heading>
+<content>A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shall submit a project application that is acceptable to the Secretary.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading>
+<inline class="small-caps">Eligible project cost parameters.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>Except as provided in subparagraph (B), a project under the TIFIA program shall have eligible project costs that are reasonably anticipated to equal or exceed the lesser of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> $50,000,000; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> 33⅓ percent of the amount of Federal highway funds apportioned for the most recently completed fiscal year to the State in which the project is located.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading>
+<inline class="small-caps">Exceptions.—</inline>
+</heading>
+<clause class="indent3">
+<num>(i)</num>
+<heading><inline class="small-caps">Intelligent transportation systems</inline>.—</heading>
+<content>In the case of a project principally involving the installation of an intelligent transportation system, eligible project costs shall be reasonably anticipated to equal or exceed $15,000,000.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<heading><inline class="small-caps">Transit-oriented development projects</inline>.—</heading>
+<content>In the case of a project described in section 601(a)(12)(E), eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000.</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<heading><inline class="small-caps">Rural projects</inline>.—</heading>
+<content>In the case of a rural infrastructure project or a project capitalizing a rural projects fund, eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000, but not to exceed $100,000,000.</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<heading><inline class="small-caps">Local infrastructure projects</inline>.—</heading>
+<chapeau>Eligible project costs shall be reasonably anticipated to equal or exceed $10,000,000 in the case of a project or program of projects—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> in which the applicant is a local government, public authority, or instrumentality of local government;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> located on a facility owned by a local government; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> for which the Secretary determines that a local government is substantially involved in the development of the project.</content>
+</subclause>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Dedicated revenue sources</inline>.—</heading>
+<chapeau>The applicable Federal credit instrument shall be repayable, in whole or in part, from—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> tolls;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> user fees;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> payments owing to the obligor under a public-private partnership; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> other dedicated revenue sources that also secure or fund the project obligations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<heading><inline class="small-caps">Public sponsorship of private entities</inline>.—</heading>
+<content>In the case of a project that is undertaken by an entity that is not a State or local government or an agency or instrumentality of a State or local government, the project that the entity is undertaking shall be publicly sponsored as provided in paragraph (3).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<heading><inline class="small-caps">Applications where obligor will be identified later</inline>.—</heading>
+<chapeau>A State, local government, agency or instrumentality of a State or local government, or public authority may submit to the Secretary an application under paragraph (4), under which a private party to a public-private partnership will be—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the obligor; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> identified later through completion of a procurement and selection of the private party.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<heading><inline class="small-caps">Beneficial effects</inline>.—</heading>
+<chapeau>The Secretary shall determine that financial assistance for the project under the TIFIA program will—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> foster, if appropriate, partnerships that attract public and private investment for the project;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> enable the project to proceed at an earlier date than the project would otherwise be able to proceed or reduce the lifecycle costs (including debt service costs) of the project; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> reduce the contribution of Federal grant assistance for the project.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<heading>
+<inline class="small-caps">Project readiness.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Except as provided in subparagraph (B), to be eligible for assistance under the TIFIA program, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by no later than 90 days after the date on which a Federal credit instrument is obligated for the project under the TIFIA program.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Rural projects fund</inline>.—</heading>
+<content>In the case of a project capitalizing a rural projects fund, the State infrastructure bank shall demonstrate, not later than 2 years after the date on which a secured loan is obligated for the project under the TIFIA program, that the bank has executed a loan agreement with a borrower for a rural infrastructure project in accordance with section 610. After the demonstration is made, the bank may draw upon the secured loan. At the end of the 2-year period, to the extent the bank has not used the loan commitment, the Secretary may extend the term of the loan or withdraw the loan commitment.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<heading><inline class="small-caps">Public-private partnerships</inline>.—</heading>
+<chapeau>In the case of a project to be carried out through a public-private partnership, the public partner shall have—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> conducted a value for money analysis or similar comparative analysis; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> determined the appropriateness of the public-private partnership agreement.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading>
+<inline class="small-caps">Selection Among Eligible Projects.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Establishment</inline>.—</heading>
+<content>The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are available to cover the subsidy costs associated with the Federal credit instrument.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading>
+<inline class="small-caps">Master credit agreements.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">Program of related projects</inline>.—</heading>
+<content>The Secretary may enter into a master credit agreement for a program of related projects secured by a common security pledge on terms acceptable to the Secretary.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Adequate funding not available</inline>.—</heading>
+<content>If the Secretary fully obligates funding to eligible projects for a fiscal year and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait to execute a credit instrument until the fiscal year for which additional funds are available to receive credit assistance.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Preliminary rating opinion letter</inline>.—</heading>
+<chapeau>The Secretary shall require each project applicant to provide a preliminary rating opinion letter from at least 1 rating agency—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> indicating that the senior obligations of the project, which may be the Federal credit instrument, have the potential to achieve an investment-grade rating; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> including a preliminary rating opinion on the Federal credit instrument.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Federal Requirements.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, the requirements of <ref>section 5333(a) of title 49</ref> for rail projects, and the requirements of sections 47112(b) and 50101 of title 49 for airport-related projects, the following provisions of law shall apply to funds made available under the TIFIA program and projects assisted with those funds:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Title VI of the Civil Rights Act of 1964 (<ref>42 U.S.C. 2000d</ref> et seq.).</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> The National Environmental Policy Act of 1969 (<ref>42 U.S.C. 4321</ref> et seq.).</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (<ref>42 U.S.C. 4601</ref> et seq.).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">NEPA</inline>.—</heading>
+<content>No funding shall be obligated for a project that has not received an environmental categorical exclusion, a finding of no significant impact, or a record of decision under the National Environmental Policy Act of 1969 (<ref>42 U.S.C. 4321</ref> et seq.).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading>
+<inline class="small-caps">Payment and performance security.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>The Secretary shall ensure that the design and construction of a project carried out with assistance under the TIFIA program shall have appropriate payment and performance security, regardless of whether the obligor is a State, local government, agency or instrumentality of a State or local government, public authority, or private party.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Written determination</inline>.—</heading>
+<content>If payment and performance security is required to be furnished by applicable State or local statute or regulation, the Secretary may accept such payment and performance security requirements applicable to the obligor if the Federal interest with respect to Federal funds and other project risk related to design and construction is adequately protected.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading><inline class="small-caps">No determination or applicable requirements</inline>.—</heading>
+<content>If there are no payment and performance security requirements applicable to the obligor, the security under <ref>section 3131(b) of title 40</ref> or an equivalent State or local requirement, as determined by the Secretary, shall be required.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading>
+<inline class="small-caps">Application Processing Procedures.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Processing timelines</inline>.—</heading>
+<content>Except in the case of an application described in subsection (a)(8) and to the maximum extent practicable, the Secretary shall provide an applicant with a specific estimate of the timeline for the approval or disapproval of the application of the applicant, which, to the maximum extent practicable, the Secretary shall endeavor to complete by not later than 150 days after the date on which the applicant submits a letter of interest to the Secretary.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Notice of complete application</inline>.—</heading>
+<chapeau>Not later than 30 days after the date of receipt of an application under this section, the Secretary shall provide to the applicant a written notice to inform the applicant whether—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the application is complete; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> additional information or materials are needed to complete the application.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Approval or denial of application</inline>.—</heading>
+<content>Not later than 60 days after the date of issuance of the written notice under paragraph (2), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Development Phase Activities</inline>.—</heading>
+<content>Any credit instrument secured under the TIFIA program may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(2)(A).</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 105–178, title I, § 1503(a)</ref>, <date date="1998-06-09">June 9, 1998</date>, <ref>112 Stat. 243</ref>, § 182; renumbered § 602 and amended <ref>Pub. L. 109–59, title I</ref>, §§ 1601(b), (c), 1602(b)(2), (5), (d), <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1240</ref>, 1247; <ref>Pub. L. 112–141, div. A, title II, § 2002</ref>, <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 611</ref>; <ref>Pub. L. 114–94, div. A, title II, § 2001(b)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1440</ref>; <ref>Pub. L. 117–58, div. A, title I, § 11508(d)(3)</ref>, title II, §§ 12001(b)–(d), (g), 12002(a), <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 588</ref>, 618, 619, 622.)</sourceCredit>
+</section>
+<section>
+<num>§ 603.</num>
+<heading> Secured loans</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">In General.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Agreements</inline>.—</heading>
+<chapeau>Subject to paragraphs (2) and (3), the Secretary may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to finance eligible project costs of any project selected under section 602;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to refinance interim construction financing of eligible project costs of any project selected under section 602;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to refinance existing Federal credit instruments for rural infrastructure projects; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> to refinance long-term project obligations or Federal credit instruments, if the refinancing provides additional funding capacity for the completion, enhancement, or expansion of any project that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> is selected under section 602; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> otherwise meets the requirements of section 602.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Limitation on refinancing of interim construction financing</inline>.—</heading>
+<chapeau>A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B)—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> if the maturity of such interim construction financing is later than 1 year after the substantial completion of the project; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> later than 1 year after the date of substantial completion of the project.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Risk assessment</inline>.—</heading>
+<content>Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget, shall determine an appropriate capital reserve subsidy amount for each secured loan, taking into account each rating letter provided by an agency under section 602(b)(3)(B).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading>
+<inline class="small-caps">Terms and Limitations.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>A secured loan under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines to be appropriate.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading>
+<inline class="small-caps">Maximum amount.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Except as provided in subparagraph (B), the amount of a secured loan under this section shall not exceed the lesser of 49 percent of the reasonably anticipated eligible project costs or if the secured loan does not receive an investment grade rating, the amount of the senior project obligations.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Rural projects fund</inline>.—</heading>
+<content>In the case of a project capitalizing a rural projects fund, the maximum amount of a secured loan made to a State infrastructure bank shall be determined in accordance with section 602(a)(5)(B)(iii).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Payment</inline>.—</heading>
+<chapeau>A secured loan under this section—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<chapeau> be payable, in whole or in part, from—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> tolls;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> user fees;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> payments owing to the obligor under a public-private partnership;</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> other dedicated revenue sources that also secure the senior project obligations; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(V)</num>
+<content> in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenue sources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> may have a lien on revenues described in subparagraph (A), subject to any lien securing project obligations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading>
+<inline class="small-caps">Interest rate.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Except as provided in subparagraphs (B) and (C), the interest rate on a secured loan under this section shall be not less than the yield on United States Treasury securities of a similar maturity to the maturity of the secured loan on the date of execution of the loan agreement.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading>
+<inline class="small-caps">Rural infrastructure projects.—</inline>
+</heading>
+<clause class="indent3">
+<num>(i)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>The interest rate of a loan offered to a rural infrastructure project or a rural projects fund under the TIFIA program shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<heading><inline class="small-caps">Application</inline>.—</heading>
+<content>The rate described in clause (i) shall only apply to any portion of a loan the subsidy cost of which is funded by amounts set aside for rural infrastructure projects and rural project funds under section 608(a)(3)(A).</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading><inline class="small-caps">Limited buydowns</inline>.—</heading>
+<chapeau>The interest rate of a secured loan under this section may not be lowered by more than the lower of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> 1½ percentage points (150 basis points); or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the amount of the increase in the interest rate.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading>
+<inline class="small-caps">Maturity date.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>Except as provided in subparagraphs (B) and (C), the final maturity date of the secured loan shall be the lesser of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> 35 years after the date of substantial completion of the project; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> if the useful life of the capital asset being financed is of a lesser period, the useful life of the asset.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Rural projects fund</inline>.—</heading>
+<content>In the case of a project capitalizing a rural projects fund, the final maturity date of the secured loan shall not exceed 35 years after the date on which the secured loan is obligated.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading><inline class="small-caps">Long lived assets</inline>.—</heading>
+<chapeau>In the case of a capital asset with an estimated life of more than 50 years, the final maturity date of the secured loan shall be the lesser of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> 75 years after the date of substantial completion of the project; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> 75 percent of the estimated useful life of the capital asset.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading>
+<inline class="small-caps">Nonsubordination.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Except as provided in subparagraph (B), the secured loan shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading>
+<inline class="small-caps">Preexisting indenture.—</inline>
+</heading>
+<clause class="indent3">
+<num>(i)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>The Secretary shall waive the requirement under subparagraph (A) for a public agency borrower that is financing ongoing capital programs and has outstanding senior bonds under a preexisting indenture, if—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the secured loan is rated in the A category or higher;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the secured loan is secured and payable from pledged revenues not affected by project performance, such as a tax-backed revenue pledge or a system-backed pledge of project revenues; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> the TIFIA program share of eligible project costs is 33 percent or less.</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<heading><inline class="small-caps">Limitation</inline>.—</heading>
+<chapeau>If the Secretary waives the nonsubordination requirement under this subparagraph—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the maximum credit subsidy to be paid by the Federal Government shall be not more than 10 percent of the principal amount of the secured loan; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the obligor shall be responsible for paying the remainder of the subsidy cost, if any.</content>
+</subclause>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<heading><inline class="small-caps">Fees</inline>.—</heading>
+<content>The Secretary may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of making a secured loan under this section.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<heading><inline class="small-caps">Non-federal share</inline>.—</heading>
+<content>The proceeds of a secured loan under the TIFIA program may be used for any non-Federal share of project costs required under this title or chapter 53 of title 49, if the loan is repayable from non-Federal funds.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<heading>
+<inline class="small-caps">Maximum federal involvement.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>The total Federal assistance provided for a project receiving a loan under the TIFIA program shall not exceed 80 percent of the total project cost.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Rural projects fund</inline>.—</heading>
+<content>A project capitalizing a rural projects fund shall satisfy subparagraph (A) through compliance with the Federal share requirement described in section 610(e)(3)(B).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Repayment.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Schedule</inline>.—</heading>
+<chapeau>The Secretary shall establish a repayment schedule for each secured loan under this section based on—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the projected cash flow from project revenues and other repayment sources; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the useful life of the project.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Commencement</inline>.—</heading>
+<content>Scheduled loan repayments of principal or interest on a secured loan under this section shall commence not later than 5 years after the date of substantial completion of the project.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading>
+<inline class="small-caps">Deferred payments.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>If, at any time after the date of substantial completion of the project, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Interest</inline>.—</heading>
+<chapeau>Any payment deferred under subparagraph (A) shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> continue to accrue interest in accordance with subsection (b)(4) until fully repaid; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> be scheduled to be amortized over the remaining term of the loan.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading>
+<inline class="small-caps">Criteria.—</inline>
+</heading>
+<clause class="indent3">
+<num>(i)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Any payment deferral under subparagraph (A) shall be contingent on the project meeting criteria established by the Secretary.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<heading><inline class="small-caps">Repayment standards</inline>.—</heading>
+<content>The criteria established pursuant to clause (i) shall include standards for reasonable assurance of repayment.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading>
+<inline class="small-caps">Prepayment.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading>
+<inline class="small-caps">Use of excess revenues.—</inline>
+</heading>
+<clause class="indent3">
+<num>(i)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Except as provided in clause (ii), any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and secured loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay the secured loan without penalty.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<heading><inline class="small-caps">Certain applicants</inline>.—</heading>
+<content>In the case of a secured loan or other secured Federal credit instrument provided after the date of enactment of the Surface Transportation Reauthorization Act of 2021, if the obligor is a governmental entity, agency, or instrumentality, the obligor shall not be required to prepay the secured loan or other secured Federal credit instrument with any excess revenues described in clause (i) if the obligor enters into an agreement to use those excess revenues only for purposes authorized under this title or title 49.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Use of proceeds of refinancing</inline>.—</heading>
+<content>The secured loan may be prepaid at any time without penalty from the proceeds of refinancing from non-Federal funding sources.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading>
+<inline class="small-caps">Sale of Secured Loans.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Subject to paragraph (2), as soon as practicable after substantial completion of a project and after notifying the obligor, the Secretary may sell to another entity or reoffer into the capital markets a secured loan for the project if the Secretary determines that the sale or reoffering can be made on favorable terms.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Consent of obligor</inline>.—</heading>
+<content>In making a sale or reoffering under paragraph (1), the Secretary may not change the original terms and conditions of the secured loan without the written consent of the obligor.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading>
+<inline class="small-caps">Loan Guarantees.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>The Secretary may provide a loan guarantee to a lender in lieu of making a secured loan under this section if the Secretary determines that the budgetary cost of the loan guarantee is substantially the same as that of a secured loan.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Terms</inline>.—</heading>
+<content>The terms of a loan guarantee under paragraph (1) shall be consistent with the terms required under this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading>
+<inline class="small-caps">Streamlined Application Process.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Not later than 180 days after the date of enactment of the FAST Act, the Secretary shall make available an expedited application process or processes available at the request of entities seeking secured loans under the TIFIA program that use a set or sets of conventional terms established pursuant to this section.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Terms</inline>.—</heading>
+<chapeau>In establishing the streamlined application process required by this subsection, the Secretary may include terms commonly included in prior credit agreements and allow for an expedited application period, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the secured loan is in an amount of not greater than $100,000,000;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the secured loan is secured and payable from pledged revenues not affected by project performance, such as a tax-backed revenue pledge, tax increment financing, or a system-backed pledge of project revenues; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> repayment of the loan commences not later than 5 years after disbursement.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading>
+<inline class="small-caps">Additional terms for expedited decisions.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>Not later than 120 days after the date of enactment of this paragraph, the Secretary shall implement an expedited decision timeline for public agency borrowers seeking secured loans that meet—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the terms under paragraph (2); and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the additional criteria described in subparagraph (B).</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Additional criteria</inline>.—</heading>
+<chapeau>The additional criteria referred to in subparagraph (A)(ii) are the following:</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> The secured loan is made on terms and conditions that substantially conform to the conventional terms and conditions established by the National Surface Transportation Innovative Finance Bureau.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> The secured loan is rated in the A category or higher.</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> The TIFIA program share of eligible project costs is 33 percent or less.</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> The applicant demonstrates a reasonable expectation that the contracting process for the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under the TIFIA program.</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> The project has received a categorical exclusion, a finding of no significant impact, or a record of decision under the National Environmental Policy Act of 1969 (<ref>42 U.S.C. 4321</ref> et seq.).</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading><inline class="small-caps">Written notice</inline>.—</heading>
+<content>The Secretary shall provide to an applicant seeking a secured loan under the expedited decision process under this paragraph a written notice informing the applicant whether the Secretary has approved or disapproved the application by not later than 180 days after the date on which the Secretary submits to the applicant a letter indicating that the National Surface Transportation Innovative Finance Bureau has commenced the creditworthiness review of the project.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 105–178, title I, § 1503(a)</ref>, <date date="1998-06-09">June 9, 1998</date>, <ref>112 Stat. 245</ref>, § 183; renumbered § 603 and amended <ref>Pub. L. 109–59, title I</ref>, §§ 1601(d), 1602(b)(3), (5), (d), <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1240</ref>, 1247; <ref>Pub. L. 112–141, div. A, title II, § 2002</ref>, <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 614</ref>; <ref>Pub. L. 114–94, div. A, title II, § 2001(c)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1442</ref>; <ref>Pub. L. 117–58, div. A, title II, § 12001(e)</ref>, (f), (h), <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 619</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 604.</num>
+<heading> Lines of credit</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Agreements</inline>.—</heading>
+<content>Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available to 1 or more obligors lines of credit in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Use of proceeds</inline>.—</heading>
+<content>The proceeds of a line of credit made available under this section shall be available to pay debt service on project obligations issued to finance eligible project costs, extraordinary repair and replacement costs, operation and maintenance expenses, and costs associated with unexpected Federal or State environmental restrictions.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Risk assessment</inline>.—</heading>
+<content>Before entering into an agreement under this subsection, the Secretary, in consultation with the Director of the Office of Management and Budget and each rating agency providing a preliminary rating opinion letter under section 602(b)(3), shall determine an appropriate capital reserve subsidy amount for each line of credit, taking into account the rating opinion letter.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Investment-grade rating requirement</inline>.—</heading>
+<content>The funding of a line of credit under this section shall be contingent on the senior obligations of the project receiving an investment-grade rating from 2 rating agencies.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Terms and Limitations</inline>.—</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>A line of credit under this section with respect to a project shall be on such terms and conditions and contain such covenants, representations, warranties, and requirements (including requirements for audits) as the Secretary determines to be appropriate.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Maximum amounts</inline>.—</heading>
+<content>The total amount of a line of credit under this section shall not exceed 33 percent of the reasonably anticipated eligible project costs.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Draws</inline>.—</heading>
+<chapeau>Any draw on a line of credit under this section shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> represent a direct loan; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> be made only if net revenues from the project (including capitalized interest, but not including reasonably required financing reserves) are insufficient to pay the costs specified in subsection (a)(2).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Interest rate</inline>.—</heading>
+<content>Except as provided in subparagraphs (B) and (C) of section 603(b)(4), the interest rate on a direct loan resulting from a draw on the line of credit shall be not less than the yield on 30-year United States Treasury securities, as of the date of execution of the line of credit agreement.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Security</inline>.—</heading>
+<chapeau>A line of credit issued under this section—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<chapeau> be payable, in whole or in part, from—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> tolls;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> user fees;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> payments owing to the obligor under a public-private partnership; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> other dedicated revenue sources that also secure the senior project obligations; and</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> may have a lien on revenues described in subparagraph (A), subject to any lien securing project obligations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Period of availability</inline>.—</heading>
+<content>The full amount of a line of credit under this section, to the extent not drawn upon, shall be available during the 10-year period beginning on the date of substantial completion of the project.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<heading><inline class="small-caps">Rights of third-party creditors</inline>.—</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">Against federal government</inline>.—</heading>
+<content>A third-party creditor of the obligor shall not have any right against the Federal Government with respect to any draw on a line of credit under this section.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Assignment</inline>.—</heading>
+<chapeau>An obligor may assign a line of credit under this section to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> 1 or more lenders; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> a trustee on the behalf of such a lender.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<heading><inline class="small-caps">Nonsubordination</inline>.—</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Except as provided in subparagraph (B), a direct loan under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Pre-existing indenture</inline>.—</heading>
+<clause class="indent3">
+<num>(i)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>The Secretary shall waive the requirement of subparagraph (A) for a public agency borrower that is financing ongoing capital programs and has outstanding senior bonds under a preexisting indenture, if—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the line of credit is rated in the A category or higher;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the TIFIA program loan resulting from a draw on the line of credit is payable from pledged revenues not affected by project performance, such as a tax-backed revenue pledge or a system-backed pledge of project revenues; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> the TIFIA program share of eligible project costs is 33 percent or less.</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<heading><inline class="small-caps">Limitation</inline>.—</heading>
+<chapeau>If the Secretary waives the nonsubordination requirement under this subparagraph—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the maximum credit subsidy to be paid by the Federal Government shall be not more than 10 percent of the principal amount of the secured loan; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the obligor shall be responsible for paying the remainder of the subsidy cost.</content>
+</subclause>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<heading><inline class="small-caps">Fees</inline>.—</heading>
+<content>The Secretary may establish fees at a level sufficient to cover all or a portion of the costs to the Federal Government of providing a line of credit under this section.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<heading><inline class="small-caps">Relationship to other credit instruments</inline>.—</heading>
+<content>A project that receives a line of credit under this section also shall not receive a secured loan or loan guarantee under section 603 in an amount that, combined with the amount of the line of credit, exceeds 49 percent of eligible project costs.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Repayment</inline>.—</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Terms and conditions</inline>.—</heading>
+<chapeau>The Secretary shall establish repayment terms and conditions for each direct loan under this section based on—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the projected cash flow from project revenues and other repayment sources; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the useful life of the asset being financed.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Timing</inline>.—</heading>
+<chapeau>All repayments of principal or interest on a direct loan under this section shall be scheduled—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to commence not later than 5 years after the end of the period of availability specified in subsection (b)(6); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to conclude, with full repayment of principal and interest, by the date that is 25 years after the end of the period of availability specified in subsection (b)(6).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 105–178, title I, § 1503(a)</ref>, <date date="1998-06-09">June 9, 1998</date>, <ref>112 Stat. 247</ref>, § 184; renumbered § 604 and amended <ref>Pub. L. 109–59, title I</ref>, §§ 1601(e), 1602(b)(4), (d), <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1241</ref>, 1247; <ref>Pub. L. 112–141, div. A, title II, § 2002</ref>, <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 617</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 605.</num>
+<heading> Program administration</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Requirement</inline>.—</heading>
+<content>The Secretary shall establish a uniform system to service the Federal credit instruments made available under the TIFIA program.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Fees</inline>.—</heading>
+<chapeau>The Secretary may collect and spend fees, contingent on authority being provided in appropriations Acts, at a level that is sufficient to cover—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the costs of services of expert firms retained pursuant to subsection (d); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> all or a portion of the costs to the Federal Government of servicing the Federal credit instruments.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Servicer.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>The Secretary may appoint a financial entity to assist the Secretary in servicing the Federal credit instruments.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Duties</inline>.—</heading>
+<content>A servicer appointed under paragraph (1) shall act as the agent for the Secretary.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Fee</inline>.—</heading>
+<content>A servicer appointed under paragraph (1) shall receive a servicing fee, subject to approval by the Secretary.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Assistance From Expert Firms</inline>.—</heading>
+<content>The Secretary may retain the services of expert firms, including counsel, in the field of municipal and project finance to assist in the underwriting and servicing of Federal credit instruments.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Expedited Processing</inline>.—</heading>
+<content>The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining approval and the issuance of credit assistance under the TIFIA program.</content>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading>
+<inline class="small-caps">Assistance to Small Projects.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Reservation of funds</inline>.—</heading>
+<content>Of the funds made available to carry out the TIFIA program for each fiscal year, and after the set aside under section 608(a)(6), not less than $2,000,000 shall be made available for the Secretary to use in lieu of fees collected under subsection (b) for projects under the TIFIA program having eligible project costs that are reasonably anticipated not to equal or exceed $75,000,000.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Release of funds</inline>.—</heading>
+<content>Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the following fiscal year to provide credit assistance to any project under the TIFIA program.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 105–178, title I, § 1503(a)</ref>, <date date="1998-06-09">June 9, 1998</date>, <ref>112 Stat. 249</ref>, § 185; renumbered § 605 and amended <ref>Pub. L. 109–59, title I</ref>, §§ 1601(f), 1602(b)(5), (d), <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1241</ref>, 1247; <ref>Pub. L. 112–141, div. A, title II, § 2002</ref>, <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 619</ref>; <ref>Pub. L. 114–94, div. A, title II, § 2001(d)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1443</ref>; <ref>Pub. L. 117–58, div. A, title II, § 12001(i)(2)</ref>, <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 621</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 606.</num>
+<heading> State and local permits</heading>
+<chapeau class="indent0">The provision of credit assistance under the TIFIA program with respect to a project shall not—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the project;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the project; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.</content>
+</paragraph>
+<sourceCredit>(Added <ref>Pub. L. 105–178, title I, § 1503(a)</ref>, <date date="1998-06-09">June 9, 1998</date>, <ref>112 Stat. 249</ref>, § 186; renumbered § 606 and amended <ref>Pub. L. 109–59, title I, § 1602(b)(5)</ref>, (d), <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1247</ref>; <ref>Pub. L. 112–141, div. A, title II, § 2002</ref>, <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 620</ref>; <ref>Pub. L. 114–94, div. A, title II, § 2001(e)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1444</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 607.</num>
+<heading> Regulations</heading>
+<content>
+<p class="indent0">The Secretary may promulgate such regulations as the Secretary determines to be appropriate to carry out the TIFIA program.</p>
+</content>
+<sourceCredit>(Added <ref>Pub. L. 105–178, title I, § 1503(a)</ref>, <date date="1998-06-09">June 9, 1998</date>, <ref>112 Stat. 249</ref>, § 187; renumbered § 607 and amended <ref>Pub. L. 109–59, title I, § 1602(b)(5)</ref>, (d), <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1247</ref>; <ref>Pub. L. 112–141, div. A, title II, § 2002</ref>, <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 620</ref>; <ref>Pub. L. 114–94, div. A, title II, § 2001(f)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1444</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 608.</num>
+<heading> Funding</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">Funding.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Spending and borrowing authority</inline>.—</heading>
+<content>Spending and borrowing authority for a fiscal year to enter into Federal credit instruments shall be promptly apportioned to the Secretary on a fiscal-year basis.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Reestimates</inline>.—</heading>
+<content>If the subsidy cost of a Federal credit instrument is reestimated, the cost increase or decrease of the reestimate shall be borne by, or benefit, the general fund of the Treasury, consistent with section 504(f) of the Congressional Budget Act of 1974 (<ref>2 U.S.C. 661c(f)</ref>).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading>
+<inline class="small-caps">Rural set-aside.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Of the total amount of funds made available to carry out the TIFIA program for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects or rural projects funds.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Reobligation</inline>.—</heading>
+<content>Any amounts set aside under subparagraph (A) that remain unobligated by June 1 of the fiscal year for which the amounts were set aside shall be available for obligation by the Secretary on projects other than rural infrastructure projects or rural projects funds.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading>
+<inline class="small-caps">Limitation for certain projects.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">Transit-oriented development projects</inline>.—</heading>
+<content>For each fiscal year, the Secretary may use to carry out projects described in section 601(a)(12)(E) not more than 15 percent of the amounts made available to carry out the TIFIA program for that fiscal year.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Airport-related projects</inline>.—</heading>
+<chapeau>The Secretary may use to carry out projects described in section 601(a)(12)(G)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> for each fiscal year, not more than 15 percent of the amounts made available to carry out the TIFIA program under the Surface Transportation Reauthorization Act of 2021 for that fiscal year; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> for the period of fiscal years 2022 through 2026, not more than 15 percent of the unobligated carryover balances (as of <date date="2021-10-01">October 1, 2021</date>).</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Availability</inline>.—</heading>
+<content>Amounts made available to carry out the TIFIA program shall remain available until expended.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Administrative costs</inline>.—</heading>
+<content>Of the amounts made available to carry out the TIFIA program, the Secretary may use not more than $10,000,000 for each of fiscal years 2022 through 2026 for the administration of the TIFIA program.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading>
+<inline class="small-caps">Contract Authority.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Notwithstanding any other provision of law, execution of a term sheet by the Secretary of a Federal credit instrument that uses amounts made available under the TIFIA program shall impose on the United States a contractual obligation to fund the Federal credit investment.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Availability</inline>.—</heading>
+<content>Amounts made available to carry out the TIFIA program for a fiscal year shall be available for obligation on October 1 of the fiscal year.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 105–178, title I, § 1503(a)</ref>, (c), <date date="1998-06-09">June 9, 1998</date>, <ref>112 Stat. 249</ref>, § 188; <ref>Pub. L. 105–206, title IX, § 9007(a)</ref>, <date date="1998-07-22">July 22, 1998</date>, <ref>112 Stat. 849</ref>; <ref>Pub. L. 108–88, § 5(a)(10)</ref>, <date date="2003-09-30">Sept. 30, 2003</date>, <ref>117 Stat. 1115</ref>; <ref>Pub. L. 108–202, § 5(a)(10)</ref>, <date date="2004-02-29">Feb. 29, 2004</date>, <ref>118 Stat. 481</ref>; <ref>Pub. L. 108–224, § 4(a)(10)</ref>, <date date="2004-04-30">Apr. 30, 2004</date>, <ref>118 Stat. 629</ref>; <ref>Pub. L. 108–263, § 4(a)(10)</ref>, <date date="2004-06-30">June 30, 2004</date>, <ref>118 Stat. 700</ref>; <ref>Pub. L. 108–280, § 4(a)(10)</ref>, <date date="2004-07-30">July 30, 2004</date>, <ref>118 Stat. 879</ref>; <ref>Pub. L. 108–310, § 5(a)(10)</ref>, <date date="2004-09-30">Sept. 30, 2004</date>, <ref>118 Stat. 1149</ref>; <ref>Pub. L. 109–14, § 4(a)(10)</ref>, <date date="2005-05-31">May 31, 2005</date>, <ref>119 Stat. 327</ref>; <ref>Pub. L. 109–20, § 4(a)(10)</ref>, <date date="2005-07-01">July 1, 2005</date>, <ref>119 Stat. 348</ref>; <ref>Pub. L. 109–35, § 4(a)(10)</ref>, <date date="2005-07-20">July 20, 2005</date>, <ref>119 Stat. 381</ref>; <ref>Pub. L. 109–37, § 4(a)(10)</ref>, <date date="2005-07-22">July 22, 2005</date>, <ref>119 Stat. 396</ref>; <ref>Pub. L. 109–40, § 4(a)(10)</ref>, <date date="2005-07-28">July 28, 2005</date>, <ref>119 Stat. 413</ref>; renumbered § 608 and amended <ref>Pub. L. 109–59, title I</ref>, §§ 1601(g), 1602(b)(5), (d), <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1242</ref>, 1247; <ref>Pub. L. 112–141, div. A, title II, § 2002</ref>, <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 620</ref>; <ref>Pub. L. 114–94, div. A, title II, § 2001(g)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1444</ref>; <ref>Pub. L. 117–58, div. A, title II, § 12001(i)(1)</ref>, <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 620</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 609.</num>
+<heading> Reports to Congress</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<chapeau>On <date date="2012-06-01">June 1, 2012</date>, and every 2 years thereafter, the Secretary shall submit to Congress a report summarizing the financial performance of the projects that are receiving, or have received, assistance under the TIFIA program, including a recommendation as to whether the objectives of the TIFIA program are best served by—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> continuing the program under the authority of the Secretary;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> establishing a Federal corporation or federally sponsored enterprise to administer the program; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> phasing out the program and relying on the capital markets to fund the types of infrastructure investments assisted by the TIFIA program without Federal participation.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading>
+<inline class="small-caps">Application Process Report.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Not later than <date date="2012-12-01">December 1, 2012</date>, and annually thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes a list of all of the letters of interest and applications received from project sponsors for assistance under the TIFIA program during the preceding fiscal year.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading>
+<inline class="small-caps">Inclusions.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>Each report under paragraph (1) shall include, at a minimum, a description of, with respect to each letter of interest and application included in the report—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the date on which the letter of interest or application was received;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the date on which a notification was provided to the project sponsor regarding whether the application was complete or incomplete;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the date on which a revised and completed application was submitted (if applicable);</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the date on which a notification was provided to the project sponsor regarding whether the project was approved or disapproved; and</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> if the project was not approved, the reason for the disapproval.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Correspondence</inline>.—</heading>
+<content>Each report under paragraph (1) shall include copies of any correspondence provided to the project sponsor in accordance with section 602(d).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Status Reports.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>The Secretary shall publish on the website for the TIFIA program—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> on a monthly basis, a current status report on all submitted letters of interest and applications received for assistance under the TIFIA program; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> on a quarterly basis, a current status report on all approved applications for assistance under the TIFIA program.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Inclusions</inline>.—</heading>
+<chapeau>Each monthly and quarterly status report under paragraph (1) shall include, at a minimum, with respect to each project included in the status report—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the name of the party submitting the letter of interest or application;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the name of the project;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the date on which the letter of interest or application was received;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the estimated project eligible costs;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the type of credit assistance sought; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the anticipated fiscal year and quarter for closing of the credit assistance.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 105–178, title I, § 1503(a)</ref>, <date date="1998-06-09">June 9, 1998</date>, <ref>112 Stat. 250</ref>, § 189; renumbered § 609 and amended <ref>Pub. L. 109–59, title I</ref>, §§ 1601(h), 1602(d), <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1242</ref>, 1247; <ref>Pub. L. 112–141, div. A, title II, § 2002</ref>, <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 621</ref>; <ref>Pub. L. 114–94, div. A, title II, § 2001(h)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1444</ref>; <ref>Pub. L. 117–58, div. A, title II, § 12001(j)</ref>, <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 621</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 610.</num>
+<heading> State infrastructure bank program</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this section, the following definitions apply:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Capital project</inline>.—</heading>
+<content>The term “capital project” has the meaning such term has under <ref>section 5302 of title 49</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Other forms of credit assistance</inline>.—</heading>
+<chapeau>The term “other forms of credit assistance” includes any use of funds in an infrastructure bank—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to provide credit enhancements;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to serve as a capital reserve for bond or debt instrument financing;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to subsidize interest rates;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> to insure or guarantee letters of credit and credit instruments against credit risk of loss;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> to finance purchase and lease agreements with respect to transit projects;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> to provide bond or debt financing instrument security; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> to provide other forms of debt financing and methods of leveraging funds that are approved by the Secretary and that relate to the project with respect to which such assistance is being provided.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">State</inline>.—</heading>
+<content>The term “State” has the meaning such term has under section 401.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Capitalization</inline>.—</heading>
+<content>The term “capitalization” means the process used for depositing funds as initial capital into a State infrastructure bank to establish the infrastructure bank.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Cooperative agreement</inline>.—</heading>
+<content>The term “cooperative agreement” means written consent between a State and the Secretary which sets forth the manner in which the infrastructure bank established by the State in accordance with this section will be administered.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Loan</inline>.—</heading>
+<content>The term “loan” means any form of direct financial assistance from a State infrastructure bank that is required to be repaid over a period of time and that is provided to a project sponsor for all or part of the costs of the project.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<heading><inline class="small-caps">Guarantee</inline>.—</heading>
+<content>The term “guarantee” means a contract entered into by a State infrastructure bank in which the bank agrees to take responsibility for all or a portion of a project sponsor’s financial obligations for a project under specified conditions.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<heading><inline class="small-caps">Initial assistance</inline>.—</heading>
+<content>The term “initial assistance” means the first round of funds that are loaned or used for credit enhancement by a State infrastructure bank for projects eligible for assistance under this section.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<heading><inline class="small-caps">Leverage</inline>.—</heading>
+<content>The term “leverage” means a financial structure used to increase funds in a State infrastructure bank through the issuance of debt instruments.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<heading><inline class="small-caps">Leveraged</inline>.—</heading>
+<content>The term “leveraged”, as used with respect to a State infrastructure bank, means that the bank has total potential liabilities that exceed the capital of the bank.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<heading><inline class="small-caps">Rural infrastructure project</inline>.—</heading>
+<content>The term “rural infrastructure project” has the meaning given the term in section 601.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<heading><inline class="small-caps">Rural projects fund</inline>.—</heading>
+<content>The term “rural projects fund” has the meaning given the term in section 601.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Cooperative Agreements</inline>.—</heading>
+<content>Subject to the provisions of this section, the Secretary may enter into cooperative agreements with States for the establishment of State infrastructure banks for making loans and providing other forms of credit assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Interstate Compacts.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Congress grants consent to two or more of the States, entering into a cooperative agreement under subsection (a) with the Secretary for the establishment by such States of a multistate infrastructure bank in accordance with this section, to enter into an interstate compact establishing such bank in accordance with this section.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Reservation of rights</inline>.—</heading>
+<content>The right to alter, amend, or repeal interstate compacts entered into under this subsection is expressly reserved.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading>
+<inline class="small-caps">Funding.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Highway account</inline>.—</heading>
+<chapeau>Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the highway account of the bank not to exceed—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> 10 percent of the funds apportioned to the State for each of fiscal years 2022 through 2026 under each of paragraphs (1), (2), and (5) of section 104(b); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> 10 percent of the funds allocated to the State for each of such fiscal years.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Transit account</inline>.—</heading>
+<content>Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2022 through 2026 for capital projects under each of such sections.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Rail account</inline>.—</heading>
+<content>Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2022 through 2026 for capital projects under such subtitle.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Rural projects fund</inline>.—</heading>
+<content>Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the rural projects fund of the bank the proceeds of a secured loan made to the bank in accordance with sections 602 and 603.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading>
+<inline class="small-caps">Capital grants.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">Highway account</inline>.—</heading>
+<content>Federal funds deposited into a highway account of a State infrastructure bank under paragraph (1) shall constitute for purposes of this section a capitalization grant for the highway account of the bank.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Transit account</inline>.—</heading>
+<content>Federal funds deposited into a transit account of a State infrastructure bank under paragraph (2) shall constitute for purposes of this section a capitalization grant for the transit account of the bank.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading><inline class="small-caps">Rail account</inline>.—</heading>
+<content>Federal funds deposited into a rail account of a State infrastructure bank under paragraph 3 shall constitute for purposes of this section a capitalization grant for the rail account of the bank.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Special rule for urbanized areas of over 200,000</inline>.—</heading>
+<content>Funds in a State infrastructure bank that are attributed to urbanized areas of a State with urbanized populations of over 200,000 under section 133(d)(1)(A)(i) may be used to provide assistance with respect to a project only if the metropolitan planning organization designated for such area concurs, in writing, with the provision of such assistance.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<heading><inline class="small-caps">Discontinuance of funding</inline>.—</heading>
+<content>If the Secretary determines that a State is not implementing the State’s infrastructure bank in accordance with a cooperative agreement entered into under subsection (b), the Secretary may prohibit the State from contributing additional Federal funds to the bank.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading>
+<inline class="small-caps">Forms of Assistance From State Infrastructure Banks.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>A State infrastructure bank established under this section may—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> with funds deposited into the highway account, transit account, or rail account of the bank, make loans or provide other forms of credit assistance to a public or private entity to carry out a project eligible for assistance under this section; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> with funds deposited into the rural projects fund, make loans to a public or private entity to carry out a rural infrastructure project.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Subordination of loan</inline>.—</heading>
+<content>The amount of a loan or other form of credit assistance provided for a project described in paragraph (1) may be subordinated to any other debt financing for the project.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Maximum amount of assistance</inline>.—</heading>
+<chapeau>A State infrastructure bank established under this section may—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> with funds deposited into the highway account, transit account, or rail account of the bank, make loans or provide other forms of credit assistance to a public or private entity in an amount up to 100 percent of the cost of carrying out a project eligible for assistance under this section; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> with funds deposited into the rural projects fund, make loans to a public or private entity in an amount not to exceed 80 percent of the cost of carrying out a rural infrastructure project.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Initial assistance</inline>.—</heading>
+<content>Initial assistance provided with respect to a project from Federal funds deposited into a State infrastructure bank under this section may not be made in the form of a grant.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Eligible Projects</inline>.—</heading>
+<content>Subject to subsection (e), funds in an infrastructure bank established under this section may be used only to provide assistance for projects eligible for assistance under this title and capital projects defined in <ref>section 5302 of title 49</ref>, and any other projects relating to surface transportation that the Secretary determines to be appropriate.</content>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading><inline class="small-caps">Infrastructure Bank Requirements</inline>.—</heading>
+<chapeau>In order to establish an infrastructure bank under this section, the State establishing the bank shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> deposit in cash, at a minimum, into the highway account, the transit account, and the rail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> ensure that the bank maintains on a continuing basis an investment grade rating on its debt, or has a sufficient level of bond or debt financing instrument insurance, to maintain the viability of the bank;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> ensure that investment income derived from funds deposited to an account of the bank are—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> credited to the account;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> available for use in providing loans and other forms of credit assistance to projects eligible for assistance from the account; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> invested in United States Treasury securities, bank deposits, or such other financing instruments as the Secretary may approve to earn interest to enhance the leveraging of projects assisted by the bank;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> ensure that any loan from the bank will bear interest at or below market interest rates, as determined by the State, to make the project that is the subject of the loan feasible, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> ensure that repayment of any loan from the bank will commence not later than 5 years after the project has been completed or, in the case of a highway project, the facility has opened to traffic, whichever is later;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> ensure that the term for repaying any loan will not exceed 30 years after the date of the first payment on the loan; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> require the bank to make an annual report to the Secretary on its status no later than September 30 of each year and such other reports as the Secretary may require under guidelines issued to carry out this section.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(h)</num>
+<heading>
+<inline class="small-caps">Applicability of Federal Law.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>The requirements of this title and title 49 that would otherwise apply to funds made available under this title or such title and projects assisted with those funds shall apply to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> funds made available under this title or such title and contributed to an infrastructure bank established under this section, including the non-Federal contribution required under subsection (g); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> projects assisted by the bank through the use of the funds,</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">except to the extent that the Secretary determines that any requirement of such title (other than sections 113 and 114 of this title and <ref>section 5333 of title 49</ref>) is not consistent with the objectives of this section.</continuation>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Repayments</inline>.—</heading>
+<content>The requirements of this title and title 49 shall apply to repayments from non-Federal sources to an infrastructure bank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(i)</num>
+<heading><inline class="small-caps">United States not Obligated</inline>.—</heading>
+<content>The deposit of Federal funds into an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party, nor shall any third party have any right against the United States for payment solely by virtue of the contribution. Any security or debt-financing instrument issued by the infrastructure bank shall expressly state that the security or instrument does not constitute a commitment, guarantee, or obligation of the United States.</content>
+</subsection>
+<subsection class="indent0">
+<num>(j)</num>
+<heading><inline class="small-caps">Management of Federal Funds</inline>.—</heading>
+<content>Sections 3335 and 6503 of title 31 shall not apply to funds deposited into an infrastructure bank under this section.</content>
+</subsection>
+<subsection class="indent0">
+<num>(k)</num>
+<heading><inline class="small-caps">Program Administration</inline>.—</heading>
+<content>For each of fiscal years 2022 through 2026, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 109–59, title I, § 1602(a)</ref>, <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1243</ref>, § 190; renumbered § 610, <ref>Pub. L. 109–59, title I, § 1602(d)</ref>, <date date="2005-08-10">Aug. 10, 2005</date>, <ref>119 Stat. 1247</ref>, as amended <ref>Pub. L. 110–244, title I, § 101(f)</ref>, <date date="2008-06-06">June 6, 2008</date>, <ref>122 Stat. 1574</ref>; <ref>Pub. L. 112–141, div. A, title I, § 1519(c)(11)</ref>, formerly § 1519(c)(12), <date date="2012-07-06">July 6, 2012</date>, <ref>126 Stat. 577</ref>, renumbered § 1519(c)(11), <ref>Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1438</ref>; <ref>Pub. L. 114–94, div. A, title II, § 2001(i)</ref>, <date date="2015-12-04">Dec. 4, 2015</date>, <ref>129 Stat. 1444</ref>; <ref>Pub. L. 117–58, div. A, title II, § 12001(k)</ref>, <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 621</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 611.</num>
+<heading> Asset concessions and innovative finance assistance</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this section:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Approved infrastructure asset</inline>.—</heading>
+<chapeau>The term “approved infrastructure asset” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a project (as defined in section 601(a)); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a group of projects (as defined in section 601(a)) considered together in a single asset concession or long-term lease to a concessionaire by 1 or more eligible entities.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Asset concession</inline>.—</heading>
+<chapeau>The term “asset concession” means a contract between an eligible entity and a concessionaire—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> under which—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the eligible entity agrees to enter into a concession agreement or long-term lease with the concessionaire relating to an approved infrastructure asset owned, controlled, or maintained by the eligible entity;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> as consideration for the agreement or lease described in clause (i), the concessionaire agrees—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> to provide to the eligible entity 1 or more asset concession payments; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> to maintain or exceed the condition, performance, and service level of the approved infrastructure asset, as compared to that condition, performance, and service level on the date of execution of the agreement or lease; and</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the eligible entity and the concessionaire agree that the costs for a fiscal year of the agreement or lease, and any project carried out under the agreement or lease, shall not be shifted to any taxpayer the annual household income of whom is less than $400,000 per year, including through taxes, user fees, tolls, or any other measure, for use of an approved infrastructure asset; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the terms of which do not include any noncompete or exclusivity restriction (or any other, similar restriction) on the approval of another project.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Asset concession payment</inline>.—</heading>
+<chapeau>The term “asset concession payment” means a payment that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is made by a concessionaire to an eligible entity for fair market value that is determined as part of the asset concession; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> may be—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a payment made at the financial close of an asset concession; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> a series of payments scheduled to be made for—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> a fixed period; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the term of an asset concession.</content>
+</subclause>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Concessionaire</inline>.—</heading>
+<content>The term “concessionaire” means a private individual or a private or publicly chartered corporation or entity that enters into an asset concession with an eligible entity.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading>
+<inline class="small-caps">Eligible entity.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>The term “eligible entity” means an entity described in subparagraph (B) that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> owns, controls, or maintains an approved infrastructure asset; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> has the legal authority to enter into a contract to transfer ownership, maintenance, operations, revenues, or other benefits and responsibilities for an approved infrastructure asset.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Entities described</inline>.—</heading>
+<chapeau>An entity referred to in subparagraph (A) is any of the following:</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> A State.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> A Tribal government.</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> A unit of local government.</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> An agency or instrumentality of a State, Tribal government, or unit of local government.</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> A special purpose district or public authority.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Establishment</inline>.—</heading>
+<content>The Secretary shall establish a program to facilitate access to expert services for, and to provide grants to, eligible entities to enhance the technical capacity of eligible entities to facilitate and evaluate public-private partnerships in which the private sector partner could assume a greater role in project planning, development, financing, construction, maintenance, and operation, including by assisting eligible entities in entering into asset concessions.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Applications</inline>.—</heading>
+<content>To be eligible to receive a grant under this section, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading>
+<inline class="small-caps">Eligible Activities.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Technical assistance grants</inline>.—</heading>
+<chapeau>An eligible entity may use amounts made available from a grant under this section for technical assistance to build the organizational capacity of the eligible entity to develop, review, or enter into an asset concession, including for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> identifying appropriate assets or projects for asset concessions;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> soliciting and negotiating asset concessions, including hiring staff in public agencies;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> conducting a value-for-money analysis, or a comparable analysis, to evaluate the comparative benefits of asset concessions and public debt or other procurement methods;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> evaluating options for the structure and use of asset concession payments;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> evaluating and publicly presenting the risks and benefits of all contract provisions for the purpose of transparency and accountability;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> identifying best practices to protect the public interest and priorities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> identifying best practices for managing transportation demand and mobility along a corridor, including through provisions of the asset concession, to facilitate transportation demand management strategies along the corridor that is subject to the asset concession; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> integrating and coordinating pricing, data, and fare collection with other regional operators that exist or may be developed.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Expert services</inline>.—</heading>
+<chapeau>An eligible entity seeking to leverage public and private funding in connection with the development of an early-stage approved infrastructure asset, including in the development of alternative approaches to project delivery or procurement, may use amounts made available from a grant under this section to retain the services of an expert firm to provide to the eligible entity direct project level assistance, which services may include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> project planning, feasibility studies, revenue forecasting, economic assessments and cost-benefit analyses, public benefit studies, value-for-money analyses, business case development, lifecycle cost analyses, risk assessment, financing and funding options analyses, procurement alternatives analyses, statutory and regulatory framework analyses and other pre-procurement and pre-construction activities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> financial and legal planning (including the identification of statutory authorization, funding, and financing options);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> early assessment of permitting, environmental review, and regulatory processes and costs; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> assistance with entering into an asset concession.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading>
+<inline class="small-caps">Distribution.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading>
+<inline class="small-caps">Maximum amount.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">Technical assistance grants</inline>.—</heading>
+<content>The maximum amount of a technical assistance grant under subsection (d)(1) shall be $2,000,000.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Expert services</inline>.—</heading>
+<content>The maximum amount of the value of expert services retained by an eligible entity under subsection (d)(2) shall be $2,000,000.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading>
+<inline class="small-caps">Cost sharing.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Except as provided in subparagraph (B), the Federal share of the cost of an activity carried out under this section may be up to 100 percent.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Certain projects</inline>.—</heading>
+<content>If the amount of the grant provided to an eligible entity under this section is more than $1,000,000, the Federal share of the cost of an activity carried out using grant amounts in excess of $1,000,000 shall be 50 percent.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Statewide maximum</inline>.—</heading>
+<content>The aggregate amount made available under this section to eligible entities within a State shall not exceed, on a cumulative basis for all eligible entities within the State during any 3-year period, $4,000,000.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading>
+<inline class="small-caps">Requirements.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>The Secretary shall ensure that, as a condition of receiving a grant under this section, for any asset concession for which the grant provides direct assistance—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the asset concession shall not prohibit, discourage, or make it more difficult for an eligible entity to construct new infrastructure, to provide or expand transportation services, or to manage associated infrastructure in publicly beneficial ways, along a transportation corridor or in the proximity of a transportation facility that was a part of the asset concession;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the eligible entity shall have adopted binding rules to publish all major business terms of the proposed asset concession not later than the date that is 30 days before entering into the asset concession, to enable public review, including a certification of public interest based on the results of an assessment under subparagraph (D);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the asset concession shall not result in displacement, job loss, or wage reduction for the existing workforce of the eligible entity or other public entities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the eligible entity or the concessionaire shall carry out a value-for-money analysis, or similar assessment, to compare the aggregate costs and benefits to the eligible entity of the asset concession against alternative options to determine whether the asset concession generates additional public benefits and serves the public interest;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the full amount of any asset concession payment received by the eligible entity under the asset concession, less any amount paid for transaction costs relating to the asset concession, shall be used to pay infrastructure costs of the eligible entity; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the terms of the asset concession shall not result in any increase in costs under the asset concession being shifted to taxpayers the annual household income of whom is less than $400,000 per year, including through taxes, user fees, tolls, or any other measure, for use of an approved infrastructure asset.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Audit</inline>.—</heading>
+<chapeau>Not later than 3 years after the date on which an eligible entity enters into an asset concession as a result of a grant under this section—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the eligible entity shall hire an independent auditor to evaluate the performance of the concessionaire based on the requirements described in paragraph (1); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the independent auditor shall submit to the eligible entity, and make publicly available, a report describing the results of the audit under subparagraph (A).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Treatment</inline>.—</heading>
+<content>Unless otherwise provided under paragraph (1), the Secretary shall not, as a condition of receiving a grant under this section, prohibit or otherwise prevent an eligible entity from entering into, or receiving any asset concession payment under, an asset concession for an approved infrastructure asset owned, controlled, or maintained by the eligible entity.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Applicability of federal laws</inline>.—</heading>
+<content>Nothing in this section exempts a concessionaire or an eligible entity from a compliance obligation with respect to any applicable Federal or State law that would otherwise apply to the concessionaire, the eligible entity, or an approved infrastructure asset.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading>
+<inline class="small-caps">Funding.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>On <date date="2021-10-01">October 1, 2021</date>, and on each October 1 thereafter through <date date="2025-10-01">October 1, 2025</date>, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this section $20,000,000, to remain available until expended.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Receipt and acceptance</inline>.—</heading>
+<content>The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section the funds transferred under paragraph (1), without further appropriation.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 117–58, div. G, title X, § 71001(a)(1)</ref>, <date date="2021-11-15">Nov. 15, 2021</date>, <ref>135 Stat. 1316</ref>.)</sourceCredit>
+</section>
+</chapter>

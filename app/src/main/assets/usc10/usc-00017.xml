@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 19—</num>
+<heading>CYBER AND INFORMATION OPERATIONS MATTERS</heading>
+<section>
+<num>§ 391.</num>
+<heading> Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Designation of Department Component to Receive Reports</inline>.—</heading>
+<content>The Secretary of Defense shall designate a component of the Department of Defense to receive reports of cyber incidents from contractors in accordance with this section and <ref>section 393 of this title</ref> or from other governmental entities.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Procedures for Reporting Cyber Incidents</inline>.—</heading>
+<content>The Secretary of Defense shall establish procedures that require an operationally critical contractor to report in a timely manner to component designated under subsection (a) each time a cyber incident occurs with respect to a network or information system of such operationally critical contractor.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Procedure Requirements.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Designation and notification</inline>.—</heading>
+<chapeau>The procedures established pursuant to subsection (a) shall include a process for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> designating operationally critical contractors; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> notifying a contractor that it has been designated as an operationally critical contractor.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Rapid reporting</inline>.—</heading>
+<chapeau>The procedures established pursuant to subsection (a) shall require each operationally critical contractor to rapidly report to the component of the Department designated pursuant to subsection (d)(2)(A) on each cyber incident with respect to any network or information systems of such contractor. Each such report shall include the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> An assessment by the contractor of the effect of the cyber incident on the ability of the contractor to meet the contractual requirements of the Department.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> The technique or method used in such cyber incident.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> A sample of any malicious software, if discovered and isolated by the contractor, involved in such cyber incident.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> A summary of information compromised by such cyber incident.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Department assistance and access to equipment and information by department personnel</inline>.—</heading>
+<chapeau>The procedures established pursuant to subsection (a) shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> include mechanisms for Department personnel to, if requested, assist operationally critical contractors in detecting and mitigating penetrations; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> provide that an operationally critical contractor is only required to provide access to equipment or information as described in subparagraph (A) to determine whether information created by or for the Department in connection with any Department program was successfully exfiltrated from a network or information system of such contractor and, if so, what information was exfiltrated.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Protection of trade secrets and other information</inline>.—</heading>
+<content>The procedures established pursuant to subsection (a) shall provide for the reasonable protection of trade secrets, commercial or financial information, and information that can be used to identify a specific person.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Dissemination of information</inline>.—</heading>
+<chapeau>The procedures established pursuant to subsection (a) shall limit the dissemination of information obtained or derived through the procedures to entities—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> with missions that may be affected by such information;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> that may be called upon to assist in the diagnosis, detection, or mitigation of cyber incidents;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> that conduct counterintelligence or law enforcement investigations; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> for national security purposes, including cyber situational awareness and defense purposes.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Protection From Liability of Operationally Critical Contractors</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> No cause of action shall lie or be maintained in any court against any operationally critical contractor, and such action shall be promptly dismissed, for compliance with this section and contract requirements established pursuant to Defense Federal Acquisition Regulation Supplement clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, that is conducted in accordance with procedures established pursuant to subsection (b) and such contract requirements.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<chapeau> Nothing in this section shall be construed—</chapeau>
+<clause class="indent1">
+<num>(i)</num>
+<content> to require dismissal of a cause of action against an operationally critical contractor that has engaged in willful misconduct in the course of complying with the procedures established pursuant to subsection (b); or</content>
+</clause>
+<clause class="indent1">
+<num>(ii)</num>
+<content> to undermine or limit the availability of otherwise applicable common law or statutory defenses.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> In any action claiming that paragraph (1) does not apply due to willful misconduct described in subparagraph (A), the plaintiff shall have the burden of proving by clear and convincing evidence the willful misconduct by each operationally critical contractor subject to such claim and that such willful misconduct proximately caused injury to the plaintiff.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(C)</num>
+<chapeau> In this subsection, the term “willful misconduct” means an act or omission that is taken—</chapeau>
+<clause class="indent1">
+<num>(i)</num>
+<content> intentionally to achieve a wrongful purpose;</content>
+</clause>
+<clause class="indent1">
+<num>(ii)</num>
+<content> knowingly without legal or factual justification; and</content>
+</clause>
+<clause class="indent1">
+<num>(iii)</num>
+<content> in disregard of a known or obvious risk that is so great as to make it highly probable that the harm will outweigh the benefit.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this section:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Cyber incident</inline>.—</heading>
+<content>The term “cyber incident” means actions taken through the use of computer networks that result in an actual or potentially adverse effect on an information system or the information residing therein.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Operationally critical contractor</inline>.—</heading>
+<content>The term “operationally critical contractor” means a contractor designated by the Secretary for purposes of this section as a critical source of supply for airlift, sealift, intermodal transportation services, or logistical support that is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 113–291, div. A, title XVI, § 1632(a)</ref>, <date date="2014-12-19">Dec. 19, 2014</date>, <ref>128 Stat. 3639</ref>; amended <ref>Pub. L. 114–92, div. A, title XVI, § 1641(b)</ref>, (c)(1), <date date="2015-11-25">Nov. 25, 2015</date>, <ref>129 Stat. 1115</ref>, 1116; <ref>Pub. L. 116–283, div. A, title XVII, § 1704</ref>, <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4082</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 391a.</num>
+<heading> Annual reports on support by military departments for United States Cyber Command</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Reports</inline>.—</heading>
+<chapeau>Not later than 15 days after the date on which the Secretary of Defense submits to Congress the defense budget materials (as defined in <ref>section 239 of this title</ref>) for a fiscal year, the Commander of the United States Cyber Command shall submit to the congressional defense committees a report containing the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> An evaluation of whether each military department is meeting the requirements established by the Commander and validated by the Office of the Secretary of Defense, and is effectively implementing the plan required by section 1534 of the National Defense Authorization Act for Fiscal Year 2023, and the requirements established pursuant to section 1533 of such Act.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> For each military department evaluated under paragraph (1)—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a certification that the military department is meeting such requirements; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a detailed explanation regarding how the military department is not meeting such requirements.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Elements of Evaluation</inline>.—</heading>
+<chapeau>Each evaluation under subsection (a)(1) shall include, with respect to the military department being evaluated, the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The adequacy of the policies, procedures, and execution of manning, training, and equipping personnel for employment within the Cyber Mission Force.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The sufficiency and robustness of training curricula for personnel to be assigned to either the Cyber Mission Force or units within the cyberspace operations forces, and the compliance by the military department with training standards.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The adequacy of the policies and procedures relating to the assignment and assignment length of members of the Army, Navy, Air Force, Marine Corps, or Space Force to the Cyber Mission Force.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The efficacy of the military department in filling key work roles within the Cyber Mission Force, including the proper force mix of civilian, military, and contractor personnel, and the means necessary to meet requirements established by the Commander and validated by the Secretary of Defense.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> The adequacy of the investment to advance cyber-peculiar science and technology, particularly with respect to capability development for the Cyber Mission Force.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> The sufficiency of the policies, procedures, and investments relating to the establishment and management of military occupational specialty, designator, rating, or Air Force specialty code for personnel responsible for cyberspace operations, including an assessment of the effectiveness of the combination of policies determining availability and retention of sufficient numbers of proficient personnel in key work roles, including length of service commitment, the use of bonuses and special pays, alternative compensation mechanisms, and consecutive tours in preferred assignments.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> In coordination with the Principal Cyber Advisor of the Department of Defense, an evaluation of the use by the military department of the shared lexicon of the Department of Defense specific to cyberspace activities.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> The readiness of personnel serving in the Cyber Mission Force and the cyberspace operations forces to accomplish assigned missions.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> The adequacy of actions taken during the period of evaluation by the military department to respond to findings from any previous years’ evaluations.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> Any other element determined relevant by the Commander.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 117–263, div. A, title XV, § 1502(a)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 2879</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 391b.</num>
+<heading> Strategic cybersecurity program</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> There is a program to be known as the “Strategic Cybersecurity Program” (in this section referred to as the “Program”) to ensure the ability of the Department of Defense to conduct the most critical military missions of the Department.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The Secretary of Defense shall designate a principal staff assistant from within the Office of the Secretary of Defense whose office shall serve as the office of primary responsibility for the Program, and provide policy, direction, and oversight regarding the execution of the responsibilities of the program manager selected pursuant to subsection (c)(1).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Membership</inline>.—</heading>
+<chapeau>In addition to the office of primary responsibility for the Program under subsection (a)(2) and the program manager selected pursuant to subsection (c)(1), membership in the Program shall include the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The Vice Chairman of the Joint Chiefs of Staff.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The Commanders of the United States Cyber Command, United States European Command, United States Indo-Pacific Command, United States Northern Command, United States Strategic Command, United States Space Command, United States Transportation Command.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The Under Secretary of Defense for Acquisition and Sustainment.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The Under Secretary of Defense for Policy.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> The Chief Information Officer of the Department of Defense.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> The Chief Digital and Artificial Intelligence Officer of the Department of Defense.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> The chief information officers of the military departments.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> The Principal Cyber Advisor of the Department of Defense.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> The Principal Cyber Advisors of the military departments.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> Each senior official identified pursuant to subsection (i) of section 1647 of the National Defense Authorization Act for Fiscal Year 2016 (<ref>Public Law 114–92</ref>; <ref>129 Stat. 1118</ref>).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> Such other officials as may be determined necessary by the Secretary of Defense.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Program Office</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> There is in the Cybersecurity Directorate of the National Security Agency a program office to support the Program by identifying threats to, vulnerabilities in, and remediations for, the missions and mission elements specified in subsection (d)(1). Such program office shall be headed by a program manager selected by the Director of the National Security Agency.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The Chief Information Officer of the Department of Defense, in exercising authority, direction, and control over the Cybersecurity Directorate of the National Security Agency, shall ensure that the program office under paragraph (1) is responsive to the requirements and direction of the program manager selected pursuant to such paragraph.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> The Secretary may augment the personnel assigned to the program office under paragraph (1) by assigning personnel as appropriate from among members of any covered armed force (including the reserve components thereof), civilian employees of the Department of Defense (including the Defense Intelligence Agency), and personnel of the research laboratories of the Department of Defense, who have particular expertise in the areas of responsibility referred to in subsection (d).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Designation of Mission Elements of Program</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> The Under Secretary of Defense for Policy, the Under Secretary of Defense for Acquisition and Sustainment, and the Vice Chairman of the Joint Chiefs of Staff shall identify and designate for inclusion in the Program all of the systems, critical infrastructure, kill chains, and processes, including systems and components in development, that comprise the following military missions of the Department of Defense:</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> Nuclear deterrence and strike.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> Select long-range conventional strike missions germane to the warfighting plans of the United States European Command and the United States Indo-Pacific Command.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> Offensive cyber operations.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> Homeland missile defense.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The Vice Chairman of the Joint Chiefs of Staff shall coordinate the identification and prioritization of the missions and mission components, and the development and approval of requirements relating to the cybersecurity of the missions and mission components, of the Program.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Additional Responsibilities of Head of Office of Primary Responsibility</inline>.—</heading>
+<chapeau>In addition to providing policy, direction, and oversight as specified in subsection (a)(2), the head of the office of primary responsibility for the Program designated under such subsection shall be responsible—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> for overseeing and providing direction on any covered statutory requirement that is ongoing, recurrent (including on an annual basis), or unfulfilled, including by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> reviewing any materials required to be submitted to Congress under the covered statutory requirement prior to such submission; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> ensuring such submissions occur by the applicable deadline under the covered statutory requirement; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> recording and monitoring the remediation of identified vulnerabilities in constituent systems, infrastructure, kill chains, and processes of the missions specified in subsection (d)(1).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Responsibilities of Program Manager</inline>.—</heading>
+<chapeau>The program manager selected pursuant to subsection (c)(1) shall be responsible for the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Conducting end-to-end vulnerability assessments of the constituent systems, infrastructure, kill chains, and processes of the missions specified in subsection (d)(1).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Prioritizing and facilitating the remediation of identified vulnerabilities in such constituent systems, infrastructure, kill chains, and processes.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Conducting, prior to the Milestone B approval for any proposed such system or infrastructure germane to the missions of the Program, appropriate reviews of the acquisition and system engineering plans for that proposed system or infrastructure, in accordance with the policy and guidance of the Under Secretary of Defense for Acquisition and Sustainment regarding the components of such reviews and the range of systems and infrastructure to be reviewed.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> Advising the Secretaries of the military departments, the commanders of the combatant commands, and the Joint Staff on the vulnerabilities and cyberattack vectors that pose substantial risk to the missions of the Program and their constituent systems, critical infrastructure, kill chains, or processes.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> Ensuring that the Program builds upon (including through the provision of oversight and direction by the head of the office of primary responsibility for the Program pursuant to subsection (e), as applicable), and does not duplicate, other efforts of the Department of Defense relating to cybersecurity, including the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> The evaluation of cyber vulnerabilities of major weapon systems of the Department of Defense required under section 1647 of the National Defense Authorization Act for Fiscal Year 2016 (<ref>Public Law 114–92</ref>; <ref>129 Stat. 1118</ref>).</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> The evaluation of cyber vulnerabilities of critical infrastructure of the Department of Defense required under section 1650 of the National Defense Authorization Act for Fiscal Year 2017 (<ref>Public Law 114–328</ref>; <ref>10 U.S.C. 2224</ref> note).</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> The activities of the cyber protection teams of the Department of Defense.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading><inline class="small-caps">Responsibilities of Secretary of Defense</inline>.—</heading>
+<chapeau>The Secretary of Defense shall define and issue guidance on the roles and responsibilities for components of the Department of Defense other than those specified in this section with respect to the Program, including—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the roles and responsibilities of the acquisition and sustainment organizations of the military departments in supporting and implementing remedial actions;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the alignment of Cyber Protection Teams with the prioritized missions of the Program;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the role of the Director of Operational Test and Evaluation in conducting periodic assessments, including through cyber red teams, of the cybersecurity of missions in the Program; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the role of the Principal Cyber Adviser in coordinating and monitoring the execution of the Program.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(h)</num>
+<heading><inline class="small-caps">Annual Reporting</inline>.—</heading>
+<chapeau>Not later than December 31 of each year, the head of the office of primary responsibility for the Program, in coordination with the appropriate members of the Program under subsection (b), shall submit to the congressional defense committees an annual report on the efforts carried out pursuant to this section or any covered provision of law, including with respect to such efforts concerning—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the evaluation of cyber vulnerabilities of each major weapon system of the Department of Defense and related mitigation activities under section 1647 of the National Defense Authorization Act for Fiscal Year 2016 (<ref>Public Law 114–92</ref>; <ref>129 Stat. 1118</ref>);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the evaluation of cyber vulnerabilities of the critical infrastructure of the Department of Defense under section 1650 of the National Defense Authorization Act for Fiscal Year 2017 (<ref>Public Law 114–328</ref>; <ref>10 U.S.C. 2224</ref> note);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> operational technology and the mapping of mission-relevant terrain in cyberspace under section 1505 of the National Defense Authorization Act for Fiscal Year 2022 (<ref>Public Law 117–81</ref>; <ref>10 U.S.C. 394</ref> note);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the assessments of the vulnerabilities to and mission risks presented by radio-frequency enabled cyber attacks with respect to the operational technology embedded in weapons systems, aircraft, ships, ground vehicles, space systems, sensors, and datalink networks of the Department of Defense under section 1559 of the National Defense Authorization Act for Fiscal Year 2023; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the work of the Program in general, including information relating to staffing and accomplishments.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(i)</num>
+<heading><inline class="small-caps">Annual Budget Display</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> On an annual basis for each fiscal year, concurrently with the submission of the budget of the President for that fiscal year under <ref>section 1105(a) of title 31</ref>, United States Code, the head of the office of primary responsibility for the Program, in coordination with the appropriate members of the Program under subsection (b), shall submit to the congressional defense committees a consolidated budget justification display that covers all programs and activities associated with this section and any covered provision of law, including with respect to the matters listed in subsection (h).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Each display under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> For the purpose of facilitating the annual budget display requirement under paragraph (1), the Chief Information Officer of the Department of Defense shall provide to the head of the office of primary responsibility for the Program and the appropriate members of the Program under subsection (b) fiscal guidance on the programming of funds in support of the Program.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(j)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this section:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The term “covered armed force” means the Army, Navy, Air Force, Marine Corps, or Space Force.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The term “covered statutory requirement” means a requirement under any covered provision of law.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> The term “covered provision of law” means the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Section 1647 of the National Defense Authorization Act for Fiscal Year 2016 (<ref>Public Law 114–92</ref>; <ref>129 Stat. 1118</ref>).</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Section 1650 of the National Defense Authorization Act for Fiscal Year 2017 (<ref>Public Law 114–328</ref>; <ref>10 U.S.C. 2224</ref> note).</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Section 1505 of the National Defense Authorization Act for Fiscal Year 2022 (<ref>Public Law 117–81</ref>; <ref>10 U.S.C. 394</ref> note).</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Section 1559 of the National Defense Authorization Act for Fiscal Year 2023.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 118–31, div. A, title XV, § 1502(a)(1)</ref>, <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 533</ref>; amended <ref>Pub. L. 118–159, div. A, title XVII, § 1701(a)(7)</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 2203</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 392.</num>
+<heading> Executive agents for cyber test and training ranges</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Executive Agent</inline>.—</heading>
+<chapeau>The Secretary of Defense, in consultation with the Principal Cyber Advisor, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> designate a senior official from among the personnel of the Department of Defense to act as the executive agent for cyber and information technology test ranges; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> designate a senior official from among the personnel of the Department of Defense to act as the executive agent for cyber and information technology training ranges.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading>
+<inline class="small-caps">Roles, Responsibilities, and Authorities.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Establishment</inline>.—</heading>
+<content>The Secretary of Defense shall prescribe the roles, responsibilities, and authorities of the executive agents designated under subsection (a). Such roles, responsibilities, and authorities shall include the development of a biennial integrated plan for cyber and information technology test and training resources.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Biennial integrated plan</inline>.—</heading>
+<chapeau>The biennial integrated plan required under paragraph (1) shall include plans for the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Developing and maintaining a comprehensive list of cyber and information technology ranges, test facilities, test beds, and other means of testing, training, and developing software, personnel, and tools for accommodating the mission of the Department. Such list shall include resources from both governmental and nongovernmental entities.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> Organizing and managing designated cyber and information technology test ranges, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> establishing the priorities for cyber and information technology ranges to meet Department objectives;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> enforcing standards to meet requirements specified by the United States Cyber Command, the training community, and the research, development, testing, and evaluation community;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> identifying and offering guidance on the opportunities for integration amongst the designated cyber and information technology ranges regarding test, training, and development functions;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> finding opportunities for cost reduction, integration, and coordination improvements for the appropriate cyber and information technology ranges;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> adding or consolidating cyber and information technology ranges in the future to better meet the evolving needs of the cyber strategy and resource requirements of the Department;</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> finding opportunities to continuously enhance the quality and technical expertise of the cyber and information technology test workforce through training and personnel policies; and</content>
+</clause>
+<clause class="indent3">
+<num>(vii)</num>
+<content> coordinating with interagency and industry partners on cyber and information technology range issues.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> Defining a cyber range architecture that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> may add or consolidate cyber and information technology ranges in the future to better meet the evolving needs of the cyber strategy and resource requirements of the Department;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> coordinates with interagency and industry partners on cyber and information technology range issues;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> allows for integrated closed loop testing in a secure environment of cyber and electronic warfare capabilities;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> supports science and technology development, experimentation, testing and training; and</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> provides for interconnection with other existing cyber ranges and other kinetic range facilities in a distributed manner.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Certifying all cyber range investments of the Department of Defense.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> Performing such other assessments or analyses as the Secretary considers appropriate.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Standard for cyber event data</inline>.—</heading>
+<content>The executive agents designated under subsection (a), in consultation with the Chief Information Officer of the Department of Defense, shall jointly select a standard language from open-source candidates for representing and communicating cyber event and threat data. Such language shall be machine-readable for the Joint Information Environment and associated test and training ranges.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Support Within Department of Defense</inline>.—</heading>
+<content>The Secretary of Defense shall ensure that the military departments, Defense Agencies, and other components of the Department of Defense provide the executive agents designated under subsection (a) with the appropriate support and resources needed to perform the roles, responsibilities, and authorities of the executive agents.</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Compliance With Existing Directive</inline>.—</heading>
+<content>The Secretary shall carry out this section in compliance with Directive 5101.1.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this section:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The term “designated cyber and information technology range” includes the National Cyber Range, the Joint Information Operations Range, the Defense Information Assurance Range, and the C4 Assessments Division of J6 of the Joint Staff.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The term “Directive 5101.1” means Department of Defense Directive 5101.1, or any successor directive relating to the responsibilities of an executive agent of the Department of Defense.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The term “executive agent” has the meaning given the term “DoD Executive Agent” in Directive 5101.1.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 113–291, div. A, title XVI, § 1633(a)</ref>, <date date="2014-12-19">Dec. 19, 2014</date>, <ref>128 Stat. 3641</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 392a.</num>
+<heading> Principal Cyber Advisors</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">Principal Cyber Advisor to Secretary of Defense.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Establishment</inline>.—</heading>
+<content>There is a Principal Cyber Advisor in the Department of Defense.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Responsibilities</inline>.—</heading>
+<chapeau>The Principal Cyber Advisor shall be responsible for the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Acting as the principal advisor to the Secretary on military cyber forces and activities.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Overall integration of Cyber Operations Forces activities relating to cyberspace operations, including associated policy and operational considerations, resources, personnel, technology development and transition, and acquisition.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Assessing and overseeing the implementation of the cyber strategy of the Department and execution of the cyber posture review of the Department on behalf of the Secretary.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Coordinating activities pursuant to subparagraphs (A) and (B) of paragraph (3) with the Principal Information Operations Advisor, the Chief Information Officer of the Department, and other officials as determined by the Secretary of Defense, to ensure the integration of activities in support of cyber, information, and electromagnetic spectrum operations.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> Such other matters relating to the offensive military cyber forces of the Department as the Secretary shall specify for the purposes of this subsection.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Cross-functional team</inline>.—</heading>
+<chapeau>Consistent with section 911 of the National Defense Authorization Act for Fiscal Year 2017 (<ref>Public Law 114–328</ref>; <ref>10 U.S.C. 111</ref> note), the Principal Cyber Advisor shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> integrate the cyber expertise and perspectives of appropriate organizations within the Office of the Secretary of Defense, Joint Staff, military departments, the Defense Agencies and Field Activities, and combatant commands, by establishing and maintaining a full-time cross-functional team of subject matter experts from those organizations; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> select team members, and designate a team leader, from among those personnel nominated by the heads of such organizations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Budget review</inline>.—</heading>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the Secretaries of the military departments and the heads of the Defense agencies with responsibilities associated with any activity specified in paragraph (2) to transmit the proposed budget for such activities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under <ref>section 221 of this title</ref> for that fiscal year to the Principal Cyber Advisor for review under subparagraph (B) before submitting the proposed budget to the Under Secretary of Defense (Comptroller).</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> The Principal Cyber Advisor shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary of Defense a report containing the comments of the Principal Cyber Advisor with respect to all such proposed budgets, together with the certification of the Principal Cyber Advisor regarding whether each proposed budget is adequate.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<chapeau> Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report specifying each proposed budget that the Principal Cyber Advisor did not certify to be adequate. The report of the Secretary shall include the following matters:</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets specified in the report.</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading>
+<inline class="small-caps">Senior Military Advisor for Cyber Policy and Deputy Principal Cyber Advisor.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading>
+<inline class="small-caps">Advisor.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>The Secretary of Defense shall, acting through the Joint Staff, designate an officer within the Office of the Under Secretary of Defense for Policy to serve within that Office as the Senior Military Advisor for Cyber Policy, and concurrently, as the Deputy Principal Cyber Advisor.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Officers eligible for designation</inline>.—</heading>
+<content>The officer designated pursuant to this paragraph shall be designated from among commissioned regular officers of the Armed Forces in a general or flag officer grade who are qualified for designation.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading><inline class="small-caps">Grade</inline>.—</heading>
+<content>The officer designated pursuant to this paragraph shall have the grade of major general or rear admiral (upper half) while serving in that position, without vacating the officer’s permanent grade.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading>
+<inline class="small-caps">Scope of Positions.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>The officer designated pursuant to paragraph (1) is each of the following:</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> The Senior Military Advisor for Cyber Policy to the Under Secretary of Defense for Policy.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> The Deputy Principal Cyber Advisor to the Secretary of Defense.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Direction and control and reporting</inline>.—</heading>
+<chapeau>In carrying out duties under this section, the officer designated pursuant to paragraph (1) shall be subject to the authority, direction, and control of, and shall report directly to, the following:</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> The Under Secretary with respect to Senior Military Advisor for Cyber Policy duties.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> The Principal Cyber Advisor with respect to Deputy Principal Cyber Advisor duties.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading>
+<inline class="small-caps">Duties.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">Duties as senior military advisor for cyber policy</inline>.—</heading>
+<chapeau>The duties of the officer designated pursuant to paragraph (1) as Senior Military Advisor for Cyber Policy are as follows:</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> To serve as the principal uniformed military advisor on military cyber forces and activities to the Under Secretary of Defense for Policy.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> To assess and advise the Under Secretary on aspects of policy relating to military cyberspace operations, resources, personnel, cyber force readiness, cyber workforce development, and defense of Department of Defense networks.</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> To advocate, in consultation with the Joint Staff, and senior officers of the Armed Forces and the combatant commands, for consideration of military issues within the Office of the Under Secretary of Defense for Policy, including coordination and synchronization of Department cyber forces and activities.</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> To maintain open lines of communication between the Chief Information Officer of the Department of Defense, senior civilian leaders within the Office of the Under Secretary, and senior officers on the Joint Staff, the Armed Forces, and the combatant commands on cyber matters, and to ensure that military leaders are informed on cyber policy decisions.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Duties as deputy principal cyber advisor</inline>.—</heading>
+<chapeau>The duties of the officer designated pursuant to paragraph (1) as Deputy Principal Cyber Advisor are as follows:</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> To synchronize, coordinate, and oversee implementation of the Cyber Strategy of the Department of Defense and other relevant policy and planning.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> To advise the Secretary of Defense on cyber programs, projects, and activities of the Department, including with respect to policy, training, resources, personnel, manpower, and acquisitions and technology.</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> To oversee implementation of Department policy and operational directives on cyber programs, projects, and activities, including with respect to resources, personnel, manpower, and acquisitions and technology.</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> To assist in the overall supervision of Department cyber activities relating to offensive missions.</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> To assist in the overall supervision of Department defensive cyber operations, including activities of component-level cybersecurity service providers and the integration of such activities with activities of the Cyber Mission Force.</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> To advise senior leadership of the Department on, and advocate for, investment in capabilities to execute Department missions in and through cyberspace.</content>
+</clause>
+<clause class="indent3">
+<num>(vii)</num>
+<content> To identify shortfalls in capabilities to conduct Department missions in and through cyberspace, and make recommendations on addressing such shortfalls in the Program Budget Review process.</content>
+</clause>
+<clause class="indent3">
+<num>(viii)</num>
+<content> To coordinate and consult with stakeholders in the cyberspace domain across the Department in order to identify other issues on cyberspace for the attention of senior leadership of the Department.</content>
+</clause>
+<clause class="indent3">
+<num>(ix)</num>
+<content> On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014 (<ref>10 U.S.C. 2224</ref> note) <ref class="footnoteRef" idref="fn002032">1</ref> in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Cyber Governance Structures and Principal Cyber Advisors on Military Cyber Force Matters.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading>
+<inline class="small-caps">Designation.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Not later than 270 days after the date of the enactment of this Act, each of the secretaries of the military departments, in consultation with the service chiefs, shall appoint an independent Principal Cyber Advisor for each service to act as the principal advisor to the relevant secretary on all cyber matters affecting that military service.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Nature of position</inline>.—</heading>
+<chapeau>Each Principal Cyber Advisor position under subparagraph (A) shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> be a senior civilian leadership position, filled by a senior member of the Senior Executive Service, not lower than the equivalent of a 3-star general officer, or by exception a comparable military officer with extensive cyber experience;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> exclusively occupy the Principal Cyber Advisor position and not assume any other position or responsibility in the relevant military department;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> be independent of the relevant service’s chief information officer; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> report directly to and advise the secretary of the relevant military department and advise the relevant service’s senior uniformed officer.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading><inline class="small-caps">Notification</inline>.—</heading>
+<content>Each of the secretaries of the military departments shall notify the Committees on Armed Services of the Senate and House of Representatives of his or her Principal Cyber Advisor appointment. In the case that the appointee is a military officer, the notification shall include a justification for the selection and an explanation of the appointee’s ability to execute the responsibilities of the Principal Cyber Advisor.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Responsibilities of Principal Cyber Advisors</inline>.—</heading>
+<chapeau>Each Principal Cyber Advisor under paragraph (1) shall be responsible for advising both the secretary of the relevant military department and the senior uniformed military officer of the relevant military service and implementing the Department of Defense Cyber Strategy within the service by coordinating and overseeing the execution of the service’s policies and programs relevant to the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> The recruitment, resourcing, and training of military cyberspace operations forces, assessment of these forces against standardized readiness metrics, and maintenance of these forces at standardized readiness levels.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Acquisition of offensive, defensive, and Department of Defense Information Networks cyber capabilities for military cyberspace operations.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Cybersecurity management and operations.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Acquisition of cybersecurity tools and capabilities, including those used by cybersecurity service providers.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> Evaluating, improving, and enforcing a culture of cybersecurity warfighting and accountability for cybersecurity and cyberspace operations.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> Cybersecurity and related supply chain risk management of the industrial base.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> Cybersecurity of Department of Defense information systems, information technology services, and weapon systems, including the incorporation of cybersecurity threat information as part of secure development processes, cybersecurity testing, and the mitigation of cybersecurity risks.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Coordination</inline>.—</heading>
+<chapeau>To ensure service compliance with the Department of Defense Cyber Strategy, each Principal Cyber Advisor under paragraph (1) shall work in close coordination with the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Service chief information officers.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Service cyber component commanders.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Principal Cyber Advisor to the Secretary of Defense.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Department of Defense Chief Information Officer.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> Defense Digital Service.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading>
+<inline class="small-caps">Budget Certification Authority.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Each of the secretaries of the military departments shall require service components with responsibilities associated with cyberspace operations forces, offensive or defensive cyberspace operations and capabilities, and cyberspace issues relevant to the duties specified in paragraph (2) to transmit the proposed budget for such responsibilities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under <ref>section 221 of title 10</ref>, United States Code, for that fiscal year to the relevant service’s Principal Cyber Advisor for review under subparagraph (B) before submitting the proposed budget to the department’s comptroller.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Review</inline>.—</heading>
+<content>Each Principal Cyber Advisor under paragraph (1)(A) shall review each proposed budget transmitted under subparagraph (A) and submit to the secretary of the relevant military department a report containing the comments of the Principal Cyber Advisor with respect to all such proposed budgets, together with the certification of the Principal Cyber Advisor regarding whether each proposed budget is adequate.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<heading><inline class="small-caps">Report</inline>.—</heading>
+<content>Not later than March 31 of each year, each of the secretaries of the military departments shall submit to the congressional defense committees a report specifying each proposed budget for the subsequent fiscal year contained in the most-recent report submitted under subparagraph (B) that the Principal Cyber Advisor did not certify to be adequate. The report of the secretary shall include a discussion of the actions that the secretary took or proposes to take, together with any additional comments that the Secretary considers appropriate regarding the adequacy or inadequacy of the proposed budgets.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Principal Cyber Advisors’ Briefing to Congress</inline>.—</heading>
+<content>Not later than <date date="2021-02-01">February 1, 2021</date>, and biannually thereafter, each Principal Cyber Advisor under paragraph (1) shall brief the Committees on Armed Services of the Senate and House of Representatives on that Advisor’s activities and ability to perform the functions specified in paragraph (2).</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 117–263, div. A, title XV, § 1501(b)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 2877</ref>; <ref>Pub. L. 118–31, div. A, title XVIII, § 1801(a)(5)</ref>, <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 683</ref>; <ref>Pub. L. 118–159, div. A, title XVII, § 1701(a)(8)</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 2203</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 393.</num>
+<heading> Reporting on penetrations of networks and information systems of certain contractors</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Procedures for Reporting Penetrations</inline>.—</heading>
+<content>The Secretary of Defense shall establish procedures that require each cleared defense contractor to report to a component of the Department of Defense designated by the Secretary for purposes of such procedures when a network or information system of such contractor that meets the criteria established pursuant to subsection (b) is successfully penetrated.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Networks and Information Systems Subject to Reporting</inline>.—</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Criteria</inline>.—</heading>
+<content>The Secretary of Defense shall designate a senior official to, in consultation with the officials specified in paragraph (2), establish criteria for covered networks to be subject to the procedures for reporting system penetrations under subsection (a).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Officials</inline>.—</heading>
+<chapeau>The officials specified in this subsection are the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> The Under Secretary of Defense for Policy.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> The Under Secretary of Defense for Acquisition and Sustainment.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Under Secretary of Defense for Research and Engineering.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> The Under Secretary of Defense for Intelligence and Security.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> The Chief Information Officer of the Department of Defense.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> The Commander of the United States Cyber Command.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Procedure Requirements</inline>.—</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Rapid reporting</inline>.—</heading>
+<chapeau>The procedures established pursuant to subsection (a) shall require each cleared defense contractor to rapidly report to a component of the Department of Defense designated pursuant to subsection (a) of each successful penetration of the network or information systems of such contractor that meet the criteria established pursuant to subsection (b). Each such report shall include the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> A description of the technique or method used in such penetration.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> A sample of the malicious software, if discovered and isolated by the contractor, involved in such penetration.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> A summary of information created by or for the Department in connection with any Department program that has been potentially compromised due to such penetration.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Access to equipment and information by department of defense personnel</inline>.—</heading>
+<chapeau>The procedures established pursuant to subsection (a) shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> include mechanisms for Department of Defense personnel to, upon request, obtain access to equipment or information of a cleared defense contractor necessary to conduct forensic analysis in addition to any analysis conducted by such contractor;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> provide that a cleared defense contractor is only required to provide access to equipment or information as described in subparagraph (A) to determine whether information created by or for the Department in connection with any Department program was successfully exfiltrated from a network or information system of such contractor and, if so, what information was exfiltrated; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> provide for the reasonable protection of trade secrets, commercial or financial information, and information that can be used to identify a specific person.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Dissemination of information</inline>.—</heading>
+<chapeau>The procedures established pursuant to subsection (a) shall limit the dissemination of information obtained or derived through such procedures to entities—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> with missions that may be affected by such information;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> that may be called upon to assist in the diagnosis, detection, or mitigation of cyber incidents;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> that conduct counterintelligence or law enforcement investigations; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> for national security purposes, including cyber situational awareness and defense purposes.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Protection From Liability of Cleared Defense Contractors</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> No cause of action shall lie or be maintained in any court against any cleared defense contractor, and such action shall be promptly dismissed, for compliance with this section that is conducted in accordance with the procedures established pursuant to subsection (a).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<subparagraph class="indent0">
+<num>(A)</num>
+<chapeau> Nothing in this section shall be construed—</chapeau>
+<clause class="indent1">
+<num>(i)</num>
+<content> to require dismissal of a cause of action against a cleared defense contractor that has engaged in willful misconduct in the course of complying with the procedures established pursuant to subsection (a); or</content>
+</clause>
+<clause class="indent1">
+<num>(ii)</num>
+<content> to undermine or limit the availability of otherwise applicable common law or statutory defenses.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(B)</num>
+<content> In any action claiming that paragraph (1) does not apply due to willful misconduct described in subparagraph (A), the plaintiff shall have the burden of proving by clear and convincing evidence the willful misconduct by each cleared defense contractor subject to such claim and that such willful misconduct proximately caused injury to the plaintiff.</content>
+</subparagraph>
+<subparagraph class="indent0">
+<num>(C)</num>
+<chapeau> In this subsection, the term “willful misconduct” means an act or omission that is taken—</chapeau>
+<clause class="indent1">
+<num>(i)</num>
+<content> intentionally to achieve a wrongful purpose;</content>
+</clause>
+<clause class="indent1">
+<num>(ii)</num>
+<content> knowingly without legal or factual justification; and</content>
+</clause>
+<clause class="indent1">
+<num>(iii)</num>
+<content> in disregard of a known or obvious risk that is so great as to make it highly probable that the harm will outweigh the benefit.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this section:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Cleared defense contractor</inline>.—</heading>
+<content>The term “cleared defense contractor” means a private entity granted clearance by the Department of Defense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Covered network</inline>.—</heading>
+<content>The term “covered network” means a network or information system of a cleared defense contractor that contains or processes information created by or for the Department of Defense with respect to which such contractor is required to apply enhanced protection.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 114–92, div. A, title XVI, § 1641(a)</ref>, <date date="2015-11-25">Nov. 25, 2015</date>, <ref>129 Stat. 1114</ref>; <ref>Pub. L. 116–92, div. A, title IX, § 902(8)</ref>, title XVI, § 1621(e)(1)(A)(vi), <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 1543</ref>, 1733; <ref>Pub. L. 116–283, div. A, title X, § 1081(a)(15)</ref>, <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 3871</ref>; <ref>Pub. L. 117–81, div. A, title X, § 1081(a)(9)</ref>, <date date="2021-12-27">Dec. 27, 2021</date>, <ref>135 Stat. 1920</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 394.</num>
+<heading> Authorities concerning military cyber operations</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>The Secretary of Defense shall develop, prepare, and coordinate; make ready all armed forces for purposes of; and, when appropriately authorized to do so, conduct, military cyber activities or operations in cyberspace, including clandestine military activities or operations in cyberspace, to defend the United States and its allies, including in response to malicious cyber activity carried out against the United States or a United States person by a foreign power.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Affirmation of Authority</inline>.—</heading>
+<content>Congress affirms that the activities or operations referred to in subsection (a), when appropriately authorized, include the conduct of military activities or operations in cyberspace short of hostilities (as such term is used in the War Powers Resolution (<ref>Public Law 93–148</ref>; <ref>50 U.S.C. 1541</ref> et seq.)) or in areas in which hostilities are not occurring, including for the purpose of preparation of the environment, information operations, force protection, and deterrence of hostilities, or counterterrorism operations involving the Armed Forces of the United States.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Clandestine Activities or Operations</inline>.—</heading>
+<content>A clandestine military activity or operation in cyberspace shall be considered a traditional military activity for the purposes of section 503(e)(2) of the National Security Act of 1947 (<ref>50 U.S.C. 3093(e)(2)</ref>).</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Congressional Oversight</inline>.—</heading>
+<content>The Secretary shall brief the congressional defense committees about any military activities or operations in cyberspace, including clandestine military activities or operations in cyberspace, occurring during the previous quarter during the quarterly briefing required by <ref>section 484 of this title</ref>.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Rule of Construction</inline>.—</heading>
+<content>Nothing in this section may be construed to limit the authority of the Secretary to conduct military activities or operations in cyberspace, including clandestine military activities or operations in cyberspace, to authorize specific military activities or operations, or to alter or otherwise affect the War Powers Resolution (<ref>50 U.S.C. 1541</ref> et seq.), the Authorization for Use of Military Force (<ref>Public Law 107–40</ref>; <ref>50 U.S.C. 1541</ref> note), or reporting of sensitive military cyber activities or operations required by <ref>section 395 of this title</ref>.</content>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this section:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> The term “clandestine military activity or operation in cyberspace” means a military activity or military operation carried out in cyberspace, or associated preparatory actions, authorized by the President or the Secretary that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is marked by, held in, or conducted with secrecy, where the intent is that the activity or operation will not be apparent or acknowledged publicly; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> is to be carried out—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> as part of a military operation plan approved by the President or the Secretary in anticipation of hostilities or as directed by the President or the Secretary;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to deter, safeguard, or defend against attacks or malicious cyber activities against the United States or Department of Defense information, networks, systems, installations, facilities, or other assets; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> in support of information related capabilities.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The term “foreign power” has the meaning given such term in section 101 of the Foreign Intelligence Surveillance Act of 1978 (<ref>50 U.S.C. 1801</ref>).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The term “United States person” has the meaning given such term in such section.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 114–92, div. A, title XVI, § 1642(a)</ref>, <date date="2015-11-25">Nov. 25, 2015</date>, <ref>129 Stat. 1116</ref>, § 130g; renumbered § 394 and amended <ref>Pub. L. 115–232, div. A, title XVI</ref>, §§ 1631(a), 1632, <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 2123</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 395.</num>
+<heading> Notification requirements for sensitive military cyber operations</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>Except as provided in subsection (d), the Secretary of Defense shall promptly submit to the congressional defense committees notice in writing of any sensitive military cyber operation conducted under this title no later than 48 hours following such operation.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Procedures</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Secretary of Defense shall establish and submit to the congressional defense committees procedures for complying with the requirements of subsection (a) consistent with the national security of the United States and the protection of operational integrity. The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The congressional defense committees shall ensure that committee procedures designed to protect from unauthorized disclosure classified information relating to national security of the United States are sufficient to protect the information that is submitted to the committees pursuant to this section.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> In the event of an unauthorized disclosure of a sensitive military cyber operation covered by this section, the Secretary shall ensure, to the maximum extent practicable, that the congressional defense committees are notified immediately of the sensitive military cyber operation concerned. The notification under this paragraph may be verbal or written, but in the event of a verbal notification a written notification, signed by the Secretary, or the Secretary’s designee, shall be provided by not later than 48 hours after the provision of the verbal notification.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Sensitive Military Cyber Operation Defined</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> In this section, the term “sensitive military cyber operation” means an action described in paragraph (2) that—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> is carried out by the armed forces of the United States;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> is intended to achieve a cyber effect against a foreign terrorist organization or a country, including its armed forces and the proxy forces of that country located elsewhere—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> with which the armed forces of the United States are not involved in hostilities (as that term is used in section 4 of the War Powers Resolution (<ref>50 U.S.C. 1543</ref>)); or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> with respect to which the involvement of the armed forces of the United States in hostilities has not been acknowledged publicly by the United States; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<clause class="indent1">
+<num>(i)</num>
+<chapeau> is determined to—</chapeau>
+<subclause class="indent2">
+<num>(I)</num>
+<content> have a medium or high collateral effects estimate;</content>
+</subclause>
+<subclause class="indent2">
+<num>(II)</num>
+<content> have a medium or high intelligence gain or loss;</content>
+</subclause>
+<subclause class="indent2">
+<num>(III)</num>
+<content> have a medium or high probability of political retaliation, as determined by the political military assessment contained within the associated concept of operations;</content>
+</subclause>
+<subclause class="indent2">
+<num>(IV)</num>
+<content> have a medium or high probability of detection when detection is not intended; or</content>
+</subclause>
+<subclause class="indent2">
+<num>(V)</num>
+<content> result in medium or high collateral effects; or</content>
+</subclause>
+</clause>
+<clause class="indent1">
+<num>(ii)</num>
+<content> is a matter the Secretary determines to be appropriate.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> The actions described in this paragraph are the following:</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> An offensive cyber operation.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> A defensive cyber operation.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Exceptions</inline>.—</heading>
+<chapeau>The notification requirement under subsection (a) does not apply—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to a training exercise conducted with the consent of all nations where the intended effects of the exercise will occur; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to a covert action (as that term is defined in section 503 of the National Security Act of 1947 (<ref>50 U.S.C. 3093</ref>)).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Rule of Construction</inline>.—</heading>
+<content>Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (<ref>50 U.S.C. 1541</ref> et seq.), the Authorization for Use of Military Force (<ref>Public Law 107–40</ref>; <ref>50 U.S.C. 1541</ref> note), or any requirement under the National Security Act of 1947 (<ref>50 U.S.C. 3001</ref> et seq.).</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 115–91, div. A, title XVI, § 1631(a)</ref>, <date date="2017-12-12">Dec. 12, 2017</date>, <ref>131 Stat. 1736</ref>, § 130j; renumbered § 395 and amended <ref>Pub. L. 115–232, div. A, title X, § 1081(a)(1)</ref>, title XVI, § 1631(a), <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 1983</ref>, 2123; <ref>Pub. L. 116–92, div. A, title XVI, § 1632</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 1745</ref>; <ref>Pub. L. 116–283, div. A, title XVII, § 1702</ref>, <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4080</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 396.</num>
+<heading> Notification requirements for cyber weapons</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<chapeau>Except as provided in subsection (c), the Secretary of Defense shall promptly submit to the congressional defense committees notice in writing of the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> With respect to a cyber capability that is intended for use as a weapon, on a quarterly basis, the aggregated results of all reviews of the capability for legality under international law pursuant to Department of Defense Directive 5000.01 carried out by any military department concerned.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The use as a weapon of any cyber capability that has been approved for such use under international law by a military department no later than 48 hours following such use.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Procedures</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Secretary of Defense shall establish and submit to the congressional defense committees procedures for complying with the requirements of subsection (a) consistent with the national security of the United States and the protection of operational integrity. The Secretary shall promptly notify the congressional defense committees in writing of any changes to such procedures at least 14 days prior to the adoption of any such changes.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The congressional defense committees shall ensure that committee procedures designed to protect from unauthorized disclosure classified information relating to national security of the United States are sufficient to protect the information that is submitted to the committees pursuant to this section.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> In the event of an unauthorized disclosure of a cyber capability covered by this section, the Secretary shall ensure, to the maximum extent practicable, that the congressional defense committees are notified immediately of the cyber capability concerned. The notification under this paragraph may be verbal or written, but in the event of a verbal notification a written notification shall be provided by not later than 48 hours after the provision of the verbal notification.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Exceptions</inline>.—</heading>
+<chapeau>The notification requirement under subsection (a) does not apply—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to a training exercise conducted with the consent of all nations where the intended effects of the exercise will occur; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to a covert action (as that term is defined in section 503 of the National Security Act of 1947 (<ref>50 U.S.C. 3093</ref>)).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Rule of Construction</inline>.—</heading>
+<content>Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (<ref>50 U.S.C. 1541</ref> et seq.), the Authorization for Use of Military Force (<ref>Public Law 107–40</ref>; <ref>50 U.S.C. 1541</ref> note), or any requirement under the National Security Act of 1947 (<ref>50 U.S.C. 3001</ref> et seq.).</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 115–91, div. A, title XVI, § 1631(a)</ref>, <date date="2017-12-12">Dec. 12, 2017</date>, <ref>131 Stat. 1737</ref>, § 130k; renumbered § 396 and amended <ref>Pub. L. 115–232, div. A, title X, § 1081(a)(1)</ref>, title XVI, § 1631(a), <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 1983</ref>, 2123.)</sourceCredit>
+</section>
+<section>
+<num>§ 397.</num>
+<heading> Principal Information Operations Advisor</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Designation</inline>.—</heading>
+<content>Not later than 30 days after the enactment of this Act, the Secretary of Defense shall designate, from among officials appointed to a position in the Department of Defense by and with the advice and consent of the Senate, a Principal Information Operations Advisor to act as the principal advisor to the Secretary on all aspects of information operations conducted by the Department.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Responsibilities</inline>.—</heading>
+<chapeau>The Principal Information Operations Advisor shall have the following responsibilities:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Oversight of policy, strategy, planning, resource management, operational considerations, personnel, and technology development across all the elements of information operations of the Department.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Overall integration and supervision of the deterrence of, conduct of, and defense against information operations.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Promulgation of policies to ensure adequate coordination and deconfliction with the Department of State, the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (<ref>50 U.S.C. 3003</ref>)), and other relevant agencies and departments of the Federal Government.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> Coordination with the head of the Global Engagement Center to support the purpose of the Center (as set forth by section 1287(a)(2) of the National Defense Authorization Act for Fiscal Year 2017 (<ref>Public Law 114–328</ref>; <ref>22 U.S.C. 2656</ref> note)) and liaison with the Center and other relevant Federal Government entities to support such purpose.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> Establishing and supervising a rigorous risk management process to mitigate the risk of potential exposure of United States persons to information intended exclusively for foreign audiences.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> Promulgation of standards for the attribution or public acknowledgment, if any, of operations in the information environment.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> Development of guidance for, and promotion of, the capability of the Department to liaison with the private sector and academia on matters relating to the influence activities of malign actors.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> Such other matters relating to information operations as the Secretary shall specify for purposes of this subsection.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 116–92, div. A, title XVI, § 1631(a)(1)</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 1741</ref>; amended <ref>Pub. L. 116–283, div. A, title X, § 1081(a)(16)</ref>, <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 3871</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 398.</num>
+<heading> Military information support operations in information environment</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Congressional Notification Requirement</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> Not later than 48 hours after the execution of any new military information support operation plan (in this section referred to as a “MISO plan”) approved by the commander of a combatant command, or any change in scope of any existing MISO plan, including any underlying MISO supporting plan, the Secretary of Defense shall promptly submit to the congressional defense committees notice in writing of such approval or execution of change in scope.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> A notification under paragraph (1) with respect to a MISO plan shall include each of the following:</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> A description of the military information support operation program (in this section referred to as a “MISO program”) supported by the MISO plan.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> A description of the objectives of the MISO plan.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> A description of the intended target audience for military information support operation activities under the MISO plan.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> A description of the tactics, techniques, and procedures to be used in executing the MISO plan.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> A description of the personnel engaged in supporting or facilitating the operation.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(F)</num>
+<content> The amount of funding anticipated to be obligated and expended to execute the MISO plan during the current and subsequent fiscal years.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(G)</num>
+<content> The expected duration and desired outcome of the MISO plan.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(H)</num>
+<content> Any other elements the Secretary determines appropriate.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> To the maximum extent practicable, the Secretary shall ensure that the congressional defense committees are notified promptly of any unauthorized disclosure of a clandestine military support operation covered by this section. A notification under this subsection may be verbal or written, but in the event of a verbal notification, the Secretary shall provide a written notification by not later than 48 hours after the provision of the verbal notification.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Annual Report</inline>.—</heading>
+<chapeau>Not later than 90 days after the last day of any fiscal year during which the Secretary conducts a MISO plan, the Secretary shall submit to the congressional defense committees a report on all such MISO plans conducted during such fiscal year. Such report shall include each of the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> A list of each MISO program and the combatant command responsible for the program.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> For each MISO plan—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a description of the plan and any supporting plans, including the objectives for the plan;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a description of the intended target audience for the activities carried out under the plan and the means of distribution; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the cost of executing the plan.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Prohibition on Clandestine Operations Designed to Influence Opinions and Politics in United States</inline>.—</heading>
+<chapeau>None of the funds authorized to be appropriated or otherwise made available for the Department of Defense for any fiscal year may be used to conduct a clandestine military information support operation that is designed to influence—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> any political process taking place in the United States;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the opinions of United States persons;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> United States policies; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> media produced by United States entities for United States persons.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 117–263, div. A, title X, § 1052(a)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 2776</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 398a.</num>
+<heading> Pilot program for sharing cyber capabilities and related information with foreign operational partners</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Authority to Establish Pilot Program to Share Cyber Capabilities</inline>.—</heading>
+<content>The Secretary of Defense may, with the concurrence of the Secretary of State, provide cyber capabilities and related information developed or procured by the Department of Defense to foreign countries or organizations described in subsection (b) without compensation, to meet operational imperatives if the Secretary of Defense determines that the provision of such cyber capabilities is in the national security interests of the United States.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">List of Foreign Countries</inline>.—</heading>
+<chapeau>The Secretary of Defense, with the concurrence of the Secretary of State, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> establish—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a list of foreign countries that the Secretary of Defense considers suitable for sharing of cyber capabilities and related information under the authority established under subsection (a); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> criteria for establishing the list under subparagraph (A);</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> not later than 14 days after establishing the list required by paragraph (1), submit to the appropriate committees of Congress such list; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> notify the appropriate committees of Congress in writing of any changes to the list established under paragraph (1) at least 14 days prior to the adoption of any such changes.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Procedures</inline>.—</heading>
+<chapeau>Prior to the first use of the authority provided by subsection (a), the Secretaries of Defense and State shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> establish and submit to the appropriate committees of Congress procedures for a coordination process for subsection (a) that is consistent with the operational timelines required to support the national security of the United States; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> notify the appropriate committees of Congress in writing of any changes to the procedures established under paragraph (1) at least 14 days prior to the adoption of any such changes.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Notification Required</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Secretary of Defense and Secretary of State jointly shall promptly submit to the appropriate committees of Congress notice in writing of any use of the authority provided by subsection (a) no later than 48 hours following the use of the authority.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> Notification under paragraph (1) shall include a certification that the provision of the cyber capabilities was in the national security interests of the United States.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> The notification under paragraph (1) shall include an analysis of whether the transfer and the underlying operational imperative could have been met using another authority.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Termination</inline>.—</heading>
+<content>The authority established under subsection (a) shall terminate on the date that is 3 years after the date on which this authority becomes law.</content>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Performance Metrics</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Secretary of Defense shall maintain performance metrics to track the results of sharing cyber capabilities and related information with foreign operational partners under a pilot program authorized by subsection (a).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> The performance metrics under paragraph (1) shall include the following:</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> Whom the cyber capability was used against.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> The effect of the cyber capability, including whether and how the transfer of the cyber capability improved the operational cyber posture of the United States and achieved operational objectives of the United States, or had no effect.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> Such other outcome-based or appropriate performance metrics as the Secretary considers appropriate for evaluating the effectiveness of a pilot program carried out under subsection (a).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this section:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> The term “appropriate committees of Congress” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the congressional defense committees;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Committee on Foreign Relations of the Senate; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Committee on Foreign Affairs of the House of Representatives.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The term “cyber capability” means a device or computer program, including any combination of software, firmware, or hardware, designed to create an effect in or through cyberspace.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(h)</num>
+<heading><inline class="small-caps">Rule of Construction</inline>.—</heading>
+<content>Nothing in this section shall be construed as amending, diminishing, or otherwise impacting reporting or other obligations under the War Powers Resolution.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 117–263, div. A, title XV, § 1551(a)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 2918</ref>, § 398; renumbered § 398a and amended <ref>Pub. L. 118–31, div. A, title XV, § 1501</ref>, title XVIII, § 1801(a)(6), (7), <date date="2023-12-22">Dec. 22, 2023</date>, <ref>137 Stat. 533</ref>, 683.)</sourceCredit>
+</section>
+<section>
+<num>§ 399.</num>
+<heading> Notifications relating to military operations in the information environment: requirement to notify Chief of Mission</heading>
+<content>
+<p class="indent0">The Secretary may not authorize a military operation in the information environment under this title intended to cause an effect in a country unless the Secretary fully informs the chief of mission for that country under section 207 of the Foreign Service Act of 1980 (<ref>22 U.S.C. 3927</ref>) of the planned operation.</p>
+</content>
+<sourceCredit>(Added <ref>Pub. L. 117–263, div. A, title XV, § 1521</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 2897</ref>.)</sourceCredit>
+</section>
+</chapter>

@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 21—</num>
+<heading>BIOMATERIALS ACCESS ASSURANCE</heading>
+<section>
+<num>§ 1601.</num>
+<heading> Findings</heading>
+<chapeau class="indent0">The Congress finds that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> each year millions of citizens of the United States depend on the availability of lifesaving or life-enhancing medical devices, many of which are permanently implantable within the human body;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a continued supply of raw materials and component parts is necessary for the invention, development, improvement, and maintenance of the supply of the devices;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> most of the medical devices are made with raw materials and component parts that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> move in interstate commerce;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> are not designed or manufactured specifically for use in medical devices; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> come in contact with internal human tissue;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the raw materials and component parts also are used in a variety of nonmedical products;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> because small quantities of the raw materials and component parts are used for medical devices, sales of raw materials and component parts for medical devices constitute an extremely small portion of the overall market for the raw materials and component parts;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> under the Federal Food, Drug, and Cosmetic Act (<ref>21 U.S.C. 301</ref> et seq.) manufacturers of medical devices are required to demonstrate that the medical devices are safe and effective, including demonstrating that the products are properly designed and have adequate warnings or instructions;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<chapeau> notwithstanding the fact that raw materials and component parts suppliers do not design, produce, or test a final medical device, the suppliers have been the subject of actions alleging inadequate—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> design and testing of medical devices manufactured with materials or parts supplied by the suppliers; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> warnings related to the use of such medical devices;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> even though suppliers of raw materials and component parts have very rarely been held liable in such actions, such suppliers have ceased supplying certain raw materials and component parts for use in medical devices for a number of reasons, including concerns about the costs of such litigation;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> unless alternate sources of supply can be found, the unavailability of raw materials and component parts for medical devices will lead to unavailability of lifesaving and life-enhancing medical devices;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> because other suppliers of the raw materials and component parts in foreign nations are refusing to sell raw materials or component parts for use in manufacturing certain medical devices in the United States, the prospects for development of new sources of supply for the full range of threatened raw materials and component parts for medical devices are remote;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> it is unlikely that the small market for such raw materials and component parts in the United States could support the large investment needed to develop new suppliers of such raw materials and component parts;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<content> attempts to develop such new suppliers would raise the cost of medical devices;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<chapeau> courts that have considered the duties of the suppliers of the raw materials and component parts have generally found that the suppliers do not have a duty—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to evaluate the safety and efficacy of the use of a raw material or component part in a medical device; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to warn consumers concerning the safety and effectiveness of a medical device;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(14)</num>
+<content> because medical devices and the raw materials and component parts used in their manufacture move in interstate commerce, a shortage of such raw materials and component parts affects interstate commerce;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(15)</num>
+<chapeau> in order to safeguard the availability of a wide variety of lifesaving and life-enhancing medical devices, immediate action is needed—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to clarify the permissible bases of liability for suppliers of raw materials and component parts for medical devices; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to provide expeditious procedures to dispose of unwarranted suits against the suppliers in such manner as to minimize litigation costs;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(16)</num>
+<content> the several States and their courts are the primary architects and regulators of our tort system; Congress, however, must, in certain circumstances involving the national interest, address tort issues, and a threatened shortage of raw materials and component parts for lifesaving medical devices is one such circumstance; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(17)</num>
+<content> the protections set forth in this chapter are needed to assure the continued supply of materials for lifesaving medical devices, although such protections do not protect negligent suppliers.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 105–230, § 2</ref>, <date date="1998-08-13">Aug. 13, 1998</date>, <ref>112 Stat. 1519</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1602.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0"> As used in this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Biomaterials supplier</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The term “biomaterials supplier” means an entity that directly or indirectly supplies a component part or raw material for use in the manufacture of an implant.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Persons included</heading>
+<chapeau class="indent2">Such term includes any person who—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> has submitted master files to the Secretary for purposes of premarket approval of a medical device; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> licenses a biomaterials supplier to produce component parts or raw materials.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Claimant</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The term “claimant” means any person who brings a civil action, or on whose behalf a civil action is brought, arising from harm allegedly caused directly or indirectly by an implant, including a person other than the individual into whose body, or in contact with whose blood or tissue, the implant is placed, who claims to have suffered harm as a result of the implant.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Action brought on behalf of an estate</heading>
+<content>
+<p class="indent2">With respect to an action brought on behalf of or through the estate of a deceased individual into whose body, or in contact with whose blood or tissue the implant was placed, such term includes the decedent that is the subject of the action.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Action brought on behalf of a minor or incompetent</heading>
+<content>
+<p class="indent2">With respect to an action brought on behalf of or through a minor or incompetent, such term includes the parent or guardian of the minor or incompetent.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Exclusions</heading>
+<chapeau class="indent2">Such term does not include—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<chapeau> a provider of professional health care services in any case in which—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the sale or use of an implant is incidental to such services; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the essence of the professional health care services provided is the furnishing of judgment, skill, or services;</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> a person acting in the capacity of a manufacturer, seller, or biomaterials supplier; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<chapeau> a person alleging harm caused by either the silicone gel or the silicone envelope utilized in a breast implant containing silicone gel, except that—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> neither the exclusion provided by this clause nor any other provision of this chapter may be construed as a finding that silicone gel (or any other form of silicone) may or may not cause harm; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<chapeau> the existence of the exclusion under this clause may not—</chapeau>
+<item class="indent5">
+<num>(aa)</num>
+<content> be disclosed to a jury in any civil action or other proceeding; and</content>
+</item>
+<item class="indent5">
+<num>(bb)</num>
+<content> except as necessary to establish the applicability of this chapter, otherwise be presented in any civil action or other proceeding.</content>
+</item>
+</subclause>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Component part</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The term “component part” means a manufactured piece of an implant.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Certain components</heading>
+<chapeau class="indent2">Such term includes a manufactured piece of an implant that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> has significant non-implant applications; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> alone, has no implant value or purpose, but when combined with other component parts and materials, constitutes an implant.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Harm</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The term “harm” means—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> any injury to or damage suffered by an individual;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> any illness, disease, or death of that individual resulting from that injury or damage; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> any loss to that individual or any other individual resulting from that injury or damage.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Exclusion</heading>
+<content>
+<p class="indent2">The term does not include any commercial loss or loss of or damage to an implant.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Implant</heading>
+<chapeau class="indent1">The term “implant” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> a medical device that is intended by the manufacturer of the device—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to be placed into a surgically or naturally formed or existing cavity of the body for a period of at least 30 days; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to remain in contact with bodily fluids or internal human tissue through a surgically produced opening for a period of less than 30 days; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> suture materials used in implant procedures.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Manufacturer</heading>
+<chapeau class="indent1">The term “manufacturer” means any person who, with respect to an implant—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is engaged in the manufacture, preparation, propagation, compounding, or processing (as defined in <ref>section 360(a)(1) of this title</ref>) of the implant; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> is required—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to register with the Secretary pursuant to <ref>section 360 of this title</ref> and the regulations issued under such section; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to include the implant on a list of devices filed with the Secretary pursuant to <ref>section 360(j) of this title</ref> and the regulations issued under such section.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Medical device</heading>
+<content>
+<p class="indent1">The term “medical device” means a device, as defined in <ref>section 321(h) of this title</ref>, and includes any device component of any combination product as that term is used in <ref>section 353(g) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Raw material</heading>
+<chapeau class="indent1">The term “raw material” means a substance or product that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> has a generic use; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> may be used in an application other than an implant.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Secretary</heading>
+<content>
+<p class="indent1">The term “Secretary” means the Secretary of Health and Human Services.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Seller</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The term “seller” means a person who, in the course of a business conducted for that purpose, sells, distributes, leases, packages, labels, or otherwise places an implant in the stream of commerce.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Exclusions</heading>
+<chapeau class="indent2">The term does not include—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a seller or lessor of real property;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> a provider of professional health care services in any case in which—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the sale or use of the implant is incidental to such services; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the essence of the professional health care services provided is the furnishing of judgment, skill, or services; or</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> any person who acts in only a financial capacity with respect to the sale of an implant.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 105–230, § 3</ref>, <date date="1998-08-13">Aug. 13, 1998</date>, <ref>112 Stat. 1520</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1603.</num>
+<heading> General requirements; applicability; preemption</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> General requirements</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">In any civil action covered by this chapter, a biomaterials supplier may—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> raise any exclusion from liability set forth in <ref>section 1604 of this title</ref>; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> make a motion for dismissal or for summary judgment as set forth in <ref>section 1605 of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Procedures</heading>
+<content>
+<p class="indent1">Notwithstanding any other provision of law, a Federal or State court in which an action covered by this chapter is pending shall, in connection with a motion under section 1605 or 1606 of this title, use the procedures set forth in this chapter.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Applicability</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Except as provided in paragraph (2), this chapter applies to any civil action brought by a claimant, whether in a Federal or State court, on the basis of any legal theory, for harm allegedly caused, directly or indirectly, by an implant.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Exclusion</heading>
+<chapeau class="indent1">A civil action brought by a purchaser of a medical device, purchased for use in providing professional health care services, for loss or damage to an implant or for commercial loss to the purchaser—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> shall not be considered an action that is subject to this chapter; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> shall be governed by applicable commercial or contract law.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Scope of preemption</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">This chapter supersedes any State law regarding recovery for harm caused by an implant and any rule of procedure applicable to a civil action to recover damages for such harm only to the extent that this chapter establishes a rule of law applicable to the recovery of such damages.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Applicability of other laws</heading>
+<content>
+<p class="indent1">Any issue that arises under this chapter and that is not governed by a rule of law applicable to the recovery of damages described in paragraph (1) shall be governed by applicable Federal or State law.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Statutory construction</heading>
+<chapeau class="indent0">Nothing in this chapter may be construed—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to affect any defense available to a defendant under any other provisions of Federal or State law in an action alleging harm caused by an implant; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to create a cause of action or Federal court jurisdiction pursuant to section 1331 or 1337 of title 28 that otherwise would not exist under applicable Federal or State law.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–230, § 4</ref>, <date date="1998-08-13">Aug. 13, 1998</date>, <ref>112 Stat. 1523</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1604.</num>
+<heading> Liability of biomaterials suppliers</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Except as provided in <ref>section 1606 of this title</ref>, a biomaterials supplier shall not be liable for harm to a claimant caused by an implant unless such supplier is liable—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> as a manufacturer of the implant, as provided in subsection (b);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> as a seller of the implant, as provided in subsection (c); or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in subsection (d).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Liability as manufacturer</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">A biomaterials supplier may, to the extent required and permitted by any other applicable law, be liable for harm to a claimant caused by an implant if the biomaterials supplier is the manufacturer of the implant.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Grounds for liability</heading>
+<chapeau class="indent1">The biomaterials supplier may be considered the manufacturer of the implant that allegedly caused harm to a claimant only if the biomaterials supplier—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<clause class="indent2">
+<num>(i)</num>
+<content> registered or was required to register with the Secretary pursuant to <ref>section 360 of this title</ref> and the regulations issued under such section; and</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> included or was required to include the implant on a list of devices filed with the Secretary pursuant to <ref>section 360(j) of this title</ref> and the regulations issued under such section;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> is the subject of a declaration issued by the Secretary pursuant to paragraph (3) that states that the supplier, with respect to the implant that allegedly caused harm to the claimant, was required to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> register with the Secretary under <ref>section 360 of this title</ref>, and the regulations issued under such section, but failed to do so; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> include the implant on a list of devices filed with the Secretary pursuant to <ref>section 360(j) of this title</ref> and the regulations issued under such section, but failed to do so; or</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> is related by common ownership or control to a person meeting all the requirements described in subparagraph (A) or (B), if the court deciding a motion to dismiss in accordance with <ref>section 1605(c)(3)(B)(i) of this title</ref> finds, on the basis of affidavits submitted in accordance with <ref>section 1605 of this title</ref>, that it is necessary to impose liability on the biomaterials supplier as a manufacturer because the related manufacturer meeting the requirements of subparagraph (A) or (B) lacks sufficient financial resources to satisfy any judgment that the court feels it is likely to enter should the claimant prevail.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Administrative procedures</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The Secretary may issue a declaration described in paragraph (2)(B) on the motion of the Secretary or on petition by any person, after providing—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> notice to the affected persons; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> an opportunity for an informal hearing.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Docketing and final decision</heading>
+<content>
+<p class="indent2">Immediately upon receipt of a petition filed pursuant to this paragraph, the Secretary shall docket the petition. Not later than 120 days after the petition is filed, the Secretary shall issue a final decision on the petition.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Applicability of statute of limitations</heading>
+<content>
+<p class="indent2">Any applicable statute of limitations shall toll during the period from the time a claimant files a petition with the Secretary under this paragraph until such time as either (i) the Secretary issues a final decision on the petition, or (ii) the petition is withdrawn.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Stay pending petition for declaration</heading>
+<content>
+<p class="indent2">If a claimant has filed a petition for a declaration with respect to a defendant, and the Secretary has not issued a final decision on the petition, the court shall stay all proceedings with respect to that defendant until such time as the Secretary has issued a final decision on the petition.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Liability as seller</heading>
+<chapeau class="indent0">A biomaterials supplier may, to the extent required and permitted by any other applicable law, be liable as a seller for harm to a claimant caused by an implant only if—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> the biomaterials supplier—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> held title to the implant and then acted as a seller of the implant after its initial sale by the manufacturer; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> acted under contract as a seller to arrange for the transfer of the implant directly to the claimant after the initial sale by the manufacturer of the implant; or</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the biomaterials supplier is related by common ownership or control to a person meeting all the requirements described in paragraph (1), if a court deciding a motion to dismiss in accordance with <ref>section 1605(c)(3)(B)(ii) of this title</ref> finds, on the basis of affidavits submitted in accordance with <ref>section 1605 of this title</ref>, that it is necessary to impose liability on the biomaterials supplier as a seller because the related seller meeting the requirements of paragraph (1) lacks sufficient financial resources to satisfy any judgment that the court feels it is likely to enter should the claimant prevail.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Liability for failure to meet applicable contractual requirements or specifications</heading>
+<chapeau class="indent0">A biomaterials supplier may, to the extent required and permitted by any other applicable law, be liable for harm to a claimant caused by an implant if the claimant in an action shows, by a preponderance of the evidence, that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> the biomaterials supplier supplied raw materials or component parts for use in the implant that either—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> did not constitute the product described in the contract between the biomaterials supplier and the person who contracted for the supplying of the product; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> failed to meet any specifications that were—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> accepted, pursuant to applicable law, by the biomaterials supplier;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> published by the biomaterials supplier;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> provided by the biomaterials supplier to the person who contracted for such product;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> contained in a master file that was submitted by the biomaterials supplier to the Secretary and that is currently maintained by the biomaterials supplier for purposes of premarket approval of medical devices; or</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> included in the submissions for purposes of premarket approval or review by the Secretary under section 360, 360c, 360e, or 360j of this title, and received clearance from the Secretary if such specifications were accepted, pursuant to applicable law, by the biomaterials supplier; and</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> such failure to meet applicable contractual requirements or specifications was an actual and proximate cause of the harm to the claimant.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–230, § 5</ref>, <date date="1998-08-13">Aug. 13, 1998</date>, <ref>112 Stat. 1524</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1605.</num>
+<heading> Procedures for dismissal of civil actions against biomaterials suppliers</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Motion to dismiss</heading>
+<chapeau class="indent0">A defendant may, at any time during which a motion to dismiss may be filed under applicable law, move to dismiss an action against it on the grounds that the defendant is a biomaterials supplier and one or more of the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The defendant is not liable as a manufacturer, as provided in <ref>section 1604(b) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The defendant is not liable as a seller, as provided in <ref>section 1604(c) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The defendant is not liable for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in <ref>section 1604(d) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The claimant did not name the manufacturer as a party to the action, as provided in subsection (b).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Manufacturer of implant shall be named a party</heading>
+<chapeau class="indent0">In any civil action covered by this chapter, the claimant shall be required to name the manufacturer of the implant as a party to the action, unless—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the manufacturer is subject to service of process solely in a jurisdiction in which the biomaterials supplier is not domiciled or subject to a service of process; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a claim against the manufacturer is barred by applicable law or rule of practice.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Proceeding on motion to dismiss</heading>
+<chapeau class="indent0">The following rules shall apply to any proceeding on a motion to dismiss filed by a defendant under this section:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Effect of motion to dismiss on discovery</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Except as provided in subparagraph (B), if a defendant files a motion to dismiss under subsection (a), no discovery shall be permitted in connection with the action that is the subject of the motion, other than discovery necessary to determine a motion to dismiss for lack of jurisdiction, until such time as the court rules on the motion to dismiss.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Discovery</heading>
+<chapeau class="indent2">If a defendant files a motion to dismiss under subsection (a)(3) on the grounds that it did not furnish raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, the court may permit discovery limited to issues that are directly relevant to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the pending motion to dismiss; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the jurisdiction of the court.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Affidavits</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Defendant</heading>
+<content>
+<p class="indent2">A defendant may submit affidavits supporting the grounds for dismissal contained in its motion to dismiss under subsection (a). If the motion is made under subsection (a)(1), the defendant may submit an affidavit demonstrating that the defendant has not included the implant on a list, if any, filed with the Secretary pursuant to <ref>section 360(j) of this title</ref>.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Claimant</heading>
+<chapeau class="indent2">In response to a motion to dismiss, the claimant may submit affidavits demonstrating that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the Secretary has, with respect to the defendant and the implant that allegedly caused harm to the claimant, issued a declaration pursuant to <ref>section 1604(b)(2)(B) of this title</ref>; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the defendant is a seller of the implant who is liable under <ref>section 1604(c) of this title</ref>.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Basis of ruling on motion to dismiss</heading>
+<chapeau class="indent1">The court shall rule on a motion to dismiss filed under subsection (a) solely on the basis of the pleadings and affidavits of the parties made pursuant to this subsection. The court shall grant a motion to dismiss filed under subsection (a)—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> unless the claimant submits a valid affidavit that demonstrates that the defendant is not a biomaterials supplier;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> unless the court determines, to the extent raised in the pleadings and affidavits, that one or more of the following apply:</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the defendant may be liable as a manufacturer, as provided in <ref>section 1604(b) of this title</ref>;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the defendant may be liable as a seller, as provided in <ref>section 1604(c) of this title</ref>; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the defendant may be liable for furnishing raw materials or component parts for the implant that failed to meet applicable contractual requirements or specifications, as provided in <ref>section 1604(d) of this title</ref>; or</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> if the claimant did not name the manufacturer as a party to the action, as provided in subsection (b).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Treatment of motion as motion for summary judgment</heading>
+<content>
+<p class="indent1">The court may treat a motion to dismiss as a motion for summary judgment subject to subsection (d) in order to determine whether the pleadings and affidavits, in connection with such action, raise genuine issues of material fact concerning whether the defendant furnished raw materials or component parts of the implant that failed to meet applicable contractual requirements or specifications as provided in <ref>section 1604(d) of this title</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Summary judgment</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Basis for entry of judgment</heading>
+<content>
+<p class="indent2">If a motion to dismiss of a biomaterials supplier is to be treated as a motion for summary judgment under subsection (c)(4) or if a biomaterials supplier moves for summary judgment, the biomaterials supplier shall be entitled to entry of judgment without trial if the court finds there is no genuine issue of material fact for each applicable element set forth in paragraphs (1) and (2) of <ref>section 1604(d) of this title</ref>.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Issues of material fact</heading>
+<content>
+<p class="indent2">With respect to a finding made under subparagraph (A), the court shall consider a genuine issue of material fact to exist only if the evidence submitted by the claimant would be sufficient to allow a reasonable jury to reach a verdict for the claimant if the jury found the evidence to be credible.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Discovery made prior to a ruling on a motion for summary judgment</heading>
+<content>
+<p class="indent1">If, under applicable rules, the court permits discovery prior to a ruling on a motion for summary judgment governed by <ref>section 1604(d) of this title</ref>, such discovery shall be limited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of <ref>section 1604(d) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Discovery with respect to a biomaterials supplier</heading>
+<content>
+<p class="indent1">A biomaterials supplier shall be subject to discovery in connection with a motion seeking dismissal or summary judgment on the basis of the inapplicability of <ref>section 1604(d) of this title</ref> or the failure to establish the applicable elements of <ref>section 1604(d) of this title</ref> solely to the extent permitted by the applicable Federal or State rules for discovery against nonparties.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Dismissal with prejudice</heading>
+<content>
+<p class="indent0">An order granting a motion to dismiss or for summary judgment pursuant to this section shall be entered with prejudice, except insofar as the moving defendant may be rejoined to the action as provided in <ref>section 1606 of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Manufacturer conduct of litigation</heading>
+<content>
+<p class="indent0">The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–230, § 6</ref>, <date date="1998-08-13">Aug. 13, 1998</date>, <ref>112 Stat. 1526</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1606.</num>
+<heading> Subsequent impleader of dismissed biomaterials supplier</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Impleading of dismissed defendant</heading>
+<chapeau class="indent0">A court, upon motion by a manufacturer or a claimant within 90 days after entry of a final judgment in an action by the claimant against a manufacturer, and notwithstanding any otherwise applicable statute of limitations, may implead a biomaterials supplier who has been dismissed from the action pursuant to this chapter if—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> the manufacturer has made an assertion, either in a motion or other pleading filed with the court or in an opening or closing statement at trial, or as part of a claim for contribution or indemnification, and the court finds based on the court’s independent review of the evidence contained in the record of the action, that under applicable law—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the negligence or intentionally tortious conduct of the dismissed supplier was an actual and proximate cause of the harm to the claimant; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the manufacturer’s liability for damages should be reduced in whole or in part because of such negligence or intentionally tortious conduct; or</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> the claimant has moved to implead the supplier and the court finds, based on the court’s independent review of the evidence contained in the record of the action, that under applicable law—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the negligence or intentionally tortious conduct of the dismissed supplier was an actual and proximate cause of the harm to the claimant; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the claimant is unlikely to be able to recover the full amount of its damages from the remaining defendants.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Standard of liability</heading>
+<chapeau class="indent0">Notwithstanding any preliminary finding under subsection (a), a biomaterials supplier who has been impleaded into an action covered by this chapter, as provided for in this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> may, prior to entry of judgment on the claim against it, supplement the record of the proceeding that was developed prior to the grant of the motion for impleader under subsection (a); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> may be found liable to a manufacturer or a claimant only to the extent required and permitted by any applicable State or Federal law other than this chapter.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Discovery</heading>
+<content>
+<p class="indent0">Nothing in this section shall give a claimant or any other party the right to obtain discovery from a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under <ref>section 1605 of this title</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–230, § 7</ref>, <date date="1998-08-13">Aug. 13, 1998</date>, <ref>112 Stat. 1528</ref>.)</sourceCredit>
+</section>
+</chapter>

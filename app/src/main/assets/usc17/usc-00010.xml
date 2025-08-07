@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 10—</num>
+<heading>DIGITAL AUDIO RECORDING DEVICES AND MEDIA</heading>
+<subchapter>
+<num>SUBCHAPTER A—</num>
+<heading>DEFINITIONS</heading>
+<section>
+<num>§ 1001.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">As used in this chapter, the following terms have the following meanings:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> A “digital audio copied recording” is a reproduction in a digital recording format of a digital musical recording, whether that reproduction is made directly from another digital musical recording or indirectly from a transmission.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> A “digital audio interface device” is any machine or device that is designed specifically to communicate digital audio information and related interface data to a digital audio recording device through a nonprofessional interface.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> A “digital audio recording device” is any machine or device of a type commonly distributed to individuals for use by individuals, whether or not included with or as part of some other machine or device, the digital recording function of which is designed or marketed for the primary purpose of, and that is capable of, making a digital audio copied recording for private use, except for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> professional model products, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> dictation machines, answering machines, and other audio recording equipment that is designed and marketed primarily for the creation of sound recordings resulting from the fixation of nonmusical sounds.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> A “digital audio recording medium” is any material object in a form commonly distributed for use by individuals, that is primarily marketed or most commonly used by consumers for the purpose of making digital audio copied recordings by use of a digital audio recording device.</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> Such term does not include any material object—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> that embodies a sound recording at the time it is first distributed by the importer or manufacturer; or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> that is primarily marketed and most commonly used by consumers either for the purpose of making copies of motion pictures or other audiovisual works or for the purpose of making copies of nonmusical literary works, including computer programs or data bases.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<subparagraph class="indent1">
+<num>(A)</num>
+<chapeau> A “digital musical recording” is a material object—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> in which are fixed, in a digital recording format, only sounds, and material, statements, or instructions incidental to those fixed sounds, if any, and</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> from which the sounds and material can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> A “digital musical recording” does not include a material object—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> in which the fixed sounds consist entirely of spoken word recordings, or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> in which one or more computer programs are fixed, except that a digital musical recording may contain statements or instructions constituting the fixed sounds and incidental material, and statements or instructions to be used directly or indirectly in order to bring about the perception, reproduction, or communication of the fixed sounds and incidental material.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<chapeau> For purposes of this paragraph—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> a “spoken word recording” is a sound recording in which are fixed only a series of spoken words, except that the spoken words may be accompanied by incidental musical or other sounds, and</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> the term “incidental” means related to and relatively minor by comparison.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> “Distribute” means to sell, lease, or assign a product to consumers in the United States, or to sell, lease, or assign a product in the United States for ultimate transfer to consumers in the United States.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<chapeau> An “interested copyright party” is—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the owner of the exclusive right under <ref>section 106(1) of this title</ref> to reproduce a sound recording of a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the legal or beneficial owner of, or the person that controls, the right to reproduce in a digital musical recording or analog musical recording a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a featured recording artist who performs on a sound recording that has been distributed; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> any association or other organization—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> representing persons specified in subparagraph (A), (B), or (C), or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> engaged in licensing rights in musical works to music users on behalf of writers and publishers.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> To “manufacture” means to produce or assemble a product in the United States. A “manufacturer” is a person who manufactures.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> A “music publisher” is a person that is authorized to license the reproduction of a particular musical work in a sound recording.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> A “professional model product” is an audio recording device that is designed, manufactured, marketed, and intended for use by recording professionals in the ordinary course of a lawful business, in accordance with such requirements as the Secretary of Commerce shall establish by regulation.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> The term “serial copying” means the duplication in a digital format of a copyrighted musical work or sound recording from a digital reproduction of a digital musical recording. The term “digital reproduction of a digital musical recording” does not include a digital musical recording as distributed, by authority of the copyright owner, for ultimate sale to consumers.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<chapeau> The “transfer price” of a digital audio recording device or a digital audio recording medium—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> is, subject to subparagraph (B)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in the case of an imported product, the actual entered value at United States Customs (exclusive of any freight, insurance, and applicable duty), and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in the case of a domestic product, the manufacturer’s transfer price (FOB the manufacturer, and exclusive of any direct sales taxes or excise taxes incurred in connection with the sale); and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> shall, in a case in which the transferor and transferee are related entities or within a single entity, not be less than a reasonable arms-length price under the principles of the regulations adopted pursuant to section 482 of the Internal Revenue Code of 1986, or any successor provision to such section.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<content> A “writer” is the composer or lyricist of a particular musical work.</content>
+</paragraph>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4237</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER B—</num>
+<heading>COPYING CONTROLS</heading>
+<section>
+<num>§ 1002.</num>
+<heading> Incorporation of copying controls</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Prohibition on Importation, Manufacture, and Distribution</inline>.—</heading>
+<chapeau>No person shall import, manufacture, or distribute any digital audio recording device or digital audio interface device that does not conform to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the Serial Copy Management System;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a system that has the same functional characteristics as the Serial Copy Management System and requires that copyright and generation status information be accurately sent, received, and acted upon between devices using the system’s method of serial copying regulation and devices using the Serial Copy Management System; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> any other system certified by the Secretary of Commerce as prohibiting unauthorized serial copying.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Development of Verification Procedure</inline>.—</heading>
+<content>The Secretary of Commerce shall establish a procedure to verify, upon the petition of an interested party, that a system meets the standards set forth in subsection (a)(2).</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Prohibition on Circumvention of the System</inline>.—</heading>
+<content>No person shall import, manufacture, or distribute any device, or offer or perform any service, the primary purpose or effect of which is to avoid, bypass, remove, deactivate, or otherwise circumvent any program or circuit which implements, in whole or in part, a system described in subsection (a).</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading>
+<inline class="small-caps">Encoding of Information on Digital Musical Recordings.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Prohibition on encoding inaccurate information</inline>.—</heading>
+<content>No person shall encode a digital musical recording of a sound recording with inaccurate information relating to the category code, copyright status, or generation status of the source material for the recording.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Encoding of copyright status not required</inline>.—</heading>
+<content>Nothing in this chapter requires any person engaged in the importation or manufacture of digital musical recordings to encode any such digital musical recording with respect to its copyright status.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Information Accompanying Transmissions in Digital Format</inline>.—</heading>
+<content>Any person who transmits or otherwise communicates to the public any sound recording in digital format is not required under this chapter to transmit or otherwise communicate the information relating to the copyright status of the sound recording. Any such person who does transmit or otherwise communicate such copyright status information shall transmit or communicate such information accurately.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4240</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER C—</num>
+<heading>ROYALTY PAYMENTS</heading>
+<section>
+<num>§ 1003.</num>
+<heading> Obligation to make royalty payments</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Prohibition on Importation and Manufacture</inline>.—</heading>
+<content>No person shall import into and distribute, or manufacture and distribute, any digital audio recording device or digital audio recording medium unless such person records the notice specified by this section and subsequently deposits the statements of account and applicable royalty payments for such device or medium specified in section 1004.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Filing of Notice</inline>.—</heading>
+<content>The importer or manufacturer of any digital audio recording device or digital audio recording medium, within a product category or utilizing a technology with respect to which such manufacturer or importer has not previously filed a notice under this subsection, shall file with the Register of Copyrights a notice with respect to such device or medium, in such form and content as the Register shall prescribe by regulation.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Filing of Quarterly and Annual Statements of Account.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Generally</inline>.—</heading>
+<content>Any importer or manufacturer that distributes any digital audio recording device or digital audio recording medium that it manufactured or imported shall file with the Register of Copyrights, in such form and content as the Register shall prescribe by regulation, such quarterly and annual statements of account with respect to such distribution as the Register shall prescribe by regulation.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Certification, verification, and confidentiality</inline>.—</heading>
+<content>Each such statement shall be certified as accurate by an authorized officer or principal of the importer or manufacturer. The Register shall issue regulations to provide for the verification and audit of such statements and to protect the confidentiality of the information contained in such statements. Such regulations shall provide for the disclosure, in confidence, of such statements to interested copyright parties.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Royalty payments</inline>.—</heading>
+<content>Each such statement shall be accompanied by the royalty payments specified in section 1004.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4240</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1004.</num>
+<heading> Royalty payments</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">Digital Audio Recording Devices.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Amount of payment</inline>.—</heading>
+<content>The royalty payment due under section 1003 for each digital audio recording device imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 2 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such device shall be required to pay the royalty with respect to such device.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Calculation for devices distributed with other devices</inline>.—</heading>
+<chapeau>With respect to a digital audio recording device first distributed in combination with one or more devices, either as a physically integrated unit or as separate components, the royalty payment shall be calculated as follows:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> If the digital audio recording device and such other devices are part of a physically integrated unit, the royalty payment shall be based on the transfer price of the unit, but shall be reduced by any royalty payment made on any digital audio recording device included within the unit that was not first distributed in combination with the unit.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> If the digital audio recording device is not part of a physically integrated unit and substantially similar devices have been distributed separately at any time during the preceding 4 calendar quarters, the royalty payment shall be based on the average transfer price of such devices during those 4 quarters.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> If the digital audio recording device is not part of a physically integrated unit and substantially similar devices have not been distributed separately at any time during the preceding 4 calendar quarters, the royalty payment shall be based on a constructed price reflecting the proportional value of such device to the combination as a whole.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Limits on royalties</inline>.—</heading>
+<content>Notwithstanding paragraph (1) or (2), the amount of the royalty payment for each digital audio recording device shall not be less than $1 nor more than the royalty maximum. The royalty maximum shall be $8 per device, except that in the case of a physically integrated unit containing more than 1 digital audio recording device, the royalty maximum for such unit shall be $12. During the 6th year after the effective date of this chapter, and not more than once each year thereafter, any interested copyright party may petition the Copyright Royalty Judges to increase the royalty maximum and, if more than 20 percent of the royalty payments are at the relevant royalty maximum, the Copyright Royalty Judges shall prospectively increase such royalty maximum with the goal of having no more than 10 percent of such payments at the new royalty maximum; however the amount of any such increase as a percentage of the royalty maximum shall in no event exceed the percentage increase in the Consumer Price Index during the period under review.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Digital Audio Recording Media</inline>.—</heading>
+<content>The royalty payment due under section 1003 for each digital audio recording medium imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 3 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such medium shall be required to pay the royalty with respect to such medium.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4241</ref>; amended <ref>Pub. L. 103–198, § 6(b)(1)</ref>, <date date="1993-12-17">Dec. 17, 1993</date>, <ref>107 Stat. 2312</ref>; <ref>Pub. L. 108–419, § 5(i)(1)</ref>, <date date="2004-11-30">Nov. 30, 2004</date>, <ref>118 Stat. 2368</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1005.</num>
+<heading> Deposit of royalty payments and deduction of expenses</heading>
+<content>
+<p class="indent0">The Register of Copyrights shall receive all royalty payments deposited under this chapter and, after deducting the reasonable costs incurred by the Copyright Office under this chapter, shall deposit the balance in the Treasury of the United States as offsetting receipts, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest under section 1007. The Register may, in the Register’s discretion, 4 years after the close of any calendar year, close out the royalty payments account for that calendar year, and may treat any funds remaining in such account and any subsequent deposits that would otherwise be attributable to that calendar year as attributable to the succeeding calendar year.</p>
+</content>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4242</ref>; amended <ref>Pub. L. 103–198, § 6(b)(2)</ref>, <date date="1993-12-17">Dec. 17, 1993</date>, <ref>107 Stat. 2312</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1006.</num>
+<heading> Entitlement to royalty payments</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Interested Copyright Parties</inline>.—</heading>
+<chapeau>The royalty payments deposited pursuant to section 1005 shall, in accordance with the procedures specified in section 1007, be distributed to any interested copyright party—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> whose musical work or sound recording has been—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> embodied in a digital musical recording or an analog musical recording lawfully made under this title that has been distributed, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions, during the period to which such payments pertain; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> who has filed a claim under section 1007.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Allocation of Royalty Payments to Groups</inline>.—</heading>
+<chapeau>The royalty payments shall be divided into 2 funds as follows:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">The sound recordings fund</inline>.—</heading>
+<content>66⅔ percent of the royalty payments shall be allocated to the Sound Recordings Fund. 2⅝ percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 1⅜ percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading>
+<inline class="small-caps">The musical works fund.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> 33⅓ percent of the royalty payments shall be allocated to the Musical Works Fund for distribution to interested copyright parties described in section 1001(7)(B).</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<clause class="indent2">
+<num>(i)</num>
+<content> Music publishers shall be entitled to 50 percent of the royalty payments allocated to the Musical Works Fund.</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> Writers shall be entitled to the other 50 percent of the royalty payments allocated to the Musical Works Fund.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Allocation of Royalty Payments Within Groups</inline>.—</heading>
+<chapeau>If all interested copyright parties within a group specified in subsection (b) do not agree on a voluntary proposal for the distribution of the royalty payments within each group, the Copyright Royalty Judges shall, pursuant to the procedures specified under section 1007(c), allocate royalty payments under this section based on the extent to which, during the relevant period—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> for the Sound Recordings Fund, each sound recording was distributed in the form of digital musical recordings or analog musical recordings; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4242</ref>; amended <ref>Pub. L. 103–198, § 6(b)(3)</ref>, <date date="1993-12-17">Dec. 17, 1993</date>, <ref>107 Stat. 2312</ref>; <ref>Pub. L. 105–80, § 12(a)(24)</ref>, <date date="1997-11-13">Nov. 13, 1997</date>, <ref>111 Stat. 1535</ref>; <ref>Pub. L. 108–419, § 5(i)(2)</ref>, <date date="2004-11-30">Nov. 30, 2004</date>, <ref>118 Stat. 2368</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1007.</num>
+<heading> Procedures for distributing royalty payments</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">Filing of Claims and Negotiations.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Filing of claims</inline>.—</heading>
+<content>During the first 2 months of each calendar year, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Copyright Royalty Judges a claim for payments collected during the preceding year in such form and manner as the Copyright Royalty Judges shall prescribe by regulation.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Negotiations</inline>.—</heading>
+<content>Notwithstanding any provision of the antitrust laws, for purposes of this section interested copyright parties within each group specified in section 1006(b) may agree among themselves to the proportionate division of royalty payments, may lump their claims together and file them jointly or as a single claim, or may designate a common agent, including any organization described in section 1001(7)(D), to negotiate or receive payment on their behalf; except that no agreement under this subsection may modify the allocation of royalties specified in section 1006(b).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Distribution of Payments in the Absence of a Dispute</inline>.—</heading>
+<content>After the period established for the filing of claims under subsection (a), in each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a). The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Resolution of Disputes</inline>.—</heading>
+<content>If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments. During the pendency of such a proceeding, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4244</ref>; amended <ref>Pub. L. 103–198, § 6(b)(4)</ref>, <date date="1993-12-17">Dec. 17, 1993</date>, <ref>107 Stat. 2312</ref>; <ref>Pub. L. 105–80</ref>, §§ 9, 12(a)(25), <date date="1997-11-13">Nov. 13, 1997</date>, <ref>111 Stat. 1534</ref>, 1535; <ref>Pub. L. 108–419, § 5(i)(3)</ref>, <date date="2004-11-30">Nov. 30, 2004</date>, <ref>118 Stat. 2368</ref>; <ref>Pub. L. 109–303, § 4(f)</ref>, <date date="2006-10-06">Oct. 6, 2006</date>, <ref>120 Stat. 1483</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER D—</num>
+<heading>PROHIBITION ON CERTAIN INFRINGEMENT ACTIONS, REMEDIES, AND ARBITRATION</heading>
+<section>
+<num>§ 1008.</num>
+<heading> Prohibition on certain infringement actions</heading>
+<content>
+<p class="indent0">No action may be brought under this title alleging infringement of copyright based on the manufacture, importation, or distribution of a digital audio recording device, a digital audio recording medium, an analog recording device, or an analog recording medium, or based on the noncommercial use by a consumer of such a device or medium for making digital musical recordings or analog musical recordings.</p>
+</content>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4244</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1009.</num>
+<heading> Civil remedies</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Civil Actions</inline>.—</heading>
+<content>Any interested copyright party injured by a violation of section 1002 or 1003 may bring a civil action in an appropriate United States district court against any person for such violation.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Other Civil Actions</inline>.—</heading>
+<content>Any person injured by a violation of this chapter may bring a civil action in an appropriate United States district court for actual damages incurred as a result of such violation.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Powers of the Court</inline>.—</heading>
+<chapeau>In an action brought under subsection (a), the court—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> may grant temporary and permanent injunctions on such terms as it deems reasonable to prevent or restrain such violation;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> in the case of a violation of section 1002, or in the case of an injury resulting from a failure to make royalty payments required by section 1003, shall award damages under subsection (d);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> in its discretion may allow the recovery of costs by or against any party other than the United States or an officer thereof; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> in its discretion may award a reasonable attorney’s fee to the prevailing party.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading>
+<inline class="small-caps">Award of Damages.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading>
+<inline class="small-caps">Damages for section 1002 or 1003 violations.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">Actual damages</inline>.—</heading>
+<clause class="indent2">
+<num>(i)</num>
+<content> In an action brought under subsection (a), if the court finds that a violation of section 1002 or 1003 has occurred, the court shall award to the complaining party its actual damages if the complaining party elects such damages at any time before final judgment is entered.</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> In the case of section 1003, actual damages shall constitute the royalty payments that should have been paid under section 1004 and deposited under section 1005. In such a case, the court, in its discretion, may award an additional amount of not to exceed 50 percent of the actual damages.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading>
+<inline class="small-caps">Statutory damages for section 1002 violations.—</inline>
+</heading>
+<clause class="indent3">
+<num>(i)</num>
+<heading><inline class="small-caps">Device</inline>.—</heading>
+<content>A complaining party may recover an award of statutory damages for each violation of section 1002(a) or (c) in the sum of not more than $2,500 per device involved in such violation or per device on which a service prohibited by section 1002(c) has been performed, as the court considers just.</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<heading><inline class="small-caps">Digital musical recording</inline>.—</heading>
+<content>A complaining party may recover an award of statutory damages for each violation of section 1002(d) in the sum of not more than $25 per digital musical recording involved in such violation, as the court considers just.</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<heading><inline class="small-caps">Transmission</inline>.—</heading>
+<content>A complaining party may recover an award of damages for each transmission or communication that violates section 1002(e) in the sum of not more than $10,000, as the court considers just.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Repeated violations</inline>.—</heading>
+<content>In any case in which the court finds that a person has violated section 1002 or 1003 within 3 years after a final judgment against that person for another such violation was entered, the court may increase the award of damages to not more than double the amounts that would otherwise be awarded under paragraph (1), as the court considers just.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Innocent violations of section 1002</inline>.—</heading>
+<content>The court in its discretion may reduce the total award of damages against a person violating section 1002 to a sum of not less than $250 in any case in which the court finds that the violator was not aware and had no reason to believe that its acts constituted a violation of section 1002.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Payment of Damages</inline>.—</heading>
+<content>Any award of damages under subsection (d) shall be deposited with the Register pursuant to section 1005 for distribution to interested copyright parties as though such funds were royalty payments made pursuant to section 1003.</content>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Impounding of Articles</inline>.—</heading>
+<content>At any time while an action under subsection (a) is pending, the court may order the impounding, on such terms as it deems reasonable, of any digital audio recording device, digital musical recording, or device specified in section 1002(c) that is in the custody or control of the alleged violator and that the court has reasonable cause to believe does not comply with, or was involved in a violation of, section 1002.</content>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading><inline class="small-caps">Remedial Modification and Destruction of Articles</inline>.—</heading>
+<chapeau>In an action brought under subsection (a), the court may, as part of a final judgment or decree finding a violation of section 1002, order the remedial modification or the destruction of any digital audio recording device, digital musical recording, or device specified in section 1002(c) that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> does not comply with, or was involved in a violation of, section 1002, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> is in the custody or control of the violator or has been impounded under subsection (f).</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4245</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1010.</num>
+<heading> Determination of certain disputes</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Scope of Determination</inline>.—</heading>
+<content>Before the date of first distribution in the United States of a digital audio recording device or a digital audio interface device, any party manufacturing, importing, or distributing such device, and any interested copyright party may mutually agree to petition the Copyright Royalty Judges to determine whether such device is subject to section 1002, or the basis on which royalty payments for such device are to be made under section 1003.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Initiation of Proceedings</inline>.—</heading>
+<content>The parties under subsection (a) shall file the petition with the Copyright Royalty Judges requesting the commencement of a proceeding. Within 2 weeks after receiving such a petition, the Chief Copyright Royalty Judge shall cause notice to be published in the Federal Register of the initiation of the proceeding.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Stay of Judicial Proceedings</inline>.—</heading>
+<content>Any civil action brought under section 1009 against a party to a proceeding under this section shall, on application of one of the parties to the proceeding, be stayed until completion of the proceeding.</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Proceeding</inline>.—</heading>
+<content>The Copyright Royalty Judges shall conduct a proceeding with respect to the matter concerned, in accordance with such procedures as the Copyright Royalty Judges may adopt. The Copyright Royalty Judges shall act on the basis of a fully documented written record. Any party to the proceeding may submit relevant information and proposals to the Copyright Royalty Judges. The parties to the proceeding shall each bear their respective costs of participation.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Judicial Review</inline>.—</heading>
+<content>Any determination of the Copyright Royalty Judges under subsection (d) may be appealed, by a party to the proceeding, in accordance with <ref>section 803(d) of this title</ref>. The pendency of an appeal under this subsection shall not stay the determination of the Copyright Royalty Judges. If the court modifies the determination of the Copyright Royalty Judges, the court shall have jurisdiction to enter its own decision in accordance with its final judgment. The court may further vacate the determination of the Copyright Royalty Judges and remand the case for proceedings as provided in this section.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 102–563, § 2</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4246</ref>; amended <ref>Pub. L. 103–198, § 6(b)(5)</ref>, <date date="1993-12-17">Dec. 17, 1993</date>, <ref>107 Stat. 2312</ref>; <ref>Pub. L. 108–419, § 5(i)(4)(A)</ref>, <date date="2004-11-30">Nov. 30, 2004</date>, <ref>118 Stat. 2368</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 100—</num>
+<heading>CYBER SECURITY RESEARCH AND DEVELOPMENT</heading>
+<section>
+<num>§ 7401.</num>
+<heading> Findings</heading>
+<chapeau class="indent0">The Congress finds the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Revolutionary advancements in computing and communications technology have interconnected government, commercial, scientific, and educational infrastructures—including critical infrastructures for electric power, natural gas and petroleum production and distribution, telecommunications, transportation, water supply, banking and finance, and emergency and government services—in a vast, interdependent physical and electronic network.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Exponential increases in interconnectivity have facilitated enhanced communications, economic growth, and the delivery of services critical to the public welfare, but have also increased the consequences of temporary or prolonged failure.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> A Department of Defense Joint Task Force concluded after a 1997 United States information warfare exercise that the results “clearly demonstrated our lack of preparation for a coordinated cyber and physical attack on our critical military and civilian infrastructure”.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> Computer security technology and systems implementation lack—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> sufficient long term research funding;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> adequate coordination across Federal and State government agencies and among government, academia, and industry; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> sufficient numbers of outstanding researchers in the field.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> Accordingly, Federal investment in computer and network security research and development must be significantly increased to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> improve vulnerability assessment and technological and systems solutions;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> expand and improve the pool of information security professionals, including researchers, in the United States workforce; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> better coordinate information sharing and collaboration among industry, government, and academic research projects.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> While African-Americans, Hispanics, and Native Americans constitute 25 percent of the total United States workforce and 30 percent of the college-age population, members of these minorities comprise less than 7 percent of the United States computer and information science workforce.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 107–305, § 2</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2367</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 7402.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Director</heading>
+<content>
+<p class="indent1">The term “Director” means the Director of the National Science Foundation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Institution of higher education</heading>
+<content>
+<p class="indent1">The term “institution of higher education” has the meaning given that term in <ref>section 1001(a) of title 20</ref>.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 107–305, § 3</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2368</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 7403.</num>
+<heading> National Science Foundation research</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Computer and network security research grants</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">The Director shall award grants for basic research on innovative approaches to the structure of computer and network hardware and software that are aimed at enhancing computer security. Research areas may include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> authentication, cryptography, and other secure data communications technology;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> computer forensics and intrusion detection;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> reliability of computer and network applications, middleware, operating systems, control systems, and communications infrastructure;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> privacy and confidentiality;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> network security architecture, including tools for security administration and analysis;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> emerging threats;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> vulnerability assessments and techniques for quantifying risk;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> remote access and wireless security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(J)</num>
+<content> secure fundamental protocols that are integral to inter-network communications and data exchange;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(K)</num>
+<chapeau> secure software engineering and software assurance, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> programming languages and systems that include fundamental security features;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> portable or reusable code that remains secure when deployed in various environments;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> verification and validation technologies to ensure that requirements and specifications have been implemented; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> models for comparison and metrics to assure that required standards have been met;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(L)</num>
+<chapeau> holistic system security that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> addresses the building of secure systems from trusted and untrusted components;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> proactively reduces vulnerabilities;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> addresses insider threats; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> supports privacy in conjunction with improved security;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(M)</num>
+<content> monitoring and detection;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(N)</num>
+<content> mitigation and rapid recovery methods;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(O)</num>
+<content> security of wireless networks and mobile devices;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(P)</num>
+<content> security of cloud infrastructure and services;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(Q)</num>
+<content> security of election-dedicated voting system software and hardware; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(R)</num>
+<content> role of the human factor in cybersecurity and the interplay of computers and humans and the physical world.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Merit review; competition</heading>
+<content>
+<p class="indent1">Grants shall be awarded under this section on a merit-reviewed competitive basis.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent1">There are authorized to be appropriated to the National Science Foundation to carry out this subsection—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $35,000,000 for fiscal year 2003;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $40,000,000 for fiscal year 2004;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $46,000,000 for fiscal year 2005;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> $52,000,000 for fiscal year 2006; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> $60,000,000 for fiscal year 2007.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Computer and network security research centers</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Director shall award multiyear grants, subject to the availability of appropriations, to institutions of higher education, nonprofit research institutions, or consortia thereof to establish multidisciplinary Centers for Computer and Network Security Research. Institutions of higher education, nonprofit research institutions, or consortia thereof receiving such grants may partner with 1 or more government laboratories or for-profit institutions, or other institutions of higher education or nonprofit research institutions.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Merit review; competition</heading>
+<content>
+<p class="indent1">Grants shall be awarded under this subsection on a merit-reviewed competitive basis.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Purpose</heading>
+<content>
+<p class="indent1">The purpose of the Centers shall be to generate innovative approaches to computer and network security by conducting cutting-edge, multidisciplinary research in computer and network security, including improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas described in subsection (a)(1).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Applications</heading>
+<chapeau class="indent1">An institution of higher education, nonprofit research institution, or consortia thereof seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the research projects that will be undertaken by the Center and the contributions of each of the participating entities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> how the Center will promote active collaboration among scientists and engineers from different disciplines, such as computer scientists, engineers, mathematicians, and social science researchers;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> how the Center will contribute to increasing the number and quality of computer and network security researchers and other professionals, including individuals from groups historically underrepresented in these fields; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> how the Center will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Criteria</heading>
+<chapeau class="indent1">In evaluating the applications submitted under paragraph (4), the Director shall consider, at a minimum—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the ability of the applicant to generate innovative approaches to computer and network security and effectively carry out the research program;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the experience of the applicant in conducting research on computer and network security and the capacity of the applicant to foster new multidisciplinary collaborations;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the capacity of the applicant to attract and provide adequate support for a diverse group of undergraduate and graduate students and postdoctoral fellows to pursue computer and network security research;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the extent to which the applicant will partner with government laboratories, for-profit entities, other institutions of higher education, or nonprofit research institutions, and the role the partners will play in the research undertaken by the Center;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the demonstrated capability of the applicant to conduct high performance computation integral to complex computer and network security research, through on-site or off-site computing;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the applicant’s affiliation with private sector entities involved with industrial research described in subsection (a)(1);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> the capability of the applicant to conduct research in a secure environment;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> the applicant’s affiliation with existing research programs of the Federal Government;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> the applicant’s experience managing public-private partnerships to transition new technologies into a commercial setting or the government user community;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(J)</num>
+<content> the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(K)</num>
+<content> the capability of the applicant to conduct research in areas such as systems security, wireless security, networking and protocols, formal methods and networking and information technology, nanotechnology, or industrial control systems.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Annual meeting</heading>
+<content>
+<p class="indent1">The Director shall convene an annual meeting of the Centers in order to foster collaboration and communication between Center participants.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent1">There are authorized to be appropriated for the National Science Foundation to carry out this subsection—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $12,000,000 for fiscal year 2003;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $24,000,000 for fiscal year 2004;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $36,000,000 for fiscal year 2005;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> $36,000,000 for fiscal year 2006; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> $36,000,000 for fiscal year 2007.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–305, § 4</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2368</ref>; <ref>Pub. L. 113–274, title II</ref>, §§ 201(e), 202, <date date="2014-12-18">Dec. 18, 2014</date>, <ref>128 Stat. 2978</ref>; <ref>Pub. L. 114–329, title I</ref>, §§ 104(a), 105(r), <date date="2017-01-06">Jan. 6, 2017</date>, <ref>130 Stat. 2975</ref>, 2984.)</sourceCredit>
+</section>
+<section>
+<num>§ 7404.</num>
+<heading> National Science Foundation computer and network security programs</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Computer and network security capacity building grants</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Director shall establish a program to award grants to institutions of higher education (or consortia thereof) to establish or improve undergraduate and master’s degree programs in computer and network security, to increase the number of students, including the number of students from groups historically underrepresented in these fields and students who are veterans, who pursue undergraduate or master’s degrees in fields related to computer and network security, and to provide students with experience in government or industry related to their computer and network security studies.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Merit review</heading>
+<content>
+<p class="indent1">Grants shall be awarded under this subsection on a merit-reviewed competitive basis.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Use of funds</heading>
+<chapeau class="indent1">Grants awarded under this subsection shall be used for activities that enhance the ability of an institution of higher education (or consortium thereof) to provide high-quality undergraduate and master’s degree programs in computer and network security and to recruit and retain increased numbers of students to such programs. Activities may include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> revising curriculum to better prepare undergraduate and master’s degree students for careers in computer and network security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> establishing degree and certificate programs in computer and network security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> creating opportunities for undergraduate students to participate in computer and network security research projects;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> acquiring equipment necessary for student instruction in computer and network security, including the installation of testbed networks for student use;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> providing opportunities for faculty to work with local or Federal Government agencies, private industry, nonprofit research institutions, or other academic institutions to develop new expertise or to formulate new research directions in computer and network security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> establishing collaborations with other academic institutions or academic departments that seek to establish, expand, or enhance programs in computer and network security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> establishing student internships in computer and network security at government agencies or in private industry;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> establishing collaborations with other academic institutions to establish or enhance a web-based collection of computer and network security courseware and laboratory exercises for sharing with other institutions of higher education, including community colleges;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(I)</num>
+<content> establishing or enhancing bridge programs in computer and network security between community colleges and universities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(J)</num>
+<content> creating opportunities for veterans to transition to careers in computer and network security; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(K)</num>
+<content> any other activities the Director determines will accomplish the goals of this subsection.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Selection process</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Application</heading>
+<chapeau class="indent2">An institution of higher education (or a consortium thereof) seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a description of the applicant’s computer and network security research and instructional capacity, and in the case of an application from a consortium of institutions of higher education, a description of the role that each member will play in implementing the proposal;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> a comprehensive plan by which the institution or consortium will build instructional capacity in computer and information security;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> a description of relevant collaborations with government agencies or private industry that inform the instructional program in computer and network security;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> a survey of the applicant’s historic student enrollment and placement data in fields related to computer and network security and a study of potential enrollment and placement for students enrolled in the proposed computer and network security program; and</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> a plan to evaluate the success of the proposed computer and network security program, including post-graduation assessment of graduate school and job placement and retention rates as well as the relevance of the instructional program to graduate study and to the workplace.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Awards</heading>
+<clause class="indent2">
+<num>(i)</num>
+<content> The Director shall ensure, to the extent practicable, that grants are awarded under this subsection in a wide range of geographic areas and categories of institutions of higher education, including minority serving institutions.</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> The Director shall award grants under this subsection for a period not to exceed 5 years.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Assessment required</heading>
+<content>
+<p class="indent1">The Director shall evaluate the program established under this subsection no later than 6 years after the establishment of the program. At a minimum, the Director shall evaluate the extent to which the program achieved its objectives of increasing the quality and quantity of students, including students from groups historically underrepresented in computer and network security related disciplines, pursuing undergraduate or master’s degrees in computer and network security.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent1">There are authorized to be appropriated to the National Science Foundation to carry out this subsection—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $15,000,000 for fiscal year 2003;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $20,000,000 for fiscal year 2004;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $20,000,000 for fiscal year 2005;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> $20,000,000 for fiscal year 2006; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> $20,000,000 for fiscal year 2007.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Scientific and Advanced Technology Act of 1992</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Grants</heading>
+<content>
+<p class="indent1">The Director shall provide grants under the Scientific and Advanced Technology Act of 1992 (<ref>42 U.S.C. 1862i</ref>) [<ref>42 U.S.C. 1862h</ref> et seq.] for the purposes of section 3(a) and (b) of that Act [<ref>42 U.S.C. 1862i(a)</ref>, (b)], except that the activities supported pursuant to this subsection shall be limited to improving education in fields related to computer and network security.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent1">There are authorized to be appropriated to the National Science Foundation to carry out this subsection—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $1,000,000 for fiscal year 2003;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $1,250,000 for fiscal year 2004;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $1,250,000 for fiscal year 2005;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> $1,250,000 for fiscal year 2006; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> $1,250,000 for fiscal year 2007.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Graduate traineeships in computer and network security research</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs for graduate students who pursue computer and network security research leading to a doctorate degree by providing funding and other assistance, and by providing graduate students with research experience in government or industry related to the students’ computer and network security studies.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Merit review</heading>
+<content>
+<p class="indent1">Grants shall be provided under this subsection on a merit-reviewed competitive basis.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Use of funds</heading>
+<chapeau class="indent1">An institution of higher education shall use grant funds for the purposes of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> providing traineeships to students who are citizens, nationals, or lawfully admitted permanent resident aliens of the United States and are pursuing research in computer or network security leading to a doctorate degree;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> paying tuition and fees for students receiving traineeships under subparagraph (A);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> establishing scientific internship programs for students receiving traineeships under subparagraph (A) in computer and network security at for-profit institutions, nonprofit research institutions, or government laboratories; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> other costs associated with the administration of the program.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Traineeship amount</heading>
+<content>
+<p class="indent1">Traineeships provided under paragraph (3)(A) shall be in the amount of $25,000 per year, or the level of the National Science Foundation Graduate Research Fellowships, whichever is greater, for up to 3 years.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Selection process</heading>
+<chapeau class="indent1">An institution of higher education seeking funding under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum, a description of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the instructional program and research opportunities in computer and network security available to graduate students at the applicant’s institution; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the internship program to be established, including the opportunities that will be made available to students for internships at for-profit institutions, nonprofit research institutions, and government laboratories.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Review of applications</heading>
+<chapeau class="indent1">In evaluating the applications submitted under paragraph (5), the Director shall consider—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the ability of the applicant to effectively carry out the proposed program;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the quality of the applicant’s existing research and education programs;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the likelihood that the program will recruit increased numbers of students, including students from groups historically underrepresented in computer and network security related disciplines or veterans, to pursue and earn doctorate degrees in computer and network security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the nature and quality of the internship program established through collaborations with government laboratories, nonprofit research institutions, and for-profit institutions;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the integration of internship opportunities into graduate students’ research; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the relevance of the proposed program to current and future computer and network security needs.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent1">There are authorized to be appropriated to the National Science Foundation to carry out this subsection—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $10,000,000 for fiscal year 2003;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $20,000,000 for fiscal year 2004;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $20,000,000 for fiscal year 2005;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> $20,000,000 for fiscal year 2006; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> $20,000,000 for fiscal year 2007.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Graduate Research Fellowships program support</heading>
+<content>
+<p class="indent0">Computer and network security shall be included among the fields of specialization supported by the National Science Foundation’s Graduate Research Fellowships program under <ref>section 1869 of title 42</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Cyber security faculty development traineeship program</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Director shall establish a program to award grants to institutions of higher education to establish traineeship programs to enable graduate students to pursue academic careers in cyber security upon completion of doctoral degrees.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Merit review; competition</heading>
+<content>
+<p class="indent1">Grants shall be awarded under this section on a merit-reviewed competitive basis.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Application</heading>
+<content>
+<p class="indent1">Each institution of higher education desiring to receive a grant under this subsection shall submit an application to the Director at such time, in such manner, and containing such information as the Director shall require.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Use of funds</heading>
+<chapeau class="indent1">Funds received by an institution of higher education under this paragraph shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> be made available to individuals on a merit-reviewed competitive basis and in accordance with the requirements established in paragraph (7);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> be in an amount that is sufficient to cover annual tuition and fees for doctoral study at an institution of higher education for the duration of the graduate traineeship, and shall include, in addition, an annual living stipend of $25,000; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> be provided to individuals for a duration of no more than 5 years, the specific duration of each graduate traineeship to be determined by the institution of higher education, on a case-by-case basis.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Repayment</heading>
+<chapeau class="indent1">Each graduate traineeship shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> subject to paragraph (5)(B), be subject to full repayment upon completion of the doctoral degree according to a repayment schedule established and administered by the institution of higher education;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> be forgiven at the rate of 20 percent of the total amount of the graduate traineeship assistance received under this section for each academic year that a recipient is employed as a full-time faculty member at an institution of higher education for a period not to exceed 5 years; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> be monitored by the institution of higher education receiving a grant under this subsection to ensure compliance with this subsection.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Exceptions</heading>
+<content>
+<p class="indent1">The Director may provide for the partial or total waiver or suspension of any service obligation or payment by an individual under this section whenever compliance by the individual is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be unconscionable.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Eligibility</heading>
+<chapeau class="indent1">To be eligible to receive a graduate traineeship under this section, an individual shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> be a citizen, national, or lawfully admitted permanent resident alien of the United States; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> demonstrate a commitment to a career in higher education.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Consideration</heading>
+<content>
+<p class="indent1">In making selections for graduate traineeships under this paragraph, an institution receiving a grant under this subsection shall consider, to the extent possible, a diverse pool of applicants whose interests are of an interdisciplinary nature, encompassing the social scientific as well as the technical dimensions of cyber security.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent1">There are authorized to be appropriated to the National Science Foundation to carry out this paragraph $5,000,000 for each of fiscal years 2003 through 2007.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–305, § 5</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2370</ref>; <ref>Pub. L. 116–115, § 3(f)</ref>, (g), <date date="2020-02-11">Feb. 11, 2020</date>, <ref>134 Stat. 107</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 7405.</num>
+<heading> Consultation</heading>
+<content>
+<p class="indent0">In carrying out sections 7403 and 7404 of this title, the Director shall consult with other Federal agencies.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 107–305, § 6</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2374</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 7406.</num>
+<heading> National Institute of Standards and Technology programs</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold">, (b) Omitted</heading>
+<content/>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Security automation and checklists for Government systems</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Director of the National Institute of Standards and Technology shall, as necessary, develop and revise security automation standards, associated reference materials (including protocols), and checklists providing settings and option selections that minimize the security risks associated with each information technology hardware or software system and security tool that is, or is likely to become, widely used within the Federal Government, thereby enabling standardized and interoperable technologies, architectures, and frameworks for continuous monitoring of information security within the Federal Government.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Priorities for development</heading>
+<chapeau class="indent1">The Director of the National Institute of Standards and Technology shall establish priorities for the development of standards, reference materials, and checklists under this subsection on the basis of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the security risks associated with the use of the system;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the number of agencies that use a particular system or security tool;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the usefulness of the standards, reference materials, or checklists to Federal agencies that are users or potential users of the system;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the effectiveness of the associated standard, reference material, or checklist in creating or enabling continuous monitoring of information security; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> such other factors as the Director of the National Institute of Standards and Technology determines to be appropriate.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Excluded systems</heading>
+<content>
+<p class="indent1">The Director of the National Institute of Standards and Technology may exclude from the application of paragraph (1) any information technology hardware or software system or security tool for which such Director determines that the development of a standard, reference material, or checklist is inappropriate because of the infrequency of use of the system, the obsolescence of the system, or the lack of utility or impracticability of developing a standard, reference material, or checklist for the system.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Dissemination of standards and related materials</heading>
+<content>
+<p class="indent1">The Director of the National Institute of Standards and Technology shall ensure that Federal agencies are informed of the availability of any standard, reference material, checklist, or other item developed under this subsection.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Agency use requirements</heading>
+<chapeau class="indent1">The development of standards, reference materials, and checklists under paragraph (1) for an information technology hardware or software system or tool does not—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> require any Federal agency to select the specific settings or options recommended by the standard, reference material, or checklist for the system;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> establish conditions or prerequisites for Federal agency procurement or deployment of any such system;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> imply an endorsement of any such system by the Director of the National Institute of Standards and Technology; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> preclude any Federal agency from procuring or deploying other information technology hardware or software systems for which no such standard, reference material, or checklist has been developed or identified under paragraph (1).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Federal agency information security programs</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">In developing the agencywide information security program required by <ref>section 3554(b) of title 44</ref>, an agency that deploys a computer hardware or software system for which the Director of the National Institute of Standards and Technology has developed a checklist under subsection (c) of this section—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> shall include in that program an explanation of how the agency has considered such checklist in deploying that system; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> may treat the explanation as if it were a portion of the agency’s annual performance plan properly classified under criteria established by an Executive Order (within the meaning of <ref>section 1115(d) of title 31</ref>).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Limitation</heading>
+<content>
+<p class="indent1">Paragraph (1) does not apply to any computer hardware or software system for which the National Institute of Standards and Technology does not have responsibility under <ref>section 278g–3(a)(3) of this title</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–305, § 8</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2375</ref>; <ref>Pub. L. 113–274, title II, § 203</ref>, <date date="2014-12-18">Dec. 18, 2014</date>, <ref>128 Stat. 2979</ref>; <ref>Pub. L. 113–283, § 2(e)(2)</ref>, <date date="2014-12-18">Dec. 18, 2014</date>, <ref>128 Stat. 3086</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 7407.</num>
+<heading> Authorization of appropriations</heading>
+<chapeau class="indent0">There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> for activities under <ref>section 278h of this title</ref>—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $25,000,000 for fiscal year 2003;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $40,000,000 for fiscal year 2004;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $55,000,000 for fiscal year 2005;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> $70,000,000 for fiscal year 2006;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> $85,000,000 for fiscal year 2007; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> for activities under section 278g–3(f) <ref class="footnoteRef" idref="fn002568">1</ref> of this title—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $6,000,000 for fiscal year 2003;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $6,200,000 for fiscal year 2004;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $6,400,000 for fiscal year 2005;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> $6,600,000 for fiscal year 2006; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> $6,800,000 for fiscal year 2007.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 107–305, § 11</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2379</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 7408.</num>
+<heading> National Academy of Sciences study on computer and network security in critical infrastructures</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Study</heading>
+<chapeau class="indent0">Not later than 3 months after <date date="2002-11-27">November 27, 2002</date>, the Director of the National Institute of Standards and Technology shall enter into an arrangement with the National Research Council of the National Academy of Sciences to conduct a study of the vulnerabilities of the Nation’s network infrastructure and make recommendations for appropriate improvements. The National Research Council shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> review existing studies and associated data on the architectural, hardware, and software vulnerabilities and interdependencies in United States critical infrastructure networks;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> identify and assess gaps in technical capability for robust critical infrastructure network security and make recommendations for research priorities and resource requirements; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> review any and all other essential elements of computer and network security, including security of industrial process controls, to be determined in the conduct of the study.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Report</heading>
+<content>
+<p class="indent0">The Director of the National Institute of Standards and Technology shall transmit a report containing the results of the study and recommendations required by subsection (a) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science not later than 21 months after <date date="2002-11-27">November 27, 2002</date>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Security</heading>
+<content>
+<p class="indent0">The Director of the National Institute of Standards and Technology shall ensure that no information that is classified is included in any publicly released version of the report required by this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology for the purposes of carrying out this section, $700,000.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–305, § 12</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2380</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 7409.</num>
+<heading> Coordination of Federal cyber security research and development</heading>
+<content>
+<p class="indent0">The Director of the National Science Foundation and the Director of the National Institute of Standards and Technology shall coordinate the research programs authorized by this chapter or pursuant to amendments made by this chapter. The Director of the Office of Science and Technology Policy shall work with the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology to ensure that programs authorized by this chapter or pursuant to amendments made by this chapter are taken into account in any government-wide cyber security research effort.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 107–305, § 13</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2380</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 7410.</num>
+<heading> Grant eligibility requirements and compliance with immigration laws</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Immigration status</heading>
+<content>
+<p class="indent0">No grant or fellowship may be awarded under this chapter, directly or indirectly, to any individual who is in violation of the terms of his or her status as a nonimmigrant under section 1101(a)(15)(F), (M), or (J) of title 8.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Aliens from certain countries</heading>
+<content>
+<p class="indent0">No grant or fellowship may be awarded under this chapter, directly or indirectly, to any alien from a country that is a state sponsor of international terrorism, as defined under <ref>section 1735(b) of title 8</ref>, unless the Secretary of State determines, in consultation with the Attorney General and the heads of other appropriate agencies, that such alien does not pose a threat to the safety or national security of the United States.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Non-complying institutions</heading>
+<chapeau class="indent0">No grant or fellowship may be awarded under this chapter, directly or indirectly, to any institution of higher education or non-profit institution (or consortia thereof) that has—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> materially failed to comply with the recordkeeping and reporting requirements to receive nonimmigrant students or exchange visitor program participants under section 1101(a)(15)(F), (M), or (J) of title 8, or <ref>section 1372 of title 8</ref>, as required by <ref>section 1762 of title 8</ref>; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> been suspended or terminated pursuant to <ref>section 1762(c) of title 8</ref>.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–305, § 16</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2381</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 7411.</num>
+<heading> Report on grant and fellowship programs</heading>
+<content>
+<p class="indent0">Within 24 months after <date date="2002-11-27">November 27, 2002</date>, the Director, in consultation with the Assistant to the President for National Security Affairs, shall submit to Congress a report reviewing this chapter to ensure that the programs and fellowships are being awarded under this chapter to individuals and institutions of higher education who are in compliance with the Immigration and Nationality Act (<ref>8 U.S.C. 1101</ref> et seq.) in order to protect our national security.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 107–305, § 17</ref>, <date date="2002-11-27">Nov. 27, 2002</date>, <ref>116 Stat. 2381</ref>.)</sourceCredit>
+</section>
+</chapter>

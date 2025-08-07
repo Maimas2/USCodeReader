@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 61—</num>
+<heading>PROGRAM INFORMATION</heading>
+<section>
+<num>§ 6101.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> “administering office” means the lowest unit of an agency responsible for managing a domestic assistance program.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> “agency” has the same meaning given that term in <ref>section 551(1) of title 5</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> “assistance”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> means the transfer of anything of value for a public purpose of support or stimulation authorized by a law of the United States, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> financial assistance;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> United States Government facilities, services, and property; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> expert and technical information; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> does not include conventional public information services or procurement of property or services for the direct benefit or use of the Government.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> “domestic assistance program”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> means assistance from an agency for—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a State;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the District of Columbia;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> a territory or possession of the United States;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> a county;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> a city;</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> a political subdivision or instrumentality of a governmental authority listed in subclauses (i)–(v) of this clause (A);</content>
+</clause>
+<clause class="indent3">
+<num>(vii)</num>
+<content> a domestic corporation;</content>
+</clause>
+<clause class="indent3">
+<num>(viii)</num>
+<content> a domestic institution; and</content>
+</clause>
+<clause class="indent3">
+<num>(ix)</num>
+<content> an individual of the United States; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> does not include assistance from an agency for an agency.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> “Director” means the Director of the Office of Management and Budget.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> “Administrator” means the Administrator of General Services.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<chapeau> “formula” means any prescribed method employing objective data or statistical estimates for making individual determinations among recipients of Federal funds, either in terms of eligibility or actual funding allocations, that can be written in the form of either—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a closed mathematical statement; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an iterative procedure or algorithm which can be written as a computer program;</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">and from which the results can be objectively replicated, within reasonable limits due to rounding error, through independent application of such statement, procedures, or algorithm, by different qualified individuals.</continuation>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 97–258</ref>, <date date="1982-09-13">Sept. 13, 1982</date>, <ref>96 Stat. 1000</ref>; <ref>Pub. L. 98–169</ref>, §§ 1(1), 3(a), <date date="1983-11-29">Nov. 29, 1983</date>, <ref>97 Stat. 1113</ref>; <ref>Pub. L. 99–547, § 2(b)(2)</ref>, <date date="1986-10-27">Oct. 27, 1986</date>, <ref>100 Stat. 3060</ref>; <ref>Pub. L. 103–272, § 4(f)(1)(S)</ref>, <date date="1994-07-05">July 5, 1994</date>, <ref>108 Stat. 1362</ref>; <ref>Pub. L. 104–287, § 6(a)(1)</ref>, <date date="1996-10-11">Oct. 11, 1996</date>, <ref>110 Stat. 3398</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6102.</num>
+<heading> Program information requirements</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<chapeau> The Director shall collect and review information on domestic assistance programs and shall provide such information to the Administrator. The information on each domestic assistance program shall include the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> identification of the program by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> title;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> authorizing law;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> administering office; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> an identifying number assigned by the Director.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> a description of the—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> program;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> objectives of the program;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> types of activities financed under the program;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> eligibility requirements;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> types of assistance;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> uses, and restrictions on the use, of assistance;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> uses of core-based statistical area (as defined in section 4 of the MAPS Act of 2021) delineations (as chosen from standardized categories of uses determined by the Director), for purposes including prime recipient and subrecipient eligibility for, and distribution of, any Federal service, benefit, or funding; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(H)</num>
+<content> duties of recipients under the program.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> a specification of each formula governing eligibility for assistance or the distribution of assistance under the program, which shall be described through the use of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the language used to specify each such formula in the law authorizing the program;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the language used to specify each such formula in any Federal rule promulgated pursuant to the law authorizing the program; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a mathematical statement which is derived from the language referred to in subparagraphs (A) and (B) of this paragraph;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> a description of all data and statistical estimates used to carry out each formula specified pursuant to paragraph (3), and an identification of the sources of such data and estimates;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> financial information, including the—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> amounts appropriated for the current fiscal year or, if unavailable, the amounts requested by the President and the amounts obligated; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> average amounts of awards made in past years.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> identification of information contacts, including the administering office and regional and local offices with their addresses and telephone numbers.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<chapeau> a general description of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the application requirements and procedures; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to the extent practical, an estimate of the time required to process the application.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> On request of the Director, an agency shall give to the Director current information on all domestic assistance programs administered by the agency. The Director shall be responsible for ensuring that the Administrator incorporates all relevant information received on a regular basis.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<chapeau> The Administrator—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> shall ensure that information and catalogs under this chapter are made available to the public at reasonable prices;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> may develop information services to assist State and local governments in identifying and obtaining sources of assistance;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> shall ensure that the information in the computerized system is made current on a regular basis and that the printed catalog and supplements thereto contain the most current data available at the time of printing; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> shall transmit annually the information compiled under paragraphs (3) and (4) of subsection (a) to the Committee on Government Operations of the House of Representatives and the Committee on Governmental Affairs of the Senate.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 97–258</ref>, <date date="1982-09-13">Sept. 13, 1982</date>, <ref>96 Stat. 1001</ref>; <ref>Pub. L. 98–169</ref>, §§ 1(2), 2, 3(b), (c), <date date="1983-11-29">Nov. 29, 1983</date>, <ref>97 Stat. 1113</ref>, 1114; <ref>Pub. L. 117–219, § 6(a)</ref>, <date date="2022-12-05">Dec. 5, 2022</date>, <ref>136 Stat. 2273</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6102a.</num>
+<heading> Assistance awards information system</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<chapeau> The Director shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> maintain the United States Government assistance awards information system established as a result of the study conducted under section 9 of the Federal Program Information Act; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> update the system on a quarterly basis.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<chapeau> To carry out subsection (a) of this section, the Director—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> may delegate the responsibility for carrying out subsection (a) of this section to the head of another executive agency;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> shall review a report the head of an agency submits to the Director on the method of carrying out subsection (a) of this section; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> may validate, by appropriate means, the method by which an agency prepares the report.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<content> The Director shall transmit promptly after the end of each calendar quarter, free of charge, the data in the system required by subsection (a) to the Committee on Rules and Administration of the Senate and to the Committee on House Oversight of the House of Representatives.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 97–452, § 1(23)(A)</ref>, <date date="1983-01-12">Jan. 12, 1983</date>, <ref>96 Stat. 2477</ref>; amended <ref>Pub. L. 98–169, § 1(2)</ref>, <date date="1983-11-29">Nov. 29, 1983</date>, <ref>97 Stat. 1113</ref>; <ref>Pub. L. 99–547, § 2(b)(1)</ref>, <date date="1986-10-27">Oct. 27, 1986</date>, <ref>100 Stat. 3060</ref>; <ref>Pub. L. 104–186, title II, § 219(b)(2)</ref>, <date date="1996-08-20">Aug. 20, 1996</date>, <ref>110 Stat. 1748</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6103.</num>
+<heading> Access to computer information system</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<chapeau> The Administrator shall maintain a computerized information system providing access to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the information described in paragraphs (1), (2), (5), (6), and (7) of <ref>section 6102(a) of this title</ref>; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> such portions or summaries, as the Administrator considers appropriate, of the information described in paragraphs (3) and (4) of such section.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> To the greatest extent practicable, the Administrator shall provide for the widespread availability of the information by available computer terminals.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<chapeau> When the Administrator decides the efficiency of the information system under subsection (a) of this section requires it, the Administrator may make contracts with private organizations to obtain computer time-sharing services, including—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> computer telecommunications networks;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> computer software; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> associated services.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 97–258</ref>, <date date="1982-09-13">Sept. 13, 1982</date>, <ref>96 Stat. 1002</ref>; <ref>Pub. L. 98–169</ref>, §§ 1(2), 3(d), 4, <date date="1983-11-29">Nov. 29, 1983</date>, <ref>97 Stat. 1113</ref>, 1114.)</sourceCredit>
+</section>
+<section>
+<num>§ 6104.</num>
+<heading> Catalog of Federal domestic assistance programs</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<content> The Administrator shall prepare and publish each year a catalog of domestic assistance programs.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<chapeau> In a form selected by the Administrator, the catalog shall contain—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> all substantive information on domestic assistance programs that, at the time the catalog is prepared, is in the system under paragraphs (1), (2), (5), (6), and (7) of <ref>section 6102(a) of this title</ref>; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> such portions or summaries, as the Administrator considers appropriate, of the information on domestic assistance programs that, at the time the catalog is prepared, is in the system under paragraphs (3) and (4) of <ref>section 6102(a) of this title</ref>;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> information the Administrator decides may be helpful to a potential applicant for or beneficiary of assistance; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> a detailed index.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<chapeau> When the Administrator decides it is necessary, the Administrator shall prepare and publish—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> supplements to the catalog; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> specialized compilations by function of information in the catalog.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<chapeau> The Administrator may distribute a catalog without cost to each—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> member of Congress;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> department, agency, and instrumentality of the United States Government;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> State;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> general purpose unit of a local government;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> Indian tribe recognized by the United States Government;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> depository library of Government publications; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> depository designated by the Administrator.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 97–258</ref>, <date date="1982-09-13">Sept. 13, 1982</date>, <ref>96 Stat. 1002</ref>; <ref>Pub. L. 98–169, § 1(2)</ref>, 3(e), 4, <date date="1983-11-29">Nov. 29, 1983</date>, <ref>97 Stat. 1113</ref>, 1114.)</sourceCredit>
+</section>
+<section>
+<num>§ 6105.</num>
+<heading> Oversight responsibility of Director</heading>
+<content>
+<p class="indent0">The Director shall have oversight responsibility for the exercise of all authorities and responsibilities in this chapter not specifically assigned to the Director.</p>
+</content>
+<sourceCredit>(Added <ref>Pub. L. 98–169, § 5</ref>, <date date="1983-11-29">Nov. 29, 1983</date>, <ref>97 Stat. 1115</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6106.</num>
+<heading> Authorization of appropriations</heading>
+<content>
+<p class="indent0">After <date date="1983-10-01">October 1, 1983</date>, there may be appropriated to the Administrator such sums as may be necessary to carry out the responsibilities of this chapter.</p>
+</content>
+<sourceCredit>(Added <ref>Pub. L. 98–169, § 5</ref>, <date date="1983-11-29">Nov. 29, 1983</date>, <ref>97 Stat. 1115</ref>.)</sourceCredit>
+</section>
+</chapter>

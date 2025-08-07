@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 403—</num>
+<heading>CRIMINAL JUSTICE IDENTIFICATION, INFORMATION, AND COMMUNICATION</heading>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>CRIME IDENTIFICATION TECHNOLOGY</heading>
+<section>
+<num>§ 40301.</num>
+<heading> State grant program for criminal justice identification, information, and communication</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Subject to the availability of amounts provided in advance in appropriations Acts, the Office of Justice Programs relying principally on the expertise of the Bureau of Justice Statistics shall make a grant to each State, in a manner consistent with the national criminal history improvement program, which shall be used by the State, in conjunction with units of local government, State and local courts, other States, or combinations thereof, to establish or upgrade an integrated approach to develop information and identification technologies and systems to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> upgrade criminal history and criminal justice record systems, including systems operated by law enforcement agencies and courts;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> improve criminal justice identification;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> promote compatibility and integration of national, State, and local systems for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> criminal justice purposes;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> firearms eligibility determinations;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> identification of all individuals who have been convicted of a crime punishable by imprisonment for a term exceeding 1 year <ref class="footnoteRef" idref="fn002214">1</ref></content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> identification of sexual offenders;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> identification of domestic violence offenders; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> background checks for other authorized purposes unrelated to criminal justice; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> capture information for statistical and research purposes to improve the administration of criminal justice.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Use of grant amounts</heading>
+<chapeau class="indent0">Grants under this section may be used for programs to establish, develop, update, or upgrade—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> State centralized, automated, adult and juvenile criminal history record information systems, including arrest and disposition reporting;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> automated fingerprint identification systems that are compatible with standards established by the National Institute of Standards and Technology and interoperable with the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> finger imaging, live scan, and other automated systems to digitize fingerprints and to communicate prints in a manner that is compatible with standards established by the National Institute of Standards and Technology and interoperable with systems operated by States and by the Federal Bureau of Investigation;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> programs and systems to facilitate full participation in the Interstate Identification Index of the National Crime Information Center;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> systems to facilitate full participation in any compact relating to the Interstate Identification Index of the National Crime Information Center;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> systems to facilitate full participation in the national instant criminal background check system established under <ref>section 40901(b) of this title</ref> for firearms eligibility determinations, including through increased efforts to pre-validate the contents of felony conviction records and domestic violence records to expedite eligibility determinations, and measures and resources necessary to establish and achieve compliance with an implementation plan under <ref>section 40917 of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> integrated criminal justice information systems to manage and communicate criminal justice information among law enforcement agencies, courts, prosecutors, and corrections agencies;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> noncriminal history record information systems relevant to firearms eligibility determinations for availability and accessibility to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (<ref>18 U.S.C. 922</ref> note); <ref class="footnoteRef" idref="fn002215">2</ref></content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<chapeau> court-based criminal justice information systems that promote—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> reporting of dispositions to central State repositories and to the Federal Bureau of Investigation; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> compatibility with, and integration of, court systems with other criminal justice information systems;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> ballistics identification and information programs that are compatible and integrated with the National Integrated Ballistics Network (NIBN);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> the capabilities of forensic science programs and medical examiner programs related to the administration of criminal justice, including programs leading to accreditation or certification of individuals or departments, agencies, or laboratories, and programs relating to the identification and analysis of deoxyribonucleic acid;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<content> sexual offender identification and registration systems;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<content> domestic violence offender identification and information systems;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(14)</num>
+<content> programs for fingerprint-supported background checks capability for noncriminal justice purposes, including youth service employees and volunteers and other individuals in positions of responsibility, if authorized by Federal or State law and administered by a government agency;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(15)</num>
+<content> criminal justice information systems with a capacity to provide statistical and research products including incident-based reporting systems that are compatible with the National Incident-Based Reporting System (NIBRS) and uniform crime reports;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(16)</num>
+<content> multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(17)</num>
+<content> the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(18)</num>
+<content> notwithstanding subsection (c), antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Assurances</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (<ref>18 U.S.C. 922</ref> note).<sup>2</sup></p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Information sharing</heading>
+<chapeau class="indent1">Such assurances shall include a provision that ensures that a statewide strategy for information sharing systems is underway, or will be initiated, to improve the functioning of the criminal justice system, with an emphasis on integration of all criminal justice components, law enforcement, courts, prosecution, corrections, and probation and parole. The strategy shall be prepared after consultation with State and local officials with emphasis on the recommendation of officials whose duty it is to oversee, plan, and implement integrated information technology systems, and shall contain—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a definition and analysis of “integration” in the State and localities developing integrated information sharing systems;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an assessment of the criminal justice resources being devoted to information technology;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Federal, State, regional, and local information technology coordination requirements;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> an assurance that the individuals who developed the grant application took into consideration the needs of all branches of the State Government and specifically sought the advice of the chief of the highest court of the State with respect to the application;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> State and local resource needs;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the establishment of statewide priorities for planning and implementation of information technology systems; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> a plan for coordinating the programs funded under this subchapter with other federally funded information technology programs, including directly funded local programs such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program established pursuant to part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [<ref>34 U.S.C. 10381</ref> et seq.].</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Matching funds</heading>
+<content>
+<p class="indent0">The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the State has achieved compliance with an implementation plan under <ref>section 40917 of this title</ref> or the Attorney General waives, wholly or in part, the requirements of this subsection.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 2018 through 2022.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Limitations</heading>
+<chapeau class="indent1">Of the amount made available to carry out this section in any fiscal year—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> not more than 3 percent may be used by the Attorney General for salaries and administrative expenses;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> not more than 5 percent may be used for technical assistance, training and evaluations, and studies commissioned by Bureau of Justice Statistics of the Department of Justice (through discretionary grants or otherwise) in furtherance of the purposes of this section; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Attorney General shall ensure the amounts are distributed on an equitable geographic basis.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Grants to Indian tribes</heading>
+<content>
+<p class="indent0">Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–251, title I, § 102</ref>, <date date="1998-10-09">Oct. 9, 1998</date>, <ref>112 Stat. 1871</ref>; <ref>Pub. L. 106–177, title I, § 102</ref>, <date date="2000-03-10">Mar. 10, 2000</date>, <ref>114 Stat. 35</ref>; <ref>Pub. L. 106–561, § 2(c)(4)</ref>, <date date="2000-12-21">Dec. 21, 2000</date>, <ref>114 Stat. 2791</ref>; <ref>Pub. L. 107–56, title X, § 1015</ref>, <date date="2001-10-26">Oct. 26, 2001</date>, <ref>115 Stat. 400</ref>; <ref>Pub. L. 109–162, title XI, § 1111(c)(1)</ref>, <date date="2006-01-05">Jan. 5, 2006</date>, <ref>119 Stat. 3101</ref>; <ref>Pub. L. 115–141, div. S, title VI, § 604(a)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1136</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 40302.</num>
+<heading> Funding for improvement of criminal records</heading>
+<paragraph class="indent2 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Grants for the improvement of criminal records</heading>
+<chapeau class="indent0">The Attorney General, through the Bureau of Justice Statistics, shall, subject to appropriations and with preference to States that, as of <date date="2018-03-23">March 23, 2018</date>, have the lowest percent currency of case dispositions in computerized criminal history files and that will utilize funding under this subsection to prioritize the identification and transmittal of felony conviction records and domestic violence records, make a grant to each State to be used—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> for the creation of a computerized criminal history record system or improvement of an existing system;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> to improve accessibility to the national instant criminal background system;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> to assist the State in the transmittal of criminal records to the national system; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> to establish and achieve compliance with an implementation plan under <ref>section 40917 of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent2 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated for grants under paragraph (1) a total of $200,000,000 for fiscal year 1994 and all fiscal years thereafter.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 103–159, title I, § 106(b)</ref>, <date date="1993-11-30">Nov. 30, 1993</date>, <ref>107 Stat. 1544</ref>; <ref>Pub. L. 103–322, title XXI, § 210603(b)</ref>, <date date="1994-09-13">Sept. 13, 1994</date>, <ref>108 Stat. 2074</ref>; <ref>Pub. L. 104–294, title VI, § 603(i)(1)</ref>, <date date="1996-10-11">Oct. 11, 1996</date>, <ref>110 Stat. 3504</ref>; <ref>Pub. L. 115–141, div. S, title VI, § 604(b)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1136</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PURPOSES</heading>
+<section>
+<num>§ 40311.</num>
+<heading> Findings</heading>
+<chapeau class="indent0">Congress finds that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> both the Federal Bureau of Investigation and State criminal history record repositories maintain fingerprint-based criminal history records;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> these criminal history records are shared and exchanged for criminal justice purposes through a Federal-State program known as the Interstate Identification Index System;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> although these records are also exchanged for legally authorized, noncriminal justice uses, such as governmental licensing and employment background checks, the purposes for and procedures by which they are exchanged vary widely from State to State;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> an interstate and Federal-State compact is necessary to facilitate authorized interstate criminal history record exchanges for noncriminal justice purposes on a uniform basis, while permitting each State to effectuate its own dissemination policy within its own borders; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> such a compact will allow Federal and State records to be provided expeditiously to governmental and nongovernmental agencies that use such records in accordance with pertinent Federal and State law, while simultaneously enhancing the accuracy of the records and safeguarding the information contained therein from unauthorized disclosure or use.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 105–251, title II, § 212</ref>, <date date="1998-10-09">Oct. 9, 1998</date>, <ref>112 Stat. 1874</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 40312.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this subchapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Attorney General</heading>
+<content>
+<p class="indent1">The term “Attorney General” means the Attorney General of the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Compact</heading>
+<content>
+<p class="indent1">The term “Compact” means the National Crime Prevention and Privacy Compact set forth in <ref>section 40316 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Council</heading>
+<content>
+<p class="indent1">The term “Council” means the Compact Council established under Article VI of the Compact.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> FBI</heading>
+<content>
+<p class="indent1">The term “FBI” means the Federal Bureau of Investigation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Party State</heading>
+<content>
+<p class="indent1">The term “Party State” means a State that has ratified the Compact.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> State</heading>
+<content>
+<p class="indent1">The term “State” means any State, territory, or possession of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 105–251, title II, § 213</ref>, <date date="1998-10-09">Oct. 9, 1998</date>, <ref>112 Stat. 1874</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 40313.</num>
+<heading> Enactment and consent of the United States</heading>
+<content>
+<p class="indent0">The National Crime Prevention and Privacy Compact, as set forth in <ref>section 40316 of this title</ref>, is enacted into law and entered into by the Federal Government. The consent of Congress is given to States to enter into the Compact.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 105–251, title II, § 214</ref>, <date date="1998-10-09">Oct. 9, 1998</date>, <ref>112 Stat. 1875</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 40314.</num>
+<heading> Effect on other laws</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Privacy Act of 1974</heading>
+<content>
+<p class="indent0">Nothing in the Compact shall affect the obligations and responsibilities of the FBI under <ref>section 552a of title 5</ref> (commonly known as the “Privacy Act of 1974”).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Access to certain records not affected</heading>
+<chapeau class="indent0">Nothing in the Compact shall interfere in any manner with—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> access, direct or otherwise, to records pursuant to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content><ref>section 9101 of title 5</ref>;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the National Child Protection Act <ref class="footnoteRef" idref="fn002216">1</ref> [<ref>34 U.S.C. 40101</ref> et seq.];</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Brady Handgun Violence Prevention Act (<ref>Public Law 103–159</ref>; <ref>107 Stat. 1536</ref>);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the Violent Crime Control and Law Enforcement Act of 1994 (<ref>Public Law 103–322</ref>; <ref>108 Stat. 2074</ref>) or any amendment made by that Act;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the United States Housing Act of 1937 (<ref>42 U.S.C. 1437</ref> et seq.); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the Native American Housing Assistance and Self-Determination Act of 1996 (<ref>25 U.S.C. 4101</ref> et seq.); or</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> any direct access to Federal criminal history records authorized by law.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Authority of FBI under Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973</heading>
+<content>
+<p class="indent0">Nothing in the Compact shall be construed to affect the authority of the FBI under the Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973 (<ref>Public Law 92–544</ref> (<ref>86 Stat. 1115</ref>)).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Chapter 10 of title 5</heading>
+<content>
+<p class="indent0">The Council shall not be considered to be a Federal advisory committee for purposes of chapter 10 of title 5.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Members of Council not Federal officers or employees</heading>
+<chapeau class="indent0">Members of the Council (other than a member from the FBI or any at-large member who may be a Federal official or employee) shall not, by virtue of such membership, be deemed—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to be, for any purpose other than to effect the Compact, officers or employees of the United States (as defined in sections 2104 and 2105 of title 5); or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to become entitled by reason of Council membership to any compensation or benefit payable or made available by the Federal Government to its officers or employees.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–251, title II, § 215</ref>, <date date="1998-10-09">Oct. 9, 1998</date>, <ref>112 Stat. 1875</ref>; <ref>Pub. L. 117–286, § 4(a)(213)</ref>, <date date="2022-12-27">Dec. 27, 2022</date>, <ref>136 Stat. 4329</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 40315.</num>
+<heading> Enforcement and implementation</heading>
+<content>
+<p class="indent0">All departments, agencies, officers, and employees of the United States shall enforce the Compact and cooperate with one another and with all Party States in enforcing the Compact and effectuating its purposes. For the Federal Government, the Attorney General shall make such rules, prescribe such instructions, and take such other actions as may be necessary to carry out the Compact and this subchapter.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 105–251, title II, § 216</ref>, <date date="1998-10-09">Oct. 9, 1998</date>, <ref>112 Stat. 1875</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 40316.</num>
+<heading> National Crime Prevention and Privacy Compact</heading>
+<content>
+<p class="indent0">The Contracting Parties agree to the following:</p>
+<p class="centered">
+<inline class="small-caps">Overview</inline>
+</p>
+<p class="indent2 firstIndent-2">(a) In general</p>
+<p class="indent0">This Compact organizes an electronic information sharing system among the Federal Government and the States to exchange criminal history records for noncriminal justice purposes authorized by Federal or State law, such as background checks for governmental licensing and employment.</p>
+<p class="indent2 firstIndent-2">(b) Obligations of parties</p>
+<p class="indent0">Under this Compact, the FBI and the Party States agree to maintain detailed databases of their respective criminal history records, including arrests and dispositions, and to make them available to the Federal Government and to Party States for authorized purposes. The FBI shall also manage the Federal data facilities that provide a significant part of the infrastructure for the system.</p>
+<p class="centered">ARTICLE I—DEFINITIONS</p>
+<p class="indent0">In this Compact:</p>
+<p class="indent3 firstIndent-2">(1) Attorney General</p>
+<p class="indent1">The term “Attorney General” means the Attorney General of the United States.</p>
+<p class="indent3 firstIndent-2">(2) Compact officer</p>
+<p class="indent1">The term “Compact officer” means—</p>
+<p class="indent2">(A) with respect to the Federal Government, an official so designated by the Director of the FBI; and</p>
+<p class="indent2">(B) with respect to a Party State, the chief administrator of the State’s criminal history record repository or a designee of the chief administrator who is a regular full-time employee of the repository.</p>
+<p class="indent3 firstIndent-2">(3) Council</p>
+<p class="indent1">The term “Council” means the Compact Council established under Article VI.</p>
+<p class="indent3 firstIndent-2">(4) Criminal history records</p>
+<p class="indent1">The term “criminal history records”—</p>
+<p class="indent2">(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and</p>
+<p class="indent2">(B) does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.</p>
+<p class="indent3 firstIndent-2">(5) Criminal history record repository</p>
+<p class="indent1">The term “criminal history record repository” means the State agency designated by the Governor or other appropriate executive official or the legislature of a State to perform centralized recordkeeping functions for criminal history records and services in the State.</p>
+<p class="indent3 firstIndent-2">(6) Criminal justice</p>
+<p class="indent1">The term “criminal justice” includes activities relating to the detection, apprehension, detention, pretrial release, post-trial release, prosecution, adjudication, correctional supervision, or rehabilitation of accused persons or criminal offenders. The administration of criminal justice includes criminal identification activities and the collection, storage, and dissemination of criminal history records.</p>
+<p class="indent3 firstIndent-2">(7) Criminal justice agency</p>
+<p class="indent1">The term “criminal justice agency”—</p>
+<p class="indent2">(A) means—</p>
+<p class="indent3">(i) courts; and</p>
+<p class="indent3">(ii) a governmental agency or any subunit thereof that—</p>
+<p class="indent4">(I) performs the administration of criminal justice pursuant to a statute or Executive order; and</p>
+<p class="indent4">(II) allocates a substantial part of its annual budget to the administration of criminal justice; and</p>
+<p class="indent2">(B) includes Federal and State inspectors general offices.</p>
+<p class="indent3 firstIndent-2">(8) Criminal justice services</p>
+<p class="indent1">The term “criminal justice services” means services provided by the FBI to criminal justice agencies in response to a request for information about a particular individual or as an update to information previously provided for criminal justice purposes.</p>
+<p class="indent3 firstIndent-2">(9) Criterion offense</p>
+<p class="indent1">The term “criterion offense” means any felony or misdemeanor offense not included on the list of nonserious offenses published periodically by the FBI.</p>
+<p class="indent3 firstIndent-2">(10) Direct access</p>
+<p class="indent1">The term “direct access” means access to the National Identification Index by computer terminal or other automated means not requiring the assistance of or intervention by any other party or agency.</p>
+<p class="indent3 firstIndent-2">(11) Executive order</p>
+<p class="indent1">The term “Executive order” means an order of the President of the United States or the chief executive officer of a State that has the force of law and that is promulgated in accordance with applicable law.</p>
+<p class="indent3 firstIndent-2">(12) FBI</p>
+<p class="indent1">The term “FBI” means the Federal Bureau of Investigation.</p>
+<p class="indent3 firstIndent-2">(13) Interstate Identification System <ref class="footnoteRef" idref="fn002217">1</ref></p>
+<p class="indent1">The term “Interstate Identification Index System” or “III System”—</p>
+<p class="indent2">(A) means the cooperative Federal-State system for the exchange of criminal history records; and</p>
+<p class="indent2">(B) includes the National Identification Index, the National Fingerprint File and, to the extent of their participation in such system, the criminal history record repositories of the States and the FBI.</p>
+<p class="indent3 firstIndent-2">(14) National Fingerprint File</p>
+<p class="indent1">The term “National Fingerprint File” means a database of fingerprints, or other uniquely personal identifying information, relating to an arrested or charged individual maintained by the FBI to provide positive identification of record subjects indexed in the III System.</p>
+<p class="indent3 firstIndent-2">(15) National Identification Index</p>
+<p class="indent1">The term “National Identification Index” means an index maintained by the FBI consisting of names, identifying numbers, and other descriptive information relating to record subjects about whom there are criminal history records in the III System.</p>
+<p class="indent3 firstIndent-2">(16) National indices</p>
+<p class="indent1">The term “National indices” means the National Identification Index and the National Fingerprint File.</p>
+<p class="indent3 firstIndent-2">(17) Nonparty State</p>
+<p class="indent1">The term “Nonparty State” means a State that has not ratified this Compact.</p>
+<p class="indent3 firstIndent-2">(18) Noncriminal justice purposes</p>
+<p class="indent1">The term “noncriminal justice purposes” means uses of criminal history records for purposes authorized by Federal or State law other than purposes relating to criminal justice activities, including employment suitability, licensing determinations, immigration and naturalization matters, and national security clearances.</p>
+<p class="indent3 firstIndent-2">(19) Party State</p>
+<p class="indent1">The term “Party State” means a State that has ratified this Compact.</p>
+<p class="indent3 firstIndent-2">(20) Positive identification</p>
+<p class="indent1">The term “positive identification” means a determination, based upon a comparison of fingerprints or other equally reliable biometric identification techniques, that the subject of a record search is the same person as the subject of a criminal history record or records indexed in the III System. Identifications based solely upon a comparison of subjects’ names or other nonunique identification characteristics or numbers, or combinations thereof, shall not constitute positive identification.</p>
+<p class="indent3 firstIndent-2">(21) Sealed record information</p>
+<p class="indent1">The term “sealed record information” means—</p>
+<p class="indent2">(A) with respect to adults, that portion of a record that is—</p>
+<p class="indent3">(i) not available for criminal justice uses;</p>
+<p class="indent3">(ii) not supported by fingerprints or other accepted means of positive identification; or</p>
+<p class="indent3">(iii) subject to restrictions on dissemination for noncriminal justice purposes pursuant to a court order related to a particular subject or pursuant to a Federal or State statute that requires action on a sealing petition filed by a particular record subject; and</p>
+<p class="indent2">(B) with respect to juveniles, whatever each State determines is a sealed record under its own law and procedure.</p>
+<p class="indent3 firstIndent-2">(22) State</p>
+<p class="indent1">The term “State” means any State, territory, or possession of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.</p>
+<p class="centered">ARTICLE II—PURPOSES</p>
+<p class="indent0">The purposes of this Compact are to—</p>
+<p class="indent1">(1) provide a legal framework for the establishment of a cooperative Federal-State system for the interstate and Federal-State exchange of criminal history records for noncriminal justice uses;</p>
+<p class="indent1">(2) require the FBI to permit use of the National Identification Index and the National Fingerprint File by each Party State, and to provide, in a timely fashion, Federal and State criminal history records to requesting States, in accordance with the terms of this Compact and with rules, procedures, and standards established by the Council under Article VI;</p>
+<p class="indent1">(3) require Party States to provide information and records for the National Identification Index and the National Fingerprint File and to provide criminal history records, in a timely fashion, to criminal history record repositories of other States and the Federal Government for noncriminal justice purposes, in accordance with the terms of this Compact and with rules, procedures, and standards established by the Council under Article VI;</p>
+<p class="indent1">(4) provide for the establishment of a Council to monitor III System operations and to prescribe system rules and procedures for the effective and proper operation of the III System for noncriminal justice purposes; and</p>
+<p class="indent1">(5) require the FBI and each Party State to adhere to III System standards concerning record dissemination and use, response times, system security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.</p>
+<p class="centered">ARTICLE III—RESPONSIBILITIES OF COMPACT PARTIES</p>
+<p class="indent2 firstIndent-2">(a) FBI responsibilities</p>
+<p class="indent0">The Director of the FBI shall—</p>
+<p class="indent1">(1) appoint an FBI Compact officer who shall—</p>
+<p class="indent2">(A) administer this Compact within the Department of Justice and among Federal agencies and other agencies and organizations that submit search requests to the FBI pursuant to Article V(c);</p>
+<p class="indent2">(B) ensure that Compact provisions and rules, procedures, and standards prescribed by the Council under Article VI are complied with by the Department of Justice and the Federal agencies and other agencies and organizations referred to in Article III(1)(A); and</p>
+<p class="indent2">(C) regulate the use of records received by means of the III System from Party States when such records are supplied by the FBI directly to other Federal agencies;</p>
+<p class="indent1">(2) provide to Federal agencies and to State criminal history record repositories, criminal history records maintained in its database for the noncriminal justice purposes described in Article IV, including—</p>
+<p class="indent2">(A) information from Nonparty States; and</p>
+<p class="indent2">(B) information from Party States that is available from the FBI through the III System, but is not available from the Party State through the III System;</p>
+<p class="indent1">(3) provide a telecommunications network and maintain centralized facilities for the exchange of criminal history records for both criminal justice purposes and the noncriminal justice purposes described in Article IV, and ensure that the exchange of such records for criminal justice purposes has priority over exchange for noncriminal justice purposes; and</p>
+<p class="indent1">(4) modify or enter into user agreements with Nonparty State criminal history record repositories to require them to establish record request procedures conforming to those prescribed in Article V.</p>
+<p class="indent2 firstIndent-2">(b) State responsibilities</p>
+<p class="indent0">Each Party State shall—</p>
+<p class="indent1">(1) appoint a Compact officer who shall—</p>
+<p class="indent2">(A) administer this Compact within that State;</p>
+<p class="indent2">(B) ensure that Compact provisions and rules, procedures, and standards established by the Council under Article VI are complied with in the State; and</p>
+<p class="indent2">(C) regulate the in-State use of records received by means of the III System from the FBI or from other Party States;</p>
+<p class="indent1">(2) establish and maintain a criminal history record repository, which shall provide—</p>
+<p class="indent2">(A) information and records for the National Identification Index and the National Fingerprint File; and</p>
+<p class="indent2">(B) the State’s III System-indexed criminal history records for noncriminal justice purposes described in Article IV;</p>
+<p class="indent1">(3) participate in the National Fingerprint File; and</p>
+<p class="indent1">(4) provide and maintain telecommunications links and related equipment necessary to support the services set forth in this Compact.</p>
+<p class="indent2 firstIndent-2">(c) Compliance with III System standards</p>
+<p class="indent0">In carrying out their responsibilities under this Compact, the FBI and each Party State shall comply with III System rules, procedures, and standards duly established by the Council concerning record dissemination and use, response times, data quality, system security, accuracy, privacy protection, and other aspects of III System operation.</p>
+<p class="indent2 firstIndent-2">(d) Maintenance of record services</p>
+<p class="indent0">(1) Use of the III System for noncriminal justice purposes authorized in this Compact shall be managed so as not to diminish the level of services provided in support of criminal justice purposes.</p>
+<p class="indent0">(2) Administration of Compact provisions shall not reduce the level of service available to authorized noncriminal justice users on the effective date of this Compact.</p>
+<p class="centered">ARTICLE IV—AUTHORIZED RECORD DISCLOSURES</p>
+<p class="indent2 firstIndent-2">(a) State criminal history record repositories</p>
+<p class="indent0">To the extent authorized by <ref>section 552a of title 5</ref>, United States Code (commonly known as the “Privacy Act of 1974”), the FBI shall provide on request criminal history records (excluding sealed records) to State criminal history record repositories for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General and that authorizes national indices checks.</p>
+<p class="indent2 firstIndent-2">(b) Criminal justice agencies and other governmental or nongovernmental agencies</p>
+<p class="indent0">The FBI, to the extent authorized by <ref>section 552a of title 5</ref>, United States Code (commonly known as the “Privacy Act of 1974”), and State criminal history record repositories shall provide criminal history records (excluding sealed records) to criminal justice agencies and other governmental or nongovernmental agencies for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General, that authorizes national indices checks.</p>
+<p class="indent2 firstIndent-2">(c) Procedures</p>
+<p class="indent0">Any record obtained under this Compact may be used only for the official purposes for which the record was requested. Each Compact officer shall establish procedures, consistent with this Compact, and with rules, procedures, and standards established by the Council under Article VI, which procedures shall protect the accuracy and privacy of the records, and shall—</p>
+<p class="indent1">(1) ensure that records obtained under this Compact are used only by authorized officials for authorized purposes;</p>
+<p class="indent1">(2) require that subsequent record checks are requested to obtain current information whenever a new need arises; and</p>
+<p class="indent1">(3) ensure that record entries that may not legally be used for a particular noncriminal justice purpose are deleted from the response and, if no information authorized for release remains, an appropriate “no record” response is communicated to the requesting official.</p>
+<p class="centered">ARTICLE V—RECORD REQUEST PROCEDURES</p>
+<p class="indent2 firstIndent-2">(a) Positive identification</p>
+<p class="indent0">Subject fingerprints or other approved forms of positive identification shall be submitted with all requests for criminal history record checks for noncriminal justice purposes.</p>
+<p class="indent2 firstIndent-2">(b) Submission of State requests</p>
+<p class="indent0">Each request for a criminal history record check utilizing the national indices made under any approved State statute shall be submitted through that State’s criminal history record repository. A State criminal history record repository shall process an interstate request for noncriminal justice purposes through the national indices only if such request is transmitted through another State criminal history record repository or the FBI.</p>
+<p class="indent2 firstIndent-2">(c) Submission of Federal requests</p>
+<p class="indent0">Each request for criminal history record checks utilizing the national indices made under Federal authority shall be submitted through the FBI or, if the State criminal history record repository consents to process fingerprint submissions, through the criminal history record repository in the State in which such request originated. Direct access to the National Identification Index by entities other than the FBI and State criminal history records repositories shall not be permitted for noncriminal justice purposes.</p>
+<p class="indent2 firstIndent-2">(d) Fees</p>
+<p class="indent0">A State criminal history record repository or the FBI—</p>
+<p class="indent1">(1) may charge a fee, in accordance with applicable law, for handling a request involving fingerprint processing for noncriminal justice purposes; and</p>
+<p class="indent1">(2) may not charge a fee for providing criminal history records in response to an electronic request for a record that does not involve a request to process fingerprints.</p>
+<p class="indent2 firstIndent-2">(e) Additional search</p>
+<p class="indent0">(1) If a State criminal history record repository cannot positively identify the subject of a record request made for noncriminal justice purposes, the request, together with fingerprints or other approved identifying information, shall be forwarded to the FBI for a search of the national indices.</p>
+<p class="indent0">(2) If, with respect to a request forwarded by a State criminal history record repository under paragraph (1), the FBI positively identifies the subject as having a III System-indexed record or records—</p>
+<p class="indent1">(A) the FBI shall so advise the State criminal history record repository; and</p>
+<p class="indent1">(B) the State criminal history record repository shall be entitled to obtain the additional criminal history record information from the FBI or other State criminal history record repositories.</p>
+<p class="centered">ARTICLE VI—ESTABLISHMENT OF COMPACT COUNCIL</p>
+<p class="indent2 firstIndent-2">(a) Establishment</p>
+<p class="indent3 firstIndent-2">(1) In general</p>
+<p class="indent1">There is established a council to be known as the “Compact Council”, which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.</p>
+<p class="indent3 firstIndent-2">(2) Organization</p>
+<p class="indent1">The Council shall—</p>
+<p class="indent2">(A) continue in existence as long as this Compact remains in effect;</p>
+<p class="indent2">(B) be located, for administrative purposes, within the FBI; and</p>
+<p class="indent2">(C) be organized and hold its first meeting as soon as practicable after the effective date of this Compact.</p>
+<p class="indent2 firstIndent-2">(b) Membership</p>
+<p class="indent0">The Council shall be composed of 15 members, each of whom shall be appointed by the Attorney General, as follows:</p>
+<p class="indent1">(1) Nine members, each of whom shall serve a 2-year term, who shall be selected from among the Compact officers of Party States based on the recommendation of the Compact officers of all Party States, except that, in the absence of the requisite number of Compact officers available to serve, the chief administrators of the criminal history record repositories of Nonparty States shall be eligible to serve on an interim basis.</p>
+<p class="indent1">(2) Two at-large members, nominated by the Director of the FBI, each of whom shall serve a 3-year term, of whom—</p>
+<p class="indent2">(A) 1 shall be a representative of the criminal justice agencies of the Federal Government and may not be an employee of the FBI; and</p>
+<p class="indent2">(B) 1 shall be a representative of the noncriminal justice agencies of the Federal Government.</p>
+<p class="indent1">(3) Two at-large members, nominated by the Chairman of the Council, once the Chairman is elected pursuant to Article VI(c), each of whom shall serve a 3-year term, of whom—</p>
+<p class="indent2">(A) 1 shall be a representative of State or local criminal justice agencies; and</p>
+<p class="indent2">(B) 1 shall be a representative of State or local noncriminal justice agencies.</p>
+<p class="indent1">(4) One member, who shall serve a 3-year term, and who shall simultaneously be a member of the FBI’s advisory policy board on criminal justice information services, nominated by the membership of that policy board.</p>
+<p class="indent1">(5) One member, nominated by the Director of the FBI, who shall serve a 3-year term, and who shall be an employee of the FBI.</p>
+<p class="indent2 firstIndent-2">(c) Chairman and Vice Chairman</p>
+<p class="indent3 firstIndent-2">(1) In general</p>
+<p class="indent1">From its membership, the Council shall elect a Chairman and a Vice Chairman of the Council, respectively. Both the Chairman and Vice Chairman of the Council—</p>
+<p class="indent2">(A) shall be a Compact officer, unless there is no Compact officer on the Council who is willing to serve, in which case the Chairman may be an at-large member; and</p>
+<p class="indent2">(B) shall serve a 2-year term and may be reelected to only 1 additional 2-year term.</p>
+<p class="indent3 firstIndent-2">(2) Duties of Vice Chairman</p>
+<p class="indent1">The Vice Chairman of the Council shall serve as the Chairman of the Council in the absence of the Chairman.</p>
+<p class="indent2 firstIndent-2">(d) Meetings</p>
+<p class="indent3 firstIndent-2">(1) In general</p>
+<p class="indent1">The Council shall meet at least once each year at the call of the Chairman. Each meeting of the Council shall be open to the public. The Council shall provide prior public notice in the Federal Register of each meeting of the Council, including the matters to be addressed at such meeting.</p>
+<p class="indent3 firstIndent-2">(2) Quorum</p>
+<p class="indent1">A majority of the Council or any committee of the Council shall constitute a quorum of the Council or of such committee, respectively, for the conduct of business. A lesser number may meet to hold hearings, take testimony, or conduct any business not requiring a vote.</p>
+<p class="indent2 firstIndent-2">(e) Rules, procedures, and standards</p>
+<p class="indent0">The Council shall make available for public inspection and copying at the Council office within the FBI, and shall publish in the Federal Register, any rules, procedures, or standards established by the Council.</p>
+<p class="indent2 firstIndent-2">(f) Assistance from FBI</p>
+<p class="indent0">The Council may request from the FBI such reports, studies, statistics, or other information or materials as the Council determines to be necessary to enable the Council to perform its duties under this Compact. The FBI, to the extent authorized by law, may provide such assistance or information upon such a request.</p>
+<p class="indent2 firstIndent-2">(g) Committees</p>
+<p class="indent0">The Chairman may establish committees as necessary to carry out this Compact and may prescribe their membership, responsibilities, and duration.</p>
+<p class="centered">ARTICLE VII—RATIFICATION OF COMPACT</p>
+<p class="indent0">This Compact shall take effect upon being entered into by 2 or more States as between those States and the Federal Government. Upon subsequent entering into this Compact by additional States, it shall become effective among those States and the Federal Government and each Party State that has previously ratified it. When ratified, this Compact shall have the full force and effect of law within the ratifying jurisdictions. The form of ratification shall be in accordance with the laws of the executing State.</p>
+<p class="centered">ARTICLE VIII—MISCELLANEOUS PROVISIONS</p>
+<p class="indent2 firstIndent-2">(a) Relation of Compact to certain FBI activities</p>
+<p class="indent0">Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI’s collection and dissemination of criminal history records and the advisory function of the FBI’s advisory policy board chartered under chapter 10 of title 5 for all purposes other than noncriminal justice.</p>
+<p class="indent2 firstIndent-2">(b) No authority for nonappropriated expenditures</p>
+<p class="indent0">Nothing in this Compact shall require the FBI to obligate or expend funds beyond those appropriated to the FBI.</p>
+<p class="indent2 firstIndent-2">(c) Relating to <ref>Public Law 92–544</ref></p>
+<p class="indent0">Nothing in this Compact shall diminish or lessen the obligations, responsibilities, and authorities of any State, whether a Party State or a Nonparty State, or of any criminal history record repository or other subdivision or component thereof, under the Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973 (<ref>Public Law 92–544</ref>), or regulations and guidelines promulgated thereunder, including the rules and procedures promulgated by the Council under Article VI(a), regarding the use and dissemination of criminal history records and information.</p>
+<p class="centered">ARTICLE IX—RENUNCIATION</p>
+<p class="indent2 firstIndent-2">(a) In general</p>
+<p class="indent0">This Compact shall bind each Party State until renounced by the Party State.</p>
+<p class="indent2 firstIndent-2">(b) Effect</p>
+<p class="indent0">Any renunciation of this Compact by a Party State shall—</p>
+<p class="indent1">(1) be effected in the same manner by which the Party State ratified this Compact; and</p>
+<p class="indent1">(2) become effective 180 days after written notice of renunciation is provided by the Party State to each other Party State and to the Federal Government.</p>
+<p class="centered">ARTICLE X—SEVERABILITY</p>
+<p class="indent0">The provisions of this Compact shall be severable, and if any phrase, clause, sentence, or provision of this Compact is declared to be contrary to the constitution of any participating State, or to the Constitution of the United States, or the applicability thereof to any government, agency, person, or circumstance is held invalid, the validity of the remainder of this Compact and the applicability thereof to any government, agency, person, or circumstance shall not be affected thereby. If a portion of this Compact is held contrary to the constitution of any Party State, all other portions of this Compact shall remain in full force and effect as to the remaining Party States and in full force and effect as to the Party State affected, as to all other provisions.</p>
+<p class="centered">ARTICLE XI—ADJUDICATION OF DISPUTES</p>
+<p class="indent2 firstIndent-2">(a) In general</p>
+<p class="indent0">The Council shall—</p>
+<p class="indent1">(1) have initial authority to make determinations with respect to any dispute regarding—</p>
+<p class="indent2">(A) interpretation of this Compact;</p>
+<p class="indent2">(B) any rule or standard established by the Council pursuant to Article V; and</p>
+<p class="indent2">(C) any dispute or controversy between any parties to this Compact; and</p>
+<p class="indent1">(2) hold a hearing concerning any dispute described in paragraph (1) at a regularly scheduled meeting of the Council and only render a decision based upon a majority vote of the members of the Council. Such decision shall be published pursuant to the requirements of Article VI(e).</p>
+<p class="indent2 firstIndent-2">(b) Duties of FBI</p>
+<p class="indent0">The FBI shall exercise immediate and necessary action to preserve the integrity of the III System, maintain system policy and standards, protect the accuracy and privacy of records, and to prevent abuses, until the Council holds a hearing on such matters.</p>
+<p class="indent2 firstIndent-2">(c) Right of appeal</p>
+<p class="indent0">The FBI or a Party State may appeal any decision of the Council to the Attorney General, and thereafter may file suit in the appropriate district court of the United States, which shall have original jurisdiction of all cases or controversies arising under this Compact. Any suit arising under this Compact and initiated in a State court shall be removed to the appropriate district court of the United States in the manner provided by <ref>section 1446 of title 28</ref>, United States Code, or other statutory authority.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 105–251, title II, § 217</ref>, <date date="1998-10-09">Oct. 9, 1998</date>, <ref>112 Stat. 1876</ref>; <ref>Pub. L. 117–286, § 4(a)(214)</ref>, <date date="2022-12-27">Dec. 27, 2022</date>, <ref>136 Stat. 4329</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

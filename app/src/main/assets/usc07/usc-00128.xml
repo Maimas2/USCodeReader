@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 114—</num>
+<heading>AGRICULTURAL SECURITY</heading>
+<section>
+<num>§ 8901.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Agent</heading>
+<content>
+<p class="indent1">The term “agent” means a nuclear, biological, chemical, or radiological substance that causes agricultural disease or the adulteration of products regulated by the Secretary of Agriculture under any provision of law.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Agricultural biosecurity</heading>
+<chapeau class="indent1">The term “agricultural biosecurity” means protection from an agent that poses a threat to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> plant or animal health;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> public health as it relates to the adulteration of products regulated by the Secretary of Agriculture under any provision of law that is caused by exposure to an agent; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the environment as it relates to agriculture facilities, farmland, and air and water within the immediate vicinity of an area associated with an agricultural disease or outbreak.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Agricultural countermeasure</heading>
+<chapeau class="indent1">The term “agricultural countermeasure”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> means a product, practice, or technology that is intended to enhance or maintain the agricultural biosecurity of the United States; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> does not include a product, practice, or technology used solely in response to a human medical incident or public health emergency not related to agriculture.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Agricultural disease</heading>
+<content>
+<p class="indent1">The term “agricultural disease” has the meaning given the term by the Secretary.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Agricultural disease emergency</heading>
+<content>
+<p class="indent1">The term “agricultural disease emergency” means an incident of agricultural disease that requires prompt action to prevent significant damage to people, plants, or animals.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Agroterrorist act</heading>
+<chapeau class="indent1">The term “agroterrorist act” means an act that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> causes or attempts to cause—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> damage to agriculture; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> injury to a person associated with agriculture; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> is committed or appears to be committed with the intent to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> intimidate or coerce a civilian population; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> disrupt the agricultural industry in order to influence the policy of a government by intimidation or coercion.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Animal</heading>
+<content>
+<p class="indent1">The term “animal” has the meaning given the term in <ref>section 8302 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Department</heading>
+<content>
+<p class="indent1">The term “Department” means the Department of Agriculture.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Development</heading>
+<chapeau class="indent1">The term “development” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> research leading to the identification of products or technologies intended for use as agricultural countermeasures to protect animal health;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the formulation, production, and subsequent modification of those products or technologies;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the conduct of in vitro and in vivo studies;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the conduct of field, efficacy, and safety studies;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the preparation of an application for marketing approval for submission to an applicable agency; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> other actions taken by an applicable agency in a case in which an agricultural countermeasure is procured or used prior to issuance of a license or other form of Federal Government approval.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Plant</heading>
+<content>
+<p class="indent1">The term “plant” has the meaning given the term in <ref>section 7702 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Qualified agricultural countermeasure</heading>
+<content>
+<p class="indent1">The term “qualified agricultural countermeasure” means an agricultural countermeasure that the Secretary, in consultation with the Secretary of Homeland Security, determines to be a priority in order to address an agricultural biosecurity threat.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 110–234, title XIV, § 14102</ref>, <date date="2008-05-22">May 22, 2008</date>, <ref>122 Stat. 1453</ref>; <ref>Pub. L. 110–246, § 4(a)</ref>, title XIV, § 14102, <date date="2008-06-18">June 18, 2008</date>, <ref>122 Stat. 1664</ref>, 2215.)</sourceCredit>
+</section>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>AGRICULTURAL SECURITY</heading>
+<section>
+<num>§ 8911.</num>
+<heading> Repealed. <ref>Pub. L. 115–334, title XII, § 12201</ref>, <date date="2018-12-20">Dec. 20, 2018</date>, <ref>132 Stat. 4944</ref></heading>
+</section>
+<section>
+<num>§ 8912.</num>
+<heading> Agricultural biosecurity communication center</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent0">The Secretary shall establish a communication center within the Department to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> collect and disseminate information and prepare for an agricultural disease emergency, agroterrorist act, or other threat to agricultural biosecurity; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> coordinate activities described in paragraph (1) among agencies and offices within the Department.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Relation to existing DHS communication systems</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Consistency and coordination</heading>
+<content>
+<p class="indent1">The communication center established under subsection (a) shall, to the maximum extent practicable, share and coordinate the dissemination of timely information with the Department of Homeland Security and other communication systems of appropriate Federal departments and agencies.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Avoiding redundancies</heading>
+<content>
+<p class="indent1">Paragraph (1) shall not be construed to impede, conflict with, or duplicate the communications activities performed by the Secretary of Homeland Security under any provision of law.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent0">There are authorized to be appropriated to carry out this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> such sums as are necessary for each of fiscal years 2008 through 2013; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $2,000,000 for each of fiscal years 2014 through 2023.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 110–234, title XIV, § 14112</ref>, <date date="2008-05-22">May 22, 2008</date>, <ref>122 Stat. 1455</ref>; <ref>Pub. L. 110–246, § 4(a)</ref>, title XIV, § 14112, <date date="2008-06-18">June 18, 2008</date>, <ref>122 Stat. 1664</ref>, 2217; <ref>Pub. L. 113–79, title VII, § 7501</ref>, <date date="2014-02-07">Feb. 7, 2014</date>, <ref>128 Stat. 900</ref>; <ref>Pub. L. 115–334, title VII, § 7401</ref>, <date date="2018-12-20">Dec. 20, 2018</date>, <ref>132 Stat. 4817</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8913.</num>
+<heading> Assistance to build local capacity in agricultural biosecurity planning, preparedness, and response</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Advanced training programs</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Grant assistance</heading>
+<content>
+<p class="indent1">The Secretary shall establish a competitive grant program to support the development and expansion of advanced training programs in agricultural biosecurity planning and response for food science professionals and veterinarians.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent1">There are authorized to be appropriated to the Secretary to carry out this subsection—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> such sums as are necessary for each of fiscal years 2008 through 2013; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $15,000,000 for each of fiscal years 2014 through 2023.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Assessment of response capability</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Grant and loan assistance</heading>
+<content>
+<p class="indent1">The Secretary shall establish a competitive grant and low-interest loan assistance program to assist States in assessing agricultural disease response capability.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent1">There are authorized to be appropriated to carry out this subsection—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $25,000,000 for each of fiscal years 2008 through 2013; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $15,000,000 for each of fiscal years 2014 through 2023.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 110–234, title XIV, § 14113</ref>, <date date="2008-05-22">May 22, 2008</date>, <ref>122 Stat. 1455</ref>; <ref>Pub. L. 110–246, § 4(a)</ref>, title XIV, § 14113, <date date="2008-06-18">June 18, 2008</date>, <ref>122 Stat. 1664</ref>, 2217; <ref>Pub. L. 113–79, title VII, § 7502</ref>, <date date="2014-02-07">Feb. 7, 2014</date>, <ref>128 Stat. 900</ref>; <ref>Pub. L. 115–334, title VII, § 7402</ref>, <date date="2018-12-20">Dec. 20, 2018</date>, <ref>132 Stat. 4817</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8914.</num>
+<heading> Agriculture and food defense</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">In this section:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Animal</heading>
+<content>
+<p class="indent1">The term “animal” has the meaning given the term in <ref>section 8302 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Disease or pest of concern</heading>
+<chapeau class="indent1">The term “disease or pest of concern” means a plant or animal disease or pest that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> is—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a transboundary disease; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> an established disease; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> is likely to pose a significant risk to the food and agriculture critical infrastructure sector that warrants efforts at prevention, protection, mitigation, response, and recovery.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Established disease</heading>
+<chapeau class="indent1">The term “established disease” means a plant or animal disease or pest that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<clause class="indent2">
+<num>(i)</num>
+<content> if it becomes established, poses an imminent threat to agriculture in the United States; or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> has become established, as defined by the Secretary, within the United States; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> requires management.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> High-consequence plant transboundary disease</heading>
+<chapeau class="indent1">The term “high-consequence plant transboundary disease” means a transboundary disease that is—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<clause class="indent2">
+<num>(i)</num>
+<content> a plant disease; or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> a plant pest; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> of high consequence, as determined by the Secretary.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Pest</heading>
+<chapeau class="indent1">The term “pest”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> with respect to a plant, has the meaning given the term “plant pest” in <ref>section 7702 of this title</ref>; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> with respect to an animal, has the meaning given the term in <ref>section 8302 of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Plant</heading>
+<content>
+<p class="indent1">The term “plant” has the meaning given the term in <ref>section 7702 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Plant health management strategy</heading>
+<content>
+<p class="indent1">The term “plant health management strategy” means a strategy to timely control and eradicate a plant disease or plant pest outbreak, including through mitigation (such as chemical control), surveillance, the use of diagnostic products and procedures, and the use of existing resistant seed stock.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Transboundary disease</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The term “transboundary disease” means a plant or animal disease or pest that is within 1 or more countries outside of the United States.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Inclusion</heading>
+<chapeau class="indent2">The term “transboundary disease” includes a plant or animal disease or pest described in subparagraph (A) that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> has emerged within the United States; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> has been introduced within the United States.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent4 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Veterinary countermeasure</heading>
+<content>
+<p class="indent2">The term “veterinary countermeasure” has the meaning given such term in <ref>section 8302 of this title</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Disease or Pest of Concern Response Planning</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">The Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> establish a list of diseases or pests of concern by—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> developing a process to solicit and receive expert opinion and evidence relating to the diseases or pests of concern entered on the list; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> reviewing all available evidence relating to the diseases or pests of concern entered on the list, including classified information; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> periodically update the list established under subparagraph (A).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Response plans</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Comprehensive strategic response plan or plans</heading>
+<content>
+<p class="indent2">The Secretary shall develop, in collaboration with appropriate Federal, State, regional, and local officials, a comprehensive strategic response plan or plans, as appropriate, for the diseases or pests of concern that are entered on the list established under paragraph (1).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> State or region response plan or plans</heading>
+<chapeau class="indent2">The Secretary shall provide information to a State or region to assist in producing a response plan or plans that shall include a concept of operations for a disease or pest of concern or a platform concept of operations for responses to similar diseases or pests of concern that are determined to be a priority to the State or region that shall, as appropriate—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<chapeau> describe the appropriate interactions among, and roles of—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> Federal, State, Tribal, and units of local government; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> plant or animal industry partners;</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> include a decision matrix or dynamic decision modeling tools that, as appropriate, include—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> information and timing requirements necessary for the use of veterinary countermeasures;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> plant health management strategies;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> deployment of other key materials and resources; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> parameters for transitioning from outbreak response to disease management;</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<chapeau> identify key response performance metrics to establish—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> benchmarking to provide assessments of capabilities, capacity, and readiness to achieve response goals and objectives;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> progressive exercise evaluation; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<chapeau> continuing improvement of a response plan, including by providing for—</chapeau>
+<item class="indent5">
+<num>(aa)</num>
+<content> ongoing exercises;</content>
+</item>
+<item class="indent5">
+<num>(bb)</num>
+<content> improvement planning and the implementation of corrective actions to enhance a response plan over time; and</content>
+</item>
+<item class="indent5">
+<num>(cc)</num>
+<content> strategic information to guide investment in any appropriate research to mitigate the risk of a disease or pest of concern; and</content>
+</item>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<chapeau> be updated periodically, including in response to—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> an exercise evaluation; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> new risk information becoming available regarding a disease or pest of concern.</content>
+</subclause>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Coordination of plans</heading>
+<content>
+<p class="indent1">Pursuant to <ref>section 6922(d)(6) of this title</ref>, as added by section 12202, the Secretary shall, as appropriate, assist in coordinating with other appropriate Federal, State, regional, or local officials in the exercising of the plans developed under paragraph (2).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> National Plant Diagnostic Network</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary shall establish in the Department of Agriculture a National Plant Diagnostic Network to monitor and surveil through diagnostics threats to plant health from diseases or pests of concern in the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent1">The National Plant Diagnostic Network established under paragraph (1) shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> provide for increased awareness, surveillance, early identification, rapid communication, warning, and diagnosis of a threat to plant health from a disease or pest of concern to protect natural and agricultural plant resources;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> coordinate and collaborate with agencies of the Department of Agriculture and State agencies and authorities involved in plant health;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> establish diagnostic laboratory standards;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> establish regional hubs throughout the United States that provide expertise, leadership, and support to diagnostic labs relating to the agricultural crops and plants in the covered regions of those hubs; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> establish a national repository for records of endemic or emergent diseases and pests of concern.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Head of network</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The Director of the National Institute of Food and Agriculture shall serve as the head of the National Plant Diagnostic Network.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Duties</heading>
+<chapeau class="indent2">The head of the National Plant Diagnostic Network shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> coordinate and collaborate with land-grant colleges and universities (as defined in <ref>section 3103 of this title</ref>) in carrying out the requirements under paragraph (2), including through cooperative agreements described in paragraph (4);</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> partner with the Administrator of the Animal and Plant Health Inspection Service for assistance with plant health regulation and inspection; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> coordinate with other Federal agencies, as appropriate, in carrying out activities relating to the National Plant Diagnostic Network, including the sharing of biosurveillance information.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Collaboration with land-grant colleges and universities</heading>
+<content>
+<p class="indent1">The Secretary shall seek to establish cooperative agreements with land-grant colleges and universities (as defined in <ref>section 3103 of this title</ref>) that have the appropriate level of skill, experience, and competence with plant diseases or pests of concern.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent1">In addition to the amount authorized to carry out this subtitle under section 12205,<ref class="footnoteRef" idref="fn002381">1</ref> there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> National Plant Disease Recovery System</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Recovery System</heading>
+<content>
+<p class="indent1">The Secretary shall establish in the Department of Agriculture a National Plant Disease Recovery System to engage in strategic long-range planning to recover from high-consequence plant transboundary diseases.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent1">The National Plant Disease Recovery System established under paragraph (1) shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> coordinate with disease or pest of concern concept of operations response plans;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> make long-range plans for the initiation of future research projects relating to high-consequence plant transboundary diseases;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> establish research plans for long-term recovery;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> plan for the identification and use of specific genotypes, cultivars, breeding lines, and other disease-resistant materials necessary for crop stabilization or improvement; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> establish a watch list of high-consequence plant transboundary diseases for the purpose of making long-range plans under subparagraph (B).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–334, title XII, § 12203</ref>, <date date="2018-12-20">Dec. 20, 2018</date>, <ref>132 Stat. 4946</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>OTHER PROVISIONS</heading>
+<section>
+<num>§ 8921.</num>
+<heading> Research and development of agricultural countermeasures</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Grant program</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Competitive grant program</heading>
+<content>
+<p class="indent1">The Secretary shall establish a competitive grant program to encourage basic and applied research and the development of qualified agricultural countermeasures.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Waiver in emergencies</heading>
+<chapeau class="indent1">The Secretary may waive the requirement under paragraph (1) that a grant be provided on a competitive basis if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Secretary has declared a plant or animal disease emergency under the Plant Protection Act (<ref>7 U.S.C. 7701</ref> et seq.) or the Animal Health Protection Act (<ref>7 U.S.C. 8301</ref> et seq.); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> waiving the requirement would lead to the rapid development of a qualified agricultural countermeasure, as determined by the Secretary.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent0">There are authorized to be appropriated to carry out this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> $50,000,000 for each of fiscal years 2008 through 2013; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $15,000,000 for each of fiscal years 2014 through 2023.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 110–234, title XIV, § 14121</ref>, <date date="2008-05-22">May 22, 2008</date>, <ref>122 Stat. 1455</ref>; <ref>Pub. L. 110–246, § 4(a)</ref>, title XIV, § 14121, <date date="2008-06-18">June 18, 2008</date>, <ref>122 Stat. 1664</ref>, 2217; <ref>Pub. L. 113–79, title VII, § 7503</ref>, <date date="2014-02-07">Feb. 7, 2014</date>, <ref>128 Stat. 900</ref>; <ref>Pub. L. 115–334, title VII, § 7403</ref>, <date date="2018-12-20">Dec. 20, 2018</date>, <ref>132 Stat. 4817</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8922.</num>
+<heading> Agricultural biosecurity grant program</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Competitive grant program</heading>
+<content>
+<p class="indent0">The Secretary shall establish a competitive grant program to promote the development of teaching programs in agriculture, veterinary medicine, and disciplines closely allied to the food and agriculture system to increase the number of trained individuals with an expertise in agricultural biosecurity.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Eligibility</heading>
+<chapeau class="indent0">The Secretary may award a grant under this section only to an entity that is—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> an accredited school of veterinary medicine; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> a department of an institution of higher education with a primary focus on—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> comparative medicine;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> veterinary science; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> agricultural biosecurity.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Preference</heading>
+<chapeau class="indent0">The Secretary shall give preference in awarding grants based on the ability of an applicant—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to increase the number of veterinarians or individuals with advanced degrees in food and agriculture disciplines who are trained in agricultural biosecurity practice areas;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to increase research capacity in areas of agricultural biosecurity; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to fill critical agricultural biosecurity shortage situations outside of the Federal Government.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Use of funds</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Amounts received under this section shall be used by a grantee to pay—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> costs associated with the acquisition of equipment and other capital costs relating to the expansion of food, agriculture, and veterinary medicine teaching programs in agricultural biosecurity;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> capital costs associated with the expansion of academic programs that offer postgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> other capacity and infrastructure program costs that the Secretary considers appropriate.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Limitation</heading>
+<content>
+<p class="indent1">Funds received under this section may not be used for the construction, renovation, or rehabilitation of a building or facility.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent0">There are authorized to be appropriated to carry out this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> such sums as are necessary for each of fiscal years 2008 through 2013, to remain available until expended; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $5,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 110–234, title XIV, § 14122</ref>, <date date="2008-05-22">May 22, 2008</date>, <ref>122 Stat. 1456</ref>; <ref>Pub. L. 110–246, § 4(a)</ref>, title XIV, § 14122, <date date="2008-06-18">June 18, 2008</date>, <ref>122 Stat. 1664</ref>, 2218; <ref>Pub. L. 113–79, title VII, § 7504</ref>, <date date="2014-02-07">Feb. 7, 2014</date>, <ref>128 Stat. 901</ref>; <ref>Pub. L. 115–334, title VII, § 7404</ref>, <date date="2018-12-20">Dec. 20, 2018</date>, <ref>132 Stat. 4817</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

@@ -1,0 +1,2445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 111—</num>
+<heading>WEATHER RESEARCH AND FORECASTING INNOVATION</heading>
+<section>
+<num>§ 8501.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Seasonal</heading>
+<content>
+<p class="indent1">The term “seasonal” means the time range between 3 months and 2 years.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> State</heading>
+<content>
+<p class="indent1">The term “State” means a State, a territory, or possession of the United States, including a Commonwealth, or the District of Columbia.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Subseasonal</heading>
+<content>
+<p class="indent1">The term “subseasonal” means the time range between 2 weeks and 3 months.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Under Secretary</heading>
+<content>
+<p class="indent1">The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Weather industry and weather enterprise</heading>
+<content>
+<p class="indent1">The terms “weather industry” and “weather enterprise” are interchangeable in this chapter, and include individuals and organizations from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 115–25, § 2</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 92</ref>.)</sourceCredit>
+</section>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>UNITED STATES WEATHER RESEARCH AND FORECASTING IMPROVEMENT</heading>
+<section>
+<num>§ 8511.</num>
+<heading> Public safety priority</heading>
+<content>
+<p class="indent0">In conducting research, the Under Secretary shall prioritize improving weather data, modeling, computing, forecasting, and warnings for the protection of life and property and for the enhancement of the national economy.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 115–25, title I, § 101</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 92</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8512.</num>
+<heading> Weather research and forecasting innovation</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Program</heading>
+<content>
+<p class="indent0">The Assistant Administrator for the Office of Oceanic and Atmospheric Research shall conduct a program to develop improved understanding of and forecast capabilities for atmospheric events and their impacts, placing priority on developing more accurate, timely, and effective warnings and forecasts of high impact weather events that endanger life and property.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Program elements</heading>
+<chapeau class="indent0">The program described in subsection (a) shall focus on the following activities:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Improving the fundamental understanding of weather consistent with <ref>section 8511 of this title</ref>, including the boundary layer and other processes affecting high impact weather events.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Improving the understanding of how the public receives, interprets, and responds to warnings and forecasts of high impact weather events that endanger life and property.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> Research and development, and transfer of knowledge, technologies, and applications to the National Weather Service and other appropriate agencies and entities, including the United States weather industry and academic partners, related to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> advanced radar, radar networking technologies, and other ground-based technologies, including those emphasizing rapid, fine-scale sensing of the boundary layer and lower troposphere, and the use of innovative, dual-polarization, phased-array technologies;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> aerial weather observing systems;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> high performance computing and information technology and wireless communication networks;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> advanced numerical weather prediction systems and forecasting tools and techniques that improve the forecasting of timing, track, intensity, and severity of high impact weather, including through—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the development of more effective mesoscale models;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> more effective use of existing, and the development of new, regional and national cloud-resolving models;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> enhanced global weather models; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> integrated assessment models;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> quantitative assessment tools for measuring the impact and value of data and observing systems, including Observing System Simulation Experiments (as described in <ref>section 8517 of this title</ref>), Observing System Experiments, and Analyses of Alternatives;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> atmospheric chemistry and interactions essential to accurately characterizing atmospheric composition and predicting meteorological processes, including cloud microphysical, precipitation, and atmospheric electrification processes, to more effectively understand their role in severe weather; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> additional sources of weather data and information, including commercial observing systems.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> Advancing weather modeling skill, reclaiming and maintaining international leadership in the area of numerical weather prediction, and improving the transition of research into operations by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> leveraging the weather enterprise to provide expertise on removing barriers to improving numerical weather prediction;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> enabling scientists and engineers to effectively collaborate in areas important for improving operational global numerical weather prediction skill, including model development, data assimilation techniques, systems architecture integration, and computational efficiencies;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> strengthening the National Oceanic and Atmospheric Administration’s ability to undertake research projects in pursuit of substantial advancements in weather forecast skill;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> utilizing and leverage existing resources across the National Oceanic and Atmospheric Administration enterprise; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<chapeau> creating a community global weather research modeling system that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> is accessible by the public;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> meets basic end-user requirements for running on public computers and networks located outside of secure National Oceanic and Atmospheric Administration information and technology systems; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> utilizes, whenever appropriate and cost-effective, innovative strategies and methods, including cloud-based computing capabilities, for hosting and management of part or all of the system described in this subsection.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Extramural research</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">In carrying out the program under this section, the Assistant Administrator for Oceanic and Atmospheric Research shall collaborate with and support the non-Federal weather research community, which includes institutions of higher education, private entities, and nongovernmental organizations, by making funds available through competitive grants, contracts, and cooperative agreements.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Sense of Congress</heading>
+<content>
+<p class="indent1">It is the sense of Congress that not less than 30 percent of the funds for weather research and development at the Office of Oceanic and Atmospheric Research should be made available for the purpose described in paragraph (1).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Annual report</heading>
+<content>
+<p class="indent0">Each year, concurrent with the annual budget request submitted by the President to Congress under <ref>section 1105 of title 31</ref> for the National Oceanic and Atmospheric Administration, the Under Secretary shall submit to Congress a description of current and planned activities under this section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title I, § 102</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 92</ref>; <ref>Pub. L. 115–423, § 4(a)</ref>, <date date="2019-01-07">Jan. 7, 2019</date>, <ref>132 Stat. 5456</ref>; <ref>Pub. L. 117–263, div. J, title CVI, § 10601(c)(8)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 3997</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8512a.</num>
+<heading> Learning excellence and good examples from new developers</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">In this section:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Administration</heading>
+<content>
+<p class="indent1">The term “Administration” means the National Oceanic and Atmospheric Administration.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Administrator</heading>
+<content>
+<p class="indent1">The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Earth Prediction Innovation Center</heading>
+<content>
+<p class="indent1">The term “Earth Prediction Innovation Center” means the community global weather research modeling system described in paragraph (5)(E) of <ref>section 8512(b) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Model</heading>
+<chapeau class="indent1">The term “model” means any vetted numerical model and associated data assimilation of the Earth’s system or its components—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> developed, in whole or in part, by scientists and engineers employed by the Administration; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> otherwise developed, in whole or in part, using Federal funds.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Open license</heading>
+<content>
+<p class="indent1">The term “open license” has the same meaning given such term in <ref>section 3502(21) of title 44</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Operational model</heading>
+<content>
+<p class="indent1">The term “operational model” means any model that has an output used by the Administration for operational functions.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Suitable model</heading>
+<content>
+<p class="indent1">The term “suitable model” means a model that meets the requirements described in paragraph (5)(E)(ii) of <ref>section 8512(b) of this title</ref>, as determined by the Administrator.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Purposes</heading>
+<chapeau class="indent0">The purposes of this section are—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to support innovation in modeling by allowing interested stakeholders to have easy and complete access to operational model codes and to other models, as the Administrator determines appropriate; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to use vetted innovations arising from access described in paragraph (1) to improve modeling by the Administration.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Plan and implementation of plan to make certain models and data available to the public</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">The Administrator shall develop and implement a plan to make available to the public, at no cost and with no restrictions on copying, publishing, distributing, citing, adapting, or otherwise using under an open license, the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Operational models developed by the Administration.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Models that are not operational models, including experimental and developmental models, as the Administrator determines appropriate.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Applicable information and documentation for models described in subparagraphs (A) and (B), including a description of intended model outputs.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> Subject to subsection (f), all data owned by the Federal Government and data that the Administrator has the legal right to redistribute that are associated with models made available to the public pursuant to the plan and used in operational forecasting by the Administration, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> relevant metadata; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> data used for operational models used by the Administration as of <date date="2022-12-23">December 23, 2022</date>.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Accommodations</heading>
+<chapeau class="indent1">In developing and implementing the plan under paragraph (1), the Administrator may make such accommodations as the Administrator considers appropriate to ensure that the public release of any model, information, documentation, or data pursuant to the plan do <ref class="footnoteRef" idref="fn002593">1</ref> not jeopardize—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> national security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> intellectual property or redistribution rights, including under titles 17 and 35;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> any trade secret or commercial or financial information subject to <ref>section 552(b)(4) of title 5</ref>;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> any models or data that are otherwise restricted by contract or other written agreement; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the mission of the Administration to protect lives and property.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Priority</heading>
+<content>
+<p class="indent1">In developing and implementing the plan under paragraph (1), the Administrator shall prioritize making available to the public the models described in paragraph (1)(A).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Protections for privacy and statistical information</heading>
+<content>
+<p class="indent1">In developing and implementing the plan under subsection (a), the Administrator shall ensure that all requirements incorporated into any models described in paragraph (1)(A) ensure compliance with statistical laws and other relevant data protection requirements, including the protection of any personally identifiable information.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Exclusion of certain models</heading>
+<content>
+<p class="indent1">In developing and implementing the plan under paragraph (1), the Administrator may exclude models that the Administrator determines will be retired or superseded in fewer than 5 years after <date date="2022-12-23">December 23, 2022</date>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Platforms</heading>
+<content>
+<p class="indent1">In carrying out paragraphs (1) and (2), the Administrator may use government servers, contracts or agreements with a private vendor, or any other platform consistent with the purpose of this title.<ref class="footnoteRef" idref="fn002594">2</ref></p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Support program</heading>
+<content>
+<p class="indent1">The Administrator shall plan for and establish a program to support infrastructure, including telecommunications and technology infrastructure of the Administration and the platforms described in paragraph (6), relevant to making operational models and data available to the public pursuant to the plan under subsection (a).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Omitted</heading>
+<content/>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Requirement to review models and leverage innovations</heading>
+<chapeau class="indent0">The Administrator shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> consistent with the mission of the Earth Prediction Innovation Center, periodically review innovations and improvements made by persons not employed by the Administration as Federal employees to the operational models made available to the public pursuant to the plan under subsection (c)(1) in order to improve the accuracy and timeliness of forecasts of the Administration; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> if the Administrator identifies an innovation for a suitable model, develop and implement a plan to use the innovation to improve the model.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Report on implementation</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Not later than 2 years after <date date="2022-12-23">December 23, 2022</date>, the Administrator shall submit to the appropriate congressional committees a report on the implementation of this section that includes a description of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the implementation of the plan required by subsection (c);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> the process of the Administration under subsection (d)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> for engaging with interested stakeholders to learn what innovations those stakeholders have found;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> for reviewing those innovations; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> for operationalizing innovations to improve suitable models; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the use of any Federal financial assistance, including under <ref>section 3719 of this title</ref> <sup>2</sup> or the Crowdsourcing and Citizen Science Act (<ref>15 U.S.C. 3724</ref>), in order to facilitate and incentivize the sharing of externally developed improvements for testing, evaluation, validation, and application to further improve the mission of the Administration, and any other Administration priorities.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Appropriate congressional committees defined</heading>
+<chapeau class="indent1">In this subsection, the term “appropriate congressional committees” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Protection of national security interests</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Notwithstanding any other provision of this section, for models developed in whole or in part with the Department of Defense, the Administrator, in consultation with the Secretary of Defense, as appropriate, shall withhold any model or data if the Administrator or the Secretary of Defense determines doing so to be necessary to protect the national security interests of the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent1">Nothing in this section shall be construed to supersede any other provision of law governing the protection of the national security interests of the United States.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2023 through 2027.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 117–263, div. J, title CVI, § 10601</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 3995</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8513.</num>
+<heading> Tornado warning improvement and extension program</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Under Secretary, in collaboration with the United States weather industry and academic partners, shall establish a tornado warning improvement and extension program.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Goal</heading>
+<content>
+<p class="indent0">The goal of such program shall be to reduce the loss of life and economic losses from tornadoes through the development and extension of accurate, effective, and timely tornado forecasts, predictions, and warnings, including the prediction of tornadoes beyond 1 hour in advance.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Innovative observations</heading>
+<content>
+<p class="indent0">The Under Secretary shall ensure that the program periodically examines the value of incorporating innovative observations, such as acoustic or infrasonic measurements, observations from phased array radars, and observations from mesonets, with respect to the improvement of tornado forecasts, predictions, and warnings.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Program plan</heading>
+<content>
+<p class="indent0">Not later than 180 days after <date date="2017-04-18">April 18, 2017</date>, the Assistant Administrator for Oceanic and Atmospheric Research, in coordination with the Director of the National Weather Service, shall develop a program plan that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the program goal.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Annual budget for plan submittal</heading>
+<content>
+<p class="indent0">Following completion of the plan, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service, shall, not less frequently than once each year, submit to Congress a proposed budget corresponding with the activities identified in the plan.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title I, § 103</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 94</ref>; <ref>Pub. L. 117–316, § 8</ref>, <date date="2022-12-27">Dec. 27, 2022</date>, <ref>136 Stat. 4412</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8514.</num>
+<heading> Hurricane forecast improvement program</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Under Secretary, in collaboration with the United States weather industry and such academic entities as the Administrator considers appropriate, shall maintain a project to improve hurricane forecasting.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Goal</heading>
+<chapeau class="indent0">The goal of the project maintained under subsection (a) shall be to develop and extend accurate hurricane forecasts and warnings in order to reduce loss of life, injury, and damage to the economy, with a focus on—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> improving the prediction of rapid intensification and track of hurricanes;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> improving the forecast and communication of storm surges from hurricanes;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> incorporating risk communication research to create more effective watch and warning products; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> evaluating and incorporating, as appropriate, innovative observations, including acoustic or infrasonic measurements.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Project plan</heading>
+<content>
+<p class="indent0">Not later than 1 year after <date date="2017-04-18">April 18, 2017</date>, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in consultation with the Director of the National Weather Service, shall develop a plan for the project maintained under subsection (a) that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the goal set forth in subsection (b).</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title I, § 104</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 94</ref>; <ref>Pub. L. 117–316, § 9</ref>, <date date="2022-12-27">Dec. 27, 2022</date>, <ref>136 Stat. 4412</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8515.</num>
+<heading> Weather research and development planning</heading>
+<chapeau class="indent0">Not later than 1 year after <date date="2017-04-18">April 18, 2017</date>, and not less frequently than once each year thereafter, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service and the Assistant Administrator for Satellite and Information Services, shall issue a research and development and research to operations plan to restore and maintain United States leadership in numerical weather prediction and forecasting that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> describes the forecasting skill and technology goals, objectives, and progress of the National Oceanic and Atmospheric Administration in carrying out the program conducted under <ref>section 8512 of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> identifies and prioritizes specific research and development activities, and performance metrics, weighted to meet the operational weather and flood-event mission of the National Weather Service to achieve a weather-ready Nation;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> describes how the program will collaborate with stakeholders, including the United States weather industry and academic partners; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> identifies, through consultation with the National Science Foundation, the United States weather industry, and academic partners, research necessary to enhance the integration of social science knowledge into weather forecast and warning processes, including to improve the communication of threat information necessary to enable improved severe weather planning and decisionmaking on the part of individuals and communities.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 115–25, title I, § 105</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 95</ref>; <ref>Pub. L. 117–316, § 10</ref>, <date date="2022-12-27">Dec. 27, 2022</date>, <ref>136 Stat. 4413</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8516.</num>
+<heading> Observing system planning</heading>
+<chapeau class="indent0">The Under Secretary shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> develop and maintain a prioritized list of observation data requirements necessary to ensure weather forecasting capabilities to protect life and property to the maximum extent practicable;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> consistent with <ref>section 8517 of this title</ref>, utilize Observing System Simulation Experiments, Observing System Experiments, Analyses of Alternatives, and other appropriate assessment tools to ensure continuous systemic evaluations of the observing systems, data, and information needed to meet the requirements of paragraph (1), including options to maximize observational capabilities and their cost-effectiveness;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> identify current and potential future data gaps in observing capabilities related to the requirements listed under paragraph (1); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> determine a range of options to address gaps identified under paragraph (3).</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 115–25, title I, § 106</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 95</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8517.</num>
+<heading> Observing System Simulation Experiments</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">In support of the requirements of <ref>section 8516 of this title</ref>, the Assistant Administrator for Oceanic and Atmospheric Research shall undertake Observing System Simulation Experiments, or such other quantitative assessments as the Assistant Administrator considers appropriate, to quantitatively assess the relative value and benefits of observing capabilities and systems. Technical and scientific Observing System Simulation Experiment evaluations—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> may include assessments of the impact of observing capabilities on—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> global weather prediction;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> hurricane track and intensity forecasting;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> tornado warning lead times and accuracy;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> prediction of mid-latitude severe local storm outbreaks; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> prediction of storms that have the potential to cause extreme precipitation and flooding lasting from 6 hours to 1 week; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> shall be conducted in cooperation with other appropriate entities within the National Oceanic and Atmospheric Administration, other Federal agencies, the United States weather industry, and academic partners to ensure the technical and scientific merit of results from Observing System Simulation Experiments or other appropriate quantitative assessment methodologies.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent0">Observing System Simulation Experiments shall quantitatively—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> determine the potential impact of proposed space-based, suborbital, and in situ observing systems on analyses and forecasts, including potential impacts on extreme weather events across all parts of the Nation;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> evaluate and compare observing system design options; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> assess the relative capabilities and costs of various observing systems and combinations of observing systems in providing data necessary to protect life and property.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Implementation</heading>
+<chapeau class="indent0">Observing System Simulation Experiments—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> shall be conducted prior to the acquisition of major Government-owned or Government-leased operational observing systems, including polar-orbiting and geostationary satellite systems, with a lifecycle cost of more than $500,000,000; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> shall be conducted prior to the purchase of any major new commercially provided data with a lifecycle cost of more than $500,000,000.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Priority Observing System Simulation Experiments</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Global Navigation Satellite System Radio Occultation</heading>
+<content>
+<p class="indent1">Not later than 30 days after <date date="2017-04-18">April 18, 2017</date>, the Assistant Administrator for Oceanic and Atmospheric Research shall complete an Observing System Simulation Experiment to assess the value of data from Global Navigation Satellite System Radio Occultation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Geostationary hyperspectral sounder global constellation</heading>
+<content>
+<p class="indent1">Not later than 120 days after <date date="2017-04-18">April 18, 2017</date>, the Assistant Administrator for Oceanic and Atmospheric Research shall complete an Observing System Simulation Experiment to assess the value of data from a geostationary hyperspectral sounder global constellation.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Results</heading>
+<content>
+<p class="indent0">Upon completion of all Observing System Simulation Experiments, the Assistant Administrator shall make available to the public the results an assessment <ref class="footnoteRef" idref="fn002595">1</ref> of related private and public sector weather data sourcing options, including their availability, affordability, and cost-effectiveness. Such assessments shall be developed in accordance with <ref>section 50503 of title 51</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title I, § 107</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 96</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8518.</num>
+<heading> Computing resource efficiency improvement and annual report</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Computing resources</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">In acquiring computing capabilities, including high performance computing technologies and supercomputing technologies, that enable the National Oceanic and Atmospheric Administration to meet its mission requirements, the Under Secretary shall, when appropriate and cost-effective, assess and prioritize options for entering into multi-year lease agreements for computing capabilities over options for purchasing computing hardware outright.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Acquisition</heading>
+<chapeau class="indent1">In carrying out the requirements of paragraph (1), the Under Secretary shall structure multi-year lease agreements in such a manner that the expiration of the lease is set for a date on or around—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the expected degradation point of the computing resources; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the point at which significantly increased computing capabilities are expected to be available for lease.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Pilot programs</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">In order to more efficiently and effectively meet the mission requirements of the National Oceanic and Atmospheric Administration, the Under Secretary may create 1 or more pilot programs for assessing new or innovative information and technology capabilities and services.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Program requirements</heading>
+<chapeau class="indent2">Any program created under paragraph (3) shall assess only those capabilities and services that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> meet or exceed the standards and requirements of the National Oceanic and Atmospheric Administration, including for processing speed, cybersecurity, and overall reliability; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> meet or exceed, or are expected to meet or exceed, the performance of similar, in-house information and technology capabilities and services that are owned and operated by the National Oceanic and Atmospheric Administration prior to the establishment of the pilot program.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent2">There is authorized to be appropriated, out of funds appropriated to the National Environmental Satellite, Data, and Information Service, to carry out this paragraph $5,000,000 for fiscal year 2019, $10,000,000 for fiscal year 2020, and $5,000,000 for each of fiscal years 2021 through 2023, to remain available until expended.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Reports</heading>
+<chapeau class="indent0">Not later than 1 year after <date date="2019-01-07">January 7, 2019</date>, and triennially thereafter until the date that is 6 years after the date on which the first report is submitted, the Under Secretary, acting through the Chief Information Officer of the National Oceanic and Atmospheric Administration and in coordination with the Assistant Administrator for Oceanic and Atmospheric Research and the Director of the National Weather Service, shall produce and make publicly available a report that explains how the Under Secretary intends—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to continually support upgrades to pursue the fastest, most powerful, and cost-effective high performance computing technologies in support of its weather prediction mission;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to ensure a balance between the research to operations requirements to develop the next generation of regional and global models as well as highly reliable operational models;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to take advantage of advanced development concepts to, as appropriate, make next generation weather prediction models available in beta-test mode to operational forecasters, the United States weather industry, and partners in academic and Government research;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> to use existing computing resources to improve advanced research and operational weather prediction;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> to utilize non-Federal contracts to obtain the necessary expertise for advanced weather computing, if appropriate;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> to utilize cloud computing; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> to create a long-term strategy to transition the programming language of weather model code to current and broadly-used coding language.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title I, § 108</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 97</ref>; <ref>Pub. L. 115–423, § 5(a)</ref>, <date date="2019-01-07">Jan. 7, 2019</date>, <ref>132 Stat. 5457</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8519.</num>
+<heading> Authorization of appropriations</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">There are authorized to be appropriated to the Office of Oceanic and Atmospheric Research to carry out this subchapter—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> $136,516,000 for fiscal year 2019, of which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $85,758,000 is authorized for weather laboratories and cooperative institutes;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $30,758,000 is authorized for weather and air chemistry research programs; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $20,000,000 is authorized for the joint technology transfer initiative described in <ref>section 8512(b)(4) of this title</ref>;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> $148,154,000 for fiscal year 2020, of which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $87,258,000 is authorized for weather laboratories and cooperative institutes;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $40,896,000 is authorized for weather and air chemistry research programs; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $20,000,000 is authorized for the joint technology transfer initiative described in <ref>section 8512(b)(4) of this title</ref>;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> $150,154,000 for fiscal year 2021, of which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $88,758,000 is authorized for weather laboratories and cooperative institutes;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $41,396,000 is authorized for weather and air chemistry research programs; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $20,000,000 is authorized for the joint technology transfer initiative described in <ref>section 8512(b)(4) of this title</ref>;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> $152,154,000 for fiscal year 2022, of which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $90,258,000 is authorized for weather laboratories and cooperative institutes;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $41,896,000 is authorized for weather and air chemistry research programs; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $20,000,000 is authorized for the joint technology transfer initiative described in <ref>section 8512(b)(4) of this title</ref>; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> $154,154,000 for fiscal year 2023, of which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $91,758,000 is authorized for weather laboratories and cooperative institutes;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> $42,396,000 is authorized for weather and air chemistry research programs; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> $20,000,000 is authorized for the joint technology transfer initiative described in <ref>section 8512(b)(4) of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Limitation</heading>
+<content>
+<p class="indent0">No additional funds are authorized to carry out this subchapter and the amendments made by this title.<ref class="footnoteRef" idref="fn002596">1</ref></p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title I, § 110</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 98</ref>; <ref>Pub. L. 115–423, § 3(b)</ref>, <date date="2019-01-07">Jan. 7, 2019</date>, <ref>132 Stat. 5455</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8520.</num>
+<heading> United States Weather Research Program</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent0">The Secretary of Commerce, in cooperation with the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> increase benefits to the Nation from the substantial investment in modernizing the public weather warning and forecast system in the United States;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> improve local and regional weather forecasts and warnings;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> address critical weather-related scientific issues;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> coordinate governmental, university, and private-sector efforts;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives, not less frequently than once each year, a report, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a list of ongoing research projects;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> project goals and a point of contact for each project;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the five projects related to weather observations, short-term weather, or subseasonal forecasts within Office of Oceanic and Atmospheric Research that are closest to operationalization;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> for each project referred to in subparagraph (C)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the potential benefit;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> any barrier to operationalization; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the plan for operationalization, including which line office will financially support the project and how much the line office intends to spend;</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> establish teams with staff from the Office of Oceanic and Atmospheric Research and the National Weather Service to oversee the operationalization of research products developed by the Office of Oceanic and Atmospheric Research;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> develop mechanisms for research priorities of the Office of Oceanic and Atmospheric Research to be informed by the relevant line offices within the National Oceanic and Atmospheric Administration, the relevant user community, and the weather enterprise;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> develop an internal mechanism to track the progress of each research project within the Office of Oceanic and Atmospheric Research and mechanisms to terminate a project that is not adequately progressing;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> develop and implement a system to track whether extramural research grant goals were accomplished;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> provide facilities for products developed by the Office of Oceanic and Atmospheric Research to be tested in operational simulations, such as test beds;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> encourage academic collaboration with the Office of Oceanic and Atmospheric Research and the National Weather Service by facilitating visiting scholars; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<content> carry out the activities of the Earth Prediction Innovation Center as described in <ref>section 8512(b)(2) of this title</ref>.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Implementation plan</heading>
+<chapeau class="indent0">The Secretary of Commerce, in cooperation with the Committee on Earth and Environmental Sciences, shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a plan for implementation of the United States Weather Research Program which shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> establish, for the 10-year period beginning in the year the plan is submitted, the goals and priorities for Federal weather research which most effectively advance the scientific understanding of weather processes and provide information to improve weather warning and forecast systems in the United States;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> describe specific activities, including research activities, data collection and data analysis requirements, predictive modeling, participation in international research efforts, demonstration of potential operational forecast applications, and education and training required to achieve such goals and priorities; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> set forth the role of each Federal agency and department to be involved in the United States Weather Research Program, identifying and addressing, as appropriate, relevant programs and activities of the Federal agencies and departments that would contribute to such Program.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Subseasonal defined</heading>
+<content>
+<p class="indent0">In this section, the term “subseasonal” means the time range between 2 weeks and 3 months.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 102–567, title I, § 108</ref>, <date date="1992-10-29">Oct. 29, 1992</date>, <ref>106 Stat. 4276</ref>; <ref>Pub. L. 115–25, title I, § 109</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 97</ref>; <ref>Pub. L. 115–423, § 4(b)</ref>, <date date="2019-01-07">Jan. 7, 2019</date>, <ref>132 Stat. 5457</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8521.</num>
+<heading> Weather and climate information in agriculture</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Findings</heading>
+<chapeau class="indent0">Congress finds that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> agricultural and silvicultural operations are vulnerable to damage from atmospheric conditions that accurate and timely reporting of weather information can help prevent;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the maintenance of current weather and climate analysis and information dissemination systems, and Federal, State, and private efforts to improve these systems, is essential if agriculture and silviculture are to mitigate damage from atmospheric conditions;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> agricultural and silvicultural weather services at the Federal level should be maintained with joint planning between the National Oceanic and Atmospheric Administration and the Department of Agriculture; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> efforts should be made, involving user groups, weather and climate information providers, and Federal and State governments, to expand the use of weather and climate information in agriculture and silviculture.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Policy</heading>
+<content>
+<p class="indent0">It, therefore, is declared to be the policy of Congress that it is in the public interest to maintain an active Federal involvement in providing agricultural and silvicultural weather and climate information and that efforts should be made, among users of this information and among private providers of this information, to improve use of this information.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Functions</heading>
+<chapeau class="indent0">The Under Secretary, acting through the Director of the National Weather Service and the heads of such other programs of the National Oceanic and Atmospheric Administration as the Under Secretary considers appropriate, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> collect and utilize information in order to make usable, reliable, and timely foundational forecasts of subseasonal and seasonal temperature and precipitation;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> leverage existing research and models from the weather enterprise to improve the forecasts under paragraph (1);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> determine and provide information on how the forecasted conditions under paragraph (1) may impact—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the number and severity of droughts, fires, tornadoes, hurricanes, floods, heat waves, coastal inundation, winter storms, high impact weather, or other relevant natural disasters;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> snowpack; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> sea ice conditions; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> develop an Internet clearinghouse to provide the forecasts under paragraph (1) and the information under paragraphs (1) and (3) on both national and regional levels.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Communication</heading>
+<content>
+<p class="indent0">The Director of the National Weather Service shall provide the forecasts under paragraph (1) of subsection (c) and the information on their impacts under paragraph (3) of such subsection to the public, including public and private entities engaged in planning and preparedness, such as National Weather Service Core partners at the Federal, regional, State, tribal, and local levels of government.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Cooperation</heading>
+<chapeau class="indent0">The Under Secretary shall build upon existing forecasting and assessment programs and partnerships, including—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> by designating research and monitoring activities related to subseasonal and seasonal forecasts as a priority in one or more solicitations of the Cooperative Institutes of the Office of Oceanic and Atmospheric Research;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> by contributing to the interagency Earth System Prediction Capability; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> by consulting with the Secretary of Defense and the Secretary of Homeland Security to determine the highest priority subseasonal and seasonal forecast needs to enhance national security.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Forecast communication coordinators</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Under Secretary shall foster effective communication, understanding, and use of the forecasts by the intended users of the information described in subsection (d). This shall include assistance to States for forecast communication coordinators to enable local interpretation and planning based on the information.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent1">For each State that requests assistance under this subsection, the Under Secretary may—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> provide funds to support an individual in that State—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to serve as a liaison among the National Oceanic and Atmospheric Administration, other Federal departments and agencies, the weather enterprise, the State, and relevant interests within that State; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to receive the forecasts and information under subsection (c) and disseminate the forecasts and information throughout the State, including to county and tribal governments; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> require matching funds of at least 50 percent, from the State, a university, a nongovernmental organization, a trade association, or the private sector.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Limitation</heading>
+<content>
+<p class="indent1">Assistance to an individual State under this subsection shall not exceed $100,000 in a fiscal year.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Cooperation from other Federal agencies</heading>
+<content>
+<p class="indent0">Each Federal department and agency shall cooperate as appropriate with the Under Secretary in carrying out this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Reports</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Not later than 18 months after <date date="2017-04-18">April 18, 2017</date>, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an analysis of the <ref class="footnoteRef" idref="fn002597">1</ref> how information from the National Oceanic and Atmospheric Administration on subseasonal and seasonal forecasts, as provided under subsection (c), is utilized in public planning and preparedness;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> specific plans and goals for the continued development of the subseasonal and seasonal forecasts and related products described in subsection (c); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> an identification of research, monitoring, observing, and forecasting requirements to meet the goals described in subparagraph (B).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Consultation</heading>
+<content>
+<p class="indent1">In developing the report under paragraph (1), the Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Definitions</heading>
+<chapeau class="indent0">In this section:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Foundational forecast</heading>
+<content>
+<p class="indent1">The term “foundational forecast” means basic weather observation and forecast data, largely in raw form, before further processing is applied.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> National Weather Service core partners</heading>
+<content>
+<p class="indent1">The term “National Weather Service core partners” means government and nongovernment entities which are directly involved in the preparation or dissemination of, or discussions involving, hazardous weather or other emergency information put out by the National Weather Service.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Seasonal</heading>
+<content>
+<p class="indent1">The term “seasonal” means the time range between 3 months and 2 years.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> State</heading>
+<content>
+<p class="indent1">The term “State” means a State, a territory, or possession of the United States, including a Commonwealth, or the District of Columbia.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Subseasonal</heading>
+<content>
+<p class="indent1">The term “subseasonal” means the time range between 2 weeks and 3 months.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Under Secretary</heading>
+<content>
+<p class="indent1">The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Weather industry and weather enterprise</heading>
+<content>
+<p class="indent1">The terms “weather industry” and “weather enterprise” are interchangeable in this section and include individuals and organizations from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(j)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<chapeau class="indent0">There are authorized to be appropriated to carry out the activities under this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> $26,500,000 for fiscal year 2019;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> $27,000,000 for fiscal year 2020;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> $27,500,000 for fiscal year 2021;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> $28,000,000 for fiscal year 2022; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> $28,500,000 for fiscal year 2023.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(k)</num>
+<heading class="bold"> Derivation of funds</heading>
+<content>
+<p class="indent0">Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Weather Service.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 99–198, title XVII, § 1762</ref>, <date date="1985-12-23">Dec. 23, 1985</date>, <ref>99 Stat. 1651</ref>; <ref>Pub. L. 115–25, title II, § 201</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 98</ref>; <ref>Pub. L. 115–423, § 3(a)</ref>, <date date="2019-01-07">Jan. 7, 2019</date>, <ref>132 Stat. 5455</ref>; <ref>Pub. L. 117–316, § 11</ref>, <date date="2022-12-27">Dec. 27, 2022</date>, <ref>136 Stat. 4413</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>WEATHER SATELLITE AND DATA INNOVATION</heading>
+<section>
+<num>§ 8531.</num>
+<heading> National Oceanic and Atmospheric Administration satellite and data management</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Short-term management of environmental observations</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Microsatellite constellations</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The Under Secretary shall complete and operationalize the Constellation Observing System for Meteorology, Ionosphere, and Climate–1 and Climate–2 (COSMIC) in effect on the day before <date date="2017-04-18">April 18, 2017</date>—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> by deploying constellations of microsatellites in both the equatorial and polar orbits;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> by integrating the resulting data and research into all national operational and research weather forecast models; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> by ensuring that the resulting data of National Oceanic and Atmospheric Administration’s COSMIC–1 and COSMIC–2 programs are free and open to all communities.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Annual reports</heading>
+<content>
+<p class="indent2">Not less frequently than once each year until the Under Secretary has completed and operationalized the program described in subparagraph (A) pursuant to such subparagraph, the Under Secretary shall submit to Congress a report on the status of the efforts of the Under Secretary to carry out such subparagraph.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Integration of ocean and coastal data from the Integrated Ocean Observing System</heading>
+<chapeau class="indent1">In National Weather Service Regions where the Director of the National Weather Service determines that ocean and coastal data would improve forecasts, the Director, in consultation with the Assistant Administrator for Oceanic and Atmospheric Research and the Assistant Administrator of the National Ocean Service, shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> integrate additional coastal and ocean observations, and other data and research, from the Integrated Ocean Observing System (IOOS) into regional weather forecasts to improve weather forecasts and forecasting decision support systems;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> support the development of real-time data sharing products and forecast products in collaboration with the regional associations of such system, including contributions from the private sector, academia, and research institutions to ensure timely and accurate use of ocean and coastal data in regional forecasts; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> support increasing use of autonomous, mobile surface, sub-surface, and submarine vehicle ocean and fresh water sensor systems and the infrastructure necessary to share and analyze these data in real-time and feed them into predictive early warning systems.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Existing monitoring and observation-capability</heading>
+<content>
+<p class="indent1">The Under Secretary shall identify degradation of existing monitoring and observation capabilities that could lead to a reduction in forecast quality.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Specifications for new satellite systems or data determined by operational needs</heading>
+<content>
+<p class="indent1">In developing specifications for any satellite systems or data to follow the Joint Polar Satellite System, Geostationary Operational Environmental Satellites, and any other satellites, in effect on the day before <date date="2017-04-18">April 18, 2017</date>, the Under Secretary shall ensure the specifications are determined to the extent practicable by the recommendations of the reports under subsection (b) of this section.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Independent Study on Future of National Oceanic and Atmospheric Administration satellite systems and data</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Agreement</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The Under Secretary shall seek to enter into an agreement with the National Academy of Sciences to perform the services covered by this subsection.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Timing</heading>
+<content>
+<p class="indent2">The Under Secretary shall seek to enter into the agreement described in subparagraph (A) before <date date="2018-09-30">September 30, 2018</date>.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Study</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Under an agreement between the Under Secretary and the National Academy of Sciences under this subsection, the National Academy of Sciences shall conduct a study on matters concerning future satellite data needs.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Elements</heading>
+<chapeau class="indent2">In conducting the study under subparagraph (A), the National Academy of Sciences shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> develop recommendations on how to make the data portfolio of the Administration more robust and cost-effective;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> assess the costs and benefits of moving toward a constellation of many small satellites, standardizing satellite bus design, relying more on the purchasing of data, or acquiring data from other sources or methods;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> identify the environmental observations that are essential to the performance of weather models, based on an assessment of Federal, academic, and private sector weather research, and the cost of obtaining the environmental data;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> identify environmental observations that improve the quality of operational and research weather models in effect on the day before <date date="2017-04-18">April 18, 2017</date>;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> identify and prioritize new environmental observations that could contribute to existing and future weather models; and</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> develop recommendations on a portfolio of environmental observations that balances essential, quality-improving, and new data, private and nonprivate sources, and space-based and Earth-based sources.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Deadline and report</heading>
+<content>
+<p class="indent2">In carrying out the study under subparagraph (A), the National Academy of Sciences shall complete and transmit to the Under Secretary a report containing the findings of the National Academy of Sciences with respect to the study not later than 2 years after the date on which the Administrator enters into an agreement with the National Academy of Sciences under paragraph (1)(A).</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Alternate organization</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">If the Under Secretary is unable within the period prescribed in subparagraph (B) of paragraph (1) to enter into an agreement described in subparagraph (A) of such paragraph with the National Academy of Sciences on terms acceptable to the Under Secretary, the Under Secretary shall seek to enter into such an agreement with another appropriate organization that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> is not part of the Federal Government;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> operates as a not-for-profit entity; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> has expertise and objectivity comparable to that of the National Academy of Sciences.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Treatment</heading>
+<content>
+<p class="indent2">If the Under Secretary enters into an agreement with another organization as described in subparagraph (A), any reference in this subsection to the National Academy of Sciences shall be treated as a reference to the other organization.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent1">There are authorized to be appropriated, out of funds appropriated to National <ref class="footnoteRef" idref="fn002598">1</ref> Environmental Satellite, Data, and Information Service, to carry out this subsection $1,000,000 for the period encompassing fiscal years 2018 through 2019.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Next generation satellite architecture</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">The Under Secretary shall analyze, test, and plan the procurement of future data sources and satellite architectures, including respective ground system elements, identified in the National Oceanic and Atmospheric Administration’s Satellite Observing System Architecture Study that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> lower the cost of observations used to meet the National Oceanic and Atmospheric Administration’s mission requirements;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> disaggregate current satellite systems, where appropriate;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> include new, value-adding technological advancements; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> improve—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> weather and climate forecasting and predictions; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the understanding, management, and exploration of the ocean.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Quantitative assessments and partnership authority</heading>
+<chapeau class="indent1">In meeting the requirements described in paragraph (1), the Under Secretary—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> may partner with the commercial and academic sectors, non-governmental and not-for-profit organizations, and other Federal agencies; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> shall, consistent with <ref>section 8517 of this title</ref>, undertake quantitative assessments for objective analyses, as the Under Secretary considers appropriate, to evaluate relative value and benefits of future data sources and satellite architectures described in paragraph (1).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Additional forms of transaction authorized</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Subject to paragraph (2), in order to enhance the effectiveness of data, satellite, and other observing systems used by the National Oceanic and Atmospheric Administration to meet its missions, the Under Secretary may enter into and perform such transaction agreements on such terms as the Under Secretary considers appropriate to carry out—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> basic, applied, and advanced research projects and ocean exploration missions to meet the objectives described in subparagraphs (A) through (D) of subsection (c)(1); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any other type of project to meet other mission objectives, as determined by the Under Secretary.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Method and scope</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">A transaction agreement under paragraph (1) shall be limited to research and development activities.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Permissible uses</heading>
+<chapeau class="indent2">A transaction agreement under paragraph (1) may be used—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> for the construction, use, operation, or procurement of new, improved, innovative, or value-adding systems, including satellites, instrumentation, ground stations, data, and data processing;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to make determinations on how to best use existing or planned data, systems, and assets of the National Oceanic and Atmospheric Administration; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> only when the objectives of the National Oceanic and Atmospheric Administration cannot be met using a cooperative research and development agreement, grants procurement contract, or cooperative agreement.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Termination of effectiveness</heading>
+<content>
+<p class="indent1">The authority provided in this subsection terminates effective <date date="2030-09-30">September 30, 2030</date>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Transparency</heading>
+<content>
+<p class="indent0">Not later than 60 days after the date that a transaction agreement is made under subsection (d), the Under Secretary shall make publicly available, in a searchable format, on the website of the National Oceanic and Atmospheric Administration all uses of the authority under subsection (d), including an estimate of committed National Oceanic and Atmospheric Administration resources and the expected benefits to National Oceanic and Atmospheric Administration objectives for the transaction agreement, with appropriate redactions for proprietary, sensitive, or classified information.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Reports</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than 90 days after September 30 of each fiscal year through <date date="2023-09-30">September 30, 2023</date>, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the use of additional transaction authority by the National Oceanic and Atmospheric Administration during the previous fiscal year.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Contents</heading>
+<chapeau class="indent1">Each report shall include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> for each transaction agreement in effect during the fiscal year covered by the report—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> an indication of whether the transaction agreement is a reimbursable, non-reimbursable, or funded agreement;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> a description of—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the subject and terms;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the parties;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> the responsible National Oceanic and Atmospheric Administration line office;</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> the value;</content>
+</subclause>
+<subclause class="indent4">
+<num>(V)</num>
+<content> the extent of the cost sharing among Federal Government and non-Federal sources;</content>
+</subclause>
+<subclause class="indent4">
+<num>(VI)</num>
+<content> the duration or schedule; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(VII)</num>
+<content> all milestones;</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> an indication of whether the transaction agreement was renewed during the previous fiscal year;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the technology areas in which research projects were conducted under that agreement;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<chapeau> the extent to which the use of that agreement—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> has contributed to a broadening of the technology and industrial base available for meeting National Oceanic and Atmospheric Administration needs; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> has fostered within the technology and industrial base new relationships and practices that support the United States; and</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> the total value received by the Federal Government under that agreement for that fiscal year; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a list of all anticipated reimbursable, non-reimbursable, and funded transaction agreements for the upcoming fiscal year.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent0">Nothing in this section may be construed as limiting the authority of the National Oceanic and Atmospheric Administration to use cooperative research and development agreements, grants, procurement contracts, or cooperative agreements.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title III, § 301</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 101</ref>; <ref>Pub. L. 115–423</ref>, §§ 6, 7(a), <date date="2019-01-07">Jan. 7, 2019</date>, <ref>132 Stat. 5459</ref>, 5461; <ref>Pub. L. 116–259, title V, § 503</ref>, <date date="2020-12-23">Dec. 23, 2020</date>, <ref>134 Stat. 1179</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8532.</num>
+<heading> Commercial weather data</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Data and hosted satellite payloads</heading>
+<chapeau class="indent0">Notwithstanding any other provision of law, the Secretary of Commerce may enter into agreements for—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the purchase of weather data through contracts with commercial providers; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the placement of weather satellite instruments on cohosted government or private payloads.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Strategy</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than 180 days after <date date="2017-04-18">April 18, 2017</date>, the Secretary of Commerce, in consultation with the Under Secretary, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a strategy to enable the procurement of quality commercial weather data. The strategy shall assess the range of commercial opportunities, including public-private partnerships, for obtaining surface-based, aviation-based, and space-based weather observations. The strategy shall include the expected cost-effectiveness of these opportunities as well as provide a plan for procuring data, including an expected implementation timeline, from these nongovernmental sources, as appropriate.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent1">The strategy shall include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an analysis of financial or other benefits to, and risks associated with, acquiring commercial weather data or services, including through multiyear acquisition approaches;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> an identification of methods to address planning, programming, budgeting, and execution challenges to such approaches, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> how standards will be set to ensure that data is reliable and effective;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> how data may be acquired through commercial experimental or innovative techniques and then evaluated for integration into operational use;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> how to guarantee public access to all forecast-critical data to ensure that the United States weather industry and the public continue to have access to information critical to their work; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> in accordance with <ref>section 50503 of title 51</ref>, methods to address potential termination liability or cancellation costs associated with weather data or service contracts; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> an identification of any changes needed in the requirements development and approval processes of the Department of Commerce to facilitate effective and efficient implementation of such strategy.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Authority for agreements</heading>
+<content>
+<p class="indent1">The Assistant Administrator for National <ref class="footnoteRef" idref="fn002599">1</ref> Environmental Satellite, Data, and Information Service may enter into multiyear agreements necessary to carry out the strategy developed under this subsection.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Pilot program</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Criteria</heading>
+<content>
+<p class="indent1">Not later than 30 days after <date date="2017-04-18">April 18, 2017</date>, the Under Secretary shall publish data and metadata standards and specifications for space-based commercial weather data, including radio occultation data, and, as soon as possible, geostationary hyperspectral sounder data.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Pilot contracts</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Contracts</heading>
+<content>
+<p class="indent2">Not later than 90 days after <date date="2017-04-18">April 18, 2017</date>, the Under Secretary shall, through an open competition, enter into at least one pilot contract with one or more private sector entities capable of providing data that meet the standards and specifications set by the Under Secretary for providing commercial weather data in a manner that allows the Under Secretary to calibrate and evaluate the data for its use in National Oceanic and Atmospheric Administration meteorological models.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Assessment of data viability</heading>
+<chapeau class="indent2">Not later than the date that is 3 years after the date on which the Under Secretary enters into a contract under subparagraph (A), the Under Secretary shall assess and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives the results of a determination of the extent to which data provided under the contract entered into under subparagraph (A) meet the criteria published under paragraph (1) and the extent to which the pilot program has demonstrated—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the viability of assimilating the commercially provided data into National Oceanic and Atmospheric Administration meteorological models;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> whether, and by how much, the data add value to weather forecasts; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the accuracy, quality, timeliness, validity, reliability, usability, information technology security, and cost-effectiveness of obtaining commercial weather data from private sector providers.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent1">For each of fiscal years 2019 through 2023, there are authorized to be appropriated for procurement, acquisition, and construction at the National Environmental Satellite, Data, and Information Service, $6,000,000 to carry out this subsection.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Obtaining future data</heading>
+<chapeau class="indent0">If an assessment under subsection (c)(2)(B) demonstrates the ability of commercial weather data to meet data and metadata standards and specifications published under subsection (c)(1), the Under Secretary shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> where appropriate, cost-effective, and feasible, obtain commercial weather data from private sector providers;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> as early as possible in the acquisition process for any future National Oceanic and Atmospheric Administration meteorological space system, consider whether there is a suitable, cost-effective, commercial capability available or that will be available to meet any or all of the observational requirements by the planned operational date of the system;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> if a suitable, cost-effective, commercial capability is or will be available as described in paragraph (2), determine whether it is in the national interest to develop a governmental meteorological space system; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report detailing any determination made under paragraphs (2) and (3).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Data sharing practices</heading>
+<content>
+<p class="indent0">The Under Secretary shall continue to meet the international meteorological agreements into which the Under Secretary has entered, including practices set forth through World Meteorological Organization Resolution 40.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title III, § 302</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 103</ref>; <ref>Pub. L. 115–423, § 7(b)</ref>, <date date="2019-01-07">Jan. 7, 2019</date>, <ref>132 Stat. 5461</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8533.</num>
+<heading> Unnecessary duplication</heading>
+<content>
+<p class="indent0">In meeting the requirements under this subchapter, the Under Secretary shall avoid unnecessary duplication between public and private sources of data and the corresponding expenditure of funds and employment of personnel.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 115–25, title III, § 303</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 105</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>FEDERAL WEATHER COORDINATION</heading>
+<section>
+<num>§ 8541.</num>
+<heading> Environmental Information Services Working Group</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent0">The National Oceanic and Atmospheric Administration Science Advisory Board shall continue to maintain a standing working group named the Environmental Information Services Working Group (in this section referred to as the “Working Group”)—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to provide advice for prioritizing weather research initiatives at the National Oceanic and Atmospheric Administration to produce real improvement in weather forecasting;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to provide advice on existing or emerging technologies or techniques that can be found in private industry or the research community that could be incorporated into forecasting at the National Weather Service to improve forecasting skill;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> to identify opportunities to improve—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> communications between weather forecasters, Federal, State, local, tribal, and other emergency management personnel, and the public; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> communications and partnerships among the National Oceanic and Atmospheric Administration and the private and academic sectors; and</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> to address such other matters as the Science Advisory Board requests of the Working Group.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Composition</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Working Group shall be composed of leading experts and innovators from all relevant fields of science and engineering including atmospheric chemistry, atmospheric physics, meteorology, hydrology, social science, risk communications, electrical engineering, and computer sciences. In carrying out this section, the Working Group may organize into subpanels.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Number</heading>
+<content>
+<p class="indent1">The Working Group shall be composed of no fewer than 15 members. Nominees for the Working Group may be forwarded by the Working Group for approval by the Science Advisory Board. Members of the Working Group may choose a chair (or co-chairs) from among their number with approval by the Science Advisory Board.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Annual report</heading>
+<content>
+<p class="indent0">Not less frequently than once each year, the Working Group shall transmit to the Science Advisory Board for submission to the Under Secretary a report on progress made by National Oceanic and Atmospheric Administration in adopting the Working Group’s recommendations. The Science Advisory Board shall transmit this report to the Under Secretary. Within 30 days of receipt of such report, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a copy of such report.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title IV, § 401</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 105</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8542.</num>
+<heading> Interagency weather research and forecast innovation coordination</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent0">The Director of the Office of Science and Technology Policy shall establish an Interagency Committee for Advancing Weather Services to improve coordination of relevant weather research and forecast innovation activities across the Federal Government. The Interagency Committee shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> include participation by the National Aeronautics and Space Administration, the Federal Aviation Administration, National Oceanic and Atmospheric Administration and its constituent elements, the National Science Foundation, and such other agencies involved in weather forecasting research as the President determines are appropriate;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> identify and prioritize top forecast needs and coordinate those needs against budget requests and program initiatives across participating offices and agencies; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> share information regarding operational needs and forecasting improvements across relevant agencies.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Co-chair</heading>
+<content>
+<p class="indent0">The Federal Coordinator for Meteorology shall serve as a co-chair of this panel.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Further coordination</heading>
+<content>
+<p class="indent0">The Director of the Office of Science and Technology Policy shall take such other steps as are necessary to coordinate the activities of the Federal Government with those of the United States weather industry, State governments, emergency managers, and academic researchers.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title IV, § 402</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 106</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8543.</num>
+<heading> Office of Oceanic and Atmospheric Research and National Weather Service exchange program</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Assistant Administrator for Oceanic and Atmospheric Research and the Director of National <ref class="footnoteRef" idref="fn002600">1</ref> Weather Service may establish a program to detail Office of Oceanic and Atmospheric Research personnel to the National Weather Service and National Weather Service personnel to the Office of Oceanic and Atmospheric Research.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Goal</heading>
+<content>
+<p class="indent0">The goal of this program is to enhance forecasting innovation through regular, direct interaction between the Office of Oceanic and Atmospheric Research’s world-class scientists and the National Weather Service’s operational staff.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Elements</heading>
+<content>
+<p class="indent0">The program shall allow up to 10 Office of Oceanic and Atmospheric Research staff and National Weather Service staff to spend up to 1 year on detail. Candidates shall be jointly selected by the Assistant Administrator for Oceanic and Atmospheric Research and the Director of the National Weather Service.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Annual report</heading>
+<content>
+<p class="indent0">Not less frequently than once each year, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on participation in such program and shall highlight any innovations that come from this interaction.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title IV, § 403</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 107</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8544.</num>
+<heading> Visiting fellows at National Weather Service</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">The Director of the National Weather Service may establish a program to host postdoctoral fellows and academic researchers at any of the National Centers for Environmental Prediction.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Goal</heading>
+<content>
+<p class="indent0">This program shall be designed to provide direct interaction between forecasters and talented academic and private sector researchers in an effort to bring innovation to forecasting tools and techniques to the National Weather Service.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Selection and appointment</heading>
+<content>
+<p class="indent0">Such fellows shall be competitively selected and appointed for a term not to exceed 1 year.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title IV, § 404</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 107</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8545.</num>
+<heading> Warning coordination meteorologists at weather forecast offices of National Weather Service</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Designation of warning coordination meteorologists</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Director of the National Weather Service shall designate at least one warning coordination meteorologist at each weather forecast office of the National Weather Service.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> No additional employees authorized</heading>
+<content>
+<p class="indent1">Nothing in this section shall be construed to authorize or require a change in the authorized number of full time equivalent employees in the National Weather Service or otherwise result in the employment of any additional employees.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Performance by other employees</heading>
+<content>
+<p class="indent1">Performance of the responsibilities outlined in this section is not limited to the warning coordination meteorologist position.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Primary role of warning coordination meteorologists</heading>
+<content>
+<p class="indent0">The primary role of the warning coordination meteorologist shall be to carry out the responsibilities required by this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Responsibilities</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Subject to paragraph (2), consistent with the analysis described in section 409,<ref class="footnoteRef" idref="fn002601">1</ref> and in order to increase impact-based decision support services, each warning coordination meteorologist designated under subsection (a) shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> be responsible for providing service to the geographic area of responsibility covered by the weather forecast office at which the warning coordination meteorologist is employed to help ensure that users of products of the National Weather Service can respond effectively to improve outcomes from weather events;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> liaise with users of products and services of the National Weather Service, such as the public, media outlets, users in the aviation, marine, and agricultural communities, and forestry, land, and water management interests, to evaluate the adequacy and usefulness of the products and services of the National Weather Service;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> collaborate with such weather forecast offices and State, local, and tribal government agencies as the Director considers appropriate in developing, proposing, and implementing plans to develop, modify, or tailor products and services of the National Weather Service to improve the usefulness of such products and services;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> ensure the maintenance and accuracy of severe weather call lists, appropriate office severe weather policy or procedures, and other severe weather or dissemination methodologies or strategies; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> work closely with State, local, and tribal emergency management agencies, and other agencies related to disaster management, to ensure a planned, coordinated, and effective preparedness and response effort.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Other staff</heading>
+<content>
+<p class="indent1">The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Additional responsibilities</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Subject to paragraph (2), a warning coordination meteorologist designated under subsection (a) may—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> work with a State agency to develop plans for promoting more effective use of products and services of the National Weather Service throughout the State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> identify priority community preparedness objectives;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> develop plans to meet the objectives identified under paragraph (2); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> conduct severe weather event preparedness planning and citizen education efforts with and through various State, local, and tribal government agencies and other disaster management-related organizations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Other staff</heading>
+<content>
+<p class="indent1">The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Placement with State and local emergency managers</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">In carrying out this section, the Director of the National Weather Service may place a warning coordination meteorologist designated under subsection (a) with a State or local emergency manager if the Director considers doing so is necessary or convenient to carry out this section.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Treatment</heading>
+<content>
+<p class="indent1">If the Director determines that the placement of a warning coordination meteorologist placed with a State or local emergency manager under paragraph (1) is near a weather forecast office of the National Weather Service, such placement shall be treated as designation of the warning coordination meteorologist at such weather forecast office for purposes of subsection (a).</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title IV, § 405</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 107</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8546.</num>
+<heading> National Oceanic and Atmospheric Administration Weather Ready All Hazards Award Program</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Program</heading>
+<content>
+<p class="indent0">The Director of the National Weather Service is authorized to establish the National Oceanic and Atmospheric Administration Weather Ready All Hazards Award Program. This award program shall provide annual awards to honor individuals or organizations that use or provide National Oceanic and Atmospheric Administration Weather Radio All Hazards receivers or transmitters to save lives and protect property. Individuals or organizations that utilize other early warning tools or applications also qualify for this award.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Goal</heading>
+<content>
+<p class="indent0">This award program draws attention to the life-saving work of the National Oceanic and Atmospheric Administration Weather Ready All Hazards Program, as well as emerging tools and applications, that provide real-time warning to individuals and communities of severe weather or other hazardous conditions.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Program elements</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Nominations</heading>
+<content>
+<p class="indent1">Nominations for this award shall be made annually by the Weather Field Offices to the Director of the National Weather Service. Broadcast meteorologists, weather radio manufacturers and weather warning tool and application developers, emergency managers, and public safety officials may nominate individuals or organizations to their local Weather Field Offices, but the final list of award nominees must come from the Weather Field Offices.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Selection of awardees</heading>
+<content>
+<p class="indent1">Annually, the Director of the National Weather Service shall choose winners of this award whose timely actions, based on National Oceanic and Atmospheric Administration Weather Radio All Hazards receivers or transmitters or other early warning tools and applications, saved lives or property, or demonstrated public service in support of weather or all hazard warnings.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Award ceremony</heading>
+<content>
+<p class="indent1">The Director of the National Weather Service shall establish a means of making these awards to provide maximum public awareness of the importance of National Oceanic and Atmospheric Administration Weather Radio, and such other warning tools and applications as are represented in the awards.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title IV, § 407</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 111</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8547.</num>
+<heading> Report on contract positions at National Weather Service</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Report required</heading>
+<content>
+<p class="indent0">Not later than 180 days after <date date="2017-04-18">April 18, 2017</date>, the Under Secretary shall submit to Congress a report on the use of contractors at the National Weather Service for the most recently completed fiscal year.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Contents</heading>
+<chapeau class="indent0">The report required by subsection (a) shall include, with respect to the most recently completed fiscal year, the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The total number of full-time equivalent employees at the National Weather Service, disaggregated by each equivalent level of the General Schedule.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The total number of full-time equivalent contractors at the National Weather Service, disaggregated by each equivalent level of the General Schedule that most closely approximates their duties.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> The total number of vacant positions at the National Weather Service on the day before <date date="2017-04-18">April 18, 2017</date>, disaggregated by each equivalent level of the General Schedule.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The five most common positions filled by full-time equivalent contractors at the National Weather Service and the equivalent level of the General Schedule that most closely approximates the duties of such positions.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> Of the positions identified under paragraph (4), the percentage of full-time equivalent contractors in those positions that have held a prior position at the National Weather Service or another entity in National <ref class="footnoteRef" idref="fn002602">1</ref> Oceanic and Atmospheric Administration.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> The average full-time equivalent salary for Federal employees at the National Weather Service for each equivalent level of the General Schedule.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> The average salary for full-time equivalent contractors performing at each equivalent level of the General Schedule at the National Weather Service.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> A description of any actions taken by the Under Secretary to respond to the issues raised by the Inspector General of the Department of Commerce regarding the hiring of former National Oceanic and Atmospheric Administration employees as contractors at the National Weather Service such as the issues raised in the Investigative Report dated <date date="2015-06-02">June 2, 2015</date> (OIG–12–0447).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Annual publication</heading>
+<content>
+<p class="indent0">For each fiscal year after the fiscal year covered by the report required by subsection (a), the Under Secretary shall, not later than 180 days after the completion of the fiscal year, publish on a publicly accessible Internet website the information described in paragraphs (1) through (8) of subsection (b) for such fiscal year.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title IV, § 410</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 112</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8548.</num>
+<heading> Weather enterprise outreach</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Under Secretary may establish mechanisms for outreach to the weather enterprise—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to assess the weather forecasts and forecast products provided by the National Oceanic and Atmospheric Administration; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to determine the highest priority weather forecast needs of the community described in subsection (b).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Outreach community</heading>
+<chapeau class="indent0">In conducting outreach under subsection (a), the Under Secretary shall contact leading experts and innovators from relevant stakeholders, including the representatives from the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> State or local emergency management agencies.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> State agriculture agencies.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Indian tribes (as defined in <ref>section 5304 of title 25</ref>) and Native Hawaiians (as defined in <ref>section 7517 of title 20</ref>).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The private aerospace industry.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> The private earth observing industry.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> The operational forecasting community.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> The academic community.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> Professional societies that focus on meteorology.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> Such other stakeholder groups as the Under Secretary considers appropriate.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title IV, § 412</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 113</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8549.</num>
+<heading> Hurricane hunter aircraft</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Backup capability</heading>
+<content>
+<p class="indent0">The Under Secretary shall acquire backup for the capabilities of the WP–3D Orion and G–IV hurricane aircraft of the National Oceanic and Atmospheric Administration that is sufficient to prevent a single point of failure.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Authority to enter agreements</heading>
+<content>
+<p class="indent0">In order to carry out subsection (a), the Under Secretary shall negotiate and enter into 1 or more agreements or contracts, to the extent practicable and necessary, with governmental and non-governmental entities.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Future technology</heading>
+<content>
+<p class="indent0">The Under Secretary shall continue the development of Airborne Phased Array Radar under the United States Weather Research Program.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">For each of fiscal years 2017 through 2020, support for implementing subsections (a) and (b) is authorized out of funds appropriated to the Office of Marine and Aviation Operations.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title IV, § 413</ref>, <date date="2017-04-18">Apr. 18, 2017</date>, <ref>131 Stat. 114</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8550.</num>
+<heading> Improvements to Cooperative Observer Program of National Weather Service</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Under Secretary of Commerce for Oceans and Atmosphere, acting through the National Weather Service, shall improve the Cooperative Observer Program by—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> providing support to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> State-coordinated programs relating to the Program; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> States and regions where observations provided through the Program are scarce;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> working with State weather service headquarters to increase participation in the Program and to add stations in States and regions described in paragraph (1)(B);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> where feasible, ensuring that data streams from stations that have been contributing data to the Program for more than 50 years are maintained and continually staffed by volunteers;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> prioritizing the recruitment of new volunteers for the Program;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> ensuring that opportunities exist for automated reporting to lessen the burden on volunteers to collect and report data by hand; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> ensuring that integrated reporting is available for qualitative observations that cannot be automated, such as drought conditions, snow observations, and hazardous weather events, to ensure that volunteers in the Program can report and upload observations quickly and easily.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Coordination with States and regions</heading>
+<content>
+<p class="indent0">Not less frequently than every 180 days, the National Weather Service shall coordinate with State and regional offices with respect to the status of Cooperative Observer Program stations.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Coordination with Federal agencies</heading>
+<content>
+<p class="indent0">The National Weather Service shall coordinate with other Federal agencies, including the Forest Service, the Department of Agriculture, and the United States Geological Survey, to leverage opportunities to grow the Cooperative Observer Program network and to more effectively use existing infrastructure, weather stations, and staff of the Program.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–423, § 8</ref>, <date date="2019-01-07">Jan. 7, 2019</date>, <ref>132 Stat. 5461</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER IV—</num>
+<heading>IMPROVING FEDERAL PRECIPITATION INFORMATION</heading>
+<section>
+<num>§ 8561.</num>
+<heading> Study on precipitation estimation</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Not later than 90 days after <date date="2022-12-16">December 16, 2022</date>, the Administrator, in consultation with other Federal agencies as appropriate, shall seek to enter an agreement with the National Academies—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to conduct a study on the state of practice and research needs for precipitation estimation, including probable maximum precipitation estimation; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to submit, not later than 24 months after the date on which such agreement is finalized, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on a website, a report on the results of the study under paragraph (1).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Study</heading>
+<chapeau class="indent0">The report under subsection (a) shall include the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> An examination of the current state of practice for precipitation estimation at scales appropriate for decisionmaker needs, and rationale for further evolution of this field.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> An evaluation of best practices for precipitation estimation that are based on the best-available science, include considerations of non-stationarity, and can be utilized by the user community.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> A framework for—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the development of a National Guidance Document for estimating extreme precipitation in future conditions; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> evaluation of the strengths and challenges of the full spectrum of approaches, including for probable maximum precipitation studies.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> A description of existing research needs in the field of precipitation estimation in order to modernize current methodologies and consider non-stationarity.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> A description of in-situ, airborne, and space-based observation requirements, that could enhance precipitation estimation and development of models, including an examination of the use of geographic information systems and geospatial technology for integration, analysis, and visualization of precipitation data.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> A recommended plan for a Federal research and development program, including specifications for costs, timeframes, and responsible agencies for addressing identified research needs.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> An analysis of the respective roles in precipitation estimation of various Federal agencies, academia, State, tribal, territorial, and local governments, and other public and private stakeholders.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> Recommendations for data management to promote long-term needs such as enabling retrospective analyses and data discoverability, interoperability, and reuse.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> Recommendations for how data and services from the entire enterprise can be best leveraged by the Federal Government.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> A description of non-Federal precipitation data, its accessibility by the Federal Government, and ways for National Oceanic and Atmospheric Administration to improve or expand such datasets.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There is authorized $1,500,000 to the National Oceanic and Atmospheric Administration to carry out this study.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title VI, § 601</ref>, as added <ref>Pub. L. 117–229, div. D, § 2(a)</ref>, <date date="2022-12-16">Dec. 16, 2022</date>, <ref>136 Stat. 2313</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8562.</num>
+<heading> Improving probable maximum precipitation estimates</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Not later than 90 days after the date on which the National Academies makes public the report under <ref>section 8561 of this title</ref>, the Administrator, in consideration of the report recommendations, shall consult with relevant partners, including users of the data, on the development of a plan to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> not later than 6 years after the completion of such report and not less than every 10 years thereafter, update probable maximum precipitation estimates for the United States, such that each update considers non-stationarity;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> coordinate with partners to conduct research in the field of extreme precipitation estimation, in accordance with the research needs identified in such report;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> make publicly available, in a searchable, interoperable format, all probable maximum precipitation studies developed by the National Oceanic and Atmospheric Administration that the Administrator has the legal right to redistribute and deemed to be at an appropriate state of development on an internet website of the National Oceanic and Atmospheric Administration; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> ensure all probable maximum precipitation estimate data, products, and supporting documentation and metadata developed by the National Oceanic and Atmospheric Administration are preserved, curated, and served by the National Oceanic and Atmospheric Administration, as appropriate.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> National guidance document for the development of probable maximum precipitation estimates</heading>
+<chapeau class="indent0">The Administrator, in collaboration with Federal agencies, State, territorial, Tribal and local governments, academia, and other partners the Administrator deems appropriate, shall develop a National Guidance Document that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> provides best practices that can be followed by Federal and State regulatory agencies, private meteorological consultants, and other users that perform probable maximum precipitation studies;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> considers the recommendations provided in the National Academies study under <ref>section 8561 of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> facilitates review of probable maximum precipitation studies by regulatory agencies; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> provides confidence in regional and site-specific probable maximum precipitation estimates.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Publication</heading>
+<content>
+<p class="indent0">Not later than 2 years after the date on which the National Academies makes public the report under <ref>section 8561 of this title</ref>, the Administrator shall make publicly available the National Guidance Document under subsection (b) on an internet website of the National Oceanic and Atmospheric Administration.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Updates</heading>
+<content>
+<p class="indent0">The Administrator shall update the National Guidance Document not less than once every 10 years after the publication of the National Guidance Document under subsection (c) and publish such updates in accordance with such subsection.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–25, title VI, § 602</ref>, as added <ref>Pub. L. 117–229, div. D, § 2(a)</ref>, <date date="2022-12-16">Dec. 16, 2022</date>, <ref>136 Stat. 2314</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 8563.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0"> In this subchapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Administrator</heading>
+<content>
+<p class="indent1">The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> National Academies</heading>
+<content>
+<p class="indent1">The term “National Academies” means the National Academies of Sciences, Engineering, and Medicine.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> United States</heading>
+<content>
+<p class="indent1">The term “United States” means, collectively, each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 115–25, title VI, § 603</ref>, as added <ref>Pub. L. 117–229, div. D, § 2(a)</ref>, <date date="2022-12-16">Dec. 16, 2022</date>, <ref>136 Stat. 2315</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

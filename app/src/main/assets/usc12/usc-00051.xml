@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 45—</num>
+<heading>PAYMENT SYSTEM RISK REDUCTION</heading>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>BILATERAL AND CLEARING ORGANIZATION NETTING</heading>
+<section>
+<num>§ 4401.</num>
+<heading> Findings and purpose</heading>
+<chapeau class="indent0">The Congress finds that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> many financial institutions engage daily in thousands of transactions with other financial institutions directly and through clearing organizations;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the efficient processing of such transactions is essential to a smoothly functioning economy;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> such transactions can be processed most efficiently if, consistent with applicable contractual terms, obligations among financial institutions are netted;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> such netting procedures would reduce the systemic risk within the banking system and financial markets; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the effectiveness of such netting procedures can be assured only if they are recognized as valid and legally binding in the event of the closing of a financial institution participating in the netting procedures.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 102–242, title IV, § 401</ref>, <date date="1991-12-19">Dec. 19, 1991</date>, <ref>105 Stat. 2371</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4402.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">For purposes of this subchapter—</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Broker or dealer</heading>
+<chapeau class="indent1">The term “broker or dealer” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any company that is registered or licensed under Federal or State law to engage in the business of brokering, underwriting, or dealing in securities in the United States; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to the extent consistent with this title,<ref class="footnoteRef" idref="fn002398">1</ref> as determined by the Board of Governors of the Federal Reserve System, any company that is an affiliate of a company described in subparagraph (A) and that is engaged in the business of entering into netting contracts.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Clearing organization</heading>
+<chapeau class="indent1">The term “clearing organization” means a clearinghouse, clearing association, clearing corporation, or similar organization—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> that provides clearing, netting, or settlement services for its members and—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in which all members other than the clearing organization itself are financial institutions or other clearing organizations; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> which is registered as a clearing agency under the Securities Exchange Act of 1934 [<ref>15 U.S.C. 78a</ref> et seq.], or is exempt from such registration by order of the Securities and Exchange Commission; or</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> that is registered as a derivatives clearing organization under <ref>section 7a–1 of title 7</ref>, that has been granted an exemption under <ref>section 6(c)(1) of title 7</ref>, or that is a multilateral clearing organization (as defined in section 4421 <sup>1</sup> of this title).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Covered clearing obligation</heading>
+<content>
+<p class="indent1">The term “covered clearing obligation” means an obligation of a member of a clearing organization to make payment to another member of a clearing organization, subject to a netting contract.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Covered contractual payment entitlement</heading>
+<chapeau class="indent1">The term “covered contractual payment entitlement” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an entitlement of a financial institution to receive a payment, subject to a netting contract from another financial institution; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an entitlement of a member of a clearing organization to receive payment, subject to a netting contract, from another member of a clearing organization of a covered clearing obligation.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Covered contractual payment obligation</heading>
+<chapeau class="indent1">The term “covered contractual payment obligation” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an obligation of a financial institution to make payment, subject to a netting contract to another financial institution; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a covered clearing obligation.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Depository institution</heading>
+<chapeau class="indent1">The term “depository institution” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a depository institution as defined in section 19(b)(1)(A) of the Federal Reserve Act [<ref>12 U.S.C. 461(b)(1)(A)</ref>] (other than clause (vii));</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an uninsured national bank or an uninsured State bank that is a member of the Federal Reserve System, if the national bank or State member bank is not eligible to make application to become an insured bank under <ref>section 1815 of this title</ref>;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a branch or agency of a foreign bank, a foreign bank and any branch or agency of the foreign bank, or the foreign bank that established the branch or agency, as those terms are defined in section 1(b) of the International Banking Act of 1978 [<ref>12 U.S.C. 3101</ref>];</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> a corporation chartered under section 25(a) <sup>1</sup> of the Federal Reserve Act [<ref>12 U.S.C. 611</ref> et seq.]; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> a corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act [<ref>12 U.S.C. 601</ref> et seq.].</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Failed financial institution</heading>
+<chapeau class="indent1">The term “failed financial institution” means a financial institution that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> fails to satisfy a covered contractual payment obligation when due;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> has commenced or had commenced against it insolvency, liquidation, reorganization, receivership (including the appointment of a receiver), conservatorship, or similar proceedings; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> has generally ceased to meet its obligations when due.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Failed member</heading>
+<chapeau class="indent1">The term “failed member” means any member that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> fails to satisfy a covered clearing obligation when due,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> has commenced or had commenced against it insolvency, liquidation, reorganization, receivership (including the appointment of a receiver), conservatorship, or similar proceedings, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> has generally ceased to meet its obligations when due.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Financial institution</heading>
+<content>
+<p class="indent1">The term “financial institution” means a broker or dealer, a depository institution, a futures commission merchant, or any other institution as determined by the Board of Governors of the Federal Reserve System.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Futures commission merchant</heading>
+<content>
+<p class="indent1">The term “futures commission merchant” means a company that is registered or licensed under Federal law to engage in the business of selling futures and options in commodities.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Member</heading>
+<content>
+<p class="indent1">The term “member” means a member of or participant in a clearing organization, and includes the clearing organization and any other clearing organization with which such clearing organization has a netting contract.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Net entitlement</heading>
+<content>
+<p class="indent1">The term “net entitlement” means the amount by which the covered contractual payment entitlements of a financial institution or member exceed the covered contractual payment obligations of the institution or member after netting under a netting contract.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Net obligation</heading>
+<content>
+<p class="indent1">The term “net obligation” means the amount by which the covered contractual payment obligations of a financial institution or member exceed the covered contractual payment entitlements of the institution or member after netting under a netting contract.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> Netting contract</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The term “netting contract”—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> means a contract or agreement between 2 or more financial institutions, clearing organizations, or members that provides for netting present or future payment obligations or payment entitlements (including liquidation or close out values relating to such obligations or entitlements) among the parties to the agreement; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> includes the rules of a clearing organization.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Invalid contracts not included</heading>
+<content>
+<p class="indent2">The term “netting contract” does not include any contract or agreement that is invalid under or precluded by Federal law.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(15)</num>
+<heading class="bold"> Payment</heading>
+<content>
+<p class="indent1">The term “payment” means a payment of United States dollars, another currency, or a composite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 102–242, title IV, § 402</ref>, <date date="1991-12-19">Dec. 19, 1991</date>, <ref>105 Stat. 2372</ref>; <ref>Pub. L. 102–550, title XVI, § 1606(a)</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 4087</ref>; <ref>Pub. L. 106–554, § 1(a)(5) [title I, §§ 112(a)(2), 123(b)]</ref>, <date date="2000-12-21">Dec. 21, 2000</date>, <ref>114 Stat. 2763</ref>, 2763A–391, 2763A–411; <ref>Pub. L. 109–8, title IX, § 906(a)</ref>, <date date="2005-04-20">Apr. 20, 2005</date>, <ref>119 Stat. 167</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4403.</num>
+<heading> Bilateral netting</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> General rule</heading>
+<content>
+<p class="indent0">Notwithstanding any other provision of State or Federal law (other than <ref>section 1821(e) of this title</ref>, <ref>section 5390(c) of this title</ref>, <ref>section 4617 of this title</ref>, <ref>section 1787(c) of this title</ref>, or any order authorized under <ref>section 78eee(b)(2) of title 15</ref>), the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be terminated, liquidated, accelerated, and netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract (except as provided in <ref>section 561(b)(2) of title 11</ref>).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Limitation on obligation to make payment</heading>
+<content>
+<p class="indent0">The only obligation, if any, of a financial institution to make payment with respect to covered contractual payment obligations to another financial institution shall be equal to its net obligation to such other financial institution, and no such obligation shall exist if there is no net obligation.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Limitation on right to receive payment</heading>
+<content>
+<p class="indent0">The only right, if any, of a financial institution to receive payments with respect to covered contractual payment entitlements from another financial institution shall be equal to its net entitlement with respect to such other financial institution, and no such right shall exist if there is no net entitlement.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Payment of net entitlement of failed financial institution</heading>
+<content>
+<p class="indent0">The net entitlement of any failed financial institution, if any, shall be paid to the failed financial institution in accordance with, and subject to the conditions of, the applicable netting contract.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Effectiveness notwithstanding status as financial institution</heading>
+<content>
+<p class="indent0">This section shall be given effect notwithstanding that a financial institution is a failed financial institution.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Enforceability of security agreements</heading>
+<content>
+<p class="indent0">The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 financial institutions shall be enforceable in accordance with their terms (except as provided in <ref>section 561(b)(2) of title 11</ref>), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than <ref>section 1821(e) of this title</ref>, <ref>section 1787(c) of this title</ref>, and <ref>section 78eee(b)(2) of title 15</ref>).</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 102–242, title IV, § 403</ref>, <date date="1991-12-19">Dec. 19, 1991</date>, <ref>105 Stat. 2374</ref>; <ref>Pub. L. 109–8, title IX, § 906(b)</ref>, <date date="2005-04-20">Apr. 20, 2005</date>, <ref>119 Stat. 168</ref>; <ref>Pub. L. 109–390, § 4(a)</ref>, <date date="2006-12-12">Dec. 12, 2006</date>, <ref>120 Stat. 2695</ref>; <ref>Pub. L. 111–203, title II, § 211(c)</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1514</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4404.</num>
+<heading> Clearing organization netting</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> General rule</heading>
+<content>
+<p class="indent0">Notwithstanding any other provision of State or Federal law (other than <ref>section 1821(e) of this title</ref>, <ref>section 1787(c) of this title</ref>, and any order authorized under <ref>section 78eee(b)(2) of title 15</ref>), the covered contractual payment obligations and the covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be terminated, liquidated, accelerated, and netted in accordance with and subject to the conditions of any applicable netting contract (except as provided in <ref>section 561(b)(2) of title 11</ref>).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Limitation of obligation to make payment</heading>
+<content>
+<p class="indent0">The only obligation, if any, of a member of a clearing organization to make payment with respect to covered contractual payment obligations arising under a single netting contract to any other member of a clearing organization shall be equal to its net obligation arising under that netting contract, and no such obligation shall exist if there is no net obligation.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Limitation on right to receive payment</heading>
+<content>
+<p class="indent0">The only right, if any, of a member of a clearing organization to receive payment with respect to a covered contractual payment entitlement arising under a single netting contract from other members of a clearing organization shall be equal to its net entitlement arising under that netting contract, and no such right shall exist if there is no net entitlement.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Entitlement of failed members</heading>
+<content>
+<p class="indent0">The net entitlement, if any, of any failed member of a clearing organization shall be paid to the failed member in accordance with, and subject to the conditions of, the applicable netting contract.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Obligations of failed members</heading>
+<content>
+<p class="indent0">The net obligation, if any, of any failed member of a clearing organization shall be determined in accordance with, and subject to the conditions of, the applicable netting contract.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Limitation on claims for entitlement</heading>
+<content>
+<p class="indent0">A failed member of a clearing organization shall have no recognizable claim against any member of a clearing organization for any amount based on such covered contractual payment entitlements other than its net entitlement.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Effectiveness notwithstanding status as member</heading>
+<content>
+<p class="indent0">This section shall be given effect notwithstanding that a member is a failed member.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Enforceability of security agreements</heading>
+<content>
+<p class="indent0">The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 members of a clearing organization shall be enforceable in accordance with their terms (except as provided in <ref>section 561(b)(2) of title 11</ref>), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than <ref>section 1821(e) of this title</ref>, <ref>section 1787(c) of this title</ref>, and <ref>section 78eee(b)(2) of title 15</ref>).</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 102–242, title IV, § 404</ref>, <date date="1991-12-19">Dec. 19, 1991</date>, <ref>105 Stat. 2374</ref>; <ref>Pub. L. 109–8, title IX, § 906(c)</ref>, <date date="2005-04-20">Apr. 20, 2005</date>, <ref>119 Stat. 168</ref>; <ref>Pub. L. 109–390, § 4(b)</ref>, <date date="2006-12-12">Dec. 12, 2006</date>, <ref>120 Stat. 2695</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4405.</num>
+<heading> Preemption</heading>
+<content>
+<p class="indent0">No stay, injunction, avoidance, moratorium, or similar proceeding or order, whether issued or granted by a court, administrative agency, or otherwise, shall limit or delay application of otherwise enforceable netting contracts in accordance with sections 4403 and 4404 of this title.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 102–242, title IV, § 405</ref>, <date date="1991-12-19">Dec. 19, 1991</date>, <ref>105 Stat. 2375</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4406.</num>
+<heading> Relationship to other payments systems</heading>
+<content>
+<p class="indent0">This chapter shall have no effect by implication or otherwise on the validity or legal enforceability of a netting arrangement of any payment system which is not subject to this chapter.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 102–242, title IV, § 406</ref>, <date date="1991-12-19">Dec. 19, 1991</date>, <ref>105 Stat. 2375</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4406a.</num>
+<heading> Treatment of contracts with uninsured national banks, uninsured Federal branches and agencies, certain uninsured State member banks, and Edge Act corporations</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">Notwithstanding any other provision of law, paragraphs (8), (9), (10), and (11) of section 11(e) of the Federal Deposit Insurance Act [<ref>12 U.S.C. 1821(e)</ref>] shall apply to an uninsured national bank or uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act [<ref>12 U.S.C. 611</ref> et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <ref class="footnoteRef" idref="fn002399">1</ref> of this title, except that for such purpose—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> any reference to the “Corporation as receiver” or “the receiver or the Corporation” shall refer to the receiver appointed by the Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency, or to the receiver appointed by the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [<ref>12 U.S.C. 611</ref> et seq.] or an uninsured State member bank;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> any reference to the “Corporation” (other than in section 11(e)(8)(D) of such Act [<ref>12 U.S.C. 1821(e)(8)(D)</ref>]), the “Corporation, whether acting as such or as conservator or receiver”, a “receiver”, or a “conservator” shall refer to the receiver or conservator appointed by the Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency, or to the receiver or conservator appointed by the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [<ref>12 U.S.C. 611</ref> et seq.] or an uninsured State member bank; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> any reference to an “insured depository institution” or “depository institution” shall refer to an uninsured national bank, an uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act [<ref>12 U.S.C. 611</ref> et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Liability</heading>
+<content>
+<p class="indent0">The liability of a receiver or conservator of an uninsured national bank, uninsured Federal branch or agency, a corporation chartered under section 25A of the Federal Reserve Act [<ref>12 U.S.C. 611</ref> et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, shall be determined in the same manner and subject to the same limitations that apply to receivers and conservators of insured depository institutions under section 11(e) of the Federal Deposit Insurance Act [<ref>12 U.S.C. 1821(e)</ref>].</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Regulatory authority</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency and the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [<ref>12 U.S.C. 611</ref> et seq.], or an uninsured State member bank that operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, in consultation with the Federal Deposit Insurance Corporation, may each promulgate regulations solely to implement this section.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Specific requirement</heading>
+<content>
+<p class="indent1">In promulgating regulations, limited solely to implementing paragraphs (8), (9), (10), and (11) of section 11(e) of the Federal Deposit Insurance Act [<ref>12 U.S.C. 1821(e)</ref>], the Comptroller of the Currency and the Board of Governors of the Federal Reserve System each shall ensure that the regulations generally are consistent with the regulations and policies of the Federal Deposit Insurance Corporation adopted pursuant to the Federal Deposit Insurance Act [<ref>12 U.S.C. 1811</ref> et seq.].</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Definitions</heading>
+<content>
+<p class="indent0">For purposes of this section, the terms “Federal branch”, “Federal agency”, and “foreign bank” have the same meanings as in <ref>section 3101 of this title</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 102–242, title IV, § 407</ref>, as added <ref>Pub. L. 109–8, title IX, § 906(d)(2)</ref>, <date date="2005-04-20">Apr. 20, 2005</date>, <ref>119 Stat. 169</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4407.</num>
+<heading> National emergencies</heading>
+<content>
+<p class="indent0">The provisions of this chapter may not be construed to limit the authority of the President under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) [now <ref>50 U.S.C. 4301</ref> et seq.] or the International Emergency Economic Powers Act (<ref>50 U.S.C. 1701</ref> et seq.).</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 102–242, title IV, § 407A</ref>, formerly § 407, <date date="1991-12-19">Dec. 19, 1991</date>, <ref>105 Stat. 2375</ref>; renumbered § 407A, <ref>Pub. L. 109–8, title IX, § 906(d)(1)</ref>, <date date="2005-04-20">Apr. 20, 2005</date>, <ref>119 Stat. 169</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>MULTILATERAL CLEARING ORGANIZATIONS</heading>
+<section>
+<num>§§ 4421, 4422.</num>
+<heading> Repealed. <ref>Pub. L. 111–203, title VII, § 740</ref>, <date date="2010-07-21">July 21, 2010</date>, <ref>124 Stat. 1729</ref></heading>
+</section>
+</subchapter>
+</chapter>

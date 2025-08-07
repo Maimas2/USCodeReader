@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 275—</num>
+<heading>PROPRIETARY CONTRACTOR DATA AND RIGHTS IN TECHNICAL DATA</heading>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>RIGHTS IN TECHNICAL DATA</heading>
+<section>
+<num>§ 3771.</num>
+<heading> Rights in technical data: regulations</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">Regulations Required.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>The Secretary of Defense shall prescribe regulations to define the legitimate interest of the United States and of a contractor or subcontractor in technical data pertaining to an item or process. Such regulations shall be included in regulations of the Department of Defense prescribed as part of the Federal Acquisition Regulation.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Other rights not impaired</inline>.—</heading>
+<chapeau>Regulations prescribed under paragraph (1) may not impair—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any right of the United States or of any contractor or subcontractor with respect to patents or copyrights or any other right in technical data otherwise established by law; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the right of a contractor or subcontractor to receive from a third party a fee or royalty for the use of technical data pertaining to an item or process developed exclusively at private expense by the contractor or subcontractor, except as otherwise specifically provided by law.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Required Provisions</inline>.—</heading>
+<chapeau>Regulations prescribed under subsection (a) shall include the following provisions:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Development exclusively with federal funds</inline>.—</heading>
+<chapeau>In the case of an item or process that is developed by a contractor or subcontractor exclusively with Federal funds (other than an item or process developed under a contract or subcontract to which regulations under section 9(j)(2) of the Small Business Act (<ref>15 U.S.C. 638(j)(2)</ref>) apply), the United States shall have the unlimited right to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> use technical data pertaining to the item or process; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> release or disclose the technical data to persons outside the government or permit the use of the technical data by such persons.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Development exclusively at private expense</inline>.—</heading>
+<content>Except as provided in paragraphs (3), (4), and (7), in the case of an item or process that is developed by a contractor or subcontractor exclusively at private expense, the contractor or subcontractor may restrict the right of the United States to release or disclose technical data pertaining to the item or process to persons outside the government or permit the use of the technical data by such persons.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Exception to paragraph (2)</inline>.—</heading>
+<chapeau>Paragraph (2) does not apply to technical data that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> constitutes a correction or change to data furnished by the United States;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> relates to form, fit, or function;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> is necessary for operation, maintenance, installation, or training (other than detailed manufacturing or process data, including such data pertaining to a major system component); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> is otherwise publicly available or has been released or disclosed by the contractor or subcontractor without restriction on further release or disclosure.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Exception to paragraph (2)</inline>.—</heading>
+<chapeau>Notwithstanding paragraph (2), the United States may release or disclose technical data to persons outside the Government, or permit the use of technical data by such persons, if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> such release, disclosure, or use—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> is necessary for emergency repair and overhaul;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> is a release, disclosure, or use of technical data pertaining to an interface between an item or process and other items or processes necessary for the segregation of an item or process from, or the reintegration of that item or process (or a physically or functionally equivalent item or process) with, other items or processes; or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> is a release or disclosure of technical data (other than detailed manufacturing or process data) to, or use of such data by, a foreign government that is in the interest of the United States and is required for evaluational or informational purposes;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> such release, disclosure, or use is made subject to a prohibition that the person to whom the data is released or disclosed may not further release, disclose, or use such data; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading>
+<inline class="small-caps">Development with mixed funding.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Except as provided in paragraphs (6) and (7), in the case of an item or process that is developed in part with Federal funds and in part at private expense, the respective rights of the United States and of the contractor or subcontractor in technical data pertaining to such item or process shall be established as early in the acquisition process as practicable (preferably during contract negotiations) and shall be based on negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Factors to be considered</inline>.—</heading>
+<chapeau>The establishment of such rights shall be based upon consideration of all of the following factors:</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> The statement of congressional policy and objectives in <ref>section 200 of title 35</ref>, the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (<ref>15 U.S.C. 638</ref> note), and the declaration of policy in section 2 of the Small Business Act (<ref>15 U.S.C. 631</ref>).</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> The interest of the United States in increasing competition and lowering costs by developing and locating alternative sources of supply and manufacture.</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> The interest of the United States in encouraging contractors to develop at private expense items for use by the Government.</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> Such other factors as the Secretary of Defense may prescribe.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Interfaces developed with mixed funding</inline>.—</heading>
+<content>Notwithstanding paragraph (5), the United States shall have government purpose rights in technical data pertaining to an interface between an item or process and other items or processes that was developed in part with Federal funds and in part at private expense, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiation of different rights in such technical data would be in the best interest of the United States.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<heading>
+<inline class="small-caps">Modular system interfaces developed exclusively at private expense or with mixed funding.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Notwithstanding paragraphs (2) and (5), the United States shall have government purpose rights in technical data pertaining to a modular system interface developed exclusively at private expense or in part with Federal funds and in part at private expense and used in a modular open system approach pursuant to <ref>section 4401 of this title</ref>, except in any case in which the Secretary of Defense determines that negotiation of different rights in such technical data would be in the best interest of the United States.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Such modular system interface shall be identified in the contract solicitation and the contract.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> For technical data pertaining to a modular system interface developed exclusively at private expense for which the United States asserts government purpose rights, the Secretary of Defense shall negotiate with the contractor the appropriate and reasonable compensation for such technical data.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<heading><inline class="small-caps">Limitations on requirements related to contractor or subcontractor rights in technical data</inline>.—</heading>
+<chapeau>A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> to sell or otherwise relinquish to the United States any rights in technical data except—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> rights in technical data described in paragraph (1) for which a use or release restriction has been erroneously asserted by a contractor or subcontractor;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> rights in technical data described in paragraph (3); or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> under the conditions described in paragraph (4); or</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to refrain from offering to use, or from using, an item or process to which the contractor is entitled to restrict rights in data under paragraph (2).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<heading><inline class="small-caps">Actions authorized if necessary to develop alternative sources of supply and manufacture</inline>.—</heading>
+<chapeau>The Secretary of Defense may—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> negotiate and enter into a contract with a contractor or subcontractor for the acquisition of rights in technical data not otherwise provided under paragraph (3) or (4), if necessary to develop alternative sources of supply and manufacture;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> agree to restrict rights in technical data otherwise accorded to the United States under this subchapter if the United States receives a royalty-free license to use, release, or disclose the data for purposes of the United States (including purposes of competitive procurement); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> permit a contractor or subcontractor to license directly to a third party the use of technical data which the contractor is otherwise allowed to restrict, if necessary to develop alternative sources of supply and manufacture.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Secretary of Defense to Define Terms</inline>.—</heading>
+<chapeau>The Secretary of Defense shall define the terms “developed”, “exclusively with Federal funds”, and “exclusively at private expense” in regulations prescribed under subsection (a). In defining such terms, the Secretary—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> shall specify the manner in which indirect costs shall be treated; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of the definitions under this subsection.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(a)(1)</ref>, (b), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4226</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3772.</num>
+<heading> Rights in technical data: provisions required in contracts</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Contract Provisions Relating to Technical Data</inline>.—</heading>
+<chapeau>Regulations prescribed under <ref>section 3771 of this title</ref> shall require that, whenever practicable, a contract for supplies or services entered into by an agency named in <ref>section 3063 of this title</ref> contain appropriate provisions relating to technical data, including provisions—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> defining the respective rights of the United States and the contractor or subcontractor (at any tier) regarding any technical data to be delivered under the contract and providing that, in the case of a contract for a commercial product, the product shall be presumed to be developed at private expense unless shown otherwise in accordance with section 3784;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> specifying the technical data, if any, to be delivered under the contract and delivery schedules for such delivery;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> establishing or referencing procedures for determining the acceptability of technical data to be delivered under the contract;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> establishing separate contract line items for the technical data, if any, to be delivered under the contract;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> to the maximum practicable extent, identifying, in advance of delivery, technical data which is to be delivered with restrictions on the right of the United States to use such data;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<chapeau> requiring the contractor—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to revise any technical data delivered under the contract to reflect engineering design changes made during the performance of the contract and affecting the form, fit, and function of the items specified in the contract; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to deliver such revised technical data to an agency within a time specified in the contract;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<chapeau> establishing remedies to be available to the United States when technical data required to be delivered or made available under the contract is found—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to be incomplete or inadequate; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to not satisfy the requirements of the contract concerning technical data;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> authorizing the head of the agency to withhold payments under the contract (or exercise such other remedies as the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<chapeau> providing that, in addition to technical data that is already subject to a contract delivery requirement, the United States may require, until the date occurring six years after acceptance of the last item (other than technical data) under a contract or the date of contract termination, whichever is later, the delivery of technical data that has been generated in the performance of the contract, and compensate the contractor only for reasonable costs incurred for having converted and delivered the data in the required form, upon a determination that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the technical data is needed for the purpose of reprocurement, sustainment, modification, or upgrade (including through competitive means) of a major system or subsystem thereof, a weapon system or subsystem thereof, or any noncommercial product or process; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> the technical data—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> pertains to an item or process developed in whole or in part with Federal funds; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> is described in paragraphs (4)(A)(ii), (6), and (7) of <ref>section 3771(b) of this title</ref>; and</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> providing that the United States is not foreclosed from requiring the delivery of the technical data by a failure to challenge, in accordance with the requirements of <ref>section 3782 of this title</ref>, the contractor’s assertion of a use or release restriction on the technical data.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<chapeau> Nothing in this subchapter or in <ref>section 3208 of this title</ref> prohibits the Secretary of Defense from—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> prescribing standards for determining whether a contract entered into by the Department of Defense shall provide for a time to be specified in the contract after which the United States shall have the right to use (or have used) for any purpose of the United States all technical data required to be delivered to the United States under the contract or providing for such a period of time (not to exceed 7 years) as a negotiation objective;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> notwithstanding any limitation upon the license rights conveyed under <ref>section 3771 of this title</ref>, allowing a covered Government support contractor access to and use of any technical data delivered under a contract for the sole purpose of furnishing independent and impartial advice or technical assistance directly to the Government in support of the Government’s management and oversight of the program or effort to which such technical data relates; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> prescribing reasonable and flexible guidelines, including negotiation objectives, for the conduct of negotiations regarding the respective rights in technical data of the United States and the contractor.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(a)(1)</ref>, (c), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4226</ref>, 4228.)</sourceCredit>
+</section>
+<section>
+<num>§ 3773.</num>
+<heading> Domestic business concerns: programs for replenishment parts</heading>
+<content>
+<p class="indent0">The Secretary of Defense shall by regulation establish programs which provide domestic business concerns an opportunity to purchase or borrow replenishment parts from the United States for the purpose of design replication or modification, to be used by such concerns in the submission of subsequent offers to sell the same or like parts to the United States. Nothing in this section limits the authority of the head of an agency to impose restrictions on such a program related to national security considerations, inventory needs of the United States, the improbability of future purchases of the same or like parts, or any additional restriction otherwise required by law.</p>
+</content>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(a)(1)</ref>, (d), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4226</ref>, 4229.)</sourceCredit>
+</section>
+<section>
+<num>§ 3774.</num>
+<heading> Major weapon systems and subsystems: long-term technical data needs</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">Assessments and Acquisitions Strategies.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> The Secretary of Defense shall require program managers for major weapon systems and subsystems of major weapon systems to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> assess the long-term technical data needs of such systems and subsystems; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> establish corresponding acquisition strategies that provide for technical data rights needed to sustain such systems and subsystems over their life cycle.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> Such strategies may include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the development of maintenance capabilities within the Department of Defense; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> competition for contracts for sustainment of such systems or subsystems.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Requirements Relating to Assessments and Acquisition Strategies</inline>.—</heading>
+<chapeau>Assessments and corresponding acquisition strategies developed under subsection (a) with respect to a weapon system or subsystem shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> be developed before issuance of a contract solicitation for the weapon system or subsystem;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> address the merits of including a priced contract option for the future delivery of technical data that were not acquired upon initial contract award;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> address the potential for changes in the sustainment plan over the life cycle of the weapon system or subsystem; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> apply to weapon systems and subsystems that are to be supported by performance-based logistics arrangements as well as to weapons systems and subsystems that are to be supported by other sustainment approaches.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Preference for Specially Negotiated Licenses.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The Secretary of Defense shall, to the maximum extent practicable, negotiate and enter into a contract with a contractor for a specially negotiated license for technical data to support the product support strategy of a major weapon system or subsystem of a major weapon system.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> In performing the assessment and developing the corresponding strategy required under subsection (a) for such a system or subsystem, a program manager shall consider the use of specially negotiated licenses to acquire customized technical data appropriate for the particular elements of the product support strategy.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(a)(1)</ref>, (e), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4226</ref>, 4229.)</sourceCredit>
+</section>
+<section>
+<num>§ 3775.</num>
+<heading> Definitions</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Covered Government Support Contractor Defined</inline>.—</heading>
+<chapeau>In this subchapter, the term “covered Government support contractor” means a contractor under a contract the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government’s management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), which contractor—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> is not affiliated with the prime contractor or a first-tier subcontractor on the program or effort, or with any direct competitor of such prime contractor or any such first-tier subcontractor in furnishing end items or services of the type developed or produced on the program or effort; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> executes a contract with the Government agreeing to and acknowledging—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> that proprietary or nonpublic technical data furnished will be accessed and used only for the purposes stated in that contract;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> that the covered Government support contractor will enter into a non-disclosure agreement with the contractor to whom the rights to the technical data belong;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> that the covered Government support contractor will take all reasonable steps to protect the proprietary and nonpublic nature of the technical data furnished to the covered Government support contractor during the program or effort for the period of time in which the Government is restricted from disclosing the technical data outside of the Government;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> that a breach of that contract by the covered Government support contractor with regard to a third party’s ownership or rights in such technical data may subject the covered Government support contractor—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to criminal, civil, administrative, and contractual actions in law and equity for penalties, damages, and other appropriate remedies by the United States; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to civil actions for damages and other appropriate remedies by the contractor or subcontractor whose technical data is affected by the breach; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> that such technical data provided to the covered Government support contractor under the authority of this section shall not be used by the covered Government support contractor to compete against the third party for Government or non-Government contracts.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Additional Definitions</inline>.—</heading>
+<content>In this subchapter, the terms “major system component”, “modular system interface”, and “modular open system approach” have the meanings provided in <ref>section 4401 of this title</ref>.</content>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(a)(1)</ref>, (f), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4226</ref>, 4230.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>VALIDATION OF PROPRIETARY DATA RESTRICTIONS</heading>
+<section>
+<num>§ 3781.</num>
+<heading> Technical data: contractor justification for restrictions; review of restrictions</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Contracts Covered by Subchapter</inline>.—</heading>
+<content>This subchapter applies to any contract for supplies or services entered into by the Department of Defense that includes provisions for the delivery of technical data.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Contractor Justification for Restrictions</inline>.—</heading>
+<content>A contract subject to this subchapter shall provide that a contractor under the contract and any subcontractor under the contract at any tier shall be prepared to furnish to the contracting officer a written justification for any use or release restriction (as defined in <ref>section 3786 of this title</ref>) asserted by the contractor or subcontractor.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Review of Restrictions.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> The Secretary of Defense shall ensure that there is a thorough review of the appropriateness of any use or release restriction asserted with respect to technical data by a contractor or subcontractor at any tier under a contract subject to this subchapter.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> The review of an asserted use or release restriction under paragraph (1) shall be conducted before the end of the three-year period beginning on the later of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the date on which final payment is made on the contract under which the technical data is required to be delivered; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the date on which the technical data is delivered under the contract.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(g)</ref>, (h), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4231</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3782.</num>
+<heading> Technical data: challenges to contractor restrictions</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Challenges by Secretary of Defense</inline>.—</heading>
+<chapeau>The Secretary of Defense may challenge a use or release restriction asserted with respect to technical data by a contractor or subcontractor at any tier under a contract subject to this subchapter if the Secretary finds that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> reasonable grounds exist to question the current validity of the asserted restriction; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the continued adherence by the United States to the asserted restriction would make it impracticable to procure the item to which the technical data pertain competitively at a later time.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading>
+<inline class="small-caps">Time Limit for Challenges; Exceptions.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> A challenge to a use or release restriction asserted by the contractor in accordance with applicable regulations may not be made under subsection (a) after the end of the six-year period described in paragraph (2) unless the technical data involved—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> are publicly available;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> have been furnished to the United States without restriction;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> have been otherwise made available without restriction; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> are the subject of a fraudulently asserted use or release restriction.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> The six-year period referred to in paragraph (1) is the six-year period beginning on the later of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the date on which final payment is made on the contract under which the technical data are required to be delivered; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the date on which the technical data are delivered under the contract.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Written Notice to Contractor or Subcontractor</inline>.—</heading>
+<chapeau>If the Secretary challenges an asserted use or release restriction under subsection (a), the Secretary shall provide written notice of the challenge to the contractor or subcontractor asserting the restriction. Any such notice shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> state the specific grounds for challenging the asserted restriction;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> require a response within 60 days justifying the current validity of the asserted restriction; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> state that evidence of a justification described in subsection (d) may be submitted.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Justification</inline>.—</heading>
+<chapeau>It is a justification of an asserted use or release restriction challenged under subsection (a) that, within the three-year period preceding the challenge to the restriction, the Department of Defense validated a restriction identical to the asserted restriction if—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> such validation occurred after a challenge to the validated restriction under this section; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the validated restriction was asserted by the same contractor or subcontractor (or a licensee of such contractor or subcontractor).</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(g)</ref>, (i), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4231</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3783.</num>
+<heading> Technical data: time for contractors to submit justifications</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Additional Time to Submit Justifications</inline>.—</heading>
+<content>If a contractor or subcontractor asserting a use or release restriction submits to the contracting officer a written request, showing the need for additional time to comply with the requirement to justify the current validity of the asserted restriction, additional time to adequately permit the submission of such justification shall be provided by the contracting officer as appropriate.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Multiple Challenges; Schedule of Responses</inline>.—</heading>
+<content>If a party asserting a restriction receives notices of challenges to restrictions on technical data from more than one contracting officer, and notifies each contracting officer of the existence of more than one challenge, the contracting officer initiating the first in time challenge, after consultation with the party asserting the restriction and the other contracting officers, shall formulate a schedule of responses to each of the challenges that will afford the party asserting the restriction with an equitable opportunity to respond to each such challenge.</content>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(g)</ref>, (j), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4231</ref>, 4232.)</sourceCredit>
+</section>
+<section>
+<num>§ 3784.</num>
+<heading> Technical data under contracts for commercial items: presumption of development exclusively at private expense</heading>
+<content>
+<p class="indent0">In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial products, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the commercial product was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to <ref>section 3782(c) of this title</ref>. In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the commercial product was not developed exclusively at private expense.</p>
+</content>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(g)</ref>, (k), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4231</ref>, 4233.)</sourceCredit>
+</section>
+<section>
+<num>§ 3785.</num>
+<heading> Technical data: decision by contracting officer; claims; rights and liability upon final disposition</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">Decision by Contracting Officer.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Upon failure by the contractor or subcontractor to submit any response under <ref>section 3782(c) of this title</ref>, the contracting officer shall issue a decision pertaining to the validity of the asserted restriction.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> After review of any justification submitted in response to the notice provided pursuant to <ref>section 3782(c) of this title</ref>, the contracting officer shall, within 60 days of receipt of any justification submitted, issue a decision or notify the party asserting the restriction of the time within which a decision will be issued.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Claims</inline>.—</heading>
+<content>If a claim pertaining to the validity of the asserted restriction is submitted in writing to a contracting officer by a contractor or subcontractor at any tier, such claim shall be considered a claim within the meaning of chapter 71 of title 41.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Rights and Liability Upon Final Disposition.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> If, upon final disposition, the contracting officer’s challenge to the use or release restriction is sustained—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the restriction shall be cancelled; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> if the asserted restriction is found not to be substantially justified, the contractor or subcontractor asserting the restriction shall be liable to the United States for payment of the cost to the United States of reviewing the asserted restriction and the fees and other expenses (as defined in <ref>section 2412(d)(2)(A) of title 28</ref>) incurred by the United States in challenging the asserted restriction, unless special circumstances would make such payment unjust.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> If, upon final disposition, the contracting officer’s challenge to the use or release restriction is not sustained—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the United States shall continue to be bound by the restriction; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in <ref>section 2412(d)(2)(A) of title 28</ref>) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(g)</ref>, (<i>l</i>), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4231</ref>, 4233.)</sourceCredit>
+</section>
+<section>
+<num>§ 3786.</num>
+<heading> Use or release restriction: definition</heading>
+<chapeau class="indent0">In this subchapter, the term “use or release restriction”, with respect to technical data delivered to the United States under a contract subject to this section, means a restriction by the contractor or subcontractor on the right of the United States—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to use such technical data; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.</content>
+</paragraph>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(g)</ref>, (m), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4231</ref>, 4233.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>OTHER PROVISIONS RELATING TO PROPRIETARY CONTRACTOR DATA AND RIGHTS IN TECHNICAL DATA</heading>
+<section>
+<num>§ 3791.</num>
+<heading> Management of intellectual property matters within the Department of Defense</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Policy Required</inline>.—</heading>
+<chapeau>The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall develop policy on the acquisition or licensing of intellectual property—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to enable coordination and consistency across the military departments and the Department of Defense in strategies for acquiring or licensing intellectual property and communicating with industry;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to ensure that program managers are aware of the rights afforded the Federal Government and contractors in intellectual property and that program managers fully consider and use all available techniques and best practices for acquiring or licensing intellectual property early in the acquisition process; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to encourage customized intellectual property strategies for each system based on, at a minimum, the unique characteristics of the system and its components, the product support strategy for the system, the organic industrial base strategy of the military department concerned, and the commercial market.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Cadre of Intellectual Property Experts</inline>.—</heading>
+<content>For a provision requiring establishment of a cadre of personnel who are experts in intellectual property matters, see <ref>section 1707 of this title</ref>.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Guidelines and Resources.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall develop guidelines and resources on the acquisition or licensing of intellectual property, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> intellectual property strategies and other mechanisms supporting the use of modular open system approaches (as defined in <ref>section 4401(b) of this title</ref>);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> evaluation and negotiation of intellectual property licenses in competitive and non-competitive awards;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> models and best practices for specially negotiated licenses, including specially negotiated licenses described in <ref>section 3774(c) of this title</ref>; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> definitions, key terms, examples, and case studies that clarify differences between—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> detailed manufacturing and process data;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> form, fit, and function data;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> data required for operations, maintenance, installation, and training;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> modular system interfaces (as defined in <ref>section 4401(b) of this title</ref>); and</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> technical data pertaining to an interface between an item or process and other items or processes necessary for the segregation of an item or process from, or the reintegration of that item or process (or a functionally equivalent item or process) with, other items or processes.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Guidelines and resources limit</inline>.—</heading>
+<content>The guidelines and resources developed under paragraph (1) may not alter or affect any authority or duty under this section or <ref>section 1707 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Review and consultation</inline>.—</heading>
+<chapeau>In developing the guidelines and resources described in paragraph (1), the Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> review the applicable statutory and regulatory history, including among the definitions and key terms in <ref>section 3771 of this title</ref>, to ensure consistency; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> regularly consult with appropriate government and industry persons and organizations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Training</inline>.—</heading>
+<content>The Secretary of Defense shall ensure that the acquisition workforce receives training on the guidelines and resources developed under paragraph (1).</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1833(n)</ref>, (<i>o</i>)(1), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4234</ref>; <ref>Pub. L. 117–81, div. A, title XVII, § 1701(b)(12)(A)</ref>, <date date="2021-12-27">Dec. 27, 2021</date>, <ref>135 Stat. 2134</ref>; <ref>Pub. L. 117–263, div. A, title VIII, § 841</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 2716</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3793.</num>
+<heading> Copyrights, patents, designs, etc.; acquisition</heading>
+<chapeau class="indent0">Funds appropriated for a military department available for making or procuring supplies may be used to acquire any of the following if the acquisition relates to supplies or processes produced or used by or for, or useful to, that department:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Copyrights, patents, and applications for patents.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Licenses under copyrights, patents, and applications for patents.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Design and process data, technical data, and computer software.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> Releases for past infringement of patents or copyrights or for unauthorized use of technical data or computer software.</content>
+</paragraph>
+<sourceCredit>(<ref>Aug. 10, 1956, ch. 1041</ref>, <ref>70A Stat. 137</ref>, § 2386; <ref>Pub. L. 86–726, § 3</ref>, <date date="1960-09-08">Sept. 8, 1960</date>, <ref>74 Stat. 855</ref>; <ref>Pub. L. 103–355, title III, § 3063</ref>, <date date="1994-10-13">Oct. 13, 1994</date>, <ref>108 Stat. 3337</ref>; <ref>Pub. L. 104–106, div. A, title VIII, § 813</ref>, <date date="1996-02-10">Feb. 10, 1996</date>, <ref>110 Stat. 395</ref>; renumbered § 3793, <ref>Pub. L. 116–283, div. A, title XVIII, § 1833</ref>(<i>o</i>)(2), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4234</ref>; <ref>Pub. L. 117–81, div. A, title XVII, § 1701(b)(12)(B)</ref>, <date date="2021-12-27">Dec. 27, 2021</date>, <ref>135 Stat. 2134</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3794.</num>
+<heading> Release of technical data under Freedom of Information Act: recovery of costs</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Secretary of Defense shall, if required to release technical data under <ref>section 552 of title 5</ref> (relating to the Freedom of Information Act), release such technical data to the person requesting the release if the person pays all reasonable costs attributable to search, duplication, and review.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The Secretary of Defense shall prescribe regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees under this section.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Crediting of Receipts</inline>.—</heading>
+<chapeau>An amount received under this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> shall be retained by the Department of Defense or the element of the Department of Defense receiving the amount; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> shall be merged with and available for the same purpose and the same time period as the appropriation from which the costs incurred in complying with requests for technical data were paid.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Waiver</inline>.—</heading>
+<chapeau>The Secretary of Defense shall waive the payment of costs required by subsection (a) which are in an amount greater than the costs that would be required for such a release of information under <ref>section 552 of title 5</ref> if—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the request is made by a citizen of the United States or a United States corporation, and such citizen or corporation certifies that the technical data requested is required to enable such citizen or corporation to submit an offer or determine whether it is capable of submitting an offer to provide the product to which the technical data relates to the United States or a contractor with the United States (except that the Secretary may require the citizen or corporation to pay a deposit in an amount equal to not more than the cost of complying with the request, to be refunded upon submission of an offer by the citizen or corporation);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the release of technical data is requested in order to comply with the terms of an international agreement; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the Secretary determines, in accordance with <ref>section 552(a)(4)(A)(iii) of title 5</ref>, that such a waiver is in the interests of the United States.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 99–500, § 101(c) [title X, § 954(a)(1)]</ref>, <date date="1986-10-18">Oct. 18, 1986</date>, <ref>100 Stat. 1783–82</ref>, 1783–172, and <ref>Pub. L. 99–591, § 101(c) [title X, § 954(a)(1)]</ref>, <date date="1986-10-30">Oct. 30, 1986</date>, <ref>100 Stat. 3341–82</ref>, 3341–172, § 2328; <ref>Pub. L. 99–661, div. A, title IX</ref>, formerly title IV, § 954(a)(1), <date date="1986-11-14">Nov. 14, 1986</date>, <ref>100 Stat. 3952</ref>, renumbered title IX, <ref>Pub. L. 100–26, § 3(5)</ref>, <date date="1987-04-21">Apr. 21, 1987</date>, <ref>101 Stat. 273</ref>; amended <ref>Pub. L. 100–26, § 7(a)(7)(A)</ref>, (B)(i), <date date="1987-04-21">Apr. 21, 1987</date>, <ref>101 Stat. 278</ref>; renumbered § 3794, <ref>Pub. L. 116–283, div. A, title XVIII, § 1833</ref>(<i>o</i>)(2), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4234</ref>; <ref>Pub. L. 117–81, div. A, title XVII, § 1701(b)(12)(B)</ref>, <date date="2021-12-27">Dec. 27, 2021</date>, <ref>135 Stat. 2134</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

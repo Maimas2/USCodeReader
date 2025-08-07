@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 71—</num>
+<heading>SOLAR ENERGY</heading>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>HEATING AND COOLING</heading>
+<section>
+<num>§ 5501.</num>
+<heading> Congressional findings and declaration of policy</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<chapeau> The Congress hereby finds that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the current imbalance between supply and demand for fuels and energy is likely to persist for some time;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the early demonstration of the feasibility of using solar energy for the heating and cooling of buildings could help to relieve the demand upon present fuel and energy supplies;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the technologies for solar heating are close to the point of commercial application in the United States;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the technologies for combined solar heating and cooling still require research, development, testing and demonstration, but no insoluble technical problem is now foreseen in achieving commercial use of such technologies;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the early development and export of viable solar heating equipment and combined solar heating and cooling equipment, consistent with the established preeminence of the United States in the field of high technology products, can make a valuable contribution to our balance of trade;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> the widespread use of solar energy in place of conventional methods for the heating and cooling of buildings would have a significantly beneficial effect upon the environment;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> the mass production and use of solar heating and cooling equipment will help to eliminate the dependence of the United States upon foreign energy sources and promote the national defense;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> the widespread introduction of low-cost solar energy will be beneficial to consumers in a period of rapidly rising fuel cost;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> innovation and creativity in the development of solar heating and combined solar heating and cooling components and systems can be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in installing such systems in buildings;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> evaluation of the performance and reliability of solar heating and combined solar heating and cooling technologies can be expedited by testing under carefully controlled conditions; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> commercial application of solar heating and combined solar heating and cooling technologies can be expedited by early commercial demonstration under practical conditions.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> It is therefore declared to be the policy of the United States and the purpose of this subchapter to provide for the demonstration within a three-year period of the practical use of solar heating technology, and to provide for the development and demonstration within a five-year period of the practical use of combined heating and cooling technology.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 93–409, § 2</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1069</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5502.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">For purposes of this subchapter—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the term “solar heating”, with respect to any building, means the use of solar energy to meet such portion of the total heating needs of such building (including hot water), or such portion of the needs of such building for hot water (where its remaining heating needs are met by other methods), as may be required under performance criteria prescribed by the Secretary of Housing and Urban Development utilizing the services of the Director of the National Institute of Standards and Technology, and in consultation with the Secretary of Energy, and the Administrator of the National Aeronautics and Space Administration;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the terms “solar heating and cooling” and “combined solar heating and cooling”, with respect to any building, mean the use of solar energy to provide both such portion of the total heating needs of such building (including hot water) and such portion of the total cooling needs of such building, or such portion of the needs of such building for hot water (where its remaining heating needs are met by other methods) and such portion of the total cooling needs of a building, as may be required under performance criteria prescribed by the Secretary of Housing and Urban Development utilizing the services of the Director of the National Institute of Standards and Technology, and in consultation with the Secretary of Energy, and the Administrator of the National Aeronautics and Space Administration, and such term includes cooling by means of nocturnal heat radiation, by evaporation, or by other methods of meeting peakload energy requirements at nonpeakload times;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the term “residential dwellings” includes previously occupied and new single family and multifamily dwellings, mobile homes, and publicly assisted housing owned by a private sponsor or a State or local housing authority not covered by <ref>section 5515 of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the term “Administrator” means the Administrator of the National Aeronautics and Space Administration;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the term “Secretary” means the Secretary of Housing and Urban Development; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> Omitted.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 93–409, § 3</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1070</ref>; <ref>Pub. L. 93–438, title I, § 104(f)</ref>, title III, § 301(h), <date date="1974-10-11">Oct. 11, 1974</date>, <ref>88 Stat. 1238</ref>, 1250; <ref>Pub. L. 95–91, title III, § 301(a)</ref>, title VII, §§ 703, 707, <date date="1977-08-04">Aug. 4, 1977</date>, <ref>91 Stat. 577</ref>, 606, 607; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5503.</num>
+<heading> Development and demonstration of solar heating systems for use in residential dwellings</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Functions of Administrator and Secretary</heading>
+<content>
+<p class="indent0">The Administrator and the Secretary shall promptly initiate and carry out a program, as provided in this section, for the development and demonstration of solar heating systems (including collectors, controls, and thermal storage) for use in residential dwellings.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Time for determination, prescription and publishing of interim performance criteria; selection of designs for suitable dwellings</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> Within 120 days after <date date="1974-09-03">September 3, 1974</date>, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy, shall determine, prescribe, and publish—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> interim performance criteria for solar heating components and systems to be used in residential dwellings, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> interim performance criteria (relating to suitability for solar heating) for such dwellings themselves,</content>
+</subparagraph>
+<continuation class="indent0 firstIndent0">taking into account in each instance climatic variations existing between different geographic areas.</continuation>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> As soon as possible after the publication of the performance criteria prescribed under paragraph (1), the Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Administrator, will select on the basis of open competition a number of designs for various types of residential dwellings suitable for and adapted to the installation of solar heating systems meeting the performance criteria prescribed under paragraph (1)(A).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Contracts and grants for development of heating systems for commercial production and residential use; contracts for procurement of heating systems and components</heading>
+<chapeau class="indent0">The Administrator, in accordance with the applicable provisions of subchapter II of chapter 201 of title 51 and under program guidelines established jointly by the Administrator and the Secretary, shall, after consultation with the Secretary—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> enter into such contracts and grants as may be necessary or appropriate for the development (for commercial production and residential use) of solar heating systems meeting the performance criteria prescribed under subsection (b)(1)(A) (including any further planning and design which may be required to conform with the specifications set forth in such criteria); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> enter into contracts with a number of persons or firms for the procurement of solar heating components and systems meeting such performance criteria (including adequate numbers of spare and replacement parts for such systems).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Installation of heating systems; operation during demonstration period; title and ownership of dwellings and systems; agreement of owner to observe and monitor system for five years; reports by owner</heading>
+<content>
+<p class="indent0">The Secretary shall (1) arrange for the installation of solar heating systems procured by the Administrator under subsection (c)(2) in a substantial number of residential dwellings and (2) provide for the satisfactory operation of such installations during the demonstration period. Title to and ownership of any dwellings constructed hereunder and of solar heating systems installed hereunder may be conveyed to purchasers or owners of such dwellings under terms and conditions prescribed by the Secretary, including an express agreement that any such purchaser or owner shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary to observe and monitor) the performance and operation of such system for a period of five years, and that such purchaser or owner (including any subsequent owner and occupant of the property who also makes such an agreement) shall regularly furnish the Secretary with such reports thereon as the agreement may require.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Installation of heating systems by Secretary of Defense in dwellings located on Federal or federally administered property</heading>
+<content>
+<p class="indent0">The Secretary of Defense shall arrange for the installation of solar heating systems procured by the Administrator under subsection (c)(2) in a substantial number of residential dwellings which are located on Federal or federally administered property where the performance and operation of such systems can be regularly and effectively observed and monitored by designated Federal personnel.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Coordination of activities to assure a realistic and effective demonstration</heading>
+<content>
+<p class="indent0">The Secretary and the Secretary of Defense, and officials responsible for administering Federal or federally administered property, shall coordinate their activities under this section to assure that solar heating systems are installed in a substantial number of residential dwellings and in a sufficient number of different geographic areas under varying climatic conditions to constitute a realistic and effective demonstration in support of the objectives of this subchapter.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 93–409, § 5</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1070</ref>; <ref>Pub. L. 93–438, title I, § 104(f)</ref>, title III, § 301(h), <date date="1974-10-11">Oct. 11, 1974</date>, <ref>88 Stat. 1238</ref>, 1250; <ref>Pub. L. 95–91, title III, § 301(a)</ref>, title VII, §§ 703, 707, <date date="1977-08-04">Aug. 4, 1977</date>, <ref>91 Stat. 577</ref>, 606, 607; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5504.</num>
+<heading> Development and demonstration of combined solar heating and cooling systems for use in residential dwellings</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Functions of Administrator and Secretary</heading>
+<content>
+<p class="indent0">The Administrator and the Secretary shall promptly initiate and carry out a program, as provided in this section, for the development and demonstration of combined solar heating and cooling systems (including collectors, controls, and thermal storage) for use in residential dwellings.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Time for determination, prescription and publishing of interim performance criteria; selection of designs for suitable dwellings</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> As soon as possible after <date date="1974-09-03">September 3, 1974</date>, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy, shall determine, prescribe, and publish—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> interim performance criteria for combined solar heating and cooling components and systems to be used in residential dwellings, and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> interim performance criteria (relating to suitability for solar heating and cooling) for such dwellings themselves,</content>
+</subparagraph>
+<continuation class="indent0 firstIndent0">taking into account in each instance climatic variations existing between different geographic areas.</continuation>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> As soon as possible after the publication of the performance criteria prescribed under paragraph (1) (and if possible before the completion of the research and development provided for in subsection (c)), the Secretary, in consultation with the Director of the National Institute of Standards and Technology and the Administrator, will select on the basis of open competition a number of designs for various types of residential dwellings suitable for and adapted to the installation of combined solar heating and cooling systems meeting the performance criteria prescribed under paragraph (1)(A).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Program of research, development and testing to provide additional technological resources for development and commercial application of combined systems</heading>
+<content>
+<p class="indent0">During the period immediately following the publication of performance criteria under subsection (b)(1), the Administrator, in coordination with the Secretary of Energy, shall undertake and conduct with respect to solar heating and cooling a program of research, development, and testing designed to provide the additional technological resources necessary for the development and commercial application of combined solar heating and cooling systems as contemplated by the program under this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Contracts and grants for development of combined systems for commercial production and residential use; contracts for procurement of combined systems</heading>
+<chapeau class="indent0">The Administrator, in accordance with the applicable provisions of subchapter II of chapter 201 of title 51 and under program guidelines established jointly by the Administrator and the Secretary, and at the earliest possible time during or immediately after the period specified in subsection (c), shall, after consultation with the Secretary—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> enter into such contracts and grants as may be necessary or appropriate for the development (for commercial production and residential use) of combined solar heating and cooling systems meeting the performance criteria prescribed under subsection (b)(1)(A) (including any further planning and design which may be required to conform with the specifications set forth in such criteria or to reflect the results of the activities conducted under subsection (c)); and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> enter into contracts with a number of persons or firms for the procurement of combined solar heating and cooling systems meeting such performance criteria (including adequate numbers of spare and replacement parts for such systems).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Installation of combined systems; operation during demonstration period; title and ownership of dwellings and systems; agreement of owner to observe and monitor system; reports by owner</heading>
+<content>
+<p class="indent0">The Secretary shall (1) arrange for the installation of combined solar heating and cooling systems procured by the Administrator under subsection (d)(2) in a substantial number of residential dwellings and (2) provide for the satisfactory operation of such installations during the demonstration period. Title to and ownership of any dwellings constructed hereunder and of combined solar heating and cooling systems installed hereunder may be conveyed to purchasers or owners of such dwellings under terms and conditions prescribed by the Secretary, including an express agreement that any such purchaser or owner shall, in such manner and form and on such terms and conditions as the Secretary may prescribe, observe and monitor (or permit the Secretary to observe and monitor) the performance and operation of such system for a period of five years, and that such purchaser or owner (including any subsequent owner and occupant of the property who also makes such an agreement) shall regularly furnish the Secretary with such reports thereon as the agreement may require.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Installation of combined systems by Secretary of Defense in dwellings located on Federal or federally administered property</heading>
+<content>
+<p class="indent0">The Secretary of Defense shall arrange for the installation of combined solar heating and cooling systems procured by the Administrator under subsection (d)(2) in a substantial number of residential dwellings which are located on Federal or federally administered property where the performance and operation of such systems can be regularly and effectively observed and monitored by designated Federal personnel.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Coordination of activities to assure a realistic and effective demonstration</heading>
+<content>
+<p class="indent0">The Secretary and the Secretary of Defense, and officials responsible for administering Federal or federally administered property, shall coordinate their activities under this section to assure that combined solar heating and cooling systems are installed in a substantial number of residential dwellings and in a sufficient number of geographic areas under varying climatic conditions to constitute a realistic and effective demonstration in support of the objectives of this subchapter.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 93–409, § 6</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1072</ref>; <ref>Pub. L. 93–438, title I, § 104(f)</ref>, title III, § 301(h), <date date="1974-10-11">Oct. 11, 1974</date>, <ref>88 Stat. 1238</ref>, 1250; <ref>Pub. L. 95–91, title III, § 301(a)</ref>, title VII, §§ 703, 707, <date date="1977-08-04">Aug. 4, 1977</date>, <ref>91 Stat. 577</ref>, 606, 607; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5504a.</num>
+<heading> Repealed. <ref>Pub. L. 96–125, title VIII, § 804(b)</ref>, <date date="1979-11-26">Nov. 26, 1979</date>, <ref>93 Stat. 948</ref></heading>
+</section>
+<section>
+<num>§ 5505.</num>
+<heading> Omitted</heading>
+</section>
+<section>
+<num>§ 5506.</num>
+<heading> Test procedures and definitive performance criteria for solar heating and combined solar heating and cooling components and systems and suitable dwellings; determination, consultation and publication in Federal Register</heading>
+<chapeau class="indent0">As soon as feasible, and utilizing data available from the demonstration programs under sections 5503 and 5504 of this title, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy shall determine, prescribe, and publish in the Federal Register in accordance with the applicable provisions regarding rulemaking prescribed by <ref>section 553 of title 5</ref>,</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> definitive performance criteria for solar heating and combined solar heating and cooling components and systems to be used in residential dwellings, taking into account climatic variations existing between different geographic areas;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> definitive performance criteria (relating to suitability for solar heating and for combined solar heating and cooling) for such dwellings, taking into account climatic variations existing between different geographic areas; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> procedures whereby manufacturers of solar heating and combined solar heating and cooling components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under paragraph (1).</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 93–409, § 8</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1073</ref>; <ref>Pub. L. 93–438, title I, § 104(f)</ref>, title III, § 301(h), <date date="1974-10-11">Oct. 11, 1974</date>, <ref>88 Stat. 1238</ref>, 1250; <ref>Pub. L. 95–91, title III, § 301(a)</ref>, title VII, §§ 703, 707, <date date="1977-08-04">Aug. 4, 1977</date>, <ref>91 Stat. 577</ref>, 606, 607; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5507.</num>
+<heading> Arrangements with Federal agencies for development and demonstration of solar heating and combined heating and cooling systems for commercial buildings</heading>
+<content>
+<p class="indent0">The Administrator, in consultation with the Secretary, the Secretary of Energy, the Administrator of General Services, and the Director of the National Institute of Standards and Technology and concurrently with the conduct of the programs under sections 5503 and 5504 of this title, shall enter into arrangements with appropriate Federal agencies to carry out such projects and activities (including demonstration projects) with respect to apartment buildings, office buildings, factories, crop-drying facilities and other agricultural structures, public buildings (including schools and colleges), and other non-residential, commercial, or industrial buildings, taking into account the special needs of and individual differences in such buildings based upon size, function, and other relevant factors, as may be appropriate for the early development and demonstration of solar heating and combined solar heating and cooling systems suitable and effective for use in such buildings.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 93–409, § 9</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1074</ref>; <ref>Pub. L. 93–438, title I, § 104(f)</ref>, title III, § 301(h), <date date="1974-10-11">Oct. 11, 1974</date>, <ref>88 Stat. 1238</ref>, 1250; <ref>Pub. L. 95–91, title III, § 301(a)</ref>, title VII, §§ 703, 707, <date date="1977-08-04">Aug. 4, 1977</date>, <ref>91 Stat. 577</ref>, 606, 607; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5508.</num>
+<heading> Program of applied research by Secretary of Energy for improvement and development of heating systems for commercial application; transmission of results to Secretary and Administrator</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<content> The Secretary of Energy shall conduct a program of applied research relevant to (1) the improvement of solar heating components and systems and (2) the development and commercial application of combined solar heating and cooling components and systems as contemplated by the programs under this subchapter.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> The Secretary of Energy shall apprise the Secretary and the Administrator on a continuing basis of the results of the programs being conducted in accordance with subsection (a), and the Secretary and the Administrator shall insure that such results, where appropriate, are incorporated into the development and demonstration programs established by this subchapter.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 93–409, § 10</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1074</ref>; <ref>Pub. L. 93–438, title I, § 104(f)</ref>, title III, § 301(h), <date date="1974-10-11">Oct. 11, 1974</date>, <ref>88 Stat. 1238</ref>, 1250; <ref>Pub. L. 95–91, title III, § 301(a)</ref>, title VII, §§ 703, 707, <date date="1977-08-04">Aug. 4, 1977</date>, <ref>91 Stat. 577</ref>, 606, 607.)</sourceCredit>
+</section>
+<section>
+<num>§ 5509.</num>
+<heading> Supervision of systems and programs by Secretary</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Monitoring of performance; collection and evaluation of data; studies and investigation; reports to Congress</heading>
+<chapeau class="indent0">The Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in coordination with such other Government agencies as may be appropriate, shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> monitor the performance and operation of solar heating and combined solar heating and cooling systems installed in residential dwellings under this subchapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> collect and evaluate data and information on the performance and operation of solar heating and combined solar heating and cooling systems installed in residential dwellings under this subchapter; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> from time to time, carrying out such studies and investigations and take such other actions, including the submission of special reports to the Congress when appropriate, as may be necessary to assure that the programs for which the Secretary is responsible under this subchapter effectively carry out the policy of this subchapter.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Cooperation with scientific, technical, and professional societies and industry representatives in development of performance criteria and test procedures</heading>
+<content>
+<p class="indent0">In the development of the performance criteria and test procedures required under sections 5503, 5504, and 5506 of this title, the Secretary shall work closely with the appropriate scientific, technical, and professional societies and industry representatives to insure the best possible use of available expertise in this area.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Continued liaison with building and related industries and scientific and technical communities</heading>
+<content>
+<p class="indent0">The Secretary shall also maintain continuing liaison with the building industry and related industries and interests, and with the scientific and technical community during and after the period of the programs carried out under this subchapter, in order to assure that the projected benefits of such programs are and will continue to be realized.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 93–409, § 11</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1074</ref>; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5510.</num>
+<heading> Dissemination of information to promote practical use of solar heating and cooling technologies</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Coordination by Secretary with other Federal agencies in dissemination to Federal, State, and local authorities, etc.</heading>
+<content>
+<p class="indent0">The Secretary shall take all possible steps to assure that full and complete information with respect to the demonstrations and other activities conducted under this subchapter is made available to Federal, State, and local authorities, the building industry and related segments of the economy, the scientific and technical community, and the public at large, both during and after the close of the programs under this subchapter, with the objective of promoting and facilitating to the maximum extent feasible the early and widespread practical use of solar energy for the heating and cooling of buildings throughout the United States. In accordance with regulations prescribed under <ref>section 5514 of this title</ref> such information shall be disseminated on a coordinated basis by the Secretary, the Administrator, the Director of the National Institute of Standards and Technology, the Secretary of Energy, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate Federal offices and agencies.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Studies, investigations and modifications of building codes, zoning ordinances, etc., to promote use of solar energy in buildings</heading>
+<chapeau class="indent0">In addition, the Secretary shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> study and investigate the effect of building codes, zoning ordinances, tax regulations, and other laws, codes, ordinances, and practices upon the practical use of solar energy for the heating and cooling of buildings;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> determine the extent to which such laws, codes, ordinances, and practices should be changed to permit or facilitate such use, and the methods by which any such changes may best be brought about; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> study the necessity of a program of incentives to accelerate the commercial application of solar heating and cooling technology.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Establishment and operation of Solar Heating and Cooling Information Data Bank; retrieval and dissemination services; compilation of information for use by governmental agencies, nonprofit organizations and private persons; utilization of existing information</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> In carrying out his functions under subsections (a) and (b) the Secretary, utilizing the capabilities of the National Aeronautics and Space Administration, the Department of Commerce, and the Secretary of Energy to the maximum extent possible, shall establish and operate a Solar Heating and Cooling Information Data Bank (hereinafter in this subsection referred to as the “bank”) for the purpose of collecting, reviewing, processing, and disseminating solar heating and cooling information and data in a timely and accurate manner in support of the objectives of this subchapter.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<chapeau> Information and data compiled in the bank shall include—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> technical information (including reports, journal articles, dissertions,<ref class="footnoteRef" idref="fn003434">1</ref> monographs, and project descriptions) on solar energy research, development, and applications;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> technical information on the design, construction, and maintenance of buildings compatible with solar heating and cooling concepts;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> physical and chemical properties of the materials required for solar heating and cooling;</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> climatic conditions in appropriate areas of the United States, including those areas where the demonstrations are to be located; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(E)</num>
+<content> engineering performance of devices utilized in solar heating and cooling or to be employed in the demonstrations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<chapeau> In accordance with regulations prescribed under <ref>section 5514 of this title</ref>, the Secretary shall provide retrieval and dissemination services to cover the solar heating and cooling information described under paragraph (2) for—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> Federal, State, and local government organizations that are active in the area of energy resources (and their contractors);</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> universities, colleges, and other nonprofit organizations; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> private persons, upon request, in appropriate cases.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> In carrying out his functions under this subsection, the Secretary shall utilize, when feasible, the existing data base of scientific and technical information in Federal agencies, adding to such data base any information described in paragraph (2) which does not already reside in such base.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Annual reports to President and Congress by officers and agencies; contents; special annual report by Secretary</heading>
+<content>
+<p class="indent0">Each Federal officer and agency having functions under this subchapter shall include in his or its annual report to the President and the Congress a full and complete description of his or its activities (current and projected) under this subchapter, along with his or its recommendations for legislative, administrative, or other action to improve the programs under this subchapter or to achieve the objectives of this subchapter more promptly and effectively. In addition, the Secretary shall submit annually to the President and the Congress a special report summarizing in appropriate detail all of the activities (current and projected) of the various Federal officers and agencies having functions under this subchapter, with the objective of presenting a comprehensive overall view of such programs.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 93–409, § 12</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1075</ref>; <ref>Pub. L. 93–438, title I, § 104(f)</ref>, title III, § 301(h), <date date="1974-10-11">Oct. 11, 1974</date>, <ref>88 Stat. 1238</ref>, 1250; <ref>Pub. L. 95–91, title III, § 301(a)</ref>, title VII, §§ 703, 707, <date date="1977-08-04">Aug. 4, 1977</date>, <ref>91 Stat. 577</ref>, 606, 607; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>; <ref>Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(21)]</ref>, <date date="1999-11-29">Nov. 29, 1999</date>, <ref>113 Stat. 1536</ref>, 1501A–585.)</sourceCredit>
+</section>
+<section>
+<num>§ 5511.</num>
+<heading> Federally assisted or federally constructed housing</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Maximum dollar amount of federally assisted mortgage loan or maximum per unit or other cost or floor area limitation of federally constructed housing</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> In determining the maximum dollar amount of any federally assisted mortgage loan (as defined in subsection (b)) or the maximum per unit or other cost or floor area limitation of any federally constructed housing (as defined in subsection (c)), where the law establishing the program under which the loan is made or the housing is constructed specifies such maximum per unit or other cost on floor area limitation and the structure involved is furnished with solar heating or combined solar heating and cooling equipment under the demonstration program established by section 5503, 5504, or 5507 of this title, the maximum amount or cost or floor area limitation so specified which is applicable to such structure shall be deemed to be increased by the amount by which (as determined by the Secretary or the Secretary of Defense, as appropriate) the price or cost or floor area limitation of the structure including such solar heating or combined solar heating and cooling equipment exceeds the price or cost or floor area limitation of the structure with such equipment replaced by conventional heating equipment or conventional heating and cooling equipment (as the case may be).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> In addition, in the case of a federally assisted mortgage loan, the cost excess specified in subsection (a) shall be fully taken into account in determining the value or cost of the structure involved for purposes of applying any statutory provision specifying the maximum loan-to-value or -cost ratio; except that, if the law specifies different rates of downpayment for successive increments of such value or cost, the lowest such rate shall apply to the additional cost attributable to the solar heating or combined solar heating and cooling equipment, and such equipment shall otherwise be excluded in determining the total value or cost of the structure.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> “Mortgage loan” and “federally assisted mortgage loan” defined</heading>
+<chapeau class="indent0">As used in subsection (a), the term “mortgage loan” means a loan which is made to finance the purchase or construction of a residence or any other building or structure; and the term “federally assisted mortgage loan” means a mortgage loan which—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> is made in whole or in part by any lender the deposits or accounts of which are insured by any agency of the Federal Government, or is made in whole or in part by any lender which is itself regulated by any agency of the Federal Government; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> is made in whole or in part, or insured, guaranteed, supplemented, or assisted in any way, by the Secretary or any other officer or agency of the Federal Government or under or in connection with a housing, urban development, or related program administered by the Secretary or a housing or related program administered by any other such officer or agency; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> is eligible for purchase by the Federal National Mortgage Association, the Government National Mortgage Association, or the Federal Home Loan Mortgage Corporation, or from any financial institution from which it could be purchased by the Federal Home Loan Mortgage Corporation; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> is made in whole or in part by any “creditor,” as defined in section 1602(f) <ref class="footnoteRef" idref="fn003435">1</ref> of title 15, who makes or invests in residential real estate loans aggregating more than $1,000,000 per year.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> “Federally constructed housing” defined</heading>
+<content>
+<p class="indent0">As used in subsection (a), the term “federally constructed housing” means (1) residential or multifamily housing which is constructed by agencies of the Federal Government to provide dwelling accommodations for particular types or classes of persons under programs administered by such Federal agencies (including all housing constructed by the Department of Defense to provide dwelling accommodations for personnel of the armed services or for such personnel and their families), and (2) residential or multifamily housing which is constructed by agencies of State or local government, with financial assistance in any form from the Federal Government, to provide dwelling accommodations for particular types or classes of persons under programs administered by such State or local agencies.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 93–409, § 13</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1076</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5511a.</num>
+<heading> Solar Assistance Financing Entity</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent0">The Secretary of Housing and Urban Development shall establish within the Department of Housing and Urban Development the Solar Assistance Financing Entity (in this section referred to as the “Entity”).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Purpose</heading>
+<content>
+<p class="indent0">The purpose of the Entity shall be to assist in financing solar and renewable energy capital investments and projects for eligible buildings under subsection (c).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Eligible buildings</heading>
+<chapeau class="indent0">The Entity may provide assistance under this section only for the following buildings:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Single family housing</heading>
+<content>
+<p class="indent1">Any building consisting of 1 to 4 dwelling units that has a system for heating or cooling, or both.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Multifamily housing</heading>
+<content>
+<p class="indent1">Any building consisting of more than 4 dwelling units that has a system for heating or cooling, or both.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Commercial buildings</heading>
+<content>
+<p class="indent1">Any building used primarily to carry on a business (including any nonprofit business) that is not used primarily for the manufacture or production of raw materials, products, or agricultural commodities.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Schools, hospitals, and agricultural buildings</heading>
+<content>
+<p class="indent1">Any school, any hospital, and any building used exclusively in connection with the harvesting, storage, or drying of agricultural commodities.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Other buildings</heading>
+<content>
+<p class="indent1">Any other building of a type that the Entity considers appropriate.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Financing options</heading>
+<content>
+<p class="indent0">Assistance provided under this section by the Entity may be provided only for programs for financing solar and renewable energy capital investments and projects, which may include programs for making loans, making grants, reducing the principal obligations of loans, prepayment of interest on loans, purchase and sale of loans and advances of credit, providing loan guarantees, providing loan downpayment assistance, and providing rebates and other incentives for the purchase and installation of solar and renewable energy measures.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Authority to leverage other funds</heading>
+<content>
+<p class="indent0">The Entity may encourage or require programs receiving assistance under this section to supplement the assistance received under this section with amounts from other public and private sources, and, in making assistance under this section available, may give preference to programs that leverage amounts from such other sources.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Provision of assistance</heading>
+<content>
+<p class="indent0">The Entity shall provide assistance under this section through State agencies responsible for developing State energy conservation plans pursuant to <ref>section 6322 of this title</ref>, or any other entity or agency authorized to specifically carry out the purposes of this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Regulations</heading>
+<content>
+<p class="indent0">Not later than the expiration of the 12-month period beginning on <date date="1992-10-28">October 28, 1992</date>, the Secretary of Housing and Urban Development, in consultation with the Secretary of Energy, shall issue any regulations necessary to carry out this section, which shall ensure maximum flexibility in utilizing amounts made available under this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 1993 and $10,420,000 for fiscal year 1994. Such sums are to be available until expended.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 102–550, title IX, § 912</ref>, <date date="1992-10-28">Oct. 28, 1992</date>, <ref>106 Stat. 3875</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5512.</num>
+<heading> Small business concerns’ opportunities to participate in programs</heading>
+<content>
+<p class="indent0">In carrying out their functions under this subchapter, all Federal officers and agencies shall take steps to assure that small business concerns will have realistic and adequate opportunities to participate in the programs under this subchapter to the maximum extent possible.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 93–409, § 14</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1077</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5513.</num>
+<heading> Priorities and criteria of demonstration programs</heading>
+<chapeau class="indent0">The Secretary shall set priorities as far as possible consistent with the intent and operation of this subchapter in accordance with the following criteria:</chapeau>
+<subsection class="indent0">
+<num>(a)</num>
+<content> The residential dwellings and other buildings which will be part of the demonstration programs referred to in sections 5503, 5504, and 5507 of this title shall be located in a sufficient number of different geographic areas in the United States to assure a realistic and effective demonstration of the solar heating systems and combined solar heating and cooling systems involved, and of the dwellings and other buildings themselves, in both rural and urban locations and under climatic conditions which vary as much as possible.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> Consideration shall be given to projected costs of commercial production and maintenance of the solar heating systems and combined solar heating and cooling systems utilized in the demonstration programs.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<content> Encouragement should be given in the conduct of programs under this subchapter to those projects in which funds, appropriated by any State or political subdivision thereof for the purpose of sharing costs with the Federal Government for the purchase and installation of solar heating or combined solar heating and cooling components and systems, are committed before or after <date date="1974-09-03">September 3, 1974</date>.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 93–409, § 15</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1077</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5514.</num>
+<heading> Regulations</heading>
+<content>
+<p class="indent0">The Administrator and the Secretary in consultation with the Director of the National Institute of Standards and Technology, the Secretary of Energy, the Administrator of the General Services Administration, the Secretary of Defense, and other appropriate officers and agencies, shall prescribe such regulations as may be necessary or appropriate to carry out this subchapter promptly and efficiently. Each such officer or agency, in consultation with the Administrator and the Secretary, may prescribe such regulations as may be necessary or appropriate to carry out his or its particular functions under this subchapter promptly and efficiently.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 93–409, § 16</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1078</ref>; <ref>Pub. L. 93–438, title I, § 104(f)</ref>, title III, § 301(h), <date date="1974-10-11">Oct. 11, 1974</date>, <ref>88 Stat. 1238</ref>, 1250; <ref>Pub. L. 95–91, title III, § 301(a)</ref>, title VII, §§ 703, 707, <date date="1977-08-04">Aug. 4, 1977</date>, <ref>91 Stat. 577</ref>, 606, 607; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5515.</num>
+<heading> Use of publicly assisted housing by Secretary in demonstrations</heading>
+<content>
+<p class="indent0">The Secretary shall make appropriate use of publicly assisted housing and particularly low-rent housing assisted under the United States Housing Act of 1937 [<ref>42 U.S.C. 1437</ref> et seq.] in demonstrating solar heating systems and combined solar heating and cooling systems under this subchapter.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 93–409, § 17</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1078</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5516.</num>
+<heading> Transfer of functions</heading>
+<content>
+<p class="indent0">Within sixty days after the effective date of the law creating the Energy Research and Development Administration or any other law creating a permanent Federal organization or agency having jurisdiction over the energy research and development functions of the United States (or within sixty days after <date date="1974-09-03">September 3, 1974</date>, if the effective date of such law occurs prior to the enactment of this subchapter), the energy research and development functions vested in the National Aeronautics and Space Administration and the National Science Foundation under this subchapter and any funds which may have been appropriated pursuant to <ref>section 5517 of this title</ref>, to the extent necessary or appropriate, may, in accordance with regulations prescribed by the Office of Management and Budget, be transferred to and vested in the Energy Research and Development Administration or such other organization or agency.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 93–409, § 18</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1078</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 5517.</num>
+<heading> Authorization of appropriations</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Appropriations to National Aeronautics and Space Administration</heading>
+<content>
+<p class="indent0">There is hereby authorized to be appropriated to the National Aeronautics and Space Administration for the fiscal year ending <date date="1975-06-30">June 30, 1975</date>, $5,000,000, to remain available until expended, to carry out the functions vested in the Administrator by this subchapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Appropriations to Department of Housing and Urban Development</heading>
+<content>
+<p class="indent0">There is hereby authorized to be appropriated to the Department of Housing and Urban Development for the fiscal year ending <date date="1975-06-30">June 30, 1975</date>, $5,000,000, to remain available until expended. Any sums so appropriated shall be available (1) to carry out the functions vested in the Secretary of Housing and Urban Development by this subchapter, and (2) for transfer to the Department of Defense, the National Institute of Standards and Technology, and the General Services Administration to enable them to carry out their respective functions under this subchapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Appropriations for programs under this subchapter</heading>
+<content>
+<p class="indent0">There is hereby authorized to be appropriated for the fiscal years ending <date date="1976-06-30">June 30, 1976</date>, 1977, 1978, and 1979, $50,000,000 in the aggregate to carry out the programs established by this subchapter.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 93–409, § 19</ref>, <date date="1974-09-03">Sept. 3, 1974</date>, <ref>88 Stat. 1078</ref>; <ref>Pub. L. 100–418, title V, § 5115(c)</ref>, <date date="1988-08-23">Aug. 23, 1988</date>, <ref>102 Stat. 1433</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>RESEARCH, DEVELOPMENT, AND DEMONSTRATION</heading>
+<section>
+<num>§§ 5551 to 5556.</num>
+<heading> Repealed. <ref>Pub. L. 116–260, div. Z, title III, § 3006(e)(1)</ref>, <date date="2020-12-27">Dec. 27, 2020</date>, <ref>134 Stat. 2513</ref></heading>
+</section>
+<section>
+<num>§ 5556a.</num>
+<heading> Solar photovoltaic energy systems studies and acquisitions by Secretary of Energy; scope, contents, and submission dates for reports; acquisition authority and requirements; authorization of appropriations</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<chapeau> The Secretary of Energy shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> initiate and conduct an “application and system design study”, cooperatively with appropriate Federal agencies, to determine the potential for the use of solar photovoltaic systems at specific Federal installations; and this study shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> include an analysis of those sites that are currently cost-effective for solar photovoltaic energy systems, using life-cycle costing techniques, as well as those which would be cost-effective at expected future market prices;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> identify potential sites and uses of solar photovoltaic energy systems at the following agencies as well as any others which the Secretary of Energy deems necessary:</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the Department of Defense;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the Department of Transportation (including the United States Coast Guard, the Federal Aviation Administration, and the Federal Highway Administration);</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the Department of Commerce;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the Department of Agriculture; and</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> the Department of the Interior;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> provide a preliminary report to Congress within nine months following <date date="1978-02-25">February 25, 1978</date>;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> include the presentation of a detailed plan for the implementation of solar photovoltaic energy systems for power generation at specific sites in Federal Government agencies to Congress within twelve months following <date date="1978-02-25">February 25, 1978</date>;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> initiate and conduct a study of the options available to the Federal Government to provide for the adequate growth of the solar photovoltaic industry and to include such possible incentives as government funding, loan guarantees, tax incentives, the operation of pilot plants or production lines and other incentives deemed worthy of consideration by the Secretary of Energy. A preliminary report shall be submitted to Congress within six months following <date date="1978-02-25">February 25, 1978</date>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> initiate and conduct a study involving the prospects for applications of solar photovoltaic energy systems for power generation in foreign countries, particularly lesser developed countries, and the potential for the exportation of these energy systems. This study shall involve the cooperation of the Department of State and the Department of Commerce, as well as other Federal agencies which the Secretary of Energy deems appropriate. A final report shall be submitted to the Congress, as well as a preliminary report within twelve months of <date date="1978-02-25">February 25, 1978</date>; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> be authorized to acquire up to an additional 4.0 megawatts (peak) of solar photovoltaic energy systems. The sum of $13,000,000 is hereby authorized to be appropriated (in addition to any other amounts authorized by this Act to be appropriated) for the fiscal year ending <date date="1978-09-30">September 30, 1978</date>, and for delivery in the following twelve months. Such sums shall remain available until expended. The solar photovoltaic energy systems acquired shall be available for use for power generation by Federal agencies, provided that no procurement takes place until their application on Federal sites is determined to be life cycle cost effective.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> For technology development, particularly for engineering design and development of the manufacturing process of solar photovoltaic energy systems (primarily for the implementation of automated processes and other cost reducing production technologies), the sum of $6,000,000 is hereby authorized by this Act to be appropriated for the fiscal year ending <date date="1978-09-30">September 30, 1978</date>.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 95–238, title II, § 208</ref>, <date date="1978-02-25">Feb. 25, 1978</date>, <ref>92 Stat. 75</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§§ 5557 to 5566.</num>
+<heading> Repealed. <ref>Pub. L. 116–260, div. Z, title III, § 3006(e)(1)</ref>, <date date="2020-12-27">Dec. 27, 2020</date>, <ref>134 Stat. 2513</ref></heading>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>SOLAR PHOTOVOLTAIC ENERGY RESEARCH, DEVELOPMENT AND DEMONSTRATION</heading>
+<section>
+<num>§§ 5581 to 5594.</num>
+<heading> Repealed. <ref>Pub. L. 116–260, div. Z, title III, § 3006(f)</ref>, <date date="2020-12-27">Dec. 27, 2020</date>, <ref>134 Stat. 2513</ref></heading>
+</section>
+</subchapter>
+</chapter>

@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 6—</num>
+<heading>COMMUNICATIONS SATELLITE SYSTEM</heading>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>GENERAL PROVISIONS</heading>
+<section>
+<num>§ 701.</num>
+<heading> Omitted</heading>
+</section>
+<section>
+<num>§ 702.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">As used in this chapter, and unless the context otherwise requires—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the term “communications satellite system” refers to a system of communications satellites in space whose purpose is to relay telecommunication information between satellite terminal stations, together with such associated equipment and facilities for tracking, guidance, control, and command functions as are not part of the generalized launching, tracking, control, and command facilities for all space purposes;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the term “satellite terminal station” refers to a complex of communication equipment located on the earth’s surface, operationally connected with one or more terrestrial communication systems, and capable of transmitting telecommunications to or receiving telecommunications from a communications satellite system.<ref class="footnoteRef" idref="fn002045">1</ref></content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the term “communications satellite” means an earth satellite which is intentionally used to relay telecommunication information;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the term “associated equipment and facilities” refers to facilities other than satellite terminal stations and communications satellites, to be constructed and operated for the primary purpose of a communications satellite system, whether for administration and management, for research and development, or for direct support of space operations;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the term “research and development” refers to the conception, design, and first creation of experimental or prototype operational devices for the operation of a communications satellite system, including the assembly of separate components into a working whole, as distinguished from the term “production,” which relates to the construction of such devices to fixed specifications compatible with repetitive duplication for operational applications; and <ref class="footnoteRef" idref="fn002046">2</ref></content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> the term “telecommunication” means any transmission, emission or reception of signs, signals, writings, images, and sounds or intelligence of any nature by wire, radio, optical, or other electromagnetic systems.<sup>1</sup></content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> omitted;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> the term “corporation” means the corporation authorized by subchapter III of this chapter.<sup>1</sup></content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> the term “Administration” means the National Aeronautics and Space Administration; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> the term “Commission” means the Federal Communications Commission.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 87–624, title I, § 103</ref>, <date date="1962-08-31">Aug. 31, 1962</date>, <ref>76 Stat. 419</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 703.</num>
+<heading> Repealed. <ref>Pub. L. 115–141, div. P, title IV, § 402(b)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1089</ref></heading>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>FEDERAL COORDINATION, PLANNING, AND REGULATION</heading>
+<section>
+<num>§ 721.</num>
+<heading> Implementation of policy</heading>
+<chapeau class="indent0">In order to achieve the objectives and to carry out the purposes of this chapter—</chapeau>
+<subsection class="indent1">
+<num>(a)</num>
+<chapeau> the President shall—</chapeau>
+<paragraph class="indent2">
+<num>(1)</num>
+<content> to (7) omitted.</content>
+</paragraph>
+</subsection>
+<subsection class="indent1">
+<num>(b)</num>
+<content> omitted.</content>
+</subsection>
+<subsection class="indent1">
+<num>(c)</num>
+<chapeau> the Federal Communications Commission, in its administration of the provisions of the Communications Act of 1934, as amended [<ref>47 U.S.C. 151</ref> et seq.], and as supplemented by this chapter, shall—</chapeau>
+<paragraph class="indent2">
+<num>(1)</num>
+<content> to (10) omitted;</content>
+</paragraph>
+<paragraph class="indent2">
+<num>(11)</num>
+<content> make rules and regulations to carry out the provisions of this chapter.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title II, § 201</ref>, <date date="1962-08-31">Aug. 31, 1962</date>, <ref>76 Stat. 421</ref>; <ref>Pub. L. 103–414, title III, § 304(b)(1)</ref>, <date date="1994-10-25">Oct. 25, 1994</date>, <ref>108 Stat. 4297</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>COMMUNICATIONS SATELLITE CORPORATION</heading>
+<section>
+<num>§§ 731 to 735.</num>
+<heading> Omitted</heading>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER IV—</num>
+<heading>MISCELLANEOUS PROVISIONS</heading>
+<section>
+<num>§§ 741 to 744.</num>
+<heading> Omitted</heading>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER V—</num>
+<heading>INTERNATIONAL MARITIME SATELLITE TELECOMMUNICATIONS</heading>
+<section>
+<num>§§ 751, 752.</num>
+<heading> Omitted</heading>
+</section>
+<section>
+<num>§ 753.</num>
+<heading> Implementation of policy</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<chapeau> The Secretary of Commerce shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> coordinate the activities of Federal agencies with responsibilities in the field of telecommunications (other than the Commission), so as to ensure that there is full and effective compliance with the provisions of this subchapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> omitted;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> exercise his authority in a manner which seeks to obtain coordinated and efficient use of the electromagnetic spectrum and orbital space, and to ensure the technical compatibility of the space segment with existing communications facilities in the United States and in foreign countries; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> omitted.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<content> to (d) Omitted.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title V, § 504</ref>, as added <ref>Pub. L. 95–564</ref>, <date date="1978-11-01">Nov. 1, 1978</date>, <ref>92 Stat. 2394</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§§ 754 to 756.</num>
+<heading> Repealed. <ref>Pub. L. 103–414, title III, § 304(b)(5)</ref>, <date date="1994-10-25">Oct. 25, 1994</date>, <ref>108 Stat. 4298</ref></heading>
+</section>
+<section>
+<num>§ 757.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">For purposes of this subchapter—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the term “person” includes an individual, partnership, association, joint stock company, trust, or corporation;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the term “satellite earth terminal station” means a complex of communications equipment located on land, operationally interconnected with one or more terrestrial communications systems, and capable of transmitting telecommunications to, or receiving telecommunications from, the space segment;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the term “space segment” means any satellite (or capacity on a satellite) maintained under the authority of INMARSAT, for the purpose of providing international maritime telecommunications services, and the tracking, telemetry, command, control, monitoring, and related facilities and equipment required to support the operation of such satellite; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 87–624, title V, § 505</ref>, formerly § 508, as added <ref>Pub. L. 95–564</ref>, <date date="1978-11-01">Nov. 1, 1978</date>, <ref>92 Stat. 2396</ref>; renumbered § 505, <ref>Pub. L. 103–414, title III, § 304(b)(6)</ref>, <date date="1994-10-25">Oct. 25, 1994</date>, <ref>108 Stat. 4298</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER VI—</num>
+<heading>COMMUNICATIONS COMPETITION AND PRIVATIZATION</heading>
+<part>
+<num class="small-caps">Part A—</num>
+<heading class="small-caps">Actions To Ensure Pro-Competitive Privatization</heading>
+<section>
+<num>§ 761.</num>
+<heading> Federal Communications Commission licensing</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Licensing for separated entities</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Competition test</heading>
+<content>
+<p class="indent1">The Commission may not issue a license or construction permit to any separated entity, or renew or permit the assignment or use of any such license or permit, or authorize the use by any entity subject to United States jurisdiction of any space segment owned, leased, or operated by any separated entity, unless the Commission determines that such issuance, renewal, assignment, or use will not harm competition in the telecommunications market of the United States. If the Commission does not make such a determination, it shall deny or revoke authority to use space segment owned, leased, or operated by the separated entity to provide services to, from, or within the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Criteria for competition test</heading>
+<content>
+<p class="indent1">In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763 and 763b <ref class="footnoteRef" idref="fn002047">1</ref> of this title, and shall not make such a determination unless the Commission determines that the privatization of any separated entity is consistent with such criteria.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Licensing for INTELSAT, Inmarsat, and successor entities</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Competition test</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">In considering the application of INTELSAT, Inmarsat, or their successor entities for a license or construction permit, or for the renewal or assignment or use of any such license or permit, or in considering the request of any entity subject to United States jurisdiction for authorization to use any space segment owned, leased, or operated by INTELSAT, Inmarsat, or their successor entities, to provide non-core services to, from, or within the United States, the Commission shall determine whether—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> after <date date="2001-04-01">April 1, 2001</date>, in the case of INTELSAT and its successor entities, INTELSAT and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> after <date date="2000-04-01">April 1, 2000</date>, in the case of Inmarsat and its successor entities, Inmarsat and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Consequences of determination</heading>
+<content>
+<p class="indent2">If the Commission determines that such competition will be harmed or that grant of such application or request for authority is not otherwise in the public interest, the Commission shall limit through conditions or deny such application or request, and limit or revoke previous authorizations to provide non-core services to, from, or within the United States. After due notice and opportunity for comment, the Commission shall apply the same limitations, restrictions, and conditions to all entities subject to United States jurisdiction using space segment owned, leased, or operated by INTELSAT, Inmarsat, or their successor entities.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> National security, law enforcement, and public safety</heading>
+<content>
+<p class="indent2">The Commission shall not impose any limitation, condition, or restriction under subparagraph (B) in a manner that will, or is reasonably likely to, result in limitation, denial, or revocation of authority for non-core services that are used by and required for a national security agency or law enforcement department or agency of the United States, or used by and required for, and otherwise in the public interest, any other Department or Agency of the United States to protect the health and safety of the public. Such services may be obtained by the United States directly from INTELSAT, Inmarsat, or a successor entity, or indirectly through COMSAT, or authorized carriers or distributors of the successor entity.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Rule of construction</heading>
+<content>
+<p class="indent2">Nothing in this subsection is intended to preclude the Commission from acting upon applications of INTELSAT, Inmarsat, or their successor entities prior to the latest date set out in <ref>section 763(5)(A) of this title</ref>, including such actions as may be necessary for the United States to become the licensing jurisdiction for INTELSAT, but the Commission shall condition a grant of authority pursuant to this subsection upon compliance with sections 763 and 763a of this title.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Criteria for competition test</heading>
+<content>
+<p class="indent1">In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763, 763a, and 763c <sup>1</sup> of this title, and shall determine that competition in the telecommunications markets of the United States will be harmed unless the Commission finds that the privatization referred to in paragraph (1) is consistent with such criteria.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Clarification: competitive safeguards</heading>
+<content>
+<p class="indent1">In making its licensing decisions under this subsection, the Commission shall consider whether users of non-core services provided by INTELSAT or Inmarsat or successor or separated entities are able to obtain non-core services from providers offering services other than through INTELSAT or Inmarsat or successor or separated entities, at competitive rates, terms, or conditions. Such consideration shall also include whether such licensing decisions would require users to replace equipment at substantial costs prior to the termination of its design life. In making its licensing decisions, the Commission shall also consider whether competitive alternatives in individual markets do not exist because they have been foreclosed due to anticompetitive actions undertaken by or resulting from the INTELSAT or Inmarsat systems. Such licensing decisions shall be made in a manner which facilitates achieving the purposes and goals in this subchapter and shall be subject to notice and comment.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Additional considerations in determinations</heading>
+<content>
+<p class="indent0">In making its determinations and licensing decisions under subsections (a) and (b), the Commission shall construe such subsections in a manner consistent with the United States obligations and commitments for satellite services under the Fourth Protocol to the General Agreement on Trade in Services.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Independent facilities competition</heading>
+<content>
+<p class="indent0">Nothing in this section shall be construed as precluding COMSAT from investing in or owning satellites or other facilities independent from INTELSAT and Inmarsat, and successor or separated entities, or from providing services through reselling capacity over the facilities of satellite systems independent from INTELSAT and Inmarsat, and successor or separated entities. This subsection shall not be construed as restricting the types of contracts which can be executed or services which may be provided by COMSAT over the independent satellites or facilities described in this subsection.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 601</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 48</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 761a.</num>
+<heading> Incentives; limitation on expansion pending privatization</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Limitation</heading>
+<content>
+<p class="indent0">Until INTELSAT, Inmarsat, and their successor or separate entities are privatized in accordance with the requirements of this subchapter, INTELSAT, Inmarsat, and their successor or separate entities, respectively, shall not be permitted to provide additional services. The Commission shall take all necessary measures to implement this requirement, including denial by the Commission of licensing for such services.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Orbital location incentives</heading>
+<content>
+<p class="indent0">Until such privatization is achieved, the United States shall oppose and decline to facilitate applications by such entities for new orbital locations to provide such services.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 602</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 50</ref>.)</sourceCredit>
+</section>
+</part>
+<part>
+<num class="small-caps">Part B—</num>
+<heading class="small-caps">Federal Communications Commission Licensing Criteria: Privatization Criteria</heading>
+<section>
+<num>§ 763.</num>
+<heading> General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat</heading>
+<chapeau class="indent0">The President and the Commission shall secure a pro-competitive privatization of INTELSAT and Inmarsat that meets the criteria set forth in this section and sections 763a through 763c <ref class="footnoteRef" idref="fn002048">1</ref> of this title. In securing such privatizations, the following criteria shall be applied as licensing criteria for purposes of part A:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Dates for privatization</heading>
+<chapeau class="indent1">Privatization shall be obtained in accordance with the criteria of this subchapter of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> INTELSAT as soon as practicable, but no later than <date date="2001-04-01">April 1, 2001</date>; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Inmarsat as soon as practicable, but no later than <date date="2000-07-01">July 1, 2000</date>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Independence</heading>
+<chapeau class="indent1">The privatized successor entities and separated entities of INTELSAT and Inmarsat shall operate as independent commercial entities, and have a pro-competitive ownership structure. The successor entities and separated entities of INTELSAT and Inmarsat shall conduct an initial public offering in accordance with paragraph (5) to achieve such independence. Such offering shall substantially dilute the aggregate ownership of such entities by such signatories or former signatories. In determining whether a public offering attains such substantial dilution, the Commission shall take into account the purposes and intent, privatization criteria, and other provisions of this subchapter, as well as market conditions. No intergovernmental organization, including INTELSAT or Inmarsat, shall have—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an ownership interest in INTELSAT or the successor or separated entities of INTELSAT; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> more than minimal ownership interest in Inmarsat or the successor or separated entities of Inmarsat.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Termination of privileges and immunities</heading>
+<chapeau class="indent1">The preferential treatment of INTELSAT and Inmarsat shall not be extended to any successor entity or separated entity of INTELSAT or Inmarsat. Such preferential treatment includes—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> privileged or immune treatment by national governments;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> privileges or immunities or other competitive advantages of the type accorded INTELSAT and Inmarsat and their signatories through the terms and operation of the INTELSAT Agreement and the associated Headquarters Agreement and the Inmarsat Convention; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> preferential access to orbital locations.</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">Access to new, or renewal of access to, orbital locations shall be subject to the legal or regulatory processes of a national government that applies due diligence requirements intended to prevent the warehousing of orbital locations.</continuation>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Prevention of expansion during transition</heading>
+<content>
+<p class="indent1">During the transition period prior to privatization under this subchapter, INTELSAT and Inmarsat shall be precluded from expanding into additional services.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Conversion to stock corporations</heading>
+<chapeau class="indent1">Any successor entity or separated entity created out of INTELSAT or Inmarsat shall be a national corporation or similar accepted commercial structure, subject to the laws of the nation in which incorporated, as follows:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> An initial public offering of securities of any successor entity or separated entity—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> shall be conducted, for the successor entities of INTELSAT, on or about <date date="2005-06-30">June 30, 2005</date>, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than <date date="2005-12-31">December 31, 2005</date>; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> shall be conducted, for the successor entities of Inmarsat, not later than <date date="2005-06-30">June 30, 2005</date>, except that the Commission may extend this deadline to not later than <date date="2004-12-31">December 31, 2004</date>.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> The shares of any successor entities and separated entities shall be listed for trading on one or more major stock exchanges with transparent and effective securities regulation.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> A majority of the members of the board of directors of any successor entity or separated entity shall not be directors, employees, officers, or managers or otherwise serve as representatives of any signatory or former signatory. No member of the board of directors of any successor or separated entity shall be a director, employee, officer or manager of any intergovernmental organization remaining after the privatization.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> Any successor entity or separated entity shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> have a board of directors with a fiduciary obligation;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> have no officers or managers who are officers or managers of any signatories or former signatories; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> have no directors, officers, or managers who hold such positions in any intergovernmental organization.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> Any transactions or other relationships between or among any successor entity, separated entity, INTELSAT, or Inmarsat shall be conducted on an arm’s length basis.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<chapeau> Notwithstanding subparagraphs (A) and (B), a successor entity may be deemed a national corporation and may forgo an initial public offering and public securities listing and still achieve the purposes of this section if—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<chapeau> the successor entity certifies to the Commission that—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the successor entity has achieved substantial dilution of the aggregate amount of signatory or former signatory financial interest in such entity;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> any signatories and former signatories that retain a financial interest in such successor entity do not possess, together or individually, effective control of such successor entity; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> no intergovernmental organization has any ownership interest in a successor entity of INTELSAT or more than a minimal ownership interest in a successor entity of Inmarsat;</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the successor entity provides such financial and other information to the Commission as the Commission may require to verify such certification; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the Commission determines, after notice and comment, that the successor entity is in compliance with such certification.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> For purposes of subparagraph (F), the term “substantial dilution” means that a majority of the financial interests in the successor entity is no longer held or controlled, directly or indirectly, by signatories or former signatories.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Regulatory treatment</heading>
+<content>
+<p class="indent1">Any successor entity or separated entity created after <date date="2000-03-17">March 17, 2000</date>, shall apply through the appropriate national licensing authorities for international frequency assignments and associated orbital registrations for all satellites.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Competition policies in domiciliary country</heading>
+<chapeau class="indent1">Any successor entity or separated entity shall be subject to the jurisdiction of a nation or nations that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> have effective laws and regulations that secure competition in telecommunications services;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> are signatories of the World Trade Organization Basic Telecommunications Services Agreement; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> have a schedule of commitments in such Agreement that includes non-discriminatory market access to their satellite markets.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 621</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 51</ref>; amended <ref>Pub. L. 107–77, title VI, § 628</ref>, <date date="2001-11-28">Nov. 28, 2001</date>, <ref>115 Stat. 804</ref>; <ref>Pub. L. 107–233, § 1</ref>, <date date="2002-10-01">Oct. 1, 2002</date>, <ref>116 Stat. 1480</ref>; <ref>Pub. L. 108–39, § 2</ref>, <date date="2003-06-30">June 30, 2003</date>, <ref>117 Stat. 835</ref>; <ref>Pub. L. 108–228, § 1</ref>, <date date="2004-05-18">May 18, 2004</date>, <ref>118 Stat. 644</ref>; <ref>Pub. L. 108–371, § 1</ref>, <date date="2004-10-25">Oct. 25, 2004</date>, <ref>118 Stat. 1752</ref>; <ref>Pub. L. 109–34, § 1</ref>, <date date="2005-07-12">July 12, 2005</date>, <ref>119 Stat. 377</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 763a.</num>
+<heading> Specific criteria for INTELSAT</heading>
+<chapeau class="indent0">In securing the privatizations required by <ref>section 763 of this title</ref>, the following additional criteria with respect to INTELSAT privatization shall be applied as licensing criteria for purposes of part A:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading> <ref class="footnoteRef" idref="fn002049">1</ref> <inline class="small-caps">Technical coordination under intelsat agreements</inline>.—</heading>
+<content>Technical coordination shall not be used to impair competition or competitors, and shall be conducted under International Telecommunication Union procedures and not under Article XIV(d) of the INTELSAT Agreement.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 622</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 53</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 763b.</num>
+<heading> Repealed. <ref>Pub. L. 109–34, § 2</ref>, <date date="2005-07-12">July 12, 2005</date>, <ref>119 Stat. 377</ref></heading>
+</section>
+<section>
+<num>§ 763c.</num>
+<heading> Space segment capacity of the GMDSS</heading>
+<content>
+<p class="indent0">The United States shall preserve the space segment capacity of the GMDSS. This section is not intended to alter the status that the GMDSS would otherwise have under United States laws and regulations of the International Telecommunication Union with respect to spectrum, orbital locations, or other operational parameters, or to be a barrier to competition for the provision of GMDSS services.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 624</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 54</ref>; amended <ref>Pub. L. 109–34, § 3</ref>, <date date="2005-07-12">July 12, 2005</date>, <ref>119 Stat. 377</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 763d.</num>
+<heading> Encouraging market access and privatization</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> NTIA determination</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Determination required</heading>
+<chapeau class="indent1">Within 180 days after <date date="2000-03-17">March 17, 2000</date>, the Secretary of Commerce shall, through the Assistant Secretary for Communications and Information, transmit to the Commission—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a list of Member countries of INTELSAT and Inmarsat that are not Members of the World Trade Organization and that impose barriers to market access for private satellite systems; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a list of Member countries of INTELSAT and Inmarsat that are not Members of the World Trade Organization and that are not supporting pro-competitive privatization of INTELSAT and Inmarsat.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Consultation</heading>
+<content>
+<p class="indent1">The Secretary’s determinations under paragraph (1) shall be made in consultation with the Federal Communications Commission, the Secretary of State, and the United States Trade Representative, and shall take into account the totality of a country’s actions in all relevant fora, including the Assemblies of Parties of INTELSAT and Inmarsat.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Imposition of cost-based settlement rate</heading>
+<chapeau class="indent0">Notwithstanding—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> any higher settlement rate that an overseas carrier charges any United States carrier to originate or terminate international message telephone services; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> any transition period that would otherwise apply,</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">the Commission may by rule prohibit United States carriers from paying an amount in excess of a cost-based settlement rate to overseas carriers in countries listed by the Commission pursuant to subsection (a).</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Settlements policy</heading>
+<content>
+<p class="indent0">The Commission shall, in exercising its authority to establish settlements rates for United States international common carriers, seek to advance United States policy in favor of cost-based settlements in all relevant fora on international telecommunications policy, including in meetings with parties and signatories of INTELSAT and Inmarsat.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 625</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 54</ref>.)</sourceCredit>
+</section>
+</part>
+<part>
+<num class="small-caps">Part C—</num>
+<heading class="small-caps">Deregulation and Other Statutory Changes</heading>
+<section>
+<num>§ 765.</num>
+<heading> Access to INTELSAT</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Access permitted</heading>
+<content>
+<p class="indent0">Beginning on <date date="2000-03-17">March 17, 2000</date>, users or providers of telecommunications services shall be permitted to obtain direct access to INTELSAT telecommunications services and space segment capacity through purchases of such capacity or services from INTELSAT. Such direct access shall be at the level commonly referred to by INTELSAT, on <date date="2000-03-17">March 17, 2000</date>, as “Level III”.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Rulemaking</heading>
+<content>
+<p class="indent0">Within 180 days after <date date="2000-03-17">March 17, 2000</date>, the Commission shall complete a rulemaking, with notice and opportunity for submission of comment by interested persons, to determine if users or providers of telecommunications services have sufficient opportunity to access INTELSAT space segment capacity directly from INTELSAT to meet their service or capacity requirements. If the Commission determines that such opportunity to access does not exist, the Commission shall take appropriate action to facilitate such direct access pursuant to its authority under this chapter and the Communications Act of 1934 [<ref>47 U.S.C. 151</ref> et seq.]. The Commission shall take such steps as may be necessary to prevent the circumvention of the intent of this section.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Contract preservation</heading>
+<content>
+<p class="indent0">Nothing in this section shall be construed to permit the abrogation or modification of any contract.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 641</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 55</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 765a.</num>
+<heading> Signatory role</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Limitations on signatories</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> National security limitations</heading>
+<content>
+<p class="indent1">The Federal Communications Commission, after a public interest determination, in consultation with the executive branch, may restrict foreign ownership of a United States signatory if the Commission determines that not to do so would constitute a threat to national security.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> No signatories required</heading>
+<content>
+<p class="indent1">The United States Government shall not require signatories to represent the United States in INTELSAT or Inmarsat or in any successor entities after a pro-competitive privatization is achieved consistent with sections 763, 763a, and 763c <ref class="footnoteRef" idref="fn002050">1</ref> of this title.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Clarification of privileges and immunities of COMSAT</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Generally not immunized</heading>
+<content>
+<p class="indent1">Notwithstanding any other law or executive agreement, COMSAT shall not be entitled to any privileges or immunities under the laws of the United States or any State on the basis of its status as a signatory of INTELSAT or Inmarsat.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Limited immunity</heading>
+<content>
+<p class="indent1">COMSAT or any successor in interest shall not be liable for action taken by it in carrying out the specific, written instruction of the United States issued in connection with its relationships and activities with foreign governments, international entities, and the intergovernmental satellite organizations.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> No joint or several liability</heading>
+<content>
+<p class="indent1">If COMSAT is found liable for any action taken in its status as a signatory or a representative of the party to INTELSAT, any such liability shall be limited to the portion of the judgment that corresponds to COMSAT’s percentage of the ownership of INTELSAT at the time the activity began which lead to the liability.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Provisions prospective</heading>
+<content>
+<p class="indent1">Paragraph (1) shall not apply with respect to liability for any action taken by COMSAT before <date date="2000-03-17">March 17, 2000</date>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Parity of treatment</heading>
+<content>
+<p class="indent0">Notwithstanding any other law or executive agreement, the Commission shall have the authority to impose similar regulatory fees on the United States signatory which it imposes on other entities providing similar services.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 642</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 55</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 765b.</num>
+<heading> Elimination of procurement preferences</heading>
+<content>
+<p class="indent0">Nothing in this subchapter or the Communications Act of 1934 [<ref>47 U.S.C. 151</ref> et seq.] shall be construed to authorize or require any preference, in Federal Government procurement of telecommunications services, for the satellite space segment provided by INTELSAT, Inmarsat, or any successor entity or separated entity.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 643</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 56</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 765c.</num>
+<heading> ITU functions</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Technical coordination</heading>
+<content>
+<p class="indent0">The Commission and United States satellite companies shall utilize the International Telecommunication Union procedures for technical coordination with INTELSAT and its successor entities and separated entities, rather than INTELSAT procedures.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> ITU notifying administration</heading>
+<content>
+<p class="indent0">The President and the Commission shall take the action necessary to ensure that the United States remains the ITU notifying administration for the privatized INTELSAT’s existing and future orbital slot registrations.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 644</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 56</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 765d.</num>
+<heading> Termination of provisions of this chapter</heading>
+<chapeau class="indent0">Effective on the dates specified, the following provisions of this chapter shall cease to be effective:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content><date date="2000-03-17">March 17, 2000</date>: Paragraphs (1), (5) and (6) of <ref>section 721(a) of this title</ref>; <ref>section 721(b) of this title</ref>; paragraphs (1), (3) through (5), and (8) through (10) of <ref>section 721(c) of this title</ref>; <ref>section 733 of this title</ref>; <ref>section 734 of this title</ref>; <ref>section 751 of this title</ref>; <ref>section 752 of this title</ref>; paragraphs (2) and (4) of <ref>section 753(a) of this title</ref>; and <ref>section 753(c) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Upon the transfer of assets to a successor entity and receipt by signatories or former signatories (including COMSAT) of ownership shares in the successor entity of INTELSAT in accordance with appropriate arrangements determined by INTELSAT to implement privatization: <ref>Section 735 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> On the effective date of a Commission order determining under <ref>section 761(b)(2) of this title</ref> that Inmarsat privatization is consistent with criteria in sections 763 and 763c <ref class="footnoteRef" idref="fn002051">1</ref> of this title: Sections 753(b) and 753(d) of this title.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> On the effective date of a Commission order determining under <ref>section 761(b)(2) of this title</ref> that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title: <ref>Section 701 of this title</ref>; <ref>section 702(7) of this title</ref>; paragraphs (2) through (4) and (7) of <ref>section 721(a) of this title</ref>; paragraphs (2), (6), and (7) of <ref>section 721(c) of this title</ref>; <ref>section 731 of this title</ref>; <ref>section 732 of this title</ref>; <ref>section 741 of this title</ref>; <ref>section 742 of this title</ref>; <ref>section 743 of this title</ref>; and <ref>section 744 of this title</ref>.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 645</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 56</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 765e.</num>
+<heading> Repealed. <ref>Pub. L. 115–141, div. P, title IV, § 402(a)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1089</ref></heading>
+</section>
+<section>
+<num>§ 765f.</num>
+<heading> Satellite auctions</heading>
+<content>
+<p class="indent0">Notwithstanding any other provision of law, the Commission shall not have the authority to assign by competitive bidding orbital locations or spectrum used for the provision of international or global satellite communications services. The President shall oppose in the International Telecommunication Union and in other bilateral and multilateral fora any assignment by competitive bidding of orbital locations or spectrum used for the provision of such services.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 647</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 57</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 765g.</num>
+<heading> Exclusivity arrangements</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">No satellite operator shall acquire or enjoy the exclusive right of handling telecommunications to or from the United States, its territories or possessions, and any other country or territory by reason of any concession, contract, understanding, or working arrangement to which the satellite operator or any persons or companies controlling or controlled by the operator are parties.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Exception</heading>
+<chapeau class="indent0">In enforcing the provisions of this section, the Commission—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> shall not require the termination of existing satellite telecommunications services under contract with, or tariff commitment to, such satellite operator; but</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> may require the termination of new services only to the country that has provided the exclusive right to handle telecommunications, if the Commission determines the public interest, convenience, and necessity so requires.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 648</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 57</ref>.)</sourceCredit>
+</section>
+</part>
+<part>
+<num class="small-caps">Part D—</num>
+<heading class="small-caps">Negotiations To Pursue Privatization</heading>
+<section>
+<num>§ 767.</num>
+<heading> Methods to pursue privatization</heading>
+<content>
+<p class="indent0">The President shall secure the pro-competitive privatizations required by this subchapter in a manner that meets the criteria in part B.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 661</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 58</ref>.)</sourceCredit>
+</section>
+</part>
+<part>
+<num class="small-caps">Part E—</num>
+<heading class="small-caps">Definitions</heading>
+<section>
+<num>§ 769.</num>
+<heading> Definitions</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">As used in this subchapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> INTELSAT</heading>
+<content>
+<p class="indent1">The term “INTELSAT” means the International Telecommunications Satellite Organization established pursuant to the Agreement Relating to the International Telecommunications Satellite Organization (INTELSAT).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Inmarsat</heading>
+<content>
+<p class="indent1">The term “Inmarsat” means the International Mobile Satellite Organization established pursuant to the Convention on the International Maritime Organization.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Signatories</heading>
+<chapeau class="indent1">The term “signatories”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> in the case of INTELSAT, or INTELSAT successors or separated entities, means a Party, or the telecommunications entity designated by a Party, that has signed the Operating Agreement and for which such Agreement has entered into force; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> in the case of Inmarsat, or Inmarsat successors or separated entities, means either a Party to, or an entity that has been designated by a Party to sign, the Operating Agreement.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Party</heading>
+<chapeau class="indent1">The term “Party”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> in the case of INTELSAT, means a nation for which the INTELSAT agreement has entered into force; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> in the case of Inmarsat, means a nation for which the Inmarsat convention has entered into force.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Commission</heading>
+<content>
+<p class="indent1">The term “Commission” means the Federal Communications Commission.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> International Telecommunication Union</heading>
+<content>
+<p class="indent1">The term “International Telecommunication Union” means the intergovernmental organization that is a specialized agency of the United Nations in which member countries cooperate for the development of telecommunications, including adoption of international regulations governing terrestrial and space uses of the frequency spectrum as well as use of the geostationary satellite orbit.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Successor entity</heading>
+<chapeau class="indent1">The term “successor entity”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> means any privatized entity created from the privatization of INTELSAT or Inmarsat or from the assets of INTELSAT or Inmarsat; but</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> does not include any entity that is a separated entity.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Separated entity</heading>
+<content>
+<p class="indent1">The term “separated entity” means a privatized entity to whom a portion of the assets owned by INTELSAT or Inmarsat are transferred prior to full privatization of INTELSAT or Inmarsat, including in particular the entity whose structure was under discussion by INTELSAT as of <date date="1998-03-25">March 25, 1998</date>, but excluding ICO.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Orbital location</heading>
+<content>
+<p class="indent1">The term “orbital location” means the location for placement of a satellite on the geostationary orbital arc as defined in the International Telecommunication Union Radio Regulations.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Space segment</heading>
+<content>
+<p class="indent1">The term “space segment” means the satellites, and the tracking, telemetry, command, control, monitoring and related facilities and equipment used to support the operation of satellites owned or leased by INTELSAT, Inmarsat, or a separated entity or successor entity.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Non-core services</heading>
+<content>
+<p class="indent1">The term “non-core services” means, with respect to INTELSAT provision, services other than public-switched network voice telephony and occasional-use television, and with respect to Inmarsat provision, services other than global maritime distress and safety services or other existing maritime or aeronautical services for which there are not alternative providers.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Additional services</heading>
+<chapeau class="indent1">The term “additional services” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> for Inmarsat, those non-maritime or non-aeronautical mobile services in the 1.5 and 1.6 Ghz band on planned satellites or the 2 Ghz band; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> for INTELSAT, direct-to-home (DTH) or direct broadcast satellite (DBS) video services, or services in the Ka or V bands.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> INTELSAT Agreement</heading>
+<content>
+<p class="indent1">The term “INTELSAT Agreement” means the Agreement Relating to the International Telecommunications Satellite Organization (“INTELSAT”), including all its annexes (TIAS 7532, 23 UST 3813).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> Headquarters Agreement</heading>
+<content>
+<p class="indent1">The term “Headquarters Agreement” means the International Telecommunication <ref class="footnoteRef" idref="fn002052">1</ref> Satellite Organization Headquarters Agreement (<date date="1976-11-24">November 24, 1976</date>) (TIAS 8542, 28 UST 2248).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(15)</num>
+<heading class="bold"> Operating Agreement</heading>
+<chapeau class="indent1">The term “Operating Agreement” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> in the case of INTELSAT, the agreement, including its annex but excluding all titles of articles, opened for signature at Washington on <date date="1971-08-20">August 20, 1971</date>, by Governments or telecommunications entities designated by Governments in accordance with the provisions of the Agreement; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> in the case of Inmarsat, the Operating Agreement on the International Maritime Satellite Organization, including its annexes.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(16)</num>
+<heading class="bold"> Inmarsat Convention</heading>
+<content>
+<p class="indent1">The term “Inmarsat Convention” means the Convention on the International Maritime Satellite Organization (Inmarsat) (TIAS 9605, 31 UST 1).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(17)</num>
+<heading class="bold"> National corporation</heading>
+<content>
+<p class="indent1">The term “national corporation” means a corporation the ownership of which is held through publicly traded securities, and that is incorporated under, and subject to, the laws of a national, state, or territorial government.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(18)</num>
+<heading class="bold"> COMSAT</heading>
+<content>
+<p class="indent1">The term “COMSAT” means the corporation established pursuant to subchapter III of this chapter, or the successor in interest to such corporation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(19)</num>
+<heading class="bold"> ICO</heading>
+<content>
+<p class="indent1">The term “ICO” means the company known, as of <date date="2000-03-17">March 17, 2000</date>, as ICO Global Communications, Inc.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(20)</num>
+<heading class="bold"> Global maritime distress and safety services or GMDSS</heading>
+<content>
+<p class="indent1">The term “global maritime distress and safety services” or “GMDSS” means the automated ship-to-shore distress alerting system which uses satellite and advanced terrestrial systems for international distress communications and promoting maritime safety in general. The GMDSS permits the worldwide alerting of vessels, coordinated search and rescue operations, and dissemination of maritime safety information.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(21)</num>
+<heading class="bold"> National security agency</heading>
+<content>
+<p class="indent1">The term “national security agency” means the National Security Agency, the Director of Central Intelligence and the Central Intelligence Agency, the Department of Defense, and the Coast Guard.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Common terminology</heading>
+<content>
+<p class="indent0">Except as otherwise provided in subsection (a), terms used in this subchapter that are defined in <ref>section 153 of this title</ref> have the meanings provided in such section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 87–624, title VI, § 681</ref>, as added <ref>Pub. L. 106–180, § 3</ref>, <date date="2000-03-17">Mar. 17, 2000</date>, <ref>114 Stat. 58</ref>.)</sourceCredit>
+</section>
+</part>
+</subchapter>
+</chapter>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 327—</num>
+<heading>WEAPON SYSTEMS DEVELOPMENT AND RELATED MATTERS</heading>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>MODULAR OPEN SYSTEM APPROACH IN DEVELOPMENT OF WEAPON SYSTEMS</heading>
+<section>
+<num>§ 4401.</num>
+<heading> Requirement for modular open system approach in major defense acquisition programs; definitions</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Modular Open System Approach Requirement</inline>.—</heading>
+<content>A major defense acquisition program that receives Milestone A or Milestone B approval after <date date="2019-01-01">January 1, 2019</date>, shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability. Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Disclosure Required</inline>.—</heading>
+<content>Not later than one year after the date of the enactment of this subsection, the Secretary of Defense shall make publicly available any standards for implementation of the modular open system approaches for contracts, unless the service acquisition executive with respect to a specific contract submits to the Secretary a request to not disclose such standards and the Secretary approves such request.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<chapeau>In this chapter:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> The term “modular open system approach” means, with respect to a major defense acquisition program, an integrated business and technical strategy that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> employs a modular design that uses modular system interfaces between major systems, major system components and modular systems;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> is subjected to verification to ensure that relevant modular system interfaces—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> comply with, if available and suitable, widely supported and consensus-based standards; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> are delivered pursuant to the requirements established in subsection (a)(2)(B) of section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including the delivery of—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> software-defined interface syntax and properties, specifically governing how values are validly passed and received between major subsystems and components, in machine-readable format;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> a machine-readable definition of the relationship between the delivered interface and existing common standards or interfaces available in Department interface repositories; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> documentation with functional descriptions of software-defined interfaces, conveying semantic meaning of interface elements, such as the function of a given interface field;</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> uses a system architecture that allows severable major system components and modular systems at the appropriate level to be incrementally added, removed, or replaced throughout the life cycle of a major system platform to afford opportunities for enhanced competition and innovation while yielding—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> significant cost savings or avoidance;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> schedule reduction;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> opportunities for technical upgrades;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> increased interoperability, including system of systems interoperability and mission integration; or</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> other benefits during the sustainment phase of a major weapon system; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> complies with the technical data rights set forth in sections 3771 through 3775 of this title.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> The term “major system platform” means the highest level structure of a major weapon system that is not physically mounted or installed onto a higher level structure and on which a major system component can be physically mounted or installed.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> The term “major system component”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> means a high level subsystem or assembly, including hardware, software, or an integrated assembly of both, that can be mounted or installed on a major system platform through modular system interfaces; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> includes a subsystem or assembly that is likely to have additional capability requirements, is likely to change because of evolving technology or threat, is needed for interoperability, facilitates incremental deployment of capabilities, or is expected to be replaced by another major system component.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> The term “modular system interface” means a shared boundary between major systems, major system components, or modular systems, defined by various physical, logical, and functional characteristics, such as electrical, mechanical, fluidic, optical, radio frequency, data, networking, or software elements.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> The term “modular system” refers to a weapon system or weapon system component that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is able to execute without requiring coincident execution of other specific weapon systems or components;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> can communicate across component boundaries and through interfaces; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> functions as a module that can be separated, recombined, and connected with other weapon systems or weapon system components in order to achieve various effects, missions, or capabilities.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> The term “program capability document” means, with respect to a major defense acquisition program, a document that specifies capability requirements for the program, such as a capability development document or a capability production document.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> The terms “program cost targets” and “fielding target” have the meanings provided in <ref>section 4271(a) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> The term “major defense acquisition program” has the meaning provided in <ref>section 4201 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> The term “major weapon system” has the meaning provided in <ref>section 3455(f) of this title</ref>.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 114–328, div. A, title VIII, § 805(a)(1)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2252</ref>, § 2446a; renumbered § 4401 and amended <ref>Pub. L. 116–283, div. A, title VIII, § 804(b)(1)</ref>, title XVIII, § 1851(b)(1), (2), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 3737</ref>, 4272; <ref>Pub. L. 118–159, div. A, title VIII, § 819</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 1982</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4402.</num>
+<heading> Requirement to address modular open system approach in program capabilities development and acquisition weapon system design</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Program Capability Document</inline>.—</heading>
+<chapeau>A program capability document for a major defense acquisition program shall identify and characterize—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the extent to which requirements for system performance are likely to evolve during the life cycle of the system because of evolving technology, threat, or interoperability needs; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> for requirements that are expected to evolve, the minimum acceptable capability that is necessary for initial operating capability of the major defense acquisition program.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Analysis of Alternatives</inline>.—</heading>
+<content>The Director of Cost Assessment and Performance Evaluation, in formulating study guidance for analyses of alternatives for major defense acquisition programs and performing such analyses under <ref>section 139a(d)(4) of this title</ref>, shall ensure that any such analysis for a major defense acquisition program includes consideration of evolutionary acquisition, prototyping, and a modular open system approach.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Acquisition Strategy</inline>.—</heading>
+<chapeau>In the case of a major defense acquisition program that uses a modular open system approach, the acquisition strategy required under <ref>section 4211 of this title</ref> shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> clearly describe the modular open system approach to be used for the program;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> differentiate between the major system platform and major system components being developed under the program, as well as major system components developed outside the program that will be integrated into the major defense acquisition program;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> clearly describe the evolution of major system components that are anticipated to be added, removed, or replaced in subsequent increments;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> identify additional major system components that may be added later in the life cycle of the major system platform;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> clearly describe how intellectual property and related issues, such as technical data deliverables, that are necessary to support a modular open system approach, will be addressed; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> clearly describe the approach to systems integration and systems-level configuration management to ensure mission and information assurance.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Request for Proposals</inline>.—</heading>
+<content>The milestone decision authority for a major defense acquisition program that uses a modular open system approach shall ensure that a request for proposals for the development or production phases of the program shall describe the modular open system approach and the minimum set of major system components that must be included in the design of the major defense acquisition program.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Milestone B</inline>.—</heading>
+<chapeau>A major defense acquisition program may not receive Milestone B approval under <ref>section 4252 of this title</ref> until the milestone decision authority determines in writing—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> in the case of a program that uses a modular open system approach, that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the program incorporates clearly defined major system interfaces between the major system platform and major system components, between major system components, and between major system platforms;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> such major system interfaces are consistent with the widely supported and consensus-based standards that exist at the time of the milestone decision, unless such standards are unavailable or unsuitable for particular major system interfaces; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Government has arranged to obtain appropriate and necessary intellectual property rights with respect to such major system interfaces upon completion of the development of the major system platform; or</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> in the case of a program that does not use a modular open system approach, that the use of a modular open system approach is not practicable.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Implementation Guidance</inline>.—</heading>
+<content>The Secretaries of the military departments shall issue guidance to implement the requirements of this section.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 114–328, div. A, title VIII, § 805(a)(1)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2253</ref>, § 2446b; amended <ref>Pub. L. 115–91, div. A, title X, § 1081(a)(40)</ref>, <date date="2017-12-12">Dec. 12, 2017</date>, <ref>131 Stat. 1596</ref>; <ref>Pub. L. 116–92, div. A, title VIII, § 840(a)</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 1499</ref>; renumbered § 4402 and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1851(b)(1)</ref>, (3), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4272</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4403.</num>
+<heading> Requirements relating to availability of major system interfaces and support for modular open system approach</heading>
+<chapeau class="indent0">The Secretary of each military department shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> coordinate with the other military departments, the defense agencies, defense and other private sector entities, national standards-setting organizations, and, when appropriate, with elements of the intelligence community with respect to the specification, identification, development, and maintenance of major system interfaces and standards for use in major system platforms, where practicable;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> ensure that major system interfaces incorporate commercial standards and other widely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> ensure that sufficient systems engineering and development expertise and resources are available to support the use of a modular open system approach in requirements development and acquisition program planning;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> ensure that necessary planning, programming, and budgeting resources are provided to specify, identify, develop, and sustain the modular open system approach, associated major system interfaces, systems integration, and any additional program activities necessary to sustain innovation and interoperability;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> ensure that adequate training in the use of a modular open system approach is provided to members of the requirements and acquisition workforce; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> issue guidance to implement the requirements of this section.</content>
+</paragraph>
+<sourceCredit>(Added <ref>Pub. L. 114–328, div. A, title VIII, § 805(a)(1)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2255</ref>, § 2446c; amended <ref>Pub. L. 116–92, div. A, title VIII, § 840(b)</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 1499</ref>; renumbered § 4403, <ref>Pub. L. 116–283, div. A, title XVIII, § 1851(b)(1)</ref>, <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4272</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>DEVELOPMENT, PROTOTYPING, AND DEPLOYMENT OF WEAPON SYSTEM COMPONENTS OR TECHNOLOGY</heading>
+<section>
+<num>§ 4421.</num>
+<heading> Weapon system component or technology prototype projects: display of budget information</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Requirements for Budget Display</inline>.—</heading>
+<chapeau>In the defense budget materials for any fiscal year, the Secretary of Defense shall, with respect to advanced component development and prototype activities (within the research, development, test, and evaluation budget), set forth the amounts requested for each of the following:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Acquisition programs of record.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Development, prototyping, and experimentation of weapon system components or other technologies, including those based on commercial products and technologies, separate from acquisition programs of record.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Other budget line items as determined by the Secretary of Defense.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Additional Requirements</inline>.—</heading>
+<chapeau>For purposes of subsection (a)(2), the amounts requested for development, prototyping, and experimentation of weapon system components or other technologies shall be—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> structured into either capability, weapon system component, or technology portfolios that reflect the priority areas for prototype projects; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> justified with general descriptions of the types of capability areas and technologies being funded or expected to be funded during the fiscal year concerned.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Definitions</inline>.—</heading>
+<content>In this section, the terms “budget” and “defense budget materials” have the meaning given those terms in <ref>section 234 of this title</ref> and the term “commercial product” has the meaning given that term in <ref>section 103 of title 41</ref>.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 114–328, div. A, title VIII, § 806(a)(1)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2256</ref>, § 2447a; amended <ref>Pub. L. 115–232, div. A, title VIII, § 836(e)(8)</ref>, <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 1870</ref>; <ref>Pub. L. 116–92, div. A, title XVII, § 1731(a)(51)</ref>, <date date="2019-12-20">Dec. 20, 2019</date>, <ref>133 Stat. 1815</ref>; renumbered § 4421, <ref>Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1)</ref>, <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4272</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4422.</num>
+<heading> Weapon system component or technology prototype projects: oversight</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Establishment</inline>.—</heading>
+<content>The Secretary of each military department shall establish an oversight board or identify a similar existing group of senior advisors for managing prototype projects for weapon system components and other technologies and subsystems, including the use of funds for such projects, within the military department concerned.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Membership</inline>.—</heading>
+<chapeau>Each oversight board shall be comprised of senior officials with—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> expertise in requirements; research, development, test, and evaluation; acquisition; sustainment; or other relevant areas within the military department concerned;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> awareness of technology development activities and opportunities in the Department of Defense, industry, and other sources; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> awareness of the component capability requirements of major weapon systems, including scheduling and fielding goals for such component capabilities.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Functions</inline>.—</heading>
+<chapeau>The functions of each oversight board are as follows:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> To issue a strategic plan every three years that prioritizes the capability and weapon system component portfolio areas for conducting prototype projects, based on assessments of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> high priority warfighter needs;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> capability gaps or readiness issues with major weapon systems;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> opportunities to incrementally integrate new components into major weapon systems based on commercial technology or science and technology efforts that are expected to be sufficiently mature to prototype within three years; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> opportunities to reduce operation and support costs of major weapon systems.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> To annually recommend funding levels for weapon system component or technology development and prototype projects across capability or weapon system component portfolios.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> To annually recommend to the service acquisition executive of the military department concerned specific weapon system component or technology development and prototype projects, subject to the requirements and limitations in <ref>section 4423 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> To ensure projects are managed by experts within the Department of Defense who are knowledgeable in research, development, test, and evaluation and who are aware of opportunities for incremental deployment of component capabilities and other technologies to major weapon systems or directly to support warfighting capabilities.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> To ensure projects are conducted in a manner that allows for appropriate experimentation and technology risk.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> To ensure projects have a plan for technology transition of the prototype into a fielded system, program of record, or operational use, as appropriate, upon successful achievement of technical and project goals.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> To ensure necessary technical, contracting, and financial management resources are available to support each project.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<chapeau> To submit to the congressional defense committees a semiannual notification that includes the following:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> each weapon system component or technology prototype project initiated during the preceding six months, including an explanation of each project and its required funding.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the results achieved from weapon system component prototype and technology projects completed and tested during the preceding six months.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 114–328, div. A, title VIII, § 806(a)(1)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2257</ref>, § 2447b; renumbered § 4422 and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1)</ref>, (2), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4272</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4423.</num>
+<heading> Requirements and limitations for weapon system component or technology prototype projects</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Limitation on Prototype Project Duration</inline>.—</heading>
+<content>A prototype project shall be completed within two years of its initiation.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Merit-based Selection Process</inline>.—</heading>
+<content>A prototype project shall be selected by the service acquisition executive of the military department concerned through a merit-based selection process that identifies the most promising, innovative, and cost-effective prototypes that address one or more of the elements set forth in subsection (c)(1) of <ref>section 4422 of this title</ref> and are expected to be successfully demonstrated in a relevant environment.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Type of Transaction</inline>.—</heading>
+<content>Prototype projects shall be funded through contracts, cooperative agreements, or other transactions.</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Funding Limit</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<chapeau> Each prototype project may not exceed a total amount of $10,000,000 (based on fiscal year 2017 constant dollars), unless—</chapeau>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> the Secretary of the military department, or the Secretary’s designee, approves a larger amount of funding for the project, not to exceed $50,000,000; and</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<chapeau> the Secretary, or the Secretary’s designee, submits to the congressional defense committees, within 30 days after approval of such funding for the project, a notification that includes—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> the project;</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> expected funding for the project; and</content>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> a statement of the anticipated outcome of the project.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in paragraph (1) on the basis of Department of Defense escalation rates.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Related Prototype Authorities</inline>.—</heading>
+<content>Prototype projects that exceed the duration and funding limits established in this section shall be pursued under the rapid prototyping process established by <ref>section 3602 of this title</ref>. In addition, nothing in this subchapter shall affect the authority to carry out prototype projects under section 4022 or any other section of this title related to prototyping.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 114–328, div. A, title VIII, § 806(a)(1)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2258</ref>, § 2447c; renumbered § 4423 and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1)</ref>, (3), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4272</ref>, 4273; <ref>Pub. L. 117–263, div. A, title X, § 1081(a)(5)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 2797</ref>; <ref>Pub. L. 118–159, div. A, title VIII, § 804(c)(4)</ref>, <date date="2024-12-23">Dec. 23, 2024</date>, <ref>138 Stat. 1968</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 4424.</num>
+<heading> Mechanisms to speed deployment of successful weapon system component or technology prototypes</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Selection of Prototype Project for Production and Rapid Fielding</inline>.—</heading>
+<chapeau>A weapon system component or technology prototype project may be selected by the service acquisition executive of the military department concerned for a follow-on production contract or other transaction without the use of competitive procedures, notwithstanding the requirements of sections 3201 through 3205 of this title, if—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the follow-on production project addresses a high priority warfighter need or reduces the costs of a weapon system;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> competitive procedures were used for the selection of parties for participation in the original prototype project;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the participants in the original prototype project successfully completed the requirements of the project; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> a prototype of the system to be procured was demonstrated in a relevant environment.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Special Transfer Authority</inline>.—</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> The Secretary of a military department may, as specified in advance by appropriations Acts, transfer funds that remain available for obligation in procurement appropriation accounts of the military department to fund the low-rate initial production of the rapid fielding project until required funding for full-rate production can be submitted and approved through the regular budget process of the Department of Defense.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> The funds transferred under this subsection to fund the low-rate initial production of a rapid fielding project shall be for a period not to exceed two years, the amount for such period may not exceed $50,000,000, and the special transfer authority provided in this subsection may not be used more than once to fund procurement of a particular new or upgraded system.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> The special transfer authority provided in this subsection is in addition to any other transfer authority available to the Department of Defense.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Notification to Congress</inline>.—</heading>
+<content>Within 30 days after the service acquisition executive of a military department selects a weapon system component or technology project for a follow-on production contract or other transaction, the service acquisition executive shall notify the congressional defense committees of the selection and provide a brief description of the rapid fielding project.</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 114–328, div. A, title VIII, § 806(a)(1)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2259</ref>, § 2447d; renumbered § 4424 and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1)</ref>, (4), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4272</ref>, 4273.)</sourceCredit>
+</section>
+<section>
+<num>§ 4425.</num>
+<heading> Definition of weapon system component</heading>
+<content>
+<p class="indent0">In this subchapter, the term “weapon system component” has the meaning given the term “major system component” in <ref>section 4401 of this title</ref>.</p>
+</content>
+<sourceCredit>(Added <ref>Pub. L. 114–328, div. A, title VIII, § 806(a)(1)</ref>, <date date="2016-12-23">Dec. 23, 2016</date>, <ref>130 Stat. 2259</ref>, § 2447e; renumbered § 4425 and amended <ref>Pub. L. 116–283, div. A, title XVIII, § 1851(c)(1)</ref>, (5), <date date="2021-01-01">Jan. 1, 2021</date>, <ref>134 Stat. 4272</ref>, 4273.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 46—</num>
+<heading>NATIONAL LEVEE SAFETY PROGRAM</heading>
+<section>
+<num>§ 3301.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter, the following definitions apply:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Administrator</heading>
+<content>
+<p class="indent1">The term “Administrator” means the Administrator of the Federal Emergency Management Agency.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Canal structure</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The term “canal structure” means an embankment, wall, or structure along a canal or manmade watercourse that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> constrains water flows;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> is subject to frequent water loading; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> is an integral part of a flood risk reduction system that protects the leveed area from flood waters associated with hurricanes, precipitation events, seasonal high water, and other weather-related events.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Exclusion</heading>
+<content>
+<p class="indent2">The term “canal structure” does not include a barrier across a watercourse.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Committee</heading>
+<content>
+<p class="indent1">The term “committee” means the Committee on Levee Safety established by <ref>section 3302(a) of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Floodplain management</heading>
+<content>
+<p class="indent1">The term “floodplain management” means the operation of a community program of corrective and preventative measures for reducing flood damage.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Indian tribe</heading>
+<content>
+<p class="indent1">The term “Indian tribe” has the meaning given the term in <ref>section 5304 of title 25</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Inspection</heading>
+<chapeau class="indent1">The term “inspection” means an actual inspection of a levee—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to establish the global information system location of the levee;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to determine the general condition of the levee; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to estimate the number of structures and population at risk and protected by the levee that would be adversely impacted if the levee fails or water levels exceed the height of the levee.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Levee</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The term “levee” means a manmade barrier (such as an embankment, floodwall, or other structure)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the primary purpose of which is to provide hurricane, storm, or flood protection relating to seasonal high water, storm surges, precipitation, or other weather events; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> that is normally subject to water loading for only a few days or weeks during a calendar year.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Inclusions</heading>
+<chapeau class="indent2">The term “levee” includes a levee system, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<chapeau> levees and canal structures that—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> constrain water flows;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> are subject to more frequent water loading; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> do not constitute a barrier across a watercourse; and</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> roadway and railroad embankments, but only to the extent that the embankments are integral to the performance of a flood damage reduction system.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Exclusions</heading>
+<chapeau class="indent2">The term “levee” does not include—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a roadway or railroad embankment that is not integral to the performance of a flood damage reduction system;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> a canal constructed completely within natural ground without any manmade structure (such as an embankment or retaining wall to retain water or a case in which water is retained only by natural ground);</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> a canal regulated by a Federal or State agency in a manner that ensures that applicable Federal safety criteria are met;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<chapeau> a levee or canal structure—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> that is not a part of a Federal flood damage reduction system;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> that is not recognized under the National Flood Insurance Program as providing protection from the 1-percent-annual-chance or greater flood;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> that is not greater than 3 feet high;</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> the population in the leveed area of which is less than 50 individuals; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(V)</num>
+<content> the leveed area of which is less than 1,000 acres; or</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> any shoreline protection or river bank protection system (such as revetments or barrier islands).</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Levee feature</heading>
+<chapeau class="indent1">The term “levee feature” means a structure that is critical to the functioning of a levee, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an embankment section;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a floodwall section;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a closure structure;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> a pumping station;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> an interior drainage work; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> a flood damage reduction channel.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Levee system</heading>
+<chapeau class="indent1">The term “levee system” means 1 or more levee segments, including all levee features that are interconnected and necessary to ensure protection of the associated leveed areas—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> that collectively provide flood damage reduction to a defined area; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the failure of 1 of which may result in the failure of the entire system.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> National levee database</heading>
+<content>
+<p class="indent1">The term “national levee database” means the levee database established under <ref>section 3303 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Participating program</heading>
+<content>
+<p class="indent1">The term “participating program” means a levee safety program developed by a State, regional district, or Indian tribe that includes the minimum components necessary for recognition by the Secretary.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Regional district</heading>
+<content>
+<p class="indent1">The term “regional district” means a subdivision of a State government, or a subdivision of multiple State governments, that is authorized to acquire, construct, operate, and maintain projects for the purpose of flood damage reduction.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Rehabilitation</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The term “rehabilitation” means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk, increase resiliency to extreme weather events, or meet national levee safety guidelines.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Inclusions</heading>
+<content>
+<p class="indent2">The term “rehabilitation” includes improvements to a levee in conjunction with any repair, replacement, reconstruction, or reconfiguration.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> Risk</heading>
+<content>
+<p class="indent1">The term “risk” means a measure of the probability and severity of undesirable consequences.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(15)</num>
+<heading class="bold"> State</heading>
+<chapeau class="indent1">The term “State” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a State;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the District of Columbia;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the Commonwealth of Puerto Rico; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> any other territory or possession of the United States.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(16)</num>
+<heading class="bold"> State levee safety agency</heading>
+<content>
+<p class="indent1">The term “State levee safety agency” means the agency of a State that has regulatory authority over the safety of any non-Federal levee in the State.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(17)</num>
+<heading class="bold"> United States</heading>
+<content>
+<p class="indent1">The term “United States”, when used in a geographical sense, means all of the States.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 110–114, title IX, § 9002</ref>, <date date="2007-11-08">Nov. 8, 2007</date>, <ref>121 Stat. 1288</ref>; <ref>Pub. L. 113–121, title III, § 3016(b)</ref>, <date date="2014-06-10">June 10, 2014</date>, <ref>128 Stat. 1289</ref>; <ref>Pub. L. 114–322, title I, § 1130(a)</ref>, <date date="2016-12-16">Dec. 16, 2016</date>, <ref>130 Stat. 1650</ref>; <ref>Pub. L. 117–263, div. H, title LXXXI, § 8387(a)</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 3830</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3302.</num>
+<heading> Committee on Levee Safety</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent0">There is established a committee to be known as the “Committee on Levee Safety”.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Membership</heading>
+<chapeau class="indent0">The committee shall be composed of 16 members as follows:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Nonvoting members</inline>.—</heading>
+<chapeau>The following 2 nonvoting members:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> The Secretary (or a designee of the Secretary).</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> The Administrator (or a designee of the Administrator).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> The following 14 voting members appointed by the Secretary:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> Eight representatives of State levee safety agencies, one from each of the eight civil works divisions of the Corps of Engineers.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Two representatives of the private sector who have expertise in levee safety.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> Two representatives of local and regional governmental agencies who have expertise in levee safety.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> Two representatives of Indian tribes who have expertise in levee safety.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Administration</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Terms of voting members</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">A voting member of the committee shall be appointed for a term of 3 years, except that, of the members first appointed—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> 5 shall be appointed for a term of 1 year;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> 5 shall be appointed for a term of 2 years; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> 4 shall be appointed for a term of 3 years.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Reappointment</heading>
+<content>
+<p class="indent2">A voting member of the committee may be reappointed to the committee, as the Secretary determines to be appropriate.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Vacancies</heading>
+<content>
+<p class="indent2">A vacancy on the committee shall be filled in the same manner as the original appointment was made.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Chairperson</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The voting members of the committee shall appoint a chairperson from among the voting members of the committee.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Term</heading>
+<content>
+<p class="indent2">The chairperson shall serve a term of not more than 2 years.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Standing committees</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The committee may establish standing committees comprised of volunteers from all levels of government and the private sector, to advise the committee regarding specific levee safety issues, including participating programs, technical issues, public education and awareness, and safety and the environment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Membership</heading>
+<content>
+<p class="indent1">The committee shall recommend to the Secretary for approval individuals for membership on the standing committees.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Duties and powers</heading>
+<chapeau class="indent0">The committee—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> shall submit to the Secretary and Congress an annual report regarding the effectiveness of the levee safety initiative in accordance with <ref>section 3303b of this title</ref>; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> may secure from other Federal agencies such services, and enter into such contracts, as the committee determines to be necessary to carry out this subsection.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Task force coordination</heading>
+<content>
+<p class="indent0">The committee shall, to the maximum extent practicable, coordinate the activities of the committee with the Federal Interagency Floodplain Management Task Force.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Compensation</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Federal employees</heading>
+<chapeau class="indent1">Each member of the committee who is an officer or employee of the United States—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> shall serve without compensation in addition to compensation received for the services of the member as an officer or employee of the United States; but</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> shall be allowed a per diem allowance for travel expenses, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the committee.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Non-Federal employees</heading>
+<content>
+<p class="indent1">To the extent amounts are made available to carry out this section in appropriations Acts, the Secretary shall provide to each member of the committee who is not an officer or employee of the United States a stipend and a per diem allowance for travel expenses, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in performance of services for the committee.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Standing committee members</heading>
+<content>
+<p class="indent1">Each member of a standing committee shall serve in a voluntary capacity.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Applicability of chapter 10 of title 5</heading>
+<content>
+<p class="indent0">Chapter 10 of title 5 shall not apply to the committee.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 110–114, title IX, § 9003</ref>, <date date="2007-11-08">Nov. 8, 2007</date>, <ref>121 Stat. 1288</ref>; <ref>Pub. L. 110–274, § 1</ref>, <date date="2008-07-15">July 15, 2008</date>, <ref>122 Stat. 2493</ref>; <ref>Pub. L. 113–121, title III, § 3016(c)</ref>, <date date="2014-06-10">June 10, 2014</date>, <ref>128 Stat. 1291</ref>; <ref>Pub. L. 117–286, § 4(a)(207)</ref>, <date date="2022-12-27">Dec. 27, 2022</date>, <ref>136 Stat. 4328</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3303.</num>
+<heading> Inventory and inspection of levees</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Levee database</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than 1 year after <date date="2016-12-16">December 16, 2016</date>, the Secretary shall establish and maintain a database with an inventory of the Nation’s levees.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Contents</heading>
+<chapeau class="indent1">The database shall include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> location information of all Federal levees in the Nation (including global information system information) and updated levee information provided by States, regional districts, Indian tribes, Federal agencies, and other entities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> utilizing such information as is available, the general condition of each levee; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> an estimate of the number of structures and population at risk and protected by each levee that would be adversely impacted if the levee fails or water levels exceed the height of the levee.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Availability of information</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Availability to Federal, State, regional, tribal, and local governmental agencies</heading>
+<content>
+<p class="indent2">The Secretary shall make all of the information in the database available to appropriate Federal, State, regional, tribal, and local governmental agencies.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Availability to the public</heading>
+<content>
+<p class="indent2">The Secretary shall make the information in the database described in paragraph (2)(A), and such other information in the database as the Secretary determines appropriate, available to the public.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Inventory and inspection of levees</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Federal levees</heading>
+<content>
+<p class="indent1">The Secretary, at Federal expense, shall establish an inventory and conduct an inspection of all federally owned and operated levees.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Federally constructed, nonfederally operated and maintained levees</heading>
+<content>
+<p class="indent1">The Secretary shall establish an inventory and conduct an inspection of all federally constructed, non-federally operated and maintained levees, at the original cost share for the project.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Participating levees</heading>
+<content>
+<p class="indent1">For non-Federal levees the owners of which are participating in the emergency response to natural disasters program established under <ref>section 701n of this title</ref>, the Secretary shall establish an inventory and conduct an inspection of each such levee if the owner of the levee requests such inspection. The Federal share of the cost of an inspection under this paragraph shall be 65 percent.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Levee review</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary shall carry out a one-time inventory and review of all levees identified in the national levee database.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> No Federal interest</heading>
+<content>
+<p class="indent1">The inventory and inspection under paragraph (1) does not create a Federal interest in the construction, operation, or maintenance of any levee that is included in the inventory or inspected under this subsection.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Review criteria</heading>
+<content>
+<p class="indent1">In carrying out the inventory and review, the Secretary shall use the levee safety action classification criteria to determine whether a levee should be classified in the inventory as requiring a more comprehensive inspection.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> State, regional, and tribal participation</heading>
+<chapeau class="indent1">At the request of a State, regional district, or Indian tribe with respect to any levee subject to review under this subsection, the Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> allow an official of the State, regional district, or Indian tribe to participate in the review of the levee; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> provide information to the State, regional district, or Indian tribe relating to the location, construction, operation, or maintenance of the levee.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Exceptions</heading>
+<content>
+<p class="indent1">In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State, regional district, or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding <date date="2014-06-10">June 10, 2014</date>, if the Governor of the State or chief executive of the regional district or tribal government, as applicable, requests an exemption from the review.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Identification of deficiencies</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">For each levee included in an inventory established under subsection (b) or for which the Secretary has conducted a review under subsection (c), the Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> identify the specific engineering and maintenance deficiencies, if any; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> describe the recommended remedies to correct each deficiency identified under subparagraph (A), and, if requested by owner of a non-Federal levee, the associated costs of those remedies.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Consultation</heading>
+<content>
+<p class="indent1">In identifying deficiencies and describing remedies for a levee under paragraph (1), the Secretary shall consult with relevant non-Federal interests, including by providing an opportunity for comment by those non-Federal interests.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 110–114, title IX, § 9004</ref>, <date date="2007-11-08">Nov. 8, 2007</date>, <ref>121 Stat. 1290</ref>; <ref>Pub. L. 113–121, title III, § 3016(d)</ref>, <date date="2014-06-10">June 10, 2014</date>, <ref>128 Stat. 1292</ref>; <ref>Pub. L. 114–322, title I, § 1130(b)</ref>, <date date="2016-12-16">Dec. 16, 2016</date>, <ref>130 Stat. 1650</ref>; <ref>Pub. L. 116–260, div. AA, title I, § 131</ref>, <date date="2020-12-27">Dec. 27, 2020</date>, <ref>134 Stat. 2644</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3303a.</num>
+<heading> Levee safety initiative</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent0">The Secretary, in consultation with the Administrator, shall carry out a levee safety initiative.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Management</heading>
+<chapeau class="indent0">The Secretary shall appoint—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> an administrator of the levee safety initiative; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> such staff as are necessary to implement the initiative.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Levee safety guidelines</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent1">Not later than 1 year after <date date="2016-12-16">December 16, 2016</date>, the Secretary, in consultation with the Administrator and in coordination with State, regional, local, and tribal governments and organizations with expertise in levee safety, shall establish a set of voluntary, comprehensive, national levee safety guidelines that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> are available for common, uniform use by all Federal, State, regional, local, and tribal agencies;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> incorporate policies, procedures, standards, and criteria for a range of levee types, canal structures, and related facilities and features; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> provide for adaptation to local, regional, or watershed conditions.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Requirement</heading>
+<content>
+<p class="indent1">The policies, procedures, standards, and criteria under paragraph (1)(B) shall be developed taking into consideration the levee hazard potential classification system established under subsection (d).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Incorporation</heading>
+<chapeau class="indent1">The guidelines shall address, to the maximum extent practicable—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the activities and practices carried out by State, regional, local, and tribal governments and the private sector to safely build, regulate, operate, and maintain levees; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> Federal activities that facilitate State, regional, or tribal efforts to develop and implement effective State, regional, or tribal programs for the safety of levees, including levee inspection, levee rehabilitation, locally developed floodplain management, and public education and training programs.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Consideration by Federal agencies</heading>
+<content>
+<p class="indent1">To the maximum extent practicable, all Federal agencies shall consider the levee safety guidelines in carrying out activities relating to the management of levees.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Public comment</heading>
+<chapeau class="indent1">Prior to finalizing the guidelines under this subsection, the Secretary shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> issue draft guidelines for public comment, including comment by States, regional districts, Indian tribes, non-Federal interests, and other appropriate stakeholders; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> consider any comments received in the development of final guidelines.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Hazard potential classification system</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent1">The Secretary shall establish a hazard potential classification system for use under the levee safety initiative and participating programs.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Revision</heading>
+<content>
+<p class="indent1">The Secretary shall review and, as necessary, revise the hazard potential classification system not less frequently than once every 5 years.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Consistency</heading>
+<content>
+<p class="indent1">The hazard potential classification system established pursuant to this subsection shall be consistent with and incorporated into the levee safety action classification tool developed by the Corps of Engineers.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Technical assistance and materials</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Establishment</heading>
+<chapeau class="indent1">The Secretary, in consultation with the Administrator, shall provide technical assistance and training to promote levee safety and assist States, regional districts, Indian tribes, communities, and levee owners in—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> developing levee safety programs;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> identifying and reducing flood risks associated with levees;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> identifying local actions that may be carried out to reduce flood risks in leveed areas; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> rehabilitating, improving, replacing, reconfiguring, modifying, and removing levees and levee systems.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Eligibility</heading>
+<chapeau class="indent1">To be eligible to receive technical assistance under this subsection, a State shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> be in the process of establishing or have in effect a State levee safety program under which a State levee safety agency, in accordance with State law, carries out the guidelines established under subsection (c)(1); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> allocate sufficient funds in the budget of that State to carry out that State levee safety program.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Work plans</heading>
+<content>
+<p class="indent1">The Secretary shall enter into an agreement with each State receiving technical assistance under this subsection to develop a work plan necessary for the State levee safety program of that State to reach a level of program performance that meets the guidelines established under subsection (c)(1).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Public education and awareness</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary, in coordination with the Administrator, shall carry out public education and awareness efforts relating to the levee safety initiative.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Contents</heading>
+<chapeau class="indent1">In carrying out the efforts under paragraph (1), the Secretary and the Administrator shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> educate individuals living in leveed areas regarding the risks of living in those areas; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> promote consistency in the transmission of information regarding levees among Federal agencies and regarding risk communication at the State and local levels.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> State, regional, and tribal levee safety program</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Guidelines</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Not later than 1 year after <date date="2016-12-16">December 16, 2016</date>, in consultation with the Administrator, the Secretary shall issue guidelines that establish the minimum components necessary for recognition of a State, regional, or tribal levee safety program as a participating program.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Guideline contents</heading>
+<chapeau class="indent2">The guidelines under subparagraph (A) shall include provisions and procedures requiring each participating State, regional district, and Indian tribe to certify to the Secretary that the State, regional district, or Indian tribe, as applicable—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> has the authority to participate in the levee safety initiative;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> can receive funds under this chapter;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> has adopted any levee safety guidelines developed under this chapter;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> will carry out levee inspections;</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> will carry out, consistent with applicable requirements, flood risk management and any emergency action planning procedures the Secretary determines to be necessary relating to levees;</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> will carry out public education and awareness activities consistent with the efforts carried out under subsection (f); and</content>
+</clause>
+<clause class="indent3">
+<num>(vii)</num>
+<content> will collect and share information regarding the location and condition of levees, including for inclusion in the national levee database.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Public comment</heading>
+<chapeau class="indent2">Prior to finalizing the guidelines under this paragraph, the Secretary shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> issue draft guidelines for public comment; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> consider any comments received in the development of final guidelines.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Assistance to States, regional districts, and Indian tribes</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent2">The Administrator may provide assistance, subject to the availability of funding specified in appropriations Acts for Federal Emergency Management Agency activities pursuant to this chapter and subject to amounts available under subparagraph (E), to States, regional districts, and Indian tribes in establishing participating programs, conducting levee inventories, and improving levee safety programs in accordance with subparagraph (B).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent2">To be eligible to receive assistance under this section, a State, regional district, or Indian tribe shall—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> meet the requirements of a participating program established by the guidelines issued under paragraph (1);</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> use not less than 25 percent of any amounts received to identify and assess non-Federal levees within the State or regional district or on land of the Indian tribe;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> submit to the Secretary and Administrator any information collected by the State, regional district, or Indian tribe in carrying out this subsection for inclusion in the national levee safety database; and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> identify actions to address hazard mitigation activities associated with levees and leveed areas identified in the hazard mitigation plan of the State approved by the Administrator of the Federal Emergency Management Agency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<ref>42 U.S.C. 5121</ref> et seq.).</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Measures to assess effectiveness</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent3">Not later than 1 year after <date date="2014-06-10">June 10, 2014</date>, the Administrator shall implement quantifiable performance measures and metrics to assess the effectiveness of the assistance provided in accordance with subparagraph (A).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Considerations</heading>
+<chapeau class="indent3">In assessing the effectiveness of assistance under clause (i), the Administrator shall consider the degree to which the State, regional, or tribal program—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> ensures that human lives and property that are protected by new and existing levees are safe;</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> encourages the use of appropriate engineering policies, procedures, and technical practices for levee site investigation, design, construction, operation and maintenance, inspection, assessment, and emergency preparedness;</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> develops and supports public education and awareness projects to increase public acceptance and support of levee safety programs and provide information;</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> builds public awareness of the residual risks associated with living in levee protected areas; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(V)</num>
+<content> develops technical assistance materials, seminars, and guidelines to improve the security of levees of the United States.</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Maintenance of effort</heading>
+<content>
+<p class="indent2">Technical assistance or grants may not be provided to a State under this subsection during a fiscal year unless the State enters into an agreement with the Administrator to ensure that the State will maintain during that fiscal year aggregate expenditures for programs to ensure levee safety that equal or exceed the average annual level of such expenditures for the State for the 2 fiscal years preceding that fiscal year.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(E)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent3">There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2030.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Allocation</heading>
+<chapeau class="indent3">For each fiscal year, amounts made available under this subparagraph shall be allocated among the States, regional districts, and Indian tribes as follows:</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> ⅓ among States, regional districts, and Indian tribes that qualify for assistance under this subsection.</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<chapeau> ⅔ among States, regional districts, and Indian tribes that qualify for assistance under this subsection, to each such State, regional district, or Indian tribe in the proportion that—</chapeau>
+<item class="indent5">
+<num>(aa)</num>
+<content> the miles of levees in the State or regional district or on the land of the Indian tribe that are listed on the inventory of levees; bears to</content>
+</item>
+<item class="indent5">
+<num>(bb)</num>
+<content> the miles of levees in all States and regional districts and on the land of all Indian tribes that are in the national levee database.</content>
+</item>
+</subclause>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iii)</num>
+<heading class="bold"> Maximum amount of allocation</heading>
+<content>
+<p class="indent3">The amounts allocated to a State, regional district, or Indian tribe under this subparagraph shall not exceed 50 percent of the reasonable cost of implementing the State, regional, or tribal levee safety program.</p>
+</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(F)</num>
+<heading class="bold"> Prohibition</heading>
+<content>
+<p class="indent2">No amounts made available to the Administrator under this chapter shall be used for levee construction, rehabilitation, repair, operations, or maintenance.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Levee rehabilitation assistance program</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Establishment</heading>
+<content>
+<p class="indent1">The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation and levee rehabilitation activities that result in an overall reduction in flood risk.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Requirements</heading>
+<chapeau class="indent1">To be eligible to receive assistance under this subsection, a State, regional district, Indian tribe, or local government shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> participate in, and comply with, all applicable Federal floodplain management and flood insurance programs;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> have in place a hazard mitigation plan that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> includes all levee risks; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> complies with the Disaster Mitigation Act of 2000 (<ref>Public Law 106–390</ref>; <ref>114 Stat. 1552</ref>);</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> commit to provide normal operation and maintenance of the project for the 50 year-period following completion of rehabilitation; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<chapeau> comply with such minimum eligibility requirements as the Secretary, in consultation with the committee, may establish to ensure that each owner and operator of a levee under a participating State, regional, or tribal levee safety program—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> acts in accordance with the guidelines developed under subsection (c); and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> carries out activities relating to the public in the leveed area in accordance with the hazard mitigation plan described in subparagraph (B).</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Floodplain management plans</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Not later than 1 year after the date of execution of a project agreement for assistance under this subsection, a State, regional district, Indian tribe, or local government shall prepare a floodplain management plan in accordance with the guidelines under subparagraph (D) to reduce the impacts of future flood events in each applicable leveed area.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Inclusions</heading>
+<chapeau class="indent2">A plan under subparagraph (A) shall address—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> potential measures, practices, and policies to reduce loss of life, injuries, damage to property and facilities, public expenditures, and other adverse impacts of flooding in each applicable leveed area;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> plans for flood fighting and evacuation; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> public education and awareness of flood risks.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Implementation</heading>
+<content>
+<p class="indent2">Not later than 1 year after the date of completion of construction of the applicable project, a floodplain management plan prepared under subparagraph (A) shall be implemented.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Guidelines</heading>
+<content>
+<p class="indent2">Not later than 180 days after <date date="2016-12-16">December 16, 2016</date>, the Secretary, in consultation with the Administrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(E)</num>
+<heading class="bold"> Technical support</heading>
+<content>
+<p class="indent2">The Secretary may provide technical support for the development and implementation of floodplain management plans prepared under this paragraph.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Use of funds</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">Assistance provided under this subsection may be used—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> for any rehabilitation activity to maximize overall risk reduction associated with a levee under a participating State, regional, or tribal levee safety program; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> only for a levee that is not federally operated and maintained.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Prohibition</heading>
+<chapeau class="indent2">Assistance provided under this subsection shall not be used—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to perform routine operation or maintenance for a levee; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to make any modification to a levee that does not result in an improvement to public safety.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> No proprietary interest</heading>
+<content>
+<p class="indent1">A contract for assistance provided under this subsection shall not be considered to confer any proprietary interest on the United States.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Cost share</heading>
+<content>
+<p class="indent1">The maximum Federal share of the cost of any assistance provided under this subsection shall be 65 percent.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Project limit</heading>
+<content>
+<p class="indent1">The maximum amount of Federal assistance for a project under this subsection shall be $25,000,000.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Limitation</heading>
+<content>
+<p class="indent1">A project shall not receive Federal assistance under this subsection more than 1 time.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Federal interest</heading>
+<content>
+<p class="indent1">For a project that is not a project eligible for rehabilitation assistance under <ref>section 701n of this title</ref>, the Secretary shall determine that the proposed rehabilitation is in the Federal interest prior to providing assistance for such rehabilitation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Other laws</heading>
+<content>
+<p class="indent1">Assistance provided under this subsection shall be subject to all applicable laws (including regulations) that apply to the construction of a civil works project of the Corps of Engineers.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Prioritization</heading>
+<content>
+<p class="indent1">To the maximum extent practicable, the Secretary shall prioritize the provision of assistance under this subsection to economically disadvantaged communities (as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 (<ref>33 U.S.C. 2201</ref> note)), including economically disadvantaged communities located in urban and rural areas.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Effect of section</heading>
+<chapeau class="indent0">Nothing in this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> affects the requirement under <ref>section 100226(b)(2) of Public Law 112–141</ref> (<ref>42 U.S.C. 4101</ref> note; <ref>126 Stat. 942</ref>); or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> confers any regulatory authority on—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Secretary; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 <ref class="footnoteRef" idref="fn002132">1</ref> of the National Flood Insurance Act of 1968 (<ref>42 U.S.C. 4011</ref> et seq.).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 110–114, title IX, § 9005</ref>, as added <ref>Pub. L. 113–121, title III, § 3016(e)(2)</ref>, <date date="2014-06-10">June 10, 2014</date>, <ref>128 Stat. 1293</ref>; <ref>Pub. L. 114–322, title I, § 1130(c)</ref>, <date date="2016-12-16">Dec. 16, 2016</date>, <ref>130 Stat. 1650</ref>; <ref>Pub. L. 115–270, title I, § 1144(1)</ref>, <date date="2018-10-23">Oct. 23, 2018</date>, <ref>132 Stat. 3785</ref>; <ref>Pub. L. 117–263, div. H, title LXXXI, § 8387(b)</ref>, (c), <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 3830</ref>, 3831; <ref>Pub. L. 118–272, div. A, title III, § 1303(d)</ref>, <date date="2025-01-04">Jan. 4, 2025</date>, <ref>138 Stat. 3114</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3303b.</num>
+<heading> Reports</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> State of levees</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Not later than 1 year after <date date="2016-12-16">December 16, 2016</date>, and biennially thereafter, the Secretary in coordination with the committee, shall submit to Congress and make publicly available a report describing the state of levees in the United States and the effectiveness of the levee safety initiative, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> progress achieved in implementing the levee safety initiative;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> State, regional, and tribal participation in the levee safety initiative;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> recommendations to improve coordination of levee safety, floodplain management, and environmental protection concerns, including—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> identifying and evaluating opportunities to coordinate public safety, floodplain management, and environmental protection activities relating to levees; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> evaluating opportunities to coordinate environmental permitting processes for operation and maintenance activities at existing levee projects in compliance with all applicable laws; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> any recommendations for legislation and other congressional actions necessary to ensure national levee safety.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Inclusion</heading>
+<content>
+<p class="indent1">Each report under paragraph (1) shall include a report of the committee that describes the independent recommendations of the committee for the implementation of the levee safety initiative.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> National dam and levee safety program</heading>
+<content>
+<p class="indent0">Not later than 3 years after <date date="2014-06-10">June 10, 2014</date>, to the maximum extent practicable, the Secretary and the Administrator, in coordination with the committee, shall submit to Congress and make publicly available a report that includes recommendations regarding the advisability and feasibility of, and potential approaches for, establishing a joint national dam and levee safety program.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Alignment of Federal programs relating to levees</heading>
+<chapeau class="indent0">Not later than 2 years after <date date="2016-12-16">December 16, 2016</date>, the Comptroller General of the United States shall submit to Congress a report on opportunities for alignment of Federal programs to provide incentives to State, regional, tribal, and local governments and individuals and entities—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to promote shared responsibility for levee safety;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to encourage the development of strong State, regional, and tribal levee safety programs;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to better align the levee safety initiative with other Federal flood risk management programs; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> to promote increased levee safety through other Federal programs providing assistance to State, regional, tribal, and local governments.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Liability for certain levee engineering projects</heading>
+<chapeau class="indent0">Not later than 1 year after <date date="2016-12-16">December 16, 2016</date>, the Secretary shall submit to Congress and make publicly available a report that includes recommendations that identify and address any legal liability associated with levee engineering projects that prevent—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> levee owners from obtaining needed levee engineering services; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> development and implementation of a State, regional, or tribal levee safety program.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 110–114, title IX, § 9006</ref>, as added <ref>Pub. L. 113–121, title III, § 3016(e)(2)</ref>, <date date="2014-06-10">June 10, 2014</date>, <ref>128 Stat. 1299</ref>; amended <ref>Pub. L. 114–322, title I, § 1130(d)</ref>, <date date="2016-12-16">Dec. 16, 2016</date>, <ref>130 Stat. 1652</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3304.</num>
+<heading> Limitations on statutory construction</heading>
+<chapeau class="indent0">Nothing in this chapter shall be construed as—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> creating any liability of the United States or its officers or employees for the recovery of damages caused by an action or failure to act; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> relieving an owner or operator of a levee of a legal duty, obligation, or liability incident to the ownership or operation of a levee.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 110–114, title IX, § 9007</ref>, formerly § 9005, <date date="2007-11-08">Nov. 8, 2007</date>, <ref>121 Stat. 1290</ref>; renumbered § 9007, <ref>Pub. L. 113–121, title III, § 3016(e)(1)</ref>, <date date="2014-06-10">June 10, 2014</date>, <ref>128 Stat. 1293</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3305.</num>
+<heading> Authorization of appropriations</heading>
+<chapeau class="indent0">There is authorized to be appropriated to the Secretary—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> to carry out sections 3302, 3303a(c), 3303a(d), 3303a(e), and 3303a(f) of this title, $4,000,000 for each of fiscal years 2019 through 2023;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> to carry out <ref>section 3303 of this title</ref>, $20,000,000 for each of fiscal years 2019 through 2023; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> to carry out <ref>section 3303a(h) of this title</ref>, $30,000,000 for each of fiscal years 2019 through 2023.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 110–114, title IX, § 9008</ref>, formerly § 9006, <date date="2007-11-08">Nov. 8, 2007</date>, <ref>121 Stat. 1291</ref>; renumbered § 9008 and amended <ref>Pub. L. 113–121, title III, § 3016(e)(1)</ref>, (f), <date date="2014-06-10">June 10, 2014</date>, <ref>128 Stat. 1293</ref>, 1300; <ref>Pub. L. 115–270, title I, § 1144(2)</ref>, <date date="2018-10-23">Oct. 23, 2018</date>, <ref>132 Stat. 3785</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3306.</num>
+<heading> Certain levee improvements</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">Notwithstanding section 211 of the Water Resources Development Act of 2000 (<ref>31 U.S.C. 6505</ref> note), the Secretary, at the request of a local government, is authorized to provide technical services, on a reimbursable basis, to the local government to assess the reasons a federally constructed levee owned or operated by the local government is not accredited by the Federal Emergency Management Agency.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Federal levees</heading>
+<content>
+<p class="indent0">In carrying out this section, in a case in which a levee owned and operated by the Secretary is hydraulically tied to a levee described in subsection (a), the Secretary is encouraged to cooperate, to the maximum extent practicable, with the relevant local governmental entities in assessing the reasons the levee described in subsection (a) is not accredited.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Limitation</heading>
+<chapeau class="indent0">Nothing in this section—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> affects the responsibilities of a local government to operate and maintain its flood control infrastructure; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> obligates the Secretary to expend additional Federal resources on levees owned and operated by the Secretary.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 115–270, title I, § 1123</ref>, <date date="2018-10-23">Oct. 23, 2018</date>, <ref>132 Stat. 3779</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3307.</num>
+<heading> Assessment of Corps of Engineers levees</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Secretary shall periodically conduct assessments of federally authorized levees under the jurisdiction of the Corps of Engineers, to evaluate the potential Federal interest in the modification (including realignment or incorporation of natural features and nature-based features, as such terms are defined in <ref>section 2289a(a) of this title</ref>) of levee systems to meet one or more of the following objectives:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Increasing the flood risk reduction benefits of such systems.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Achieving greater flood resiliency.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Restoring hydrological and ecological connections with adjacent floodplains that achieve greater environmental benefits without undermining flood risk reduction or flood resiliency for levee-protected communities.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Levees operated by non-Federal interests</heading>
+<chapeau class="indent0">The Secretary shall carry out an assessment under subsection (a) for a federally authorized levee system operated by a non-Federal interest only if the non-Federal interest—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> requests the assessment; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> agrees to provide 50 percent of the cost of the assessment.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Assessments</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Considerations</heading>
+<chapeau class="indent1">In conducting an assessment under subsection (a), the Secretary shall consider and identify, with respect to each levee system—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an estimate of the number of structures and population at risk and protected by the levee system that would be adversely impacted if the levee system fails or water levels exceed the height of any levee segment within the levee system (which may be the applicable estimate included in the levee database established under <ref>section 3303 of this title</ref>, if available);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the number of times the non-Federal interest has received emergency flood-fighting or repair assistance under <ref>section 701n of this title</ref> for the levee system, and the total expenditures on postflood repairs over the life of the levee system;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the functionality of the levee system with regard to higher precipitation levels, including due to changing climatic conditions and extreme weather events;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the potential costs and benefits (including environmental benefits and implications for levee-protected communities) from modifying the applicable levee system to restore connections with adjacent floodplains; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> available studies, information, literature, or data from relevant Federal, State, or local entities.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Prioritization</heading>
+<chapeau class="indent1">In conducting an assessment under subsection (a), the Secretary shall, to the maximum extent practicable, prioritize levee systems—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> associated with an area that has been subject to flooding in two or more events in any 10-year period; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> for which the non-Federal interest has received emergency flood-fighting or repair assistance under <ref>section 701n of this title</ref> with respect to such flood events.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Scope</heading>
+<content>
+<p class="indent1">The Secretary shall ensure that an assessment under subsection (a) shall be similar in cost and scope to an initial assessment prepared by the Secretary pursuant to <ref>section 549a of this title</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Flood plain management services</heading>
+<content>
+<p class="indent0">In conducting an assessment under subsection (a), the Secretary shall consider information on floods and flood damages compiled under <ref>section 709a of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Report to Congress</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Not later than 18 months after <date date="2022-12-23">December 23, 2022</date>, and periodically thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the results of the assessments conducted under subsection (a).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Inclusion</heading>
+<chapeau class="indent1">The Secretary shall include in each report submitted under paragraph (1)—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> identification of any levee system for which the Secretary has conducted an assessment under subsection (a);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a description of any opportunities identified under such subsection for the modification of a levee system, including the potential benefits of such modification for the purposes identified under such subsection;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> information relating to the willingness and ability of each applicable non-Federal interest to participate in a modification to the relevant levee system, including by obtaining any real estate necessary for the modification; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> a summary of the information considered and identified under subsection (c)(1).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Incorporation of information</heading>
+<content>
+<p class="indent0">The Secretary shall include in the levee database established under <ref>section 3303 of this title</ref> the information included in each report submitted under subsection (e), and make such information publicly available (including on a publicly available website).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Levee system defined</heading>
+<content>
+<p class="indent0">In this section, the term “levee system” has the meaning given that term in <ref>section 3301(9) of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Authorization of appropriations</heading>
+<content>
+<p class="indent0">There is authorized to be appropriated to carry out this section $10,000,000, to remain available until expended.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 117–263, div. H, title LXXXI, § 8121</ref>, <date date="2022-12-23">Dec. 23, 2022</date>, <ref>136 Stat. 3712</ref>.)</sourceCredit>
+</section>
+</chapter>

@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 1—</num>
+<heading>GENERAL</heading>
+<subchapter>
+<num>SUBCHAPTER I—</num>
+<heading>PURPOSE AND DEFINITIONS</heading>
+<section>
+<num>§ 101.</num>
+<heading> Purpose</heading>
+<chapeau class="indent0">The purpose of this subtitle is to provide the Federal Government with an economical and efficient system for the following activities:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Procuring and supplying property and nonpersonal services, and performing related functions including contracting, inspection, storage, issue, setting specifications, identification and classification, transportation and traffic management, establishment of pools or systems for transportation of Government personnel and property by motor vehicle within specific areas, management of public utility services, repairing and converting, establishment of inventory levels, establishment of forms and procedures, and representation before federal and state regulatory bodies.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> Using available property.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> Disposing of surplus property.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> Records management.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1063</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 102.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">Except as provided in subchapter VII of chapter 5 of this title, the following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Care and handling</inline>.—</heading>
+<chapeau>The term “care and handling” includes—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> completing, repairing, converting, rehabilitating, operating, preserving, protecting, insuring, packing, storing, handling, conserving, and transporting excess and surplus property; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> rendering innocuous, or destroying, property that is dangerous to public health or safety.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Contractor inventory</inline>.—</heading>
+<chapeau>The term “contractor inventory” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> property, in excess of amounts needed to complete full performance, that is acquired by and in possession of a contractor or subcontractor under a contract pursuant to which title is vested in the Federal Government; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> property that the Government is obligated or has the option to take over, under any type of contract, as a result of changes in specifications or plans under the contract, or as a result of termination of the contract (or a subcontract), prior to completion of the work, for the convenience or at the option of the Government.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Excess property</inline>.—</heading>
+<content>The term “excess property” means property under the control of a federal agency that the head of the agency determines is not required to meet the agency’s needs or responsibilities.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Executive agency</inline>.—</heading>
+<chapeau>The term “executive agency” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> an executive department or independent establishment in the executive branch of the Government; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a wholly owned Government corporation.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Federal agency</inline>.—</heading>
+<content>The term “federal agency” means an executive agency or an establishment in the legislative or judicial branch of the Government (except the Senate, the House of Representatives, and the Architect of the Capitol, and any activities under the direction of the Architect of the Capitol).</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Foreign excess property</inline>.—</heading>
+<content>The term “foreign excess property” means excess property that is not located in the States of the United States, the District of Columbia, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Virgin Islands.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<heading><inline class="small-caps">Motor vehicle</inline>.—</heading>
+<chapeau>The term “motor vehicle” means any vehicle, self-propelled or drawn by mechanical power, designed and operated principally for highway transportation of property or passengers, excluding—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a vehicle designed or used for military field training, combat, or tactical purposes, or used principally within the confines of a regularly established military post, camp, or depot; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a vehicle regularly used by an agency to perform investigative, law enforcement, or intelligence duties, if the head of the agency determines that exclusive control of the vehicle is essential for effective performance of duties.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<heading><inline class="small-caps">Nonpersonal services</inline>.—</heading>
+<content>The term “nonpersonal services” means contractual services designated by the Administrator of General Services, other than personal and professional services.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<heading><inline class="small-caps">Property</inline>.—</heading>
+<chapeau>The term “property” means any interest in property except—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<clause class="indent2">
+<num>(i)</num>
+<content> the public domain;</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> land reserved or dedicated for national forest or national park purposes;</content>
+</clause>
+<clause class="indent2">
+<num>(iii)</num>
+<content> minerals in land or portions of land withdrawn or reserved from the public domain which the Secretary of the Interior determines are suitable for disposition under the public land mining and mineral leasing laws; and</content>
+</clause>
+<clause class="indent2">
+<num>(iv)</num>
+<content> land withdrawn or reserved from the public domain except land or portions of land so withdrawn or reserved which the Secretary, with the concurrence of the Administrator, determines are not suitable for return to the public domain for disposition under the general public land laws because the lands are substantially changed in character by improvements or otherwise;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> naval vessels that are battleships, cruisers, aircraft carriers, destroyers, or submarines; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> records of the Government.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<heading><inline class="small-caps">Surplus property</inline>.—</heading>
+<content>The term “surplus property” means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1063</ref>; <ref>Pub. L. 111–350, § 5</ref>(<i>l</i>)(2), <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3850</ref>; <ref>Pub. L. 114–318, § 3(b)(2)</ref>, <date date="2016-12-16">Dec. 16, 2016</date>, <ref>130 Stat. 1613</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER II—</num>
+<heading>SCOPE</heading>
+<section>
+<num>§ 111.</num>
+<heading> Application to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41</heading>
+<chapeau class="indent0">In the following provisions, the words “this subtitle” are deemed to refer also to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content><ref>Section 101 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content><ref>Section 112(a) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content><ref>Section 113 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content><ref>Section 121(a) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content><ref>Section 121(c)(1) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content><ref>Section 121(c)(2) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> Section 121(d)(1) and (2) of this title.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content><ref>Section 121(e)(1) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content><ref>Section 121(f) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content><ref>Section 121(g) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content><ref>Section 122(a) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<content><ref>Section 123(a) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<content><ref>Section 123(c) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(14)</num>
+<content><ref>Section 124 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(15)</num>
+<content><ref>Section 126 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(16)</num>
+<content><ref>Section 311(c) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(17)</num>
+<content><ref>Section 313(a) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(18)</num>
+<content><ref>Section 528 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(19)</num>
+<content><ref>Section 541 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(20)</num>
+<content><ref>Section 549(e)(3)(H)(i)(II) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(21)</num>
+<content><ref>Section 557 of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(22)</num>
+<content><ref>Section 558(a) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(23)</num>
+<content><ref>Section 559(f) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(24)</num>
+<content><ref>Section 571(b) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(25)</num>
+<content><ref>Section 572(a)(2)(A) of this title</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(26)</num>
+<content><ref>Section 572(b)(4) of this title</ref>.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1065</ref>; <ref>Pub. L. 111–350, § 5</ref>(<i>l</i>)(3), <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3850</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 112.</num>
+<heading> Applicability of certain policies, procedures, and directives in effect on <date date="1949-07-01">July 1, 1949</date></heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>A policy, procedure, or directive described in subsection (b) remains in effect until superseded or amended under this subtitle or other appropriate authority.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Description</inline>.—</heading>
+<chapeau>A policy, procedure, or directive referred to in subsection (a) is one that was in effect on <date date="1949-07-01">July 1, 1949</date>, and that was prescribed by—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the Director of the Bureau of Federal Supply or the Secretary of the Treasury and that related to a function transferred to or vested in the Administrator of General Services on <date date="1949-06-30">June 30, 1949</date>, by the Federal Property and Administrative Services Act of 1949; <ref class="footnoteRef" idref="fn002000">1</ref></content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> an officer of the Federal Government under authority of the Surplus Property Act of 1944 (ch. 479, <ref>58 Stat. 765</ref>) or other authority related to surplus property or foreign excess property;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the Federal Works Administrator or the head of a constituent agency of the Federal Works Agency; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the Archivist of the United States or another officer or body whose functions were transferred on <date date="1949-06-30">June 30, 1949</date>, by title I <sup>1</sup> of the Federal Property and Administrative Services Act of 1949.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1065</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 113.</num>
+<heading> Limitations</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>Except as otherwise provided in this section, the authority conferred by this subtitle is in addition to any other authority conferred by law and is not subject to any inconsistent provision of law.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Limitation Regarding Division B (Except Sections 1704 and 2303) of Subtitle I of Title 41</inline>.—</heading>
+<content>The authority conferred by this subtitle is subject to division B (Except <ref class="footnoteRef" idref="fn002001">1</ref> Sections <ref class="footnoteRef" idref="fn002001">1</ref> 1704 and 2303) of subtitle I of title 41.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Limitation Regarding Certain Government Corporations and Agencies</inline>.—</heading>
+<content>Sections 121(b) and 506(c) of this title do not apply to a Government corporation or agency that is subject to chapter 91 of title 31.</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading><inline class="small-caps">Limitation Regarding Congress</inline>.—</heading>
+<content>This subtitle does not apply to the Senate or the House of Representatives (including the Architect of the Capitol and any building, activity, or function under the direction of the Architect). However, services and facilities authorized by this subtitle shall, as far as practicable, be made available to the Senate, the House of Representatives, and the Architect of the Capitol on their request. If payment would be required for providing a similar service or facility to an executive agency, payment shall be made by the recipient, on presentation of proper vouchers, in advance or by reimbursement (as may be agreed upon by the Administrator of General Services and the officer or body making the request). The payment may be credited to the applicable appropriation of the executive agency receiving the payment.</content>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading><inline class="small-caps">Other Limitations</inline>.—</heading>
+<chapeau>Nothing in this subtitle impairs or affects the authority of—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the President under the Philippine Property Act of 1946 (<ref>22 U.S.C. 1381</ref> et seq.);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> an executive agency, with respect to any program conducted for purposes of resale, price support, grants to farmers, stabilization, transfer to foreign governments, or foreign aid, relief, or rehabilitation, but the agency carrying out the program shall, to the maximum extent practicable, consistent with the purposes of the program and the effective, efficient conduct of agency business, coordinate its operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> an executive agency named in <ref>section 3063 of title 10</ref>, and the head of the agency, with respect to the administration of the provisions of that title referred to in section 3016 of such title as “chapter 137 legacy provisions”;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> the Secretary of Defense with respect to property required for or located in occupied territories;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the Secretary of Defense with respect to the administration of <ref>section 4881 of title 10</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> the Secretary of Defense and the Secretaries of the Army, Navy, and Air Force with respect to the administration of the Strategic and Critical Materials Stock Piling Act (<ref>50 U.S.C. 98</ref> et seq.);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> the Secretary of State under the Foreign Service Buildings Act, 1926 (<ref>22 U.S.C. 292</ref> et seq.);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<chapeau> the Secretary of Agriculture under—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Richard B. Russell National School Lunch Act (<ref>42 U.S.C. 1751</ref> et seq.);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Farmers Home Administration Act of 1946 (ch. 964, <ref>60 Stat. 1062</ref>);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content><ref>section 32 of the Act of August 24, 1935</ref> (<ref>7 U.S.C. 612c</ref>), with respect to the exportation and domestic consumption of agricultural products;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> section 201 of the Agricultural Adjustment Act of 1938 (<ref>7 U.S.C. 1291</ref>); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> section 203(j) of the Agricultural Marketing Act of 1946 (<ref>7 U.S.C. 1622(j)</ref>);</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> an official or entity under the Farm Credit Act of 1971 (<ref>12 U.S.C. 2001</ref> et seq.), with respect to the acquisition or disposal of property;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<chapeau> the Secretary of Housing and Urban Development or the Federal Deposit Insurance Corporation (or an officer of the Corporation) with respect to the disposal of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> residential property; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> other property—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> acquired or held as part of, or in connection with, residential property; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> held in connection with the insurance of mortgages, loans, or savings association accounts under the National Housing Act (<ref>12 U.S.C. 1701</ref> et seq.), the Federal Deposit Insurance Act (<ref>12 U.S.C. 1811</ref> et seq.), or any other law;</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> the Tennessee Valley Authority with respect to nonpersonal services, with respect to <ref>section 501(c) of this title</ref>, and with respect to property acquired in connection with a program of processing, manufacture, production, or force account construction, but the Authority shall, to the maximum extent it considers practicable, consistent with the purposes of its program and the effective, efficient conduct of its business, coordinate its operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<content> the Secretary of Energy with respect to atomic energy;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<content> the Secretary of Transportation or the Secretary of Commerce with respect to the disposal of airport property and airway property (as those terms are defined in <ref>section 47301 of title 49</ref>) for use as such property;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(14)</num>
+<content> the United States Postal Service;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(15)</num>
+<content> the Maritime Administration with respect to the acquisition, procurement, operation, maintenance, preservation, sale, lease, charter, construction, reconstruction, or reconditioning (including outfitting and equipping incidental to construction, reconstruction, or reconditioning) of a merchant vessel or shipyard, ship site, terminal, pier, dock, warehouse, or other installation necessary or appropriate for carrying out a program of the Administration authorized by law or nonadministrative activities incidental to a program of the Administration authorized by law, but the Administration shall, to the maximum extent it considers practicable, consistent with the purposes of its programs and the effective, efficient conduct of its activities, coordinate its operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(16)</num>
+<content> the Central Intelligence Agency;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(17)</num>
+<content> the Joint Committee on Printing, under title 44 or any other law;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(18)</num>
+<content> the Secretary of the Interior with respect to procurement for program operations under the Bonneville Project Act of 1937 (<ref>16 U.S.C. 832</ref> et seq.);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(19)</num>
+<content> the Secretary of State with respect to the furnishing of facilities in foreign countries and reception centers within the United States; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(20)</num>
+<content> the Office of the Director of National Intelligence.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1066</ref>; <ref>Pub. L. 108–458, title I, § 1080</ref>, <date date="2004-12-17">Dec. 17, 2004</date>, <ref>118 Stat. 3696</ref>; <ref>Pub. L. 111–350, § 5</ref>(<i>l</i>)(4), <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3851</ref>; <ref>Pub. L. 117–81, div. A, title XVII, § 1702(g)(1)</ref>, <date date="2021-12-27">Dec. 27, 2021</date>, <ref>135 Stat. 2157</ref>.)</sourceCredit>
+</section>
+</subchapter>
+<subchapter>
+<num>SUBCHAPTER III—</num>
+<heading>ADMINISTRATIVE AND GENERAL</heading>
+<section>
+<num>§ 121.</num>
+<heading> Administrative</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Policies Prescribed by the President</inline>.—</heading>
+<content>The President may prescribe policies and directives that the President considers necessary to carry out this subtitle. The policies must be consistent with this subtitle.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading>
+<inline class="small-caps">Accounting Principles and Standards.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Prescription</inline>.—</heading>
+<content>The Comptroller General, after considering the needs and requirements of executive agencies, shall prescribe principles and standards of accounting for property.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Property accounting systems</inline>.—</heading>
+<content>The Comptroller General shall cooperate with the Administrator of General Services and with executive agencies in the development of property accounting systems and approve the systems when they are adequate and in conformity with prescribed principles and standards.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Compliance review</inline>.—</heading>
+<content>From time to time the Comptroller General shall examine the property accounting systems established by executive agencies to determine the extent of compliance with prescribed principles and standards and approved systems. The Comptroller General shall report to Congress any failure to comply with the principles and standards or to adequately account for property.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Regulations by Administrator.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">General authority</inline>.—</heading>
+<content>The Administrator may prescribe regulations to carry out this subtitle.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Required regulations and orders</inline>.—</heading>
+<content>The Administrator shall prescribe regulations that the Administrator considers necessary to carry out the Administrator’s functions under this subtitle and the head of each executive agency shall issue orders and directives that the agency head considers necessary to carry out the regulations.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading>
+<inline class="small-caps">Delegation of Authority by Administrator.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Except as provided in paragraph (2), the Administrator may delegate authority conferred on the Administrator by this subtitle to an official in the General Services Administration or to the head of another federal agency. The Administrator may authorize successive redelegation of authority conferred by this subtitle.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Exceptions</inline>.—</heading>
+<chapeau>The Administrator may not delegate—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the authority to prescribe regulations on matters of policy applying to executive agencies;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the authority to transfer functions and related allocated amounts from one component of the Administration to another under paragraphs (1)(C) and (2)(A) of subsection (e); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> other authority for which delegation is prohibited by this subtitle.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Retention and use of rental payments</inline>.—</heading>
+<content>A department or agency to which the Administrator has delegated authority to operate, maintain or repair a building or facility under this subsection shall retain the portion of the rental payment that the Administrator determines is available to operate, maintain or repair the building or facility. The department or agency shall directly expend the retained amounts to operate, maintain, or repair the building or facility. Any amounts retained under this paragraph shall remain available until expended for these purposes.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(e)</num>
+<heading>
+<inline class="small-caps">Assignment of Functions by Administrator.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<chapeau>The Administrator may provide for the performance of a function assigned under this subtitle by any of the following methods:</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> The Administrator may direct the Administration to perform the function.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> The Administrator may designate or establish a component of the Administration and direct the component to perform the function.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> The Administrator may transfer the function from one component of the Administration to another.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> The Administrator may direct an executive agency to perform the function for itself, with the consent of the agency or by direction of the President.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> The Administrator may direct one executive agency to perform the function for another executive agency, with the consent of the agencies concerned or by direction of the President.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> The Administrator may provide for performance of a function by a combination of the methods described in this paragraph.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading>
+<inline class="small-caps">Transfer of resources.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">Within administration</inline>.—</heading>
+<content>If the Administrator transfers a function from one component of the Administration to another, the Administrator may also provide for the transfer of appropriate allocated amounts from the component that previously carried out the function to the component being directed to carry out the function. A transfer under this subparagraph must be reported to the Director of the Office of Management and Budget.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Between agencies</inline>.—</heading>
+<content>If the Administrator transfers a function from one executive agency to another (including a transfer to or from the Administration), the Administrator may also provide for the transfer of appropriate personnel, records, property, and allocated amounts from the executive agency that previously carried out the function to the executive agency being directed to carry out the function. A transfer under this subparagraph is subject to approval by the Director.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(f)</num>
+<heading><inline class="small-caps">Advisory Committees</inline>.—</heading>
+<content>The Administrator may establish advisory committees to provide advice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under <ref>section 5703 of title 5</ref>.</content>
+</subsection>
+<subsection class="indent0">
+<num>(g)</num>
+<heading><inline class="small-caps">Consultation With Federal Agencies</inline>.—</heading>
+<content>The Administrator shall advise and consult with interested federal agencies and seek their advice and assistance to accomplish the purposes of this subtitle.</content>
+</subsection>
+<subsection class="indent0">
+<num>(h)</num>
+<heading><inline class="small-caps">Administering Oaths</inline>.—</heading>
+<content>In carrying out investigative duties, an officer or employee of the Administration, if authorized by the Administrator, may administer an oath to an individual.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1068</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 122.</num>
+<heading> Prohibition on sex discrimination</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">Prohibition</inline>.—</heading>
+<content>With respect to a program or activity carried on or receiving federal assistance under this subtitle, an individual may not be excluded from participation, denied benefits, or otherwise discriminated against based on sex.</content>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Enforcement</inline>.—</heading>
+<content>Subsection (a) shall be enforced through agency provisions and rules similar to those already established with respect to racial and other discrimination under title VI of the Civil Rights Act of 1964 (<ref>42 U.S.C. 2000d</ref> et seq.). However, this remedy is not exclusive and does not prejudice or remove any other legal remedies available to an individual alleging discrimination.</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1070</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 123.</num>
+<heading> Civil remedies for fraud</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<chapeau>In connection with the procurement, transfer or disposition of property under this subtitle, a person that uses or causes to be used, or enters into an agreement, combination, or conspiracy to use or cause to be used, a fraudulent trick, scheme, or device for the purpose of obtaining or aiding to obtain, for any person, money, property, or other benefit from the Federal Government—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> shall pay to the Government an amount equal to the sum of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> $2,000 for each act;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> two times the amount of damages sustained by the Government because of each act; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the cost of suit;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> if the Government elects, shall pay to the Government, as liquidated damages, an amount equal to two times the consideration that the Government agreed to give to the person, or that the person agreed to give to the Government; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> if the Government elects, shall restore to the Government the money or property fraudulently obtained, with the Government retaining as liquidated damages, the money, property, or other consideration given to the Government.</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">Additional Remedies and Criminal Penalties</inline>.—</heading>
+<content>The civil remedies provided in this section are in addition to all other civil remedies and criminal penalties provided by law.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading><inline class="small-caps">Immunity of Government Officials</inline>.—</heading>
+<content>An officer or employee of the Government is not liable (except for an individual’s own fraud) or accountable for collection of a purchase price that is determined to be uncollectible by the federal agency responsible for property if the property is transferred or disposed of in accordance with this subtitle and with regulations prescribed under this subtitle.</content>
+</subsection>
+<subsection class="indent0">
+<num>(d)</num>
+<heading>
+<inline class="small-caps">Jurisdiction and Venue.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Definition</inline>.—</heading>
+<content>In this subsection, the term “district court” means a district court of the United States or a district court of a territory or possession of the United States.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>A district court has original jurisdiction of an action arising under this section, and venue is proper, if at least one defendant resides or may be found in the court’s judicial district. Jurisdiction and venue are determined without regard to the place where acts were committed.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Additional defendant outside judicial district</inline>.—</heading>
+<content>A defendant that does not reside and may not be found in the court’s judicial district may be brought in by order of the court, to be served personally, by publication, or in another reasonable manner directed by the court.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1070</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 124.</num>
+<heading> Agency use of amounts for property management</heading>
+<content>
+<p class="indent0">Amounts appropriated, allocated, or available to a federal agency for purposes similar to the purposes in <ref>section 121 of this title</ref> or subchapter I (except section 506), II, or III of chapter 5 of this title may be used by the agency for the disposition of property under this subtitle, and for the care and handling of property pending the disposition, if the Director of the Office of Management and Budget authorizes the use.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1071</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 125.</num>
+<heading> Library memberships</heading>
+<content>
+<p class="indent0">Amounts appropriated may be used, when authorized by the Administrator of General Services, for payment in advance for library memberships in societies whose publications are available to members only, or to members at a lower price than that charged to the general public.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1071</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 126.</num>
+<heading> Reports to Congress</heading>
+<content>
+<p class="indent0">The Administrator of General Services, at times the Administrator considers desirable, shall submit a report to Congress on the administration of this subtitle. The report shall include any recommendation for amendment of this subtitle that the Administrator considers appropriate and shall identify any law that is obsolete because of the enactment or operation of this subtitle.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1071</ref>.)</sourceCredit>
+</section>
+</subchapter>
+</chapter>

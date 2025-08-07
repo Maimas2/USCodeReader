@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 24—</num>
+<heading>COLLECTION OF INCOME TAX AT SOURCE ON WAGES</heading>
+<section>
+<num>§ 3401.</num>
+<heading> Definitions</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Wages</heading>
+<chapeau class="indent0">For purposes of this chapter, the term “wages” means all remuneration (other than fees paid to a public official) for services performed by an employee for his employer, including the cash value of all remuneration (including benefits) paid in any medium other than cash; except that such term shall not include remuneration paid—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> for active service performed in a month for which such employee is entitled to the benefits of section 112 (relating to certain combat zone compensation of members of the Armed Forces of the United States) to the extent remuneration for such service is excludable from gross income under such section,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> for agricultural labor (as defined in section 3121(g)) unless the remuneration paid for such labor is wages (as defined in section 3121(a)),</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> for domestic service in a private home, local college club, or local chapter of a college fraternity or sorority,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> for service not in the course of the employer’s trade or business performed in any calendar quarter by an employee, unless the cash remuneration paid for such service is $50 or more and such service is performed by an individual who is regularly employed by such employer to perform such service. For purposes of this paragraph, an individual shall be deemed to be regularly employed by an employer during a calendar quarter only if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> on each of some 24 days during such quarter such individual performs for such employer for some portion of the day service not in the course of the employer’s trade or business, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> such individual was regularly employed (as determined under subparagraph (A)) by such employer in the performance of such service during the preceding calendar quarter,</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> for services by a citizen or resident of the United States for a foreign government or an international organization,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> for such services, performed by a nonresident alien individual, as may be designated by regulations prescribed by the Secretary,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>[(7)</num>
+<content> Repealed. <ref>Pub. L. 89–809, title I, § 103(k)</ref>, <date date="1966-11-13">Nov. 13, 1966</date>, <ref>80 Stat. 1554</ref>]</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<subparagraph class="indent1">
+<num>(A)</num>
+<chapeau> for services for an employer (other than the United States or any agency thereof)—</chapeau>
+<clause class="indent2">
+<num>(i)</num>
+<content> performed by a citizen of the United States if, at the time of the payment of such remuneration, it is reasonable to believe that such remuneration will be excluded from gross income under section 911, or</content>
+</clause>
+<clause class="indent2">
+<num>(ii)</num>
+<content> performed in a foreign country or in a possession of the United States by such a citizen if, at the time of the payment of such remuneration, the employer is required by the law of any foreign country or possession of the United States to withhold income tax upon such remuneration,</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within a possession of the United States (other than Puerto Rico), if it is reasonable to believe that at least 80 percent of the remuneration to be paid to the employee by such employer during the calendar year will be for such services,</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(C)</num>
+<content> for services for an employer (other than the United States or any agency thereof) performed by a citizen of the United States within Puerto Rico, if it is reasonable to believe that during the entire calendar year the employee will be a bona fide resident of Puerto Rico, or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(D)</num>
+<content> for services for the United States (or any agency thereof) performed by a citizen of the United States within a possession of the United States to the extent the United States (or such agency) withholds taxes on such remuneration pursuant to an agreement with such possession,</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<content> for services performed by a duly ordained, commissioned, or licensed minister of a church in the exercise of his ministry or by a member of a religious order in the exercise of duties required by such order,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> for services performed by an individual under the age of 18 in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution, or</content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> for services performed by an individual in, and at the time of, the sale of newspapers or magazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such services, or is entitled to be credited with the unsold newspapers or magazines turned back,</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> for services not in the course of the employer’s trade or business, to the extent paid in any medium other than cash,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(12)</num>
+<chapeau> to, or on behalf of, an employee or his beneficiary—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> from or to a trust described in section 401(a) which is exempt from tax under section 501(a) at the time of such payment unless such payment is made to an employee of the trust as remuneration for services rendered as such employee and not as a beneficiary of the trust,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> under or to an annuity plan which, at the time of such payment, is a plan described in section 403(a),</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> for a payment described in section 402(h)(1) and (2) if, at the time of such payment, it is reasonable to believe that the employee will be entitled to an exclusion under such section for payment,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> under an arrangement to which section 408(p) applies, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> under or to an eligible deferred compensation plan which, at the time of such payment, is a plan described in section 457(b) which is maintained by an eligible employer described in section 457(e)(1)(A),</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(13)</num>
+<content> pursuant to any provision of law other than section 5(c) or 6(1) of the Peace Corps Act, for service performed as a volunteer or volunteer leader within the meaning of such Act,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(14)</num>
+<content> in the form of group-term life insurance on the life of an employee,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(15)</num>
+<content> to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it is reasonable to believe that a corresponding deduction is allowable under section 217 (determined without regard to section 274(n)),</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(16)</num>
+<subparagraph class="indent1">
+<num>(A)</num>
+<content> as tips in any medium other than cash,<ref class="footnoteRef" idref="fn002203">1</ref></content>
+</subparagraph>
+<subparagraph class="indent1">
+<num>(B)</num>
+<content> as cash tips to an employee in any calendar month in the course of his employment by an employer unless the amount of such cash tips is $20 or more,</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(17)</num>
+<content> for service described in section 3121(b)(20),</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(18)</num>
+<content> for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5),</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(19)</num>
+<content> for any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 108(f)(4), 117, or 132,</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(20)</num>
+<content> for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)),</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(21)</num>
+<content> for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b),</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(22)</num>
+<content> any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d), or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(23)</num>
+<content> for any benefit or payment which is excludable from the gross income of the employee under section 139B(b).</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">The term “wages” includes any amount includible in gross income of an employee under section 409A and payment of such amount shall be treated as having been made in the taxable year in which the amount is so includible.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Payroll period</heading>
+<content>
+<p class="indent0">For purposes of this chapter, the term “payroll period” means a period for which a payment of wages is ordinarily made to the employee by his employer, and the term “miscellaneous payroll period” means a payroll period other than a daily, weekly, biweekly, semimonthly, monthly, quarterly, semiannual, or annual payroll period.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Employee</heading>
+<content>
+<p class="indent0">For purposes of this chapter, the term “employee” includes an officer, employee, or elected official of the United States, a State, or any political subdivision thereof, or the District of Columbia, or any agency or instrumentality of any one or more of the foregoing. The term “employee” also includes an officer of a corporation.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Employer</heading>
+<chapeau class="indent0">For purposes of this chapter, the term “employer” means the person for whom an individual performs or performed any service, of whatever nature, as the employee of such person, except that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> if the person for whom the individual performs or performed the services does not have control of the payment of the wages for such services, the term “employer” (except for purposes of subsection (a)) means the person having control of the payment of such wages, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> in the case of a person paying wages on behalf of a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, the term “employer” (except for purposes of subsection (a)) means such person.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">[(e)</num>
+<heading class="bold"> Repealed. <ref>Pub. L. 115–97, title I, § 11041(c)(2)(A)</ref>, <date date="2017-12-22">Dec. 22, 2017</date>, <ref>131 Stat. 2082</ref>]</heading>
+<content/>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Tips</heading>
+<content>
+<p class="indent0">For purposes of subsection (a), the term “wages” includes tips received by an employee in the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Crew leader rules to apply</heading>
+<content>
+<p class="indent0">Rules similar to the rules of section 3121(<i>o</i>) shall apply for purposes of this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Differential wage payments to active duty members of the uniformed services</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">For purposes of subsection (a), any differential wage payment shall be treated as a payment of wages by the employer to the employee.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Differential wage payment</heading>
+<chapeau class="indent1">For purposes of paragraph (1), the term “differential wage payment” means any payment which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is made by an employer to an individual with respect to any period during which the individual is performing service in the uniformed services (as defined in chapter 43 of title 38, United States Code) while on active duty for a period of more than 30 days, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> represents all or a portion of the wages the individual would have received from the employer if the individual were performing service for the employer.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Qualified stock for which an election is in effect under section 83(i)</heading>
+<chapeau class="indent0">For purposes of subsection (a), qualified stock (as defined in section 83(i)) with respect to which an election is made under section 83(i) shall be treated as wages—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> received on the earliest date described in section 83(i)(1)(B), and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> in an amount equal to the amount included in income under section 83 for the taxable year which includes such date.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Aug. 16, 1954, ch. 736</ref>, <ref>68A Stat. 455</ref>; <ref>Aug. 9, 1955, ch. 681</ref>, <ref>69 Stat. 616</ref>; <ref>Pub. L. 87–256, § 110(g)(1)</ref>, <date date="1961-09-21">Sept. 21, 1961</date>, <ref>75 Stat. 537</ref>; <ref>Pub. L. 87–293, title II, § 201(c)</ref>, <date date="1961-09-22">Sept. 22, 1961</date>, <ref>75 Stat. 625</ref>; <ref>Pub. L. 87–792, § 7</ref>(<i>l</i>), <date date="1962-10-10">Oct. 10, 1962</date>, <ref>76 Stat. 830</ref>; <ref>Pub. L. 88–272, title II</ref>, §§ 204(b), 213(c), <date date="1964-02-26">Feb. 26, 1964</date>, <ref>78 Stat. 36</ref>, 52; <ref>Pub. L. 89–97, title III, § 313(d)(1)</ref>, (2), <date date="1965-07-30">July 30, 1965</date>, <ref>79 Stat. 383</ref>, 384; <ref>Pub. L. 89–809, title I, § 103(k)</ref>, <date date="1966-11-13">Nov. 13, 1966</date>, <ref>80 Stat. 1554</ref>; <ref>Pub. L. 92–279, § 2</ref>, <date date="1972-04-26">Apr. 26, 1972</date>, <ref>86 Stat. 125</ref>; <ref>Pub. L. 93–406, title II, § 2002(g)(7)</ref>, <date date="1974-09-02">Sept. 2, 1974</date>, <ref>88 Stat. 970</ref>; <ref>Pub. L. 94–455, title XII, § 1207(e)(1)(C)</ref>, title XV, § 1501(b)(7), title XIX, §§ 1903(c), 1906(b)(13)(A), <date date="1976-10-04">Oct. 4, 1976</date>, <ref>90 Stat. 1707</ref>, 1736, 1810, 1834; <ref>Pub. L. 95–600, title I, § 164(b)(1)</ref>, <date date="1978-11-06">Nov. 6, 1978</date>, <ref>92 Stat. 2813</ref>; <ref>Pub. L. 95–615, § 207(a)</ref>, <date date="1978-11-08">Nov. 8, 1978</date>, <ref>92 Stat. 3108</ref>; <ref>Pub. L. 96–222, title I, § 103(a)(13)(A)</ref>, <date date="1980-04-01">Apr. 1, 1980</date>, <ref>94 Stat. 213</ref>; <ref>Pub. L. 97–34, title I</ref>, §§ 112(b)(5), 124(e)(2)(A), title III, § 311(h)(6), <date date="1981-08-13">Aug. 13, 1981</date>, <ref>95 Stat. 195</ref>, 200, 282; <ref>Pub. L. 97–448, title I, § 103(c)(12)(B)</ref>, <date date="1983-01-12">Jan. 12, 1983</date>, <ref>96 Stat. 2377</ref>; <ref>Pub. L. 98–369, div. A, title IV, § 491(d)(38)</ref>, title V, § 531(d)(4), <date date="1984-07-18">July 18, 1984</date>, <ref>98 Stat. 851</ref>, 885; <ref>Pub. L. 99–514, title I, § 122(e)(4)</ref>, title XII, § 1272(c), <date date="1986-10-22">Oct. 22, 1986</date>, <ref>100 Stat. 2112</ref>, 2594; <ref>Pub. L. 100–647, title I</ref>, §§ 1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), <date date="1988-11-10">Nov. 10, 1988</date>, <ref>102 Stat. 3352</ref>, 3463, 3486, 3488; <ref>Pub. L. 101–140, title II, § 203(a)(2)</ref>, <date date="1989-11-08">Nov. 8, 1989</date>, <ref>103 Stat. 830</ref>; <ref>Pub. L. 101–239, title VII, § 7631(a)</ref>, (b), <date date="1989-12-19">Dec. 19, 1989</date>, <ref>103 Stat. 2378</ref>; <ref>Pub. L. 101–508, title XI, § 11703(f)(1)</ref>, <date date="1990-11-05">Nov. 5, 1990</date>, <ref>104 Stat. 1388–517</ref>; <ref>Pub. L. 104–117, § 1(c)</ref>, <date date="1996-03-20">Mar. 20, 1996</date>, <ref>110 Stat. 828</ref>; <ref>Pub. L. 104–188, title I</ref>, §§ 1421(b)(8)(D), 1704(t)(4)(C), <date date="1996-08-20">Aug. 20, 1996</date>, <ref>110 Stat. 1798</ref>, 1887; <ref>Pub. L. 104–191, title III, § 301(c)(2)(C)</ref>, <date date="1996-08-21">Aug. 21, 1996</date>, <ref>110 Stat. 2049</ref>; <ref>Pub. L. 105–206, title VI, § 6023(14)</ref>, (15), <date date="1998-07-22">July 22, 1998</date>, <ref>112 Stat. 825</ref>; <ref>Pub. L. 107–16, title VI, § 641(a)(1)(D)(i)</ref>, <date date="2001-06-07">June 7, 2001</date>, <ref>115 Stat. 119</ref>; <ref>Pub. L. 108–121, title I, § 106(b)(4)</ref>, <date date="2003-11-11">Nov. 11, 2003</date>, <ref>117 Stat. 1339</ref>; <ref>Pub. L. 108–173, title XII, § 1201(d)(2)(C)</ref>, <date date="2003-12-08">Dec. 8, 2003</date>, <ref>117 Stat. 2477</ref>; <ref>Pub. L. 108–357, title III, § 320(b)(4)</ref>, title VIII, § 885(b)(2), <date date="2004-10-22">Oct. 22, 2004</date>, <ref>118 Stat. 1473</ref>, 1639; <ref>Pub. L. 108–375, div. A, title V, § 585(b)(2)(D)</ref>, <date date="2004-10-28">Oct. 28, 2004</date>, <ref>118 Stat. 1932</ref>; <ref>Pub. L. 109–135, title IV, § 412(tt)</ref>, <date date="2005-12-21">Dec. 21, 2005</date>, <ref>119 Stat. 2640</ref>; <ref>Pub. L. 110–245, title I</ref>, §§ 105(a)(1), 115(c), <date date="2008-06-17">June 17, 2008</date>, <ref>122 Stat. 1628</ref>, 1637; <ref>Pub. L. 115–97, title I</ref>, §§ 11041(c)(2)(A), 13603(b)(1), <date date="2017-12-22">Dec. 22, 2017</date>, <ref>131 Stat. 2082</ref>, 2163; <ref>Pub. L. 115–141, div. U, title IV, § 401(a)(217)</ref>, <date date="2018-03-23">Mar. 23, 2018</date>, <ref>132 Stat. 1194</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3402.</num>
+<heading> Income tax collected at source</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Requirement of withholding</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Except as otherwise provided in this section, every employer making payment of wages shall deduct and withhold upon such wages a tax determined in accordance with tables or computational procedures prescribed by the Secretary. Any tables or procedures prescribed under this paragraph shall—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> apply with respect to the amount of wages paid during such periods as the Secretary may prescribe, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> be in such form, and provide for such amounts to be deducted and withheld, as the Secretary determines to be most appropriate to carry out the purposes of this chapter and to reflect the provisions of chapter 1 applicable to such periods.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Amount of wages</heading>
+<content>
+<p class="indent1">For purposes of applying tables or procedures prescribed under paragraph (1), the term “the amount of wages” means the amount by which the wages exceed the taxpayer’s withholding allowance, prorated to the payroll period.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Percentage method of withholding</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> If wages are paid with respect to a period which is not a payroll period, the withholding allowance allowable with respect to each payment of such wages shall be the allowance allowed for a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> In any case in which wages are paid by an employer without regard to any payroll period or other period, the withholding allowance allowable with respect to each payment of such wages shall be the allowance allowed for a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> In any case in which the period, or the time described in paragraph (2), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to compute the tax to be deducted and withheld as if the aggregate of the wages paid to the employee during the calendar week were paid for a weekly payroll period.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> In determining the amount to be deducted and withheld under this subsection, the wages may, at the election of the employer, be computed to the nearest dollar.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Wage bracket withholding</heading>
+<paragraph class="indent0">
+<num>(1)</num>
+<content> At the election of the employer with respect to any employee, the employer shall deduct and withhold upon the wages paid to such employee a tax (in lieu of the tax required to be deducted and withheld under subsection (a)) determined in accordance with tables prescribed by the Secretary in accordance with paragraph (6).</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(2)</num>
+<content> If wages are paid with respect to a period which is not a payroll period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(3)</num>
+<content> In any case in which wages are paid by an employer without regard to any payroll period or other period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(4)</num>
+<content> In any case in which the period, or the time described in paragraph (3), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to determine the amount to be deducted and withheld under the tables applicable in the case of a weekly payroll period, in which case the aggregate of the wages paid to the employee during the calendar week shall be considered the weekly wages.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(5)</num>
+<content> If the wages exceed the highest wage bracket, in determining the amount to be deducted and withheld under this subsection, the wages may, at the election of the employer, be computed to the nearest dollar.</content>
+</paragraph>
+<paragraph class="indent0">
+<num>(6)</num>
+<content> In the case of wages paid after <date date="1969-12-31">December 31, 1969</date>, the amount deducted and withheld under paragraph (1) shall be determined in accordance with tables prescribed by the Secretary. In the tables so prescribed, the amounts set forth as amounts of wages and amounts of income tax to be deducted and withheld shall be computed on the basis of the table for an annual payroll period prescribed pursuant to subsection (a).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Tax paid by recipient</heading>
+<content>
+<p class="indent0">If the employer, in violation of the provisions of this chapter, fails to deduct and withhold the tax under this chapter, and thereafter the tax against which such tax may be credited is paid, the tax so required to be deducted and withheld shall not be collected from the employer; but this subsection shall in no case relieve the employer from liability for any penalties or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Included and excluded wages</heading>
+<content>
+<p class="indent0">If the remuneration paid by an employer to an employee for services performed during one-half or more of any payroll period of not more than 31 consecutive days constitutes wages, all the remuneration paid by such employer to such employee for such period shall be deemed to be wages; but if the remuneration paid by an employer to an employee for services performed during more than one-half of any such payroll period does not constitute wages, then none of the remuneration paid by such employer to such employee for such period shall be deemed to be wages.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Withholding allowance</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Under rules determined by the Secretary, an employee receiving wages shall on any day be entitled to a withholding allowance determined based on—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> whether the employee is an individual for whom a deduction is allowable with respect to another taxpayer under section 151;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> if the employee is married, whether the employee’s spouse is entitled to an allowance, or would be so entitled if such spouse were an employee receiving wages, under subparagraph (A) or (D), but only if such spouse does not have in effect a withholding allowance certificate claiming such allowance;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the number of individuals with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable a credit under section 24 (determined after application of subsection (j) thereof) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> any additional amounts to which the employee elects to take into account under subsection (m), but only if the employee’s spouse does not have in effect a withholding allowance certificate making such an election;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> the standard deduction allowable to such employee (one-half of such standard deduction in the case of an employee who is married (as determined under section 7703) and whose spouse is an employee receiving wages subject to withholding); and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> whether the employee has withholding allowance certificates in effect with respect to more than 1 employer.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Allowance certificates</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> On commencement of employment</heading>
+<content>
+<p class="indent2">On or before the date of the commencement of employment with an employer, the employee shall furnish the employer with a signed withholding allowance certificate relating to the withholding allowance claimed by the employee, which shall in no event exceed the amount to which the employee is entitled.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Change of status</heading>
+<content>
+<p class="indent2">If, on any day during the calendar year, an employee’s withholding allowance is in excess of the withholding allowance to which the employee would be entitled had the employee submitted a true and accurate withholding allowance certificate to the employer on that day, the employee shall within 10 days thereafter furnish the employer with a new withholding allowance certificate. If, on any day during the calendar year, an employee’s withholding allowance is greater than the withholding allowance claimed, the employee may furnish the employer with a new withholding allowance certificate relating to the withholding allowance to which the employee is so entitled, which shall in no event exceed the amount to which the employee is entitled on such day.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Change of status which affects next calendar year</heading>
+<content>
+<p class="indent2">If on any day during the calendar year the withholding allowance to which the employee will be, or may reasonably be expected to be, entitled at the beginning of the employee’s next taxable year under subtitle A is different from the allowance to which the employee is entitled on such day, the employee shall, in such cases and at such times as the Secretary shall by regulations prescribe, furnish the employer with a withholding allowance certificate relating to the withholding allowance which the employee claims with respect to such next taxable year, which shall in no event exceed the withholding allowance to which the employee will be, or may reasonably be expected to be, so entitled.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> When certificate takes effect</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> First certificate furnished</heading>
+<content>
+<p class="indent2">A withholding allowance certificate furnished the employer in cases in which no previous such certificate is in effect shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Furnished to take place of existing certificate</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent3">Except as provided in clauses (ii) and (iii), a withholding allowance certificate furnished to the employer in cases in which a previous such certificate is in effect shall take effect as of the beginning of the 1st payroll period ending (or the 1st payment of wages made without regard to a payroll period) on or after the 30th day after the day on which such certificate is so furnished.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Employer may elect earlier effective date</heading>
+<content>
+<p class="indent3">At the election of the employer, a certificate described in clause (i) may be made effective beginning with any payment of wages made on or after the day on which the certificate is so furnished and before the 30th day referred to in clause (i).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iii)</num>
+<heading class="bold"> Change of status which affects next year</heading>
+<content>
+<p class="indent3">Any certificate furnished pursuant to paragraph (2)(C) shall not take effect, and may not be made effective, with respect to any payment of wages made in the calendar year in which the certificate is furnished.</p>
+</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Period during which certificate remains in effect</heading>
+<content>
+<p class="indent1">A withholding allowance certificate which takes effect under this subsection, or which on <date date="1954-12-31">December 31, 1954</date>, was in effect under the corresponding subsection of prior law, shall continue in effect with respect to the employer until another such certificate takes effect under this subsection.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Form and contents of certificate</heading>
+<content>
+<p class="indent1">Withholding allowance certificates shall be in such form and contain such information as the Secretary may by regulations prescribe.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Exemption of certain nonresident aliens</heading>
+<content>
+<p class="indent1">Notwithstanding the provisions of paragraph (1), a nonresident alien individual (other than an individual described in section 3401(a)(6)(A) or (B) <ref class="footnoteRef" idref="fn002204">1</ref> ) shall be entitled to only one withholding exemption.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Allowance where certificate with another employer is in effect</heading>
+<content>
+<p class="indent1">If a withholding allowance certificate is in effect with respect to one employer, an employee shall not be entitled under a certificate in effect with any other employer to any withholding allowance which he has claimed under such first certificate.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Overlapping pay periods, and payment by agent or fiduciary</heading>
+<chapeau class="indent0">If a payment of wages is made to an employee by an employer—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> with respect to a payroll period or other period, any part of which is included in a payroll period or other period with respect to which wages are also paid to such employee by such employer, or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> without regard to any payroll period or other period, but on or prior to the expiration of a payroll period or other period with respect to which wages are also paid to such employee by such employer, or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> with respect to a period beginning in one and ending in another calendar year, or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> through an agent, fiduciary, or other person who also has the control, receipt, custody, or disposal of, or pays, the wages payable by another employer to such employee,</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">the manner of withholding and the amount to be deducted and withheld under this chapter shall be determined in accordance with regulations prescribed by the Secretary under which the withholding allowance allowed to the employee in any calendar year shall approximate the withholding allowance allowable with respect to an annual payroll period.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Alternative methods of computing amount to be withheld</heading>
+<chapeau class="indent0">The Secretary may, under regulations prescribed by him, authorize—</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Withholding on basis of average wages</heading>
+<chapeau class="indent1">An employer—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to estimate the wages which will be paid to any employee in any quarter of the calendar year,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to determine the amount to be deducted and withheld upon each payment of wages to such employee during such quarter as if the appropriate average of the wages so estimated constituted the actual wages paid, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> to deduct and withhold upon any payment of wages to such employee during such quarter (and, in the case of tips referred to in subsection (k), within 30 days thereafter) such amount as may be necessary to adjust the amount actually deducted and withheld upon the wages of such employee during such quarter to the amount required to be deducted and withheld during such quarter without regard to this subsection.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Withholding on basis of annualized wages</heading>
+<chapeau class="indent1">An employer to determine the amount of tax to be deducted and withheld upon a payment of wages to an employee for a payroll period by—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> multiplying the amount of an employee’s wages for a payroll period by the number of such payroll periods in the calendar year,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> determining the amount of tax which would be required to be deducted and withheld upon the amount determined under subparagraph (A) if such amount constituted the actual wages for the calendar year and the payroll period of the employee were an annual payroll period, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> dividing the amount of tax determined under subparagraph (B) by the number of payroll periods (described in subparagraph (A)) in the calendar year.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Withholding on basis of cumulative wages</heading>
+<chapeau class="indent1">An employer, in the case of any employee who requests to have the amount of tax to be withheld from his wages computed on the basis of his cumulative wages, to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> add the amount of the wages to be paid to the employee for the payroll period to the total amount of wages paid by the employer to the employee during the calendar year,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> divide the aggregate amount of wages computed under subparagraph (A) by the number of payroll periods to which such aggregate amount of wages relates,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> compute the total amount of tax that would have been required to be deducted and withheld under subsection (a) if the average amount of wages (as computed under subparagraph (B)) had been paid to the employee for the number of payroll periods to which the aggregate amount of wages (computed under subparagraph (A)) relates,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> determine the excess, if any, of the amount of tax computed under subparagraph (C) over the total amount of tax deducted and withheld by the employer from wages paid to the employee during the calendar year, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> deduct and withhold upon the payment of wages (referred to in subparagraph (A)) to the employee an amount equal to the excess (if any) computed under subparagraph (D).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Other methods</heading>
+<content>
+<p class="indent1">An employer to determine the amount of tax to be deducted and withheld upon the wages paid to an employee by any other method which will require the employer to deduct and withhold upon such wages substantially the same amount as would be required to be deducted and withheld by applying subsection (a) or (c), either with respect to a payroll period or with respect to the entire taxable year.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Changes in withholding</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">The Secretary may by regulations provide for increases in the amount of withholding otherwise required under this section in cases where the employee requests such changes.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Treatment as tax</heading>
+<content>
+<p class="indent1">Any increased withholding under paragraph (1) shall for all purposes be considered tax required to be deducted and withheld under this chapter.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(j)</num>
+<heading class="bold"> Noncash remuneration to retail commission salesman</heading>
+<content>
+<p class="indent0">In the case of remuneration paid in any medium other than cash for services performed by an individual as a retail salesman for a person, where the service performed by such individual for such person is ordinarily performed for remuneration solely by way of cash commission an employer shall not be required to deduct or withhold any tax under this subchapter with respect to such remuneration, provided that such employer files with the Secretary such information with respect to such remuneration as the Secretary may by regulation prescribe.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(k)</num>
+<heading class="bold"> Tips</heading>
+<content>
+<p class="indent0">In the case of tips which constitute wages, subsection (a) shall be applicable only to such tips as are included in a written statement furnished to the employer pursuant to section 6053(a), and only to the extent that the tax can be deducted and withheld by the employer, at or after the time such statement is so furnished and before the close of the calendar year in which such statement is furnished, from such wages of the employee (excluding tips, but including funds turned over by the employee to the employer for the purpose of such deduction and withholding) as are under the control of the employer; and an employer who is furnished by an employee a written statement of tips (received in a calendar month) pursuant to section 6053(a) to which paragraph (16)(B) of section 3401(a) is applicable may deduct and withhold the tax with respect to such tips from any wages of the employee (excluding tips) under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20. Such tax shall not at any time be deducted and withheld in an amount which exceeds the aggregate of such wages and funds (including funds turned over under section 3102(c)(2) or section 3202(c)(2)) minus any tax required by section 3102(a) or section 3202(a) to be collected from such wages and funds.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(l)</num>
+<heading class="bold"> Determination and disclosure of marital status</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Determination of status by employer</heading>
+<content>
+<p class="indent1">For purposes of applying the tables in subsections (a) and (c) to a payment of wages, the employer shall treat the employee as a single person unless there is in effect with respect to such payment of wages a withholding allowance certificate furnished to the employer by the employee after the date of the enactment of this subsection indicating that the employee is married.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Disclosure of status by employee</heading>
+<content>
+<p class="indent1">An employee shall be entitled to furnish the employer with a withholding allowance certificate indicating he is married only if, on the day of such furnishing, he is married (determined with the application of the rules in paragraph (3)). An employee whose marital status changes from married to single shall, at such time as the Secretary may by regulations prescribe, furnish the employer with a new withholding allowance certificate.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Determination of marital status</heading>
+<chapeau class="indent1">For purposes of paragraph (2), an employee shall on any day be considered—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> as not married, if (i) he is legally separated from his spouse under a decree of divorce or separate maintenance, or (ii) either he or his spouse is, or on any preceding day within the calendar year was, a nonresident alien; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> as married, if (i) his spouse (other than a spouse referred to in subparagraph (A)) died within the portion of his taxable year which precedes such day, or (ii) his spouse died during one of the two taxable years immediately preceding the current taxable year and, on the basis of facts existing at the beginning of such day, the employee reasonably expects, at the close of his taxable year, to be a surviving spouse (as defined in section 2(a)).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(m)</num>
+<heading class="bold"> Withholding allowances</heading>
+<chapeau class="indent0">Under regulations prescribed by the Secretary, an employee shall be entitled to an additional withholding allowance or additional reductions in withholding under this subsection. In determining the additional withholding allowance or the amount of additional reductions in withholding under this subsection, the employee may take into account (to the extent and in the manner provided by such regulations)—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> estimated itemized deductions allowable under chapter 1 and the estimated deduction allowed under section 199A (other than the deductions referred to in section 151 and other than the deductions required to be taken into account in determining adjusted gross income under section 62(a)),</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> estimated tax credits allowable under chapter 1, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> such additional deductions (including the additional standard deduction under section 63(c)(3) for the aged and blind) and other items as may be specified by the Secretary in regulations.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(n)</num>
+<heading class="bold"> Employees incurring no income tax liability</heading>
+<chapeau class="indent0">Notwithstanding any other provision of this section, an employer shall not be required to deduct and withhold any tax under this chapter upon a payment of wages to an employee if there is in effect with respect to such payment a withholding allowance certificate (in such form and containing such other information as the Secretary may prescribe) furnished to the employer by the employee certifying that the employee—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> incurred no liability for income tax imposed under subtitle A for his preceding taxable year, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> anticipates that he will incur no liability for income tax imposed under subtitle A for his current taxable year.</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">The Secretary shall by regulations provide for the coordination of the provisions of this subsection with the provisions of subsection (f).</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(o)</num>
+<heading class="bold"> Extension of withholding to certain payments other than wages</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> General rule</heading>
+<chapeau class="indent1">For purposes of this chapter (and so much of subtitle F as relates to this chapter)—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any supplemental unemployment compensation benefit paid to an individual,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any payment of an annuity to an individual, if at the time the payment is made a request that such annuity be subject to withholding under this chapter is in effect, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> any payment to an individual of sick pay which does not constitute wages (determined without regard to this subsection), if at the time the payment is made a request that such sick pay be subject to withholding under this chapter is in effect,</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">shall be treated as if it were a payment of wages by an employer to an employee for a payroll period.</continuation>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Definitions</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Supplemental unemployment compensation benefits</heading>
+<content>
+<p class="indent2">For purposes of paragraph (1), the term “supplemental unemployment compensation benefits” means amounts which are paid to an employee, pursuant to a plan to which the employer is a party, because of an employee’s involuntary separation from employment (whether or not such separation is temporary), resulting directly from a reduction in force, the discontinuance of a plant or operation, or other similar conditions, but only to the extent such benefits are includible in the employee’s gross income.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Annuity</heading>
+<content>
+<p class="indent2">For purposes of this subsection, the term “annuity” means any amount paid to an individual as a pension or annuity.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Sick pay</heading>
+<chapeau class="indent2">For purposes of this subsection, the term “sick pay” means any amount which—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> is paid to an employee pursuant to a plan to which the employer is a party, and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> constitutes remuneration or a payment in lieu of remuneration for any period during which the employee is temporarily absent from work on account of sickness or personal injuries.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Amount withheld from annuity payments or sick pay</heading>
+<content>
+<p class="indent1">If a payee makes a request that an annuity or any sick pay be subject to withholding under this chapter, the amount to be deducted and withheld under this chapter from any payment to which such request applies shall be an amount (not less than a minimum amount determined under regulations prescribed by the Secretary) specified by the payee in such request. The amount deducted and withheld with respect to a payment which is greater or less than a full payment shall bear the same relation to the specified amount as such payment bears to a full payment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Request for withholding</heading>
+<chapeau class="indent1">A request that an annuity or any sick pay be subject to withholding under this chapter—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> shall be made by the payee in writing to the person making the payments and shall contain the social security number of the payee,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> shall specify the amount to be deducted and withheld from each full payment, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> shall take effect—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> in the case of sick pay, with respect to payments made more than 7 days after the date on which such request is furnished to the payor, or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in the case of an annuity, at such time (after the date on which such request is furnished to the payor) as the Secretary shall by regulations prescribe.</content>
+</clause>
+</subparagraph>
+<continuation class="indent1 firstIndent0">Such a request may be changed or terminated by furnishing to the person making the payments a written statement of change or termination which shall take effect in the same manner as provided in subparagraph (C). At the election of the payor, any such request (or statement of change or revocation) may take effect earlier than as provided in subparagraph (C).</continuation>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Special rule for sick pay paid pursuant to certain collective-bargaining agreements</heading>
+<chapeau class="indent1">In the case of any sick pay paid pursuant to a collective-bargaining agreement between employee representatives and one or more employers which contains a provision specifying that this paragraph is to apply to sick pay paid pursuant to such agreement and contains a provision for determining the amount to be deducted and withheld from each payment of such sick pay—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the requirement of paragraph (1)(C) that a request for withholding be in effect shall not apply, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> except as provided in subsection (n), the amounts to be deducted and withheld under this chapter shall be determined in accordance with such agreement.</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">The preceding sentence shall not apply with respect to sick pay paid pursuant to any agreement to any individual unless the social security number of such individual is furnished to the payor and the payor is furnished with such information as is necessary to determine whether the payment is pursuant to the agreement and to determine the amount to be deducted and withheld.</continuation>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Coordination with withholding on designated distributions under section 3405</heading>
+<content>
+<p class="indent1">This subsection shall not apply to any amount which is a designated distribution (within the meaning of section 3405(e)(1)).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(p)</num>
+<heading class="bold"> Voluntary withholding agreements</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Certain Federal payments</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">If, at the time a specified Federal payment is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Amount withheld</heading>
+<content>
+<p class="indent2">The amount to be deducted and withheld under this chapter from any payment to which any request under subparagraph (A) applies shall be an amount equal to the percentage of such payment specified in such request. Such a request shall apply to any payment only if the percentage specified is 7 percent, any percentage applicable to any of the 3 lowest income brackets in the table under section 1(c),<sup>1</sup> or such other percentage as is permitted under regulations prescribed by the Secretary.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Specified Federal payments</heading>
+<chapeau class="indent2">For purposes of this paragraph, the term “specified Federal payment” means—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> any payment of a social security benefit (as defined in section 86(d)),</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> any payment referred to in the second sentence of section 451(d) <sup>1</sup> which is treated as insurance proceeds,</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> any amount which is includible in gross income under section 77(a), and</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> any other payment made pursuant to Federal law which is specified by the Secretary for purposes of this paragraph.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Requests for withholding</heading>
+<content>
+<p class="indent2">Rules similar to the rules that apply to annuities under subsection (<i>o</i>)(4) shall apply to requests under this paragraph and paragraph (2).</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Voluntary withholding on unemployment benefits</heading>
+<content>
+<p class="indent1">If, at the time a payment of unemployment compensation (as defined in section 85(b)) is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee. The amount to be deducted and withheld under this chapter from any payment to which any request under this paragraph applies shall be an amount equal to 10 percent of such payment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Authority for other voluntary withholding</heading>
+<chapeau class="indent1">The Secretary is authorized by regulations to provide for withholding—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> from remuneration for services performed by an employee for the employee’s employer which (without regard to this paragraph) does not constitute wages, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> from any other type of payment with respect to which the Secretary finds that withholding would be appropriate under the provisions of this chapter,</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">if the employer and employee, or the person making and the person receiving such other type of payment, agree to such withholding. Such agreement shall be in such form and manner as the Secretary may by regulations prescribe. For purposes of this chapter (and so much of subtitle F as relates to this chapter), remuneration or other payments with respect to which such agreement is made shall be treated as if they were wages paid by an employer to an employee to the extent that such remuneration is paid or other payments are made during the period for which the agreement is in effect.</continuation>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(q)</num>
+<heading class="bold"> Extension of withholding to certain gambling winnings</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> General rule</heading>
+<content>
+<p class="indent1">Every person, including the Government of the United States, a State, or a political subdivision thereof, or any instrumentalities of the foregoing, making any payment of winnings which are subject to withholding shall deduct and withhold from such payment a tax in an amount equal to the product of the third lowest rate of tax applicable under section 1(c) <sup>1</sup> and such payment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Exemption where tax otherwise withheld</heading>
+<content>
+<p class="indent1">In the case of any payment of winnings which are subject to withholding made to a nonresident alien individual or a foreign corporation, the tax imposed under paragraph (1) shall not apply to any such payment subject to tax under section 1441(a) (relating to withholding on nonresident aliens) or tax under section 1442(a) (relating to withholding on foreign corporations).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Winnings which are subject to withholding</heading>
+<chapeau class="indent1">For purposes of this subsection, the term “winnings which are subject to withholding” means proceeds from a wager determined in accordance with the following:</chapeau>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Except as provided in subparagraphs (B) and (C), proceeds of more than $5,000 from a wagering transaction, if the amount of such proceeds is at least 300 times as large as the amount wagered.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> State-conducted lotteries</heading>
+<content>
+<p class="indent2">Proceeds of more than $5,000 from a wager placed in a lottery conducted by an agency of a State acting under authority of State law, but only if such wager is placed with the State agency conducting such lottery, or with its authorized employees or agents.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Sweepstakes, wagering pools, certain pari­mutuel pools, jai alai, and lotteries</heading>
+<chapeau class="indent2">Proceeds of more than $5,000 from—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a wager placed in a sweepstakes, wagering pool, or lottery (other than a wager described in subparagraph (B)), or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> a wagering transaction in a pari­mutuel pool with respect to horse races, dog races, or jai alai if the amount of such proceeds is at least 300 times as large as the amount wagered.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Rules for determining proceeds from a wager</heading>
+<chapeau class="indent1">For purposes of this subsection—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> proceeds from a wager shall be determined by reducing the amount received by the amount of the wager, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> proceeds which are not money shall be taken into account at their fair market value.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Exemption for bingo, keno, and slot machines</heading>
+<content>
+<p class="indent1">The tax imposed under paragraph (1) shall not apply to winnings from a slot machine, keno, and bingo.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Statement by recipient</heading>
+<content>
+<p class="indent1">Every person who is to receive a payment of winnings which are subject to withholding shall furnish the person making such payment a statement, made under the penalties of perjury, containing the name, address, and taxpayer identification number of the person receiving the payment and of each person entitled to any portion of such payment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Coordination with other sections</heading>
+<content>
+<p class="indent1">For purposes of sections 3403 and 3404 and for purposes of so much of subtitle F (except section 7205) as relates to this chapter, payments to any person of winnings which are subject to withholding shall be treated as if they were wages paid by an employer to an employee.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(r)</num>
+<heading class="bold"> Extension of withholding to certain taxable payments of Indian casino profits</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Every person, including an Indian tribe, making a payment to a member of an Indian tribe from the net revenues of any class II or class III gaming activity conducted or licensed by such tribe shall deduct and withhold from such payment a tax in an amount equal to such payment’s proportionate share of the annualized tax.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Exception</heading>
+<chapeau class="indent1">The tax imposed by paragraph (1) shall not apply to any payment to the extent that the payment, when annualized, does not exceed an amount equal to the sum of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the basic standard deduction (as defined in section 63(c)) for an individual to whom section 63(c)(2)(C) <sup>1</sup> applies, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the exemption amount (as defined in section 151(d)).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Annualized tax</heading>
+<chapeau class="indent1">For purposes of paragraph (1), the term “annualized tax” means, with respect to any payment, the amount of tax which would be imposed by section 1(c) <sup>1</sup> (determined without regard to any rate of tax in excess of the fourth lowest rate of tax applicable under section 1(c) <sup>1</sup> ) on an amount of taxable income equal to the excess of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the annualized amount of such payment, over</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the amount determined under paragraph (2).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Classes of gaming activities, etc.</heading>
+<content>
+<p class="indent1">For purposes of this subsection, terms used in paragraph (1) which are defined in section 4 of the Indian Gaming Regulatory Act (<ref>25 U.S.C. 2701</ref> et seq.), as in effect on the date of the enactment of this subsection, shall have the respective meanings given such terms by such section.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Annualization</heading>
+<content>
+<p class="indent1">Payments shall be placed on an annualized basis under regulations prescribed by the Secretary.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Alternate withholding procedures</heading>
+<content>
+<p class="indent1">At the election of an Indian tribe, the tax imposed by this subsection on any payment made by such tribe shall be determined in accordance with such tables or computational procedures as may be specified in regulations prescribed by the Secretary (in lieu of in accordance with paragraphs (2) and (3)).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Coordination with other sections</heading>
+<content>
+<p class="indent1">For purposes of this chapter and so much of subtitle F as relates to this chapter, payments to any person which are subject to withholding under this subsection shall be treated as if they were wages paid by an employer to an employee.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(s)</num>
+<heading class="bold"> Exemption from withholding for any vehicle fringe benefit</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Employer election not to withhold</heading>
+<content>
+<p class="indent1">The employer may elect not to deduct and withhold any tax under this chapter with respect to any vehicle fringe benefit provided to any employee if such employee is notified by the employer of such election (at such time and in such manner as the Secretary shall by regulations prescribe). The preceding sentence shall not apply to any vehicle fringe benefit unless the amount of such benefit is included by the employer on a statement timely furnished under section 6051.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Employer must furnish W–2</heading>
+<content>
+<p class="indent1">Any vehicle fringe benefit shall be treated as wages from which amounts are required to be deducted and withheld under this chapter for purposes of section 6051.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Vehicle fringe benefit</heading>
+<chapeau class="indent1">For purposes of this subsection, the term “vehicle fringe benefit” means any fringe benefit—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> which constitutes wages (as defined in section 3401), and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> which consists of providing a highway motor vehicle for the use of the employee.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(t)</num>
+<heading class="bold"> Rate of withholding for certain stock</heading>
+<chapeau class="indent0">In the case of any qualified stock (as defined in section 83(i)(2)) with respect to which an election is made under section 83(i)—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the rate of tax under subsection (a) shall not be less than the maximum rate of tax in effect under section 1, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> such stock shall be treated for purposes of section 3501(b) in the same manner as a non-cash fringe benefit.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Aug. 16, 1954, ch. 736</ref>, <ref>68A Stat. 457</ref>; <ref>Aug. 9, 1955, ch. 666, § 2</ref>, <ref>69 Stat. 605</ref>; <ref>Pub. L. 87–256, § 110(g)(2)</ref>, <date date="1961-09-21">Sept. 21, 1961</date>, <ref>75 Stat. 537</ref>; <ref>Pub. L. 88–272, title III, § 302(a)</ref>, (b), <date date="1964-02-26">Feb. 26, 1964</date>, <ref>78 Stat. 140</ref>; <ref>Pub. L. 89–97, title III, § 313(d)(3)</ref>–(5), <date date="1965-07-30">July 30, 1965</date>, <ref>79 Stat. 384</ref>; <ref>Pub. L. 89–212, § 2(c)</ref>, <date date="1965-09-29">Sept. 29, 1965</date>, <ref>79 Stat. 859</ref>; <ref>Pub. L. 89–368, title I, § 101(a)</ref>–(e)(3), <date date="1966-03-15">Mar. 15, 1966</date>, <ref>80 Stat. 38–61</ref>; <ref>Pub. L. 90–364, title I, § 102(c)</ref>, <date date="1968-06-28">June 28, 1968</date>, <ref>82 Stat. 256</ref>; <ref>Pub. L. 91–36, § 2(a)</ref>, <date date="1969-06-30">June 30, 1969</date>, <ref>83 Stat. 42</ref>; <ref>Pub. L. 91–53, § 6(a)</ref>, <date date="1969-08-07">Aug. 7, 1969</date>, <ref>83 Stat. 96</ref>; <ref>Pub. L. 91–172, title VIII, § 805(a)</ref>–(e), (f)(1), (g), <date date="1969-12-30">Dec. 30, 1969</date>, <ref>83 Stat. 686</ref>, 704–708; <ref>Pub. L. 92–178, title II, § 208(a)</ref>, (b)(1), (c)–(h)(1), <date date="1971-12-10">Dec. 10, 1971</date>, <ref>85 Stat. 512–517</ref>; <ref>Pub. L. 94–12, title II</ref>, §§ 202(b), 205, <date date="1975-03-29">Mar. 29, 1975</date>, <ref>89 Stat. 29</ref>, 32; <ref>Pub. L. 94–164</ref>, §§ 2(b)(2), 5(a)(1), <date date="1975-12-23">Dec. 23, 1975</date>, <ref>89 Stat. 971</ref>, 975; <ref>Pub. L. 94–331, § 3(a)(1)</ref>, <date date="1976-06-30">June 30, 1976</date>, <ref>90 Stat. 782</ref>; <ref>Pub. L. 94–396, § 2(a)(1)</ref>, <date date="1976-09-03">Sept. 3, 1976</date>, <ref>90 Stat. 1201</ref>; <ref>Pub. L. 94–414, § 3(a)(1)</ref>, <date date="1976-09-17">Sept. 17, 1976</date>, <ref>90 Stat. 1273</ref>; <ref>Pub. L. 94–455, title IV, § 401(d)</ref>, title V, §§ 502(b), 504(c)(3), title XII, § 1207(d), title XIX, §§ 1903(a)(17), 1906(b)(13)(A), <date date="1976-10-04">Oct. 4, 1976</date>, <ref>90 Stat. 1557</ref>, 1559, 1566, 1705, 1810, 1834; <ref>Pub. L. 95–30, title I, § 105</ref>, title IV, § 405(a), <date date="1977-05-23">May 23, 1977</date>, <ref>91 Stat. 140</ref>, 156; <ref>Pub. L. 95–600, title I</ref>, §§ 101(e), 102(c), title VI, § 601(b)(2), <date date="1978-11-06">Nov. 6, 1978</date>, <ref>92 Stat. 2770</ref>, 2771, 2896; <ref>Pub. L. 96–601, § 4(a)</ref>–(d), <date date="1980-12-24">Dec. 24, 1980</date>, <ref>94 Stat. 3496</ref>, 3497; <ref>Pub. L. 97–34, title I, § 101(e)</ref>, <date date="1981-08-13">Aug. 13, 1981</date>, <ref>95 Stat. 184</ref>; <ref>Pub. L. 97–248, title III</ref>, §§ 317(a), 334(d), <date date="1982-09-03">Sept. 3, 1982</date>, <ref>96 Stat. 607</ref>, 627; <ref>Pub. L. 98–67, title I, § 104(d)(3)</ref>, <date date="1983-08-05">Aug. 5, 1983</date>, <ref>97 Stat. 380</ref>; <ref>Pub. L. 99–44, § 3</ref>, <date date="1985-05-24">May 24, 1985</date>, <ref>99 Stat. 77</ref>; <ref>Pub. L. 99–514, title I, § 104(b)(15)</ref>, title XIII, §§ 1301(j)(8), 1303(b)(4), title XV, § 1581(b), <date date="1986-10-22">Oct. 22, 1986</date>, <ref>100 Stat. 2106</ref>, 2658, 2766; <ref>Pub. L. 100–203, title X, § 10302(a)</ref>, <date date="1987-12-22">Dec. 22, 1987</date>, <ref>101 Stat. 1330–429</ref>; <ref>Pub. L. 100–647, title I, § 1003(a)(2)</ref>, <date date="1988-11-10">Nov. 10, 1988</date>, <ref>102 Stat. 3382</ref>; <ref>Pub. L. 101–508, title XI, § 11801(a)(41)</ref>, <date date="1990-11-05">Nov. 5, 1990</date>, <ref>104 Stat. 1388–521</ref>; <ref>Pub. L. 102–318, title V, § 522(b)(2)(D)</ref>, <date date="1992-07-03">July 3, 1992</date>, <ref>106 Stat. 314</ref>; <ref>Pub. L. 102–486, title XIX</ref>, §§ 1934(a), 1942(a), <date date="1992-10-24">Oct. 24, 1992</date>, <ref>106 Stat. 3031</ref>, 3036; <ref>Pub. L. 103–465, title VII</ref>, §§ 701(a), 702(a), <date date="1994-12-08">Dec. 8, 1994</date>, <ref>108 Stat. 4995</ref>, 4996; <ref>Pub. L. 107–16, title I, § 101(c)(6)</ref>–(9), <date date="2001-06-07">June 7, 2001</date>, <ref>115 Stat. 43</ref>, 44; <ref>Pub. L. 109–222, title V, § 511(a)</ref>, <date date="2006-05-17">May 17, 2006</date>, <ref>120 Stat. 364</ref>; <ref>Pub. L. 112–56, title I, § 102(a)</ref>, <date date="2011-11-21">Nov. 21, 2011</date>, <ref>125 Stat. 712</ref>; <ref>Pub. L. 115–97, title I</ref>, §§ 11011(b)(4), 11041(c)(1), (2)(B)–(E), 11051(b)(2)(B), 13603(b)(2), <date date="2017-12-22">Dec. 22, 2017</date>, <ref>131 Stat. 2070</ref>, 2082–2084, 2089, 2163; <ref>Pub. L. 117–2, title IX, § 9611(b)(3)</ref>, <date date="2021-03-11">Mar. 11, 2021</date>, <ref>135 Stat. 149</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3403.</num>
+<heading> Liability for tax</heading>
+<content>
+<p class="indent0">The employer shall be liable for the payment of the tax required to be deducted and withheld under this chapter, and shall not be liable to any person for the amount of any such payment.</p>
+</content>
+<sourceCredit>(<ref>Aug. 16, 1954, ch. 736</ref>, <ref>68A Stat. 469</ref>; <ref>Pub. L. 97–248, title III</ref>, §§ 307(a)(2), 308(a), <date date="1982-09-03">Sept. 3, 1982</date>, <ref>96 Stat. 589</ref>, 591; <ref>Pub. L. 98–67, title I, § 102(a)</ref>, <date date="1983-08-05">Aug. 5, 1983</date>, <ref>97 Stat. 369</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3404.</num>
+<heading> Return and payment by governmental employer</heading>
+<content>
+<p class="indent0">If the employer is the United States, or a State, or political subdivision thereof, or the District of Columbia, or any agency or instrumentality of any one or more of the foregoing, the return of the amount deducted and withheld upon any wages may be made by any officer or employee of the United States, or of such State, or political subdivision, or of the District of Columbia, or of such agency or instrumentality, as the case may be, having control of the payment of such wages, or appropriately designated for that purpose.</p>
+</content>
+<sourceCredit>(<ref>Aug. 16, 1954, ch. 736</ref>, <ref>68A Stat. 469</ref>; <ref>Pub. L. 94–455, title XIX, § 1903(c)</ref>, <date date="1976-10-04">Oct. 4, 1976</date>, <ref>90 Stat. 1810</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3405.</num>
+<heading> Special rules for pensions, annuities, and certain other deferred income</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Periodic payments</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Withholding as if payment were wages</heading>
+<content>
+<p class="indent1">The payor of any periodic payment (as defined in subsection (e)(2)) shall withhold from such payment the amount which would be required to be withheld from such payment if such payment were a payment of wages by an employer to an employee for the appropriate payroll period.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Election of no withholding</heading>
+<content>
+<p class="indent1">An individual may elect to have paragraph (1) not apply with respect to periodic payments made to such individual. Such an election shall remain in effect until revoked by such individual.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> When election takes effect</heading>
+<content>
+<p class="indent1">Any election under this subsection (and any revocation of such an election) shall take effect as provided by subsection (f)(3) of section 3402 for withholding allowance certificates.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Amount withheld where no withholding allowance certificate in effect</heading>
+<content>
+<p class="indent1">In the case of any payment with respect to which a withholding allowance certificate is not in effect, the amount withheld under paragraph (1) shall be determined under rules prescribed by the Secretary.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Nonperiodic distribution</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Withholding</heading>
+<content>
+<p class="indent1">The payor of any nonperiodic distribution (as defined in subsection (e)(3)) shall withhold from such distribution an amount equal to 10 percent of such distribution.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Election of no withholding</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">An individual may elect not to have paragraph (1) apply with respect to any nonperiodic distribution.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Scope of election</heading>
+<chapeau class="indent2">An election under subparagraph (A)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> except as provided in clause (ii), shall be on a distribution-by-distribution basis, or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to the extent provided in regulations, may apply to subsequent nonperi­odic distributions made by the payor to the payee under the same arrangement.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Eligible rollover distributions</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">In the case of any designated distribution which is an eligible rollover distribution—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> subsections (a) and (b) shall not apply, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the payor of such distribution shall withhold from such distribution an amount equal to 20 percent of such distribution.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Exception</heading>
+<content>
+<p class="indent1">Paragraph (1)(B) shall not apply to any distribution if the distributee elects under section 401(a)(31)(A) to have such distribution paid directly to an eligible retirement plan.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Eligible rollover distribution</heading>
+<content>
+<p class="indent1">For purposes of this subsection, the term “eligible rollover distribution” has the meaning given such term by section 402(f)(2)(A).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Liability for withholding</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">Except as provided in paragraph (2), the payor of a designated distribution (as defined in subsection (e)(1)) shall withhold, and be liable for, payment of the tax required to be withheld under this section.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Plan administrator liable in certain cases</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">In the case of any plan to which this paragraph applies, paragraph (1) shall not apply and the plan administrator shall withhold, and be liable for, payment of the tax unless the plan administrator—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> directs the payor to withhold such tax, and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> provides the payor with such information as the Secretary may require by regulations.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Plans to which paragraph applies</heading>
+<chapeau class="indent2">This paragraph applies to any plan described in, or which at any time has been determined to be described in—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> section 401(a),</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> section 403(a),</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> section 301(d) of the Tax Reduction Act of 1975, or</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> section 457(b) and which is maintained by an eligible employer described in section 457(e)(1)(A).</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Definitions and special rules</heading>
+<chapeau class="indent0">For purposes of this section—</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Designated distribution</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">Except as provided in subparagraph (B), the term “designated distribution” means any distribution or payment from or under—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> an employer deferred compensation plan,</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> an individual retirement plan (as defined in section 7701(a)(37)), or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> a commercial annuity.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Exceptions</heading>
+<chapeau class="indent2">The term “designated distribution” shall not include—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> any amount which is wages without regard to this section,</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the portion of a distribution or payment which it is reasonable to believe is not includible in gross income, and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> any amount which is subject to withholding under subchapter A of chapter 3 (relating to withholding of tax on nonresident aliens and foreign corporations) by the person paying such amount or which would be so subject but for a tax treaty, or</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> any distribution described in section 404(k)(2).</content>
+</clause>
+<continuation class="indent2 firstIndent0">For purposes of clause (ii), any distribution or payment from or under an individual retirement plan (other than a Roth IRA) shall be treated as includible in gross income.</continuation>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Periodic payment</heading>
+<content>
+<p class="indent1">The term “periodic payment” means a designated distribution which is an annuity or similar periodic payment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Nonperiodic distribution</heading>
+<content>
+<p class="indent1">The term “nonperiodic distribution” means any designated distribution which is not a periodic payment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">[(4)</num>
+<heading class="bold"> Repealed. <ref>Pub. L. 102–318, title V, § 521(b)(38)</ref>, <date date="1992-07-03">July 3, 1992</date>, <ref>106 Stat. 312</ref>]</heading>
+<content/>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Employer deferred compensation plan</heading>
+<content>
+<p class="indent1">The term “employer deferred compensation plan” means any pension, annuity, profit-sharing, or stock bonus plan or other plan deferring the receipt of compensation.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Commercial annuity</heading>
+<content>
+<p class="indent1">The term “commercial annuity” means an annuity, endowment, or life insurance contract issued by an insurance company licensed to do business under the laws of any State.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Plan administrator</heading>
+<content>
+<p class="indent1">The term “plan administrator” has the meaning given such term by section 414(g).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Maximum amount withheld</heading>
+<content>
+<p class="indent1">The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than securities of the employer corporation) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of securities of the employer corporation and cash (not in excess of $200) in lieu of financial shares. For purposes of this paragraph, the term “securities of the employer corporation” has the meaning given such term by section 402(e)(4)(E).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Separate arrangements to be treated separately</heading>
+<content>
+<p class="indent1">If the payor has more than 1 arrangement under which designated distributions may be made to any individual, each such arrangement shall be treated separately.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Time and manner of election</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Any election and any revocation under this section shall be made at such time and in such manner as the Secretary shall prescribe.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Payor required to notify payee of rights to elect</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Periodic payments</heading>
+<chapeau class="indent3">The payor of any periodic payment—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> shall transmit to the payee notice of the right to make an election under subsection (a) not earlier than 6 months before the first of such payments and not later than when making the first of such payments,</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> if such a notice is not transmitted under subclause (I) when making such first payment, shall transmit such a notice when making such first payment, and</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> shall transmit to payees, not less frequently than once each calendar year, notice of their rights to make elections under subsection (a) and to revoke such elections.</content>
+</subclause>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Nonperiodic distributions</heading>
+<content>
+<p class="indent3">The payor of any nonperiodic distribution shall transmit to the payee notice of the right to make any election provided in subsection (b) at the time of the distribution (or at such earlier time as may be provided in regulations).</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(iii)</num>
+<heading class="bold"> Notice</heading>
+<content>
+<p class="indent3">Any notice transmitted pursuant to this subparagraph shall be in such form and contain such information as the Secretary shall prescribe.</p>
+</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Withholding includes deduction</heading>
+<content>
+<p class="indent1">The terms “withholding”, “withhold”, and “withheld” include “deducting”, “deduct”, and “deducted”.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Failure to provide correct TIN</heading>
+<chapeau class="indent1">If—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a payee fails to furnish his TIN to the payor in the manner required by the Secretary, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Secretary notifies the payor before any payment or distribution that the TIN furnished by the payee is incorrect,</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">no election under subsection (a)(2) or (b)(2) shall be treated as in effect and subsection (a)(4) shall not apply to such payee.</continuation>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Election may not be made with respect to certain payments outside the United States or its possessions</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">Except as provided in subparagraph (B), in the case of any periodic payment or nonperiodic distribution which is to be delivered outside of the United States and any possession of the United States, no election may be made under subsection (a)(2) or (b)(2) with respect to such payment.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Exception</heading>
+<chapeau class="indent2">Subparagraph (A) shall not apply if the recipient certifies to the payor, in such manner as the Secretary may prescribe, that such person is not—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a United States citizen or a resident alien of the United States, or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> an individual to whom section 877 applies.</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Withholding to be treated as wage withholding under section 3402 for other purposes</heading>
+<chapeau class="indent0">For purposes of this chapter (and so much of subtitle F as relates to this chapter)—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> any designated distribution (whether or not an election under this section applies to such distribution) shall be treated as if it were wages paid by an employer to an employee with respect to which there has been withholding under section 3402, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> in the case of any designated distribution not subject to withholding under this section by reason of an election under this section, the amount withheld shall be treated as zero.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 97–248, title III, § 334(a)</ref>, <date date="1982-09-03">Sept. 3, 1982</date>, <ref>96 Stat. 623</ref>; amended <ref>Pub. L. 98–369, div. A, title V, § 542(c)</ref>, title VII, §§ 714(j)(1), (4), (5), 722(h)(4)(A), <date date="1984-07-18">July 18, 1984</date>, <ref>98 Stat. 891</ref>, 962, 963, 976; <ref>Pub. L. 99–514, title XI, § 1102(e)(1)</ref>, title XII, § 1234(b)(1), title XVIII, § 1875(c)(10), <date date="1986-10-22">Oct. 22, 1986</date>, <ref>100 Stat. 2416</ref>, 2566, 2895; <ref>Pub. L. 100–647, title I, § 1012(bb)(2)(A)</ref>–(C), <date date="1988-11-10">Nov. 10, 1988</date>, <ref>102 Stat. 3534</ref>; <ref>Pub. L. 102–318, title V</ref>, §§ 521(b)(36)–(40), 522(b)(1)–(2)(C), <date date="1992-07-03">July 3, 1992</date>, <ref>106 Stat. 312–314</ref>; <ref>Pub. L. 104–188, title I, § 1704(t)(71)</ref>, <date date="1996-08-20">Aug. 20, 1996</date>, <ref>110 Stat. 1891</ref>; <ref>Pub. L. 106–554, § 1(a)(7) [title III, § 314(b)]</ref>, <date date="2000-12-21">Dec. 21, 2000</date>, <ref>114 Stat. 2763</ref>, 2763A–643; <ref>Pub. L. 107–16, title VI, § 641(a)(1)(D)(ii)</ref>, (iii), <date date="2001-06-07">June 7, 2001</date>, <ref>115 Stat. 119</ref>; <ref>Pub. L. 115–97, title I, § 11041(c)(2)(F)</ref>, (G), <date date="2017-12-22">Dec. 22, 2017</date>, <ref>131 Stat. 2084</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 3406.</num>
+<heading> Backup withholding</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Requirement to deduct and withhold</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">In the case of any reportable payment, if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the payee fails to furnish his TIN to the payor in the manner required,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Secretary notifies the payor that the TIN furnished by the payee is incorrect,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> there has been a notified payee underreporting described in subsection (c), or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> there has been a payee certification failure described in subsection (d),</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">then the payor shall deduct and withhold from such payment a tax equal to the product of the fourth lowest rate of tax applicable under section 1(c) <ref class="footnoteRef" idref="fn002205">1</ref> and such payment.</continuation>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Subparagraphs (C) and (D) of paragraph (1) apply only to interest and dividend payments</heading>
+<content>
+<p class="indent1">Subparagraphs (C) and (D) of paragraph (1) shall apply only to reportable interest or dividend payments.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Reportable payment, etc.</heading>
+<chapeau class="indent0">For purposes of this section—</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Reportable payment</heading>
+<chapeau class="indent1">The term “reportable payment” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any reportable interest or dividend payment, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any other reportable payment.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Reportable interest or dividend payment</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The term “reportable interest or dividend payment” means any payment of a kind, and to a payee, required to be shown on a return required under—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> section 6049(a) (relating to payments of interest),</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> section 6042(a) (relating to payments of dividends), or</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> section 6044 (relating to payments of patronage dividends) but only to the extent such payment is in money.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Special rule for patronage dividends</heading>
+<content>
+<p class="indent2">For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term “reportable interest or dividend payment” shall not include any payment to which section 6044 (relating to patronage dividends) applies unless 50 percent or more of such payment is in money.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Other reportable payment</heading>
+<chapeau class="indent1">The term “other reportable payment” means any payment of a kind, and to a payee, required to be shown on a return required under—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> section 6041 (relating to certain information at source),</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> section 6041A(a) (relating to payments of remuneration for services),</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> section 6045 (relating to returns of brokers),</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> section 6050A (relating to reporting requirements of certain fishing boat operators), but only to the extent such payment is in money and represents a share of the proceeds of the catch,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> section 6050N (relating to payments of royalties), or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> section 6050W (relating to returns relating to payments made in settlement of payment card transactions).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Whether payment is of reportable kind determined without regard to minimum amount</heading>
+<content>
+<p class="indent1">The determination of whether any payment is of a kind required to be shown on a return described in paragraph (2) or (3) shall be made without regard to any minimum amount which must be paid before a return is required.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Exception for certain small payments</heading>
+<chapeau class="indent1">To the extent provided in regulations, the term “reportable payment” shall not include any payment which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> does not exceed $10, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> if determined for a 1-year period, would not exceed $10.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Other reportable payments include payments described in section 6041(a) or 6041A(a) only where aggregate for calendar year is $600 or more</heading>
+<chapeau class="indent1">Any payment of a kind required to be shown on a return required under section 6041(a) or 6041A(a) which is made during any calendar year shall be treated as a reportable payment only if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds $600,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Exception for certain window payments of interest, etc.</heading>
+<chapeau class="indent1">For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term “reportable interest or dividend payment” shall not include any payment—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> in redemption of a coupon on a bearer instrument or in redemption of a United States savings bond, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to the extent provided in regulations, of interest on instruments similar to those described in subparagraph (A).</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">The preceding sentence shall not apply for purposes of determining whether there is payee underreporting described in subsection (c).</continuation>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Notified payee underreporting with respect to interest and dividends</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Notified payee underreporting</heading>
+<chapeau class="indent1">If—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the Secretary determines with respect to any payee that there has been payee underreporting,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> at least 4 notices have been mailed by the Secretary to the payee (over a period of at least 120 days) with respect to the underreporting, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> in the case of any payee who has filed a return for the taxable year, any deficiency of tax attributable to such failure has been assessed,</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">the Secretary may notify payors of reportable interest or dividend payments with respect to such payee of the requirement to deduct and withhold under subsection (a)(1)(C) (but not the reasons for the withholding under subsection (a)(1)(C)).</continuation>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Payee underreporting defined</heading>
+<chapeau class="indent1">For purposes of this section, there has been payee underreporting if for any taxable year the Secretary determines that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the payee failed to include in his return of tax under chapter 1 for such year any portion of a reportable interest or dividend payment required to be shown on such return, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the payee may be required to file a return for such year and to include a reportable interest or dividend payment in such return, but failed to file such return.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Determination by Secretary to stop (or not to start) withholding</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">If the Secretary determines that—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> there was no payee underreporting,</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> any payee underreporting has been corrected (and any tax, penalty, or interest with respect to the payee underreporting has been paid),</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> withholding under subsection (a)(1)(C) has caused (or would cause) undue hardship to the payee and it is unlikely that any payee underreporting by such payee will occur again, or</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> there is a bona fide dispute as to whether there has been any payee underreporting,</content>
+</clause>
+<continuation class="indent2 firstIndent0">then the Secretary shall take the action described in subparagraph (B).</continuation>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Secretary to take action to stop (or not to start) withholding</heading>
+<chapeau class="indent2">For purposes of subparagraph (A), if at the time of the Secretary’s determination under subparagraph (A)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> no notice has been given under paragraph (1) to any payor with respect to the underreporting, the Secretary shall not give any such notice, or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> if such notice has been given, the Secretary shall—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> provide the payee with a written certification that withholding under subsection (a)(1)(C) is to stop, and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> notify the applicable payors (and brokers) that such withholding is to stop.</content>
+</subclause>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Time for taking action where notice to payor has been given</heading>
+<chapeau class="indent2">In any case where notice has been given under paragraph (1) to any payor with respect to any underreporting, if the Secretary makes a determination under subparagraph (A) during the 12-month period ending on October 15 of any calendar year—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> except as provided in clause (ii), the Secretary shall take the action described in subparagraph (B)(ii) to bring about the stopping of withholding no later than December 1 of such calendar year, or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> in the case of—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> a no payee underreporting determination under clause (i) of subparagraph (A), or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> a hardship determination under clause (iii) of subparagraph (A),</content>
+</subclause>
+</clause>
+<continuation class="indent3 firstIndent-1"> such action shall be taken no later than the 45th day after the day on which the Secretary made the determination.</continuation>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Opportunity to request determination</heading>
+<chapeau class="indent2">The Secretary shall prescribe procedures under which—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a payee may request a determination under subparagraph (A), and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the payee may provide information with respect to such request.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Payor notifies payee of withholding because of payee underreporting</heading>
+<content>
+<p class="indent1">Any payor required to withhold any tax under subsection (a)(1)(C) shall, at the time such withholding begins, notify the payee of such withholding.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Payee may be required to notify Secretary who his payors and brokers are</heading>
+<chapeau class="indent1">For purposes of this section, the Secretary may require any payee of reportable interest or dividend payments who is subject to withholding under subsection (a)(1)(C) to notify the Secretary of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> all payors from whom the payee receives reportable interest or dividend payments, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> all brokers with whom the payee has accounts which may involve reportable interest or dividend payments.</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">The Secretary may notify any such broker that such payee is subject to withholding under subsection (a)(1)(C).</continuation>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Interest and dividend backup withholding applies to new accounts and instruments unless payee certifies that he is not subject to such withholding</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">There is a payee certification failure unless the payee has certified to the payor, under penalty of perjury, that such payee is not subject to withholding under subsection (a)(1)(C).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Special rules for readily tradable instruments</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">Subsection (a)(1)(D) shall apply to any reportable interest or dividend payment to any payee on any readily tradable instrument if (and only if) the payor was notified by a broker under subparagraph (B) or no certification was provided to the payor by the payee under paragraph (1) and—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> such instrument was acquired directly by the payee from the payor, or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> such instrument is held by the payor as nominee for the payee.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Broker notifies payor</heading>
+<chapeau class="indent2">If—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a payee acquires any readily tradable instrument through a broker, and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> with respect to such acquisition—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> the payee fails to furnish his TIN to the broker in the manner required under subsection (a)(1)(A),</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the Secretary notifies such broker before such acquisition that the TIN furnished by the payee is incorrect,</content>
+</subclause>
+<subclause class="indent4">
+<num>(III)</num>
+<content> the Secretary notifies such broker before such acquisition that such payee is subject to withholding under subsection (a)(1)(C), or</content>
+</subclause>
+<subclause class="indent4">
+<num>(IV)</num>
+<content> the payee does not provide a certification to such broker under subparagraph (C),</content>
+</subclause>
+</clause>
+<continuation class="indent3 firstIndent-1"> such broker shall, within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C), or (D) of subsection (a)(1), respectively.</continuation>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Time for payee to provide certification to broker</heading>
+<chapeau class="indent2">In the case of any readily tradable instrument acquired by a payee through a broker, the certification described in paragraph (1) may be provided by the payee to such broker—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> at any time after the payee’s account with the broker was established and before the acquisition of such instrument, or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> in connection with the acquisition of such instrument.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Exception for existing accounts, etc.</heading>
+<chapeau class="indent1">This subsection and subsection (a)(1)(D) shall not apply to any reportable interest or dividend payment which is paid or credited—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> in the case of interest or any other amount of a kind reportable under section 6049, with respect to any account (whatever called) established before <date date="1984-01-01">January 1, 1984</date>, or with respect to any instrument acquired before <date date="1984-01-01">January 1, 1984</date>,</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> in the case of dividends or any other amount reportable under section 6042, on any stock or other instrument acquired before <date date="1984-01-01">January 1, 1984</date>, or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> in the case of patronage dividends or other amounts of a kind reportable under section 6044, with respect to any membership acquired, or contract entered into, before <date date="1984-01-01">January 1, 1984</date>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Exception for readily tradable instruments acquired through existing brokerage accounts</heading>
+<chapeau class="indent1">Subparagraph (B) of paragraph (2) shall not apply with respect to a readily tradable instrument which was acquired through an account with a broker if—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> such account was established before <date date="1984-01-01">January 1, 1984</date>, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> during 1983, such broker bought or sold instruments for the payee (or acted as a nominee for the payee) through such account.</content>
+</subparagraph>
+<continuation class="indent1 firstIndent0">The preceding sentence shall not apply with respect to any readily tradable instrument acquired through such account after the broker was notified by the Secretary that the payee is subject to withholding under subsection (a)(1)(C).</continuation>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Period for which withholding is in effect</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Failure to furnish TIN</heading>
+<content>
+<p class="indent1">In the case of any failure by a payee to furnish his TIN to a payor in the manner required, subsection (a) shall apply to any reportable payment made by such payor during the period during which the TIN has not been furnished in the manner required. The Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Notification of incorrect number</heading>
+<chapeau class="indent1">In any case in which the Secretary notifies the payor that the TIN furnished by the payee is incorrect, subsection (a) shall apply to any reportable payment made by such payor—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> after the close of the 30th day after the day on which the payor received such notification, and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> before the payee furnishes another TIN in the manner required.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Notified payee underreporting described in subsection (c)</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">In the case of any notified payee under­reporting described in subsection (c), subsection (a) shall apply to any reportable interest or dividend payment made—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> after the close of the 30th day after the day on which the payor received notification from the Secretary of such underreporting, and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> before the stop date.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Stop date</heading>
+<chapeau class="indent2">For purposes of this subsection, the term “stop date” means the determination effective date or, if later, the earlier of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the day on which the payor received notification from the Secretary under subsection (c)(3)(B) to stop withholding, or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the day on which the payor receives from the payee a certification provided by the Secretary under subsection (c)(3)(B).</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Determination effective date</heading>
+<chapeau class="indent2">For purposes of this subsection—</chapeau>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent3">Except as provided in clause (ii), the determination effective date of any determination under subsection (c)(3)(A) which is made during the 12-month period ending on October 15 of any calendar year shall be the first January 1 following such October 15.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Determination that there was no under­reporting; hardship</heading>
+<content>
+<p class="indent3">In the case of any determination under clause (i) or (iii) of subsection (c)(3)(A), the determination effective date shall be the date on which the Secretary’s determination is made.</p>
+</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Failure to provide certification that payee is not subject to withholding</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">In the case of any payee certification failure described in subsection (d)(1), subsection (a) shall apply to any reportable interest or dividend payment made during the period during which the certification described in subsection (d)(1) has not been furnished to the payor.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Special rule for readily tradable instruments acquired through broker where notification</heading>
+<content>
+<p class="indent2">In the case of any readily tradable instrument acquired by the payee through a broker, the period described in subparagraph (A) shall start with payments to the payee made after the close of the 30th day after the payor receives notification from a broker under subsection (d)(2)(B).</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> 30-day grace periods</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Start-up</heading>
+<content>
+<p class="indent2">If the payor elects the application of this subparagraph with respect to the payee, subsection (a) shall also apply to any reportable payment made during the 30-day period described in paragraph (2)(A), (3)(A), or (4)(B).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Stopping</heading>
+<content>
+<p class="indent2">Unless the payor elects not to have this subparagraph apply with respect to the payee, subsection (a) shall also apply to any reportable payment made after the close of the period described in paragraph (1), (2), or (4) (as the case may be) and before the 30th day after the close of such period. A similar rule shall also apply with respect to the period described in paragraph (3)(A) where the stop date is determined under clause (i) or (ii) of paragraph (3)(B).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Election of shorter grace period</heading>
+<content>
+<p class="indent2">The payor may elect a period shorter than the grace period set forth in subparagraph (A) or (B), as the case may be.</p>
+</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(f)</num>
+<heading class="bold"> Confidentiality of information</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">No person may use any information obtained under this section (including any failure to certify under subsection (d)) except for purposes of meeting any requirement under this section or (subject to the safeguards set forth in section 6103) for purposes permitted under section 6103.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Cross reference</heading>
+<content>
+<p class="indent2 fontsize7">For provision providing for civil damages for violation of paragraph (1), see section 7431.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(g)</num>
+<heading class="bold"> Exceptions</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Payments to certain payees</heading>
+<chapeau class="indent1">Subsection (a) shall not apply to any payment made to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any organization or governmental unit described in subparagraph (B), (C), (D), (E), or (F) of section 6049(b)(4), or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> any other person specified in regulations.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Amounts for which withholding otherwise required</heading>
+<content>
+<p class="indent1">Subsection (a) shall not apply to any amount for which withholding is otherwise required by this title.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Exemption while waiting for TIN</heading>
+<content>
+<p class="indent1">The Secretary shall prescribe regulations for exemptions from the tax imposed by subsection (a) during the period during which a person is waiting for receipt of a TIN.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(h)</num>
+<heading class="bold"> Other definitions and special rules</heading>
+<chapeau class="indent0">For purposes of this section—</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Obviously incorrect number</heading>
+<content>
+<p class="indent1">A person shall be treated as failing to furnish his TIN if the TIN furnished does not contain the proper number of digits.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Payee furnishes 2 incorrect TINs</heading>
+<content>
+<p class="indent1">If the payee furnishes the payor 2 incorrect TINs in any 3-year period, the payor shall, after receiving notice of the second incorrect TIN, treat the payee as not having furnished another TIN under subsection (e)(2)(B) until the day on which the payor receives notification from the Secretary that a correct TIN has been furnished.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Joint payees</heading>
+<content>
+<p class="indent1">Except to the extent otherwise provided in regulations, any payment to joint payees shall be treated as if all the payment were made to the first person listed in the payment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Payor defined</heading>
+<content>
+<p class="indent1">The term “payor” means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Broker</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent2">The term “broker” has the meaning given to such term by section 6045(c)(1).</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Only 1 broker per acquisition</heading>
+<content>
+<p class="indent2">If, but for this subparagraph, there would be more than 1 broker with respect to any acquisition, only the broker having the closest contact with the payee shall be treated as the broker.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(C)</num>
+<heading class="bold"> Payor not treated as broker</heading>
+<content>
+<p class="indent2">In the case of any instrument, such term shall not include any person who is the payor with respect to such instrument.</p>
+</content>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(D)</num>
+<heading class="bold"> Real estate broker not treated as a broker</heading>
+<content>
+<p class="indent2">Except as provided by regulations, such term shall not include any real estate broker (as defined in section 6045(e)(2)).</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Readily tradable instrument</heading>
+<chapeau class="indent1">The term “readily tradable instrument” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> any instrument which is part of an issue any portion of which is traded on an established securities market (within the meaning of section 453(f)(5)), and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> except as otherwise provided in regulations prescribed by the Secretary, any instrument which is regularly quoted by brokers or dealers making a market.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Original issue discount</heading>
+<content>
+<p class="indent1">To the extent provided in regulations, rules similar to the rules of paragraph (6) of section 6049(d) shall apply.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Requirement of notice to payee</heading>
+<content>
+<p class="indent1">Whenever the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect, the Secretary shall at the same time furnish a copy of such notice to the payor, and the payor shall promptly furnish such copy to the payee.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Requirement of notice to Secretary</heading>
+<content>
+<p class="indent1">If the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect and such payee subsequently furnishes another TIN to the payor, the payor shall promptly notify the Secretary of the other TIN so furnished.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Coordination with other sections</heading>
+<content>
+<p class="indent1">For purposes of section 31, this chapter (other than section 3402(n)), and so much of subtitle F (other than section 7205) as relates to this chapter, payments which are subject to withholding under this section shall be treated as if they were wages paid by an employer to an employee (and amounts deducted and withheld under this section shall be treated as if deducted and withheld under section 3402).</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> Regulations</heading>
+<content>
+<p class="indent0">The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.</p>
+</content>
+</subsection>
+<sourceCredit>(Added <ref>Pub. L. 98–67, title I, § 104(a)</ref>, <date date="1983-08-05">Aug. 5, 1983</date>, <ref>97 Stat. 371</ref>; amended <ref>Pub. L. 98–369, div. A, title I, § 152(a)</ref>, title VII, § 722(h)(1), (2), <date date="1984-07-18">July 18, 1984</date>, <ref>98 Stat. 691</ref>, 975; <ref>Pub. L. 99–514, title XV</ref>, §§ 1521(b), 1523(b)(1), title XVIII, § 1899A(46), <date date="1986-10-22">Oct. 22, 1986</date>, <ref>100 Stat. 2746</ref>, 2748, 2961; <ref>Pub. L. 100–647, title I, § 1018(u)(44)</ref>, <date date="1988-11-10">Nov. 10, 1988</date>, <ref>102 Stat. 3592</ref>; <ref>Pub. L. 102–486, title XIX, § 1935(a)</ref>, <date date="1992-10-24">Oct. 24, 1992</date>, <ref>106 Stat. 3032</ref>; <ref>Pub. L. 107–16, title I, § 101(c)(10)</ref>, <date date="2001-06-07">June 7, 2001</date>, <ref>115 Stat. 44</ref>; <ref>Pub. L. 110–289, div. C, title III, § 3091(c)</ref>, <date date="2008-07-30">July 30, 2008</date>, <ref>122 Stat. 2911</ref>.)</sourceCredit>
+</section>
+<section>
+<num>[§§ 3451 to 3456.</num>
+<heading> Repealed. <ref>Pub. L. 98–67, title I, § 102(a)</ref>, <date date="1983-08-05">Aug. 5, 1983</date>, <ref>97 Stat. 369</ref>]</heading>
+</section>
+</chapter>

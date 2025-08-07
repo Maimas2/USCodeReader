@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 26—</num>
+<heading>DISCLOSURE OF LOBBYING ACTIVITIES</heading>
+<section>
+<num>§ 1601.</num>
+<heading> Findings</heading>
+<chapeau class="indent0">The Congress finds that—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> responsible representative Government requires public awareness of the efforts of paid lobbyists to influence the public decisionmaking process in both the legislative and executive branches of the Federal Government;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> existing lobbying disclosure statutes have been ineffective because of unclear statutory language, weak administrative and enforcement provisions, and an absence of clear guidance as to who is required to register and what they are required to disclose; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the effective public disclosure of the identity and extent of the efforts of paid lobbyists to influence Federal officials in the conduct of Government actions will increase public confidence in the integrity of Government.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 104–65, § 2</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 691</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1602.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">As used in this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Agency</heading>
+<content>
+<p class="indent1">The term “agency” has the meaning given that term in <ref>section 551(1) of title 5</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Client</heading>
+<content>
+<p class="indent1">The term “client” means any person or entity that employs or retains another person for financial or other compensation to conduct lobbying activities on behalf of that person or entity. A person or entity whose employees act as lobbyists on its own behalf is both a client and an employer of such employees. In the case of a coalition or association that employs or retains other persons to conduct lobbying activities, the client is the coalition or association and not its individual members.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Covered executive branch official</heading>
+<chapeau class="indent1">The term “covered executive branch official” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the President;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> the Vice President;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> any officer or employee, or any other individual functioning in the capacity of such an officer or employee, in the Executive Office of the President;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> any officer or employee serving in a position in level I, II, III, IV, or V of the Executive Schedule, as designated by statute or Executive order;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> any member of the uniformed services whose pay grade is at or above O–7 under <ref>section 201 of title 37</ref>; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> any officer or employee serving in a position of a confidential, policy-determining, policy-making, or policy-advocating character described in <ref>section 7511(b)(2)(B) of title 5</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Covered legislative branch official</heading>
+<chapeau class="indent1">The term “covered legislative branch official” means—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a Member of Congress;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> an elected officer of either House of Congress;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> any employee of, or any other individual functioning in the capacity of an employee of—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a Member of Congress;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> a committee of either House of Congress;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the leadership staff of the House of Representatives or the leadership staff of the Senate;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> a joint committee of Congress; and</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> a working group or caucus organized to provide legislative services or other assistance to Members of Congress; and</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> any other legislative branch employee serving in a position described under <ref>section 13101(13) of title 5</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Employee</heading>
+<chapeau class="indent1">The term “employee” means any individual who is an officer, employee, partner, director, or proprietor of a person or entity, but does not include—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> independent contractors; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> volunteers who receive no financial or other compensation from the person or entity for their services.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Foreign entity</heading>
+<content>
+<p class="indent1">The term “foreign entity” means a foreign principal (as defined in section 1(b) of the Foreign Agents Registration Act of 1938 (<ref>22 U.S.C. 611(b)</ref>).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Lobbying activities</heading>
+<content>
+<p class="indent1">The term “lobbying activities” means lobbying contacts and efforts in support of such contacts, including preparation and planning activities, research and other background work that is intended, at the time it is performed, for use in contacts, and coordination with the lobbying activities of others.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Lobbying contact</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> Definition</heading>
+<chapeau class="indent2">The term “lobbying contact” means any oral or written communication (including an electronic communication) to a covered executive branch official or a covered legislative branch official that is made on behalf of a client with regard to—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> the formulation, modification, or adoption of Federal legislation (including legislative proposals);</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the formulation, modification, or adoption of a Federal rule, regulation, Executive order, or any other program, policy, or position of the United States Government;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> the administration or execution of a Federal program or policy (including the negotiation, award, or administration of a Federal contract, grant, loan, permit, or license); or</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> the nomination or confirmation of a person for a position subject to confirmation by the Senate.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Exceptions</heading>
+<chapeau class="indent2">The term “lobbying contact” does not include a communication that is—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> made by a public official acting in the public official’s official capacity;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> made by a representative of a media organization if the purpose of the communication is gathering and disseminating news and information to the public;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> made in a speech, article, publication or other material that is distributed and made available to the public, or through radio, television, cable television, or other medium of mass communication;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> made on behalf of a government of a foreign country or a foreign political party and disclosed under the Foreign Agents Registration Act of 1938 (<ref>22 U.S.C. 611</ref> et seq.);</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> a request for a meeting, a request for the status of an action, or any other similar administrative request, if the request does not include an attempt to influence a covered executive branch official or a covered legislative branch official;</content>
+</clause>
+<clause class="indent3">
+<num>(vi)</num>
+<content> made in the course of participation in an advisory committee subject to chapter 10 of title 5;</content>
+</clause>
+<clause class="indent3">
+<num>(vii)</num>
+<content> testimony given before a committee, subcommittee, or task force of the Congress, or submitted for inclusion in the public record of a hearing conducted by such committee, subcommittee, or task force;</content>
+</clause>
+<clause class="indent3">
+<num>(viii)</num>
+<content> information provided in writing in response to an oral or written request by a covered executive branch official or a covered legislative branch official for specific information;</content>
+</clause>
+<clause class="indent3">
+<num>(ix)</num>
+<content> required by subpoena, civil investigative demand, or otherwise compelled by statute, regulation, or other action of the Congress or an agency, including any communication compelled by a Federal contract, grant, loan, permit, or license;</content>
+</clause>
+<clause class="indent3">
+<num>(x)</num>
+<content> made in response to a notice in the Federal Register, Commerce Business Daily, or other similar publication soliciting communications from the public and directed to the agency official specifically designated in the notice to receive such communications;</content>
+</clause>
+<clause class="indent3">
+<num>(xi)</num>
+<content> not possible to report without disclosing information, the unauthorized disclosure of which is prohibited by law;</content>
+</clause>
+<clause class="indent3">
+<num>(xii)</num>
+<chapeau> made to an official in an agency with regard to—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> a judicial proceeding or a criminal or civil law enforcement inquiry, investigation, or proceeding; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> a filing or proceeding that the Government is specifically required by statute or regulation to maintain or conduct on a confidential basis,</content>
+</subclause>
+</clause>
+<continuation class="indent3 firstIndent-1"> if that agency is charged with responsibility for such proceeding, inquiry, investigation, or filing;</continuation>
+<clause class="indent3">
+<num>(xiii)</num>
+<content> made in compliance with written agency procedures regarding an adjudication conducted by the agency under <ref>section 554 of title 5</ref> or substantially similar provisions;</content>
+</clause>
+<clause class="indent3">
+<num>(xiv)</num>
+<content> a written comment filed in the course of a public proceeding or any other communication that is made on the record in a public proceeding;</content>
+</clause>
+<clause class="indent3">
+<num>(xv)</num>
+<content> a petition for agency action made in writing and required to be a matter of public record pursuant to established agency procedures;</content>
+</clause>
+<clause class="indent3">
+<num>(xvi)</num>
+<chapeau> made on behalf of an individual with regard to that individual’s benefits, employment, or other personal matters involving only that individual, except that this clause does not apply to any communication with—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> a covered executive branch official, or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> a covered legislative branch official (other than the individual’s elected Members of Congress or employees who work under such Members’ direct supervision),</content>
+</subclause>
+</clause>
+<continuation class="indent3 firstIndent-1"> with respect to the formulation, modification, or adoption of private legislation for the relief of that individual;</continuation>
+<clause class="indent3">
+<num>(xvii)</num>
+<content> a disclosure by an individual that is protected under the amendments made by the Whistleblower Protection Act of 1989, under chapter 4 of title 5, or under another provision of law;</content>
+</clause>
+<clause class="indent3">
+<num>(xviii)</num>
+<chapeau> made by—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> a church, its integrated auxiliary, or a convention or association of churches that is exempt from filing a Federal income tax return under paragraph 2(A)(i) of <ref>section 6033(a) of title 26</ref>, or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> a religious order that is exempt from filing a Federal income tax return under paragraph (2)(A)(iii) of such section 6033(a); and</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(xix)</num>
+<chapeau> between—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> officials of a self-regulatory organization (as defined in section 3(a)(26) of the Securities Exchange Act [<ref>15 U.S.C. 78c(a)(26)</ref>]) that is registered with or established by the Securities and Exchange Commission as required by that Act [<ref>15 U.S.C. 78a</ref> et seq.] or a similar organization that is designated by or registered with the Commodities Future Trading Commission as provided under the Commodity Exchange Act [<ref>7 U.S.C. 1</ref> et seq.]; and</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> the Securities and Exchange Commission or the Commodities Future Trading Commission, respectively;</content>
+</subclause>
+</clause>
+<continuation class="indent3 firstIndent-1"> relating to the regulatory responsibilities of such organization under that Act.</continuation>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Lobbying firm</heading>
+<content>
+<p class="indent1">The term “lobbying firm” means a person or entity that has 1 or more employees who are lobbyists on behalf of a client other than that person or entity. The term also includes a self-employed individual who is a lobbyist.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Lobbyist</heading>
+<content>
+<p class="indent1">The term “lobbyist” means any individual who is employed or retained by a client for financial or other compensation for services that include more than one lobbying contact, other than an individual whose lobbying activities constitute less than 20 percent of the time engaged in the services provided by such individual to that client over a 3-month period.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Media organization</heading>
+<content>
+<p class="indent1">The term “media organization” means a person or entity engaged in disseminating information to the general public through a newspaper, magazine, other publication, radio, television, cable television, or other medium of mass communication.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Member of Congress</heading>
+<content>
+<p class="indent1">The term “Member of Congress” means a Senator or a Representative in, or Delegate or Resident Commissioner to, the Congress.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(13)</num>
+<heading class="bold"> Organization</heading>
+<content>
+<p class="indent1">The term “organization” means a person or entity other than an individual.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(14)</num>
+<heading class="bold"> Person or entity</heading>
+<content>
+<p class="indent1">The term “person or entity” means any individual, corporation, company, foundation, association, labor organization, firm, partnership, society, joint stock company, group of organizations, or State or local government.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(15)</num>
+<heading class="bold"> Public official</heading>
+<chapeau class="indent1">The term “public official” means any elected official, appointed official, or employee of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> a Federal, State, or local unit of government in the United States other than—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a college or university;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> a government-sponsored enterprise (as defined in <ref>section 622(8) of this title</ref>);</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> a public utility that provides gas, electricity, water, or communications;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> a guaranty agency (as defined in <ref>section 1085(j) of title 20</ref>), including any affiliate of such an agency; or</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> an agency of any State functioning as a student loan secondary market pursuant to <ref>section 1085(d)(1)(F) of title 20</ref>;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a Government corporation (as defined in <ref>section 9101 of title 31</ref>);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> an organization of State or local elected or appointed officials other than officials of an entity described in clause (i), (ii), (iii), (iv), or (v) of subparagraph (A);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> an Indian tribe (as defined in <ref>section 5304(e) of title 25</ref>; <ref class="footnoteRef" idref="fn002066">1</ref></content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> a national or State political party or any organizational unit thereof; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> a national, regional, or local unit of any foreign government, or a group of governments acting together as an international organization.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(16)</num>
+<heading class="bold"> State</heading>
+<content>
+<p class="indent1">The term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 104–65, § 3</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 691</ref>; <ref>Pub. L. 105–166</ref>, §§ 2, 3, <date date="1998-04-06">Apr. 6, 1998</date>, <ref>112 Stat. 38</ref>; <ref>Pub. L. 110–81, title II, § 201(b)(1)</ref>, <date date="2007-09-14">Sept. 14, 2007</date>, <ref>121 Stat. 742</ref>; <ref>Pub. L. 117–286, § 4(a)(2)</ref>, (b)(2), (c)(3), <date date="2022-12-27">Dec. 27, 2022</date>, <ref>136 Stat. 4305</ref>, 4342, 4353.)</sourceCredit>
+</section>
+<section>
+<num>§ 1603.</num>
+<heading> Registration of lobbyists</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Registration</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> General rule</heading>
+<content>
+<p class="indent1">No later than 45 days after a lobbyist first makes a lobbying contact or is employed or retained to make a lobbying contact, whichever is earlier, or on the first business day after such 45th day if the 45th day is not a business day, such lobbyist (or, as provided under paragraph (2), the organization employing such lobbyist), shall register with the Secretary of the Senate and the Clerk of the House of Representatives.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Employer filing</heading>
+<content>
+<p class="indent1">Any organization that has 1 or more employees who are lobbyists shall file a single registration under this section on behalf of such employees for each client on whose behalf the employees act as lobbyists.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Exemption</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> General rule</heading>
+<chapeau class="indent2">Notwithstanding paragraphs (1) and (2), a person or entity whose—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> total income for matters related to lobbying activities on behalf of a particular client (in the case of a lobbying firm) does not exceed and is not expected to exceed $2,500; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> total expenses in connection with lobbying activities (in the case of an organization whose employees engage in lobbying activities on its own behalf) do not exceed or are not expected to exceed $10,000,<p class="indent2 firstIndent0">(as estimated under <ref>section 1604 of this title</ref>) in the quarterly period described in <ref>section 1604(a) of this title</ref> during which the registration would be made is not required to register under this subsection with respect to such client.</p>
+</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Adjustment</heading>
+<chapeau class="indent2">The dollar amounts in subparagraph (A) shall be adjusted—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> on <date date="1997-01-01">January 1, 1997</date>, to reflect changes in the Consumer Price Index (as determined by the Secretary of Labor) since <date date="1995-12-19">December 19, 1995</date>; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> on January 1 of each fourth year occurring after <date date="1997-01-01">January 1, 1997</date>, to reflect changes in the Consumer Price Index (as determined by the Secretary of Labor) during the preceding 4-year period,</content>
+</clause>
+<continuation class="indent2 firstIndent0">rounded to the nearest $500.</continuation>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Contents of registration</heading>
+<chapeau class="indent0">Each registration under this section shall contain—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the name, address, business telephone number, and principal place of business of the registrant, and a general description of its business or activities;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the name, address, and principal place of business of the registrant’s client, and a general description of its business or activities (if different from paragraph (1));</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> the name, address, and principal place of business of any organization, other than the client, that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> contributes more than $5,000 to the registrant or the client in the quarterly period to fund the lobbying activities of the registrant; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> actively participates in the planning, supervision, or control of such lobbying activities;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<chapeau> the name, address, principal place of business, amount of any contribution of more than $5,000 to the lobbying activities of the registrant, and approximate percentage of equitable ownership in the client (if any) of any foreign entity that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> holds at least 20 percent equitable ownership in the client or any organization identified under paragraph (3);</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> directly or indirectly, in whole or in major part, plans, supervises, controls, directs, finances, or subsidizes the activities of the client or any organization identified under paragraph (3); or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> is an affiliate of the client or any organization identified under paragraph (3) and has a direct interest in the outcome of the lobbying activity;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<chapeau> a statement of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the general issue areas in which the registrant expects to engage in lobbying activities on behalf of the client; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to the extent practicable, specific issues that have (as of the date of the registration) already been addressed or are likely to be addressed in lobbying activities;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> the name of each employee of the registrant who has acted or whom the registrant expects to act as a lobbyist on behalf of the client and, if any such employee has served as a covered executive branch official or a covered legislative branch official in the 20 years before the date on which the employee first acted as a lobbyist on behalf of the client, the position in which such employee served; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">No disclosure is required under paragraph (3)(B) if the organization that would be identified as affiliated with the client is listed on the client’s publicly accessible Internet website as being a member of or contributor to the client, unless the organization in whole or in major part plans, supervises, or controls such lobbying activities. If a registrant relies upon the preceding sentence, the registrant must disclose the specific Internet address of the web page containing the information relied upon. Nothing in paragraph (3)(B) shall be construed to require the disclosure of any information about individuals who are members of, or donors to, an entity treated as a client by this chapter or an organization identified under that paragraph.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Guidelines for registration</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Multiple clients</heading>
+<content>
+<p class="indent1">In the case of a registrant making lobbying contacts on behalf of more than 1 client, a separate registration under this section shall be filed for each such client.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Multiple contacts</heading>
+<content>
+<p class="indent1">A registrant who makes more than 1 lobbying contact for the same client shall file a single registration covering all such lobbying contacts.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Termination of registration</heading>
+<chapeau class="indent0">A registrant who after registration—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> is no longer employed or retained by a client to conduct lobbying activities, and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> does not anticipate any additional lobbying activities for such client,</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">may so notify the Secretary of the Senate and the Clerk of the House of Representatives and terminate its registration.</continuation>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 4</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 696</ref>; <ref>Pub. L. 110–81, title II</ref>, §§ 201(b)(2), (5), 207(a)(1), (b), 208, <date date="2007-09-14">Sept. 14, 2007</date>, <ref>121 Stat. 742</ref>, 747, 748; <ref>Pub. L. 115–418, § 2(a)</ref>, <date date="2019-01-03">Jan. 3, 2019</date>, <ref>132 Stat. 5440</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1604.</num>
+<heading> Reports by registered lobbyists</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Quarterly report</heading>
+<content>
+<p class="indent0">No later than 20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under <ref>section 1603 of this title</ref>, or on the first business day after such 20th day if the 20th day is not a business day, each registrant shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives on its lobbying activities during such quarterly period. A separate report shall be filed for each client of the registrant.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Contents of report</heading>
+<chapeau class="indent0">Each quarterly report filed under subsection (a) shall contain—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the name of the registrant, the name of the client, and any changes or updates to the information provided in the initial registration, including information under <ref>section 1603(b)(3) of this title</ref>;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> for each general issue area in which the registrant engaged in lobbying activities on behalf of the client during the quarterly period—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a list of the specific issues upon which a lobbyist employed by the registrant engaged in lobbying activities, including, to the maximum extent practicable, a list of bill numbers and references to specific executive branch actions;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a statement of the Houses of Congress and the Federal agencies contacted by lobbyists employed by the registrant on behalf of the client;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> a list of the employees of the registrant who acted as lobbyists on behalf of the client; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> a description of the interest, if any, of any foreign entity identified under <ref>section 1603(b)(4) of this title</ref> in the specific issues listed under subparagraph (A);</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> in the case of a lobbying firm, a good faith estimate of the total amount of all income from the client (including any payments to the registrant by any other person for lobbying activities on behalf of the client) during the quarterly period, other than income for matters that are unrelated to lobbying activities;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> in the case of a registrant engaged in lobbying activities on its own behalf, a good faith estimate of the total expenses that the registrant and its employees incurred in connection with lobbying activities during the quarterly period;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> for each client, immediately after listing the client, an identification of whether the client is a State or local government or a department, agency, special purpose district, or other instrumentality controlled by one or more State or local governments; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Estimates of income or expenses</heading>
+<chapeau class="indent0">For purposes of this section, estimates of income or expenses shall be made as follows:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> Estimates of amounts in excess of $5,000 shall be rounded to the nearest $10,000.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> In the event income or expenses do not exceed $5,000, the registrant shall include a statement that income or expenses totaled less than $5,000 for the reporting period.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Semiannual reports on certain contributions</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Not later than 30 days after the end of the semiannual period beginning on the first day of January and July of each year, or on the first business day after such 30th day if the 30th day is not a business day, each person or organization who is registered or is required to register under paragraph (1) or (2) of <ref>section 1603(a) of this title</ref>, and each employee who is or is required to be listed as a lobbyist under <ref>section 1603(b)(6) of this title</ref> or subsection (b)(2)(C) of this section, shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives containing—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the name of the person or organization;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> in the case of an employee, his or her employer;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> the names of all political committees established or controlled by the person or organization;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> the name of each Federal candidate or officeholder, leadership PAC, or political party committee, to whom aggregate contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization within the semiannual period, and the date and amount of each such contribution made within the semiannual period;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<chapeau> the date, recipient, and amount of funds contributed or disbursed during the semiannual period by the person or organization or a political committee established or controlled by the person or organization—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to pay the cost of an event to honor or recognize a covered legislative branch official or covered executive branch official;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to an entity that is named for a covered legislative branch official, or to a person or entity in recognition of such official;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> to an entity established, financed, maintained, or controlled by a covered legislative branch official or covered executive branch official, or an entity designated by such official; or</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> to pay the costs of a meeting, retreat, conference, or other similar event held by, or in the name of, 1 or more covered legislative branch officials or covered executive branch officials,</content>
+</clause>
+<continuation class="indent2 firstIndent0">except that this subparagraph shall not apply if the funds are provided to a person who is required to report the receipt of the funds under <ref>section 30104 of title 52</ref>;</continuation>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> the name of each Presidential library foundation, and each Presidential inaugural committee, to whom contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization, within the semiannual period, and the date and amount of each such contribution within the semiannual period; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<chapeau> a certification by the person or organization filing the report that the person or organization—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> has read and is familiar with those provisions of the Standing Rules of the Senate and the Rules of the House of Representatives relating to the provision of gifts and travel; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> has not provided, requested, or directed a gift, including travel, to a Member of Congress or an officer or employee of either House of Congress with knowledge that receipt of the gift would violate rule XXXV of the Standing Rules of the Senate or rule XXV of the Rules of the House of Representatives.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Definition</heading>
+<content>
+<p class="indent1">In this subsection, the term “leadership PAC” has the meaning given such term in <ref>section 30104(i)(8)(B) of title 52</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Electronic filing required</heading>
+<content>
+<p class="indent0">A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 5</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 697</ref>; <ref>Pub. L. 105–166, § 4(c)</ref>, <date date="1998-04-06">Apr. 6, 1998</date>, <ref>112 Stat. 39</ref>; <ref>Pub. L. 110–81, title II</ref>, §§ 201(a), (b)(6), 202, 203(a), 205, 207(a)(2), <date date="2007-09-14">Sept. 14, 2007</date>, <ref>121 Stat. 741</ref>, 742, 746, 747; <ref>Pub. L. 115–418, § 2(b)</ref>, <date date="2019-01-03">Jan. 3, 2019</date>, <ref>132 Stat. 5440</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1605.</num>
+<heading> Disclosure and enforcement</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent0">The Secretary of the Senate and the Clerk of the House of Representatives shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> provide guidance and assistance on the registration and reporting requirements of this chapter and develop common standards, rules, and procedures for compliance with this chapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> review, and, where necessary, verify and inquire to ensure the accuracy, completeness, and timeliness of registration and reports;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<chapeau> develop filing, coding, and cross-indexing systems to carry out the purpose of this chapter, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a publicly available list of all registered lobbyists, lobbying firms, and their clients; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> computerized systems designed to minimize the burden of filing and maximize public access to materials filed under this chapter;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> make available for public inspection and copying at reasonable times the registrations and reports filed under this chapter and, in the case of a report filed in electronic form under <ref>section 1604(e) of this title</ref>, make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> retain registrations for a period of at least 6 years after they are terminated and reports for a period of at least 6 years after they are filed;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> compile and summarize, with respect to each quarterly period, the information contained in registrations and reports filed with respect to such period in a clear and complete manner;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(7)</num>
+<content> notify any lobbyist or lobbying firm in writing that may be in noncompliance with this chapter;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(8)</num>
+<content> notify the United States Attorney for the District of Columbia that a lobbyist or lobbying firm may be in noncompliance with this chapter, if the registrant has been notified in writing and has failed to provide an appropriate response within 60 days after notice was given under paragraph (7);</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(9)</num>
+<chapeau> maintain all registrations and reports filed under this chapter, and make them available to the public over the Internet, without a fee or other access charge, in a searchable, sortable, and downloadable manner, to the extent technically practicable, that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> includes the information contained in the registrations and reports;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> is searchable and sortable to the maximum extent practicable, including searchable and sortable by each of the categories of information described in section 1603(b) or 1604(b) of this title; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> provides electronic links or other appropriate mechanisms to allow users to obtain relevant information in the database of the Federal Election Commission;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(10)</num>
+<content> retain the information contained in a registration or report filed under this chapter for a period of 6 years after the registration or report (as the case may be) is filed; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(11)</num>
+<content> make publicly available, on a semiannual basis, the aggregate number of registrants referred to the United States Attorney for the District of Columbia for noncompliance as required by paragraph (8).</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Enforcement report</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Report</heading>
+<content>
+<p class="indent1">The Attorney General shall report to the congressional committees referred to in paragraph (2), after the end of each semiannual period beginning on January 1 and July 1, the aggregate number of enforcement actions taken by the Department of Justice under this chapter during that semiannual period and, by case, any sentences imposed, except that such report shall not include the names of individuals, or personally identifiable information, that is not already a matter of public record.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Committees</heading>
+<content>
+<p class="indent1">The congressional committees referred to in paragraph (1) are the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.</p>
+</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 6</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 698</ref>; <ref>Pub. L. 110–81, title II</ref>, §§ 201(b)(3), 209(a), (b), 210, <date date="2007-09-14">Sept. 14, 2007</date>, <ref>121 Stat. 742</ref>, 748.)</sourceCredit>
+</section>
+<section>
+<num>§ 1606.</num>
+<heading> Penalties</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Civil penalty</heading>
+<chapeau class="indent0">Whoever knowingly fails to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> remedy a defective filing within 60 days after notice of such a defect by the Secretary of the Senate or the Clerk of the House of Representatives; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> comply with any other provision of this chapter;</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">shall, upon proof of such knowing violation by a preponderance of the evidence, be subject to a civil fine of not more than $200,000, depending on the extent and gravity of the violation.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Criminal penalty</heading>
+<content>
+<p class="indent0">Whoever knowingly and corruptly fails to comply with any provision of this chapter shall be imprisoned for not more than 5 years or fined under title 18, or both.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 7</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 699</ref>; <ref>Pub. L. 110–81, title II, § 211(a)</ref>, <date date="2007-09-14">Sept. 14, 2007</date>, <ref>121 Stat. 749</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1607.</num>
+<heading> Rules of construction</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Constitutional rights</heading>
+<chapeau class="indent0">Nothing in this chapter shall be construed to prohibit or interfere with—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the right to petition the Government for the redress of grievances;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the right to express a personal opinion; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the right of association,</content>
+</paragraph>
+<continuation class="indent0 firstIndent0">protected by the first amendment to the Constitution.</continuation>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Prohibition of activities</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to prohibit, or to authorize any court to prohibit, lobbying activities or lobbying contacts by any person or entity, regardless of whether such person or entity is in compliance with the requirements of this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Audit and investigations</heading>
+<content>
+<p class="indent0">Nothing in this chapter shall be construed to grant general audit or investigative authority to the Secretary of the Senate or the Clerk of the House of Representatives.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 8</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 699</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1608.</num>
+<heading> Severability</heading>
+<content>
+<p class="indent0">If any provision of this chapter, or the application thereof, is held invalid, the validity of the remainder of this chapter and the application of such provision to other persons and circumstances shall not be affected thereby.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 104–65, § 13</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 701</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1609.</num>
+<heading> Identification of clients and covered officials</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Oral lobbying contacts</heading>
+<chapeau class="indent0">Any person or entity that makes an oral lobbying contact with a covered legislative branch official or a covered executive branch official shall, on the request of the official at the time of the lobbying contact—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> state whether the person or entity is registered under this chapter and identify the client on whose behalf the lobbying contact is made; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> state whether such client is a foreign entity and identify any foreign entity required to be disclosed under <ref>section 1603(b)(4) of this title</ref> that has a direct interest in the outcome of the lobbying activity.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Written lobbying contacts</heading>
+<chapeau class="indent0">Any person or entity registered under this chapter that makes a written lobbying contact (including an electronic communication) with a covered legislative branch official or a covered executive branch official shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> if the client on whose behalf the lobbying contact was made is a foreign entity, identify such client, state that the client is considered a foreign entity under this chapter, and state whether the person making the lobbying contact is registered on behalf of that client under <ref>section 1603 of this title</ref>; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> identify any other foreign entity identified pursuant to <ref>section 1603(b)(4) of this title</ref> that has a direct interest in the outcome of the lobbying activity.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Identification as covered official</heading>
+<content>
+<p class="indent0">Upon request by a person or entity making a lobbying contact, the individual who is contacted or the office employing that individual shall indicate whether or not the individual is a covered legislative branch official or a covered executive branch official.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 14</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 702</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1610.</num>
+<heading> Estimates based on tax reporting system</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Entities covered by <ref>section 6033(b) of title 26</ref></heading>
+<chapeau class="indent0">A person, other than a lobbying firm, that is required to report and does report lobbying expenditures pursuant to <ref>section 6033(b)(8) of title 26</ref> may—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> make a good faith estimate (by category of dollar value) of applicable amounts that would be required to be disclosed under such section for the appropriate quarterly period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> for all other purposes consider as lobbying contacts and lobbying activities only—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> lobbying contacts with covered legislative branch officials (as defined in <ref>section 1602(4) of this title</ref>) and lobbying activities in support of such contacts; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> lobbying of Federal executive branch officials to the extent that such activities are influencing legislation as defined in <ref>section 4911(d) of title 26</ref>.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Entities covered by <ref>section 162(e) of title 26</ref></heading>
+<chapeau class="indent0">A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to <ref>section 162(e) of title 26</ref> may—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> make a good faith estimate (by category of dollar value) of applicable amounts that would not be deductible pursuant to such section for the appropriate quarterly period to meet the requirements of sections 1603(a)(3) and 1604(b)(4) of this title; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<chapeau> for all other purposes consider as lobbying contacts and lobbying activities only—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> lobbying contacts with covered legislative branch officials (as defined in <ref>section 1602(4) of this title</ref>) and lobbying activities in support of such contacts; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> lobbying of Federal executive branch officials to the extent that amounts paid or costs incurred in connection with such activities are not deductible pursuant to <ref>section 162(e) of title 26</ref>.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Disclosure of estimate</heading>
+<chapeau class="indent0">Any registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) for reporting or threshold purposes shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> inform the Secretary of the Senate and the Clerk of the House of Representatives that the registrant has elected to make its estimates under such procedures; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> make all such estimates, in a given calendar year, under such procedures.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Study</heading>
+<chapeau class="indent0">Not later than <date date="1997-03-31">March 31, 1997</date>, the Comptroller General of the United States shall review reporting by registrants under subsections (a) and (b) and report to the Congress—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> the differences between the definition of “lobbying activities” in <ref>section 1602(7) of this title</ref> and the definitions of “lobbying expenditures”, “influencing legislation”, and related terms in sections 162(e) and 4911 of title 26, as each are implemented by regulations;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> the impact that any such differences may have on filing and reporting under this chapter pursuant to this subsection; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> any changes to this chapter or to the appropriate sections of title 26 that the Comptroller General may recommend to harmonize the definitions.</content>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 15</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 702</ref>; <ref>Pub. L. 105–166, § 4(a)</ref>, (b), <date date="1998-04-06">Apr. 6, 1998</date>, <ref>112 Stat. 38</ref>; <ref>Pub. L. 110–81, title II, § 201(b)(4)</ref>, <date date="2007-09-14">Sept. 14, 2007</date>, <ref>121 Stat. 742</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1611.</num>
+<heading> Exempt organizations</heading>
+<content>
+<p class="indent0">An organization described in <ref>section 501(c)(4) of title 26</ref> which engages in lobbying activities shall not be eligible for the receipt of Federal funds constituting an award, grant, or loan.</p>
+</content>
+<sourceCredit>(<ref>Pub. L. 104–65, § 18</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 703</ref>; <ref>Pub. L. 104–99, title I, § 129(a)</ref>, <date date="1996-01-26">Jan. 26, 1996</date>, <ref>110 Stat. 34</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1612.</num>
+<heading> Sense of Senate that lobbying expenses should remain nondeductible</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Findings</heading>
+<content>
+<p class="indent0">The Senate finds that ordinary Americans generally are not allowed to deduct the costs of communicating with their elected representatives.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Sense of Senate</heading>
+<content>
+<p class="indent0">It is the sense of the Senate that lobbying expenses should not be tax deductible.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 23</ref>, <date date="1995-12-19">Dec. 19, 1995</date>, <ref>109 Stat. 705</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1613.</num>
+<heading> Prohibition on provision of gifts or travel by registered lobbyists to Members of Congress and to congressional employees</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Prohibition</heading>
+<content>
+<p class="indent0">Any person described in subsection (b) may not make a gift or provide travel to a covered legislative branch official if the person has knowledge that the gift or travel may not be accepted by that covered legislative branch official under the Rules of the House of Representatives or the Standing Rules of the Senate (as the case may be).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Persons subject to prohibition</heading>
+<content>
+<p class="indent0">The persons subject to the prohibition under subsection (a) are any lobbyist that is registered or is required to register under <ref>section 1603(a)(1) of this title</ref>, any organization that employs 1 or more lobbyists and is registered or is required to register under <ref>section 1603(a)(2) of this title</ref>, and any employee listed or required to be listed as a lobbyist by a registrant under section 1603(b)(6) or 1604(b)(2)(C) of this title.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 25</ref>, as added <ref>Pub. L. 110–81, title II, § 206(a)</ref>, <date date="2007-09-14">Sept. 14, 2007</date>, <ref>121 Stat. 747</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 1614.</num>
+<heading> Annual audits and reports by Comptroller General</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Audit</heading>
+<content>
+<p class="indent0">On an annual basis, the Comptroller General shall audit the extent of compliance or noncompliance with the requirements of this chapter by lobbyists, lobbying firms, and registrants through a random sampling of publicly available lobbying registrations and reports filed under this chapter during each calendar year.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Reports to Congress</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Annual reports</heading>
+<chapeau class="indent1">Not later than April 1 of each year, the Comptroller General shall submit to the Congress a report on the review required by subsection (a) for the preceding calendar year. The report shall include the Comptroller General’s assessment of the matters required to be emphasized by that subsection and any recommendations of the Comptroller General to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> improve the compliance by lobbyists, lobbying firms, and registrants with the requirements of this chapter; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> provide the Department of Justice with the resources and authorities needed for the effective enforcement of this chapter.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Assessment of compliance</heading>
+<content>
+<p class="indent1">The annual report under paragraph (1) shall include an assessment of compliance by registrants with the requirements of <ref>section 1603(b)(3) of this title</ref>.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Access to information</heading>
+<content>
+<p class="indent0">The Comptroller General may, in carrying out this section, request information from and access to any relevant documents from any person registered under paragraph (1) or (2) of <ref>section 1603(a) of this title</ref> and each employee who is listed as a lobbyist under <ref>section 1603(b)(6) of this title</ref> or <ref>section 1604(b)(2)(C) of this title</ref> if the material requested relates to the purposes of this section. The Comptroller General may request such person to submit in writing such information as the Comptroller General may prescribe. The Comptroller General may notify the Congress in writing if a person from whom information has been requested under this subsection refuses to comply with the request within 45 days after the request is made.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 104–65, § 26</ref>, as added <ref>Pub. L. 110–81, title II, § 213(a)</ref>, <date date="2007-09-14">Sept. 14, 2007</date>, <ref>121 Stat. 750</ref>.)</sourceCredit>
+</section>
+</chapter>

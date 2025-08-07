@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 91—</num>
+<heading>CHILDREN’S ONLINE PRIVACY PROTECTION</heading>
+<section>
+<num>§ 6501.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this chapter:</chapeau>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Child</heading>
+<content>
+<p class="indent1">The term “child” means an individual under the age of 13.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Operator</heading>
+<chapeau class="indent1">The term “operator”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> means any person who operates a website located on the Internet or an online service and who collects or maintains personal information from or about the users of or visitors to such website or online service, or on whose behalf such information is collected or maintained, where such website or online service is operated for commercial purposes, including any person offering products or services for sale through that website or online service, involving commerce—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> among the several States or with 1 or more foreign nations;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<chapeau> in any territory of the United States or in the District of Columbia, or between any such territory and—</chapeau>
+<subclause class="indent4">
+<num>(I)</num>
+<content> another such territory; or</content>
+</subclause>
+<subclause class="indent4">
+<num>(II)</num>
+<content> any State or foreign nation; or</content>
+</subclause>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> between the District of Columbia and any State, territory, or foreign nation; but</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> does not include any nonprofit entity that would otherwise be exempt from coverage under <ref>section 45 of this title</ref>.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Commission</heading>
+<content>
+<p class="indent1">The term “Commission” means the Federal Trade Commission.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(4)</num>
+<heading class="bold"> Disclosure</heading>
+<chapeau class="indent1">The term “disclosure” means, with respect to personal information—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> the release of personal information collected from a child in identifiable form by an operator for any purpose, except where such information is provided to a person other than the operator who provides support for the internal operations of the website and does not disclose or use that information for any other purpose; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> making personal information collected from a child by a website or online service directed to children or with actual knowledge that such information was collected from a child, publicly available in identifiable form, by any means including by a public posting, through the Internet, or through—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a home page of a website;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> a pen pal service;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> an electronic mail service;</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> a message board; or</content>
+</clause>
+<clause class="indent3">
+<num>(v)</num>
+<content> a chat room.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(5)</num>
+<heading class="bold"> Federal agency</heading>
+<content>
+<p class="indent1">The term “Federal agency” means an agency, as that term is defined in <ref>section 551(1) of title 5</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(6)</num>
+<heading class="bold"> Internet</heading>
+<content>
+<p class="indent1">The term “Internet” means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(7)</num>
+<heading class="bold"> Parent</heading>
+<content>
+<p class="indent1">The term “parent” includes a legal guardian.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(8)</num>
+<heading class="bold"> Personal information</heading>
+<chapeau class="indent1">The term “personal information” means individually identifiable information about an individual collected online, including—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> a first and last name;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a home or other physical address including street name and name of a city or town;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> an e-mail address;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> a telephone number;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> a Social Security number;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(F)</num>
+<content> any other identifier that the Commission determines permits the physical or online contacting of a specific individual; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(G)</num>
+<content> information concerning the child or the parents of that child that the website collects online from the child and combines with an identifier described in this paragraph.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(9)</num>
+<heading class="bold"> Verifiable parental consent</heading>
+<content>
+<p class="indent1">The term “verifiable parental consent” means any reasonable effort (taking into consideration available technology), including a request for authorization for future collection, use, and disclosure described in the notice, to ensure that a parent of a child receives notice of the operator’s personal information collection, use, and disclosure practices, and authorizes the collection, use, and disclosure, as applicable, of personal information and the subsequent use of that information before that information is collected from that child.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(10)</num>
+<heading class="bold"> Website or online service directed to children</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">The term “website or online service directed to children” means—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a commercial website or online service that is targeted to children; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> that portion of a commercial website or online service that is targeted to children.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Limitation</heading>
+<content>
+<p class="indent2">A commercial website or online service, or a portion of a commercial website or online service, shall not be deemed directed to children solely for referring or linking to a commercial website or online service directed to children by using information location tools, including a directory, index, reference, pointer, or hypertext link.</p>
+</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(11)</num>
+<heading class="bold"> Person</heading>
+<content>
+<p class="indent1">The term “person” means any individual, partnership, corporation, trust, estate, cooperative, association, or other entity.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(12)</num>
+<heading class="bold"> Online contact information</heading>
+<content>
+<p class="indent1">The term “online contact information” means an e-mail address or another substantially similar identifier that permits direct contact with a person online.</p>
+</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 105–277, div. C, title XIII, § 1302</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–728</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6502.</num>
+<heading> Regulation of unfair and deceptive acts and practices in connection with collection and use of personal information from and about children on the Internet</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Acts prohibited</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">It is unlawful for an operator of a website or online service directed to children, or any operator that has actual knowledge that it is collecting personal information from a child, to collect personal information from a child in a manner that violates the regulations prescribed under subsection (b).</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Disclosure to parent protected</heading>
+<content>
+<p class="indent1">Notwithstanding paragraph (1), neither an operator of such a website or online service nor the operator’s agent shall be held to be liable under any Federal or State law for any disclosure made in good faith and following reasonable procedures in responding to a request for disclosure of personal information under subsection (b)(1)(B)(iii) to the parent of a child.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Regulations</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent1">Not later than 1 year after <date date="1998-10-21">October 21, 1998</date>, the Commission shall promulgate under <ref>section 553 of title 5</ref> regulations that—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> require the operator of any website or online service directed to children that collects personal information from children or the operator of a website or online service that has actual knowledge that it is collecting personal information from a child—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to provide notice on the website of what information is collected from children by the operator, how the operator uses such information, and the operator’s disclosure practices for such information; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to obtain verifiable parental consent for the collection, use, or disclosure of personal information from children;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<chapeau> require the operator to provide, upon request of a parent under this subparagraph whose child has provided personal information to that website or online service, upon proper identification of that parent, to such parent—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> a description of the specific types of personal information collected from the child by that operator;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> the opportunity at any time to refuse to permit the operator’s further use or maintenance in retrievable form, or future online collection, of personal information from that child; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> notwithstanding any other provision of law, a means that is reasonable under the circumstances for the parent to obtain any personal information collected from that child;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> prohibit conditioning a child’s participation in a game, the offering of a prize, or another activity on the child disclosing more personal information than is reasonably necessary to participate in such activity; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> require the operator of such a website or online service to establish and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> When consent not required</heading>
+<chapeau class="indent1">The regulations shall provide that verifiable parental consent under paragraph (1)(A)(ii) is not required in the case of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> online contact information collected from a child that is used only to respond directly on a one-time basis to a specific request from the child and is not used to recontact the child and is not maintained in retrievable form by the operator;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> a request for the name or online contact information of a parent or child that is used for the sole purpose of obtaining parental consent or providing notice under this section and where such information is not maintained in retrievable form by the operator if parental consent is not obtained after a reasonable time;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<chapeau> online contact information collected from a child that is used only to respond more than once directly to a specific request from the child and is not used to recontact the child beyond the scope of that request—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> if, before any additional response after the initial response to the child, the operator uses reasonable efforts to provide a parent notice of the online contact information collected from the child, the purposes for which it is to be used, and an opportunity for the parent to request that the operator make no further use of the information and that it not be maintained in retrievable form; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> without notice to the parent in such circumstances as the Commission may determine are appropriate, taking into consideration the benefits to the child of access to information and services, and risks to the security and privacy of the child, in regulations promulgated under this subsection;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<chapeau> the name of the child and online contact information (to the extent reasonably necessary to protect the safety of a child participant on the site)—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> used only for the purpose of protecting such safety;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> not used to recontact the child or for any other purpose; and</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> not disclosed on the site,</content>
+</clause>
+<continuation class="indent2 firstIndent0">if the operator uses reasonable efforts to provide a parent notice of the name and online contact information collected from the child, the purposes for which it is to be used, and an opportunity for the parent to request that the operator make no further use of the information and that it not be maintained in retrievable form; or</continuation>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<chapeau> the collection, use, or dissemination of such information by the operator of such a website or online service necessary—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> to protect the security or integrity of its website;</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> to take precautions against liability;</content>
+</clause>
+<clause class="indent3">
+<num>(iii)</num>
+<content> to respond to judicial process; or</content>
+</clause>
+<clause class="indent3">
+<num>(iv)</num>
+<content> to the extent permitted under other provisions of law, to provide information to law enforcement agencies or for an investigation on a matter related to public safety.</content>
+</clause>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Termination of service</heading>
+<content>
+<p class="indent1">The regulations shall permit the operator of a website or an online service to terminate service provided to a child whose parent has refused, under the regulations prescribed under paragraph (1)(B)(ii), to permit the operator’s further use or maintenance in retrievable form, or future online collection, of personal information from that child.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Enforcement</heading>
+<content>
+<p class="indent0">Subject to sections 6503 and 6505 of this title, a violation of a regulation prescribed under subsection (a) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under <ref>section 57a(a)(1)(B) of this title</ref>.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Inconsistent State law</heading>
+<content>
+<p class="indent0">No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. C, title XIII, § 1303</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–730</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6503.</num>
+<heading> Safe harbors</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> Guidelines</heading>
+<content>
+<p class="indent0">An operator may satisfy the requirements of regulations issued under <ref>section 6502(b) of this title</ref> by following a set of self-regulatory guidelines, issued by representatives of the marketing or online industries, or by other persons, approved under subsection (b).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Incentives</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Self-regulatory incentives</heading>
+<content>
+<p class="indent1">In prescribing regulations under <ref>section 6502 of this title</ref>, the Commission shall provide incentives for self-regulation by operators to implement the protections afforded children under the regulatory requirements described in subsection (b) of that section.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Deemed compliance</heading>
+<content>
+<p class="indent1">Such incentives shall include provisions for ensuring that a person will be deemed to be in compliance with the requirements of the regulations under <ref>section 6502 of this title</ref> if that person complies with guidelines that, after notice and comment, are approved by the Commission upon making a determination that the guidelines meet the requirements of the regulations issued under <ref>section 6502 of this title</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Expedited response to requests</heading>
+<content>
+<p class="indent1">The Commission shall act upon requests for safe harbor treatment within 180 days of the filing of the request, and shall set forth in writing its conclusions with regard to such requests.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Appeals</heading>
+<content>
+<p class="indent0">Final action by the Commission on a request for approval of guidelines, or the failure to act within 180 days on a request for approval of guidelines, submitted under subsection (b) may be appealed to a district court of the United States of appropriate jurisdiction as provided for in <ref>section 706 of title 5</ref>.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. C, title XIII, § 1304</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–732</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6504.</num>
+<heading> Actions by States</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Civil actions</heading>
+<chapeau class="indent1">In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates any regulation of the Commission prescribed under <ref>section 6502(b) of this title</ref>, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction to—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> enjoin that practice;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> enforce compliance with the regulation;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> obtain damage, restitution, or other compensation on behalf of residents of the State; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> obtain such other relief as the court may consider to be appropriate.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Notice</heading>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(A)</num>
+<heading class="bold"> In general</heading>
+<chapeau class="indent2">Before filing an action under paragraph (1), the attorney general of the State involved shall provide to the Commission—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> written notice of that action; and</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> a copy of the complaint for that action.</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent4 firstIndent-2">
+<num class="bold">(B)</num>
+<heading class="bold"> Exemption</heading>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(i)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent3">Subparagraph (A) shall not apply with respect to the filing of an action by an attorney general of a State under this subsection, if the attorney general determines that it is not feasible to provide the notice described in that subparagraph before the filing of the action.</p>
+</content>
+</clause>
+<clause class="indent5 firstIndent-2">
+<num class="bold">(ii)</num>
+<heading class="bold"> Notification</heading>
+<content>
+<p class="indent3">In an action described in clause (i), the attorney general of a State shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.</p>
+</content>
+</clause>
+</subparagraph>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Intervention</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent1">On receiving notice under subsection (a)(2), the Commission shall have the right to intervene in the action that is the subject of the notice.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Effect of intervention</heading>
+<chapeau class="indent1">If the Commission intervenes in an action under subsection (a), it shall have the right—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> to be heard with respect to any matter that arises in that action; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> to file a petition for appeal.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(3)</num>
+<heading class="bold"> Amicus curiae</heading>
+<content>
+<p class="indent1">Upon application to the court, a person whose self-regulatory guidelines have been approved by the Commission and are relied upon as a defense by any defendant to a proceeding under this section may file amicus curiae in that proceeding.</p>
+</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Construction</heading>
+<chapeau class="indent0">For purposes of bringing any civil action under subsection (a), nothing in this chapter shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> conduct investigations;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> administer oaths or affirmations; or</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> compel the attendance of witnesses or the production of documentary and other evidence.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Actions by Commission</heading>
+<content>
+<p class="indent0">In any case in which an action is instituted by or on behalf of the Commission for violation of any regulation prescribed under <ref>section 6502 of this title</ref>, no State may, during the pendency of that action, institute an action under subsection (a) against any defendant named in the complaint in that action for violation of that regulation.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Venue; service of process</heading>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(1)</num>
+<heading class="bold"> Venue</heading>
+<content>
+<p class="indent1">Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under <ref>section 1391 of title 28</ref>.</p>
+</content>
+</paragraph>
+<paragraph class="indent3 firstIndent-2">
+<num class="bold">(2)</num>
+<heading class="bold"> Service of process</heading>
+<chapeau class="indent1">In an action brought under subsection (a), process may be served in any district in which the defendant—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> is an inhabitant; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> may be found.</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. C, title XIII, § 1305</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–733</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6505.</num>
+<heading> Administration and applicability</heading>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(a)</num>
+<heading class="bold"> In general</heading>
+<content>
+<p class="indent0">Except as otherwise provided, this chapter shall be enforced by the Commission under the Federal Trade Commission Act (<ref>15 U.S.C. 41</ref> et seq.).</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(b)</num>
+<heading class="bold"> Provisions</heading>
+<chapeau class="indent0">Compliance with the requirements imposed under this chapter shall be enforced under—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<chapeau> section 8 of the Federal Deposit Insurance Act (<ref>12 U.S.C. 1818</ref>), in the case of—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <ref class="footnoteRef" idref="fn002546">1</ref> of the Federal Reserve Act (<ref>12 U.S.C. 601</ref> et seq. and 611 et. seq.), by the Board; and</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> section 8 of the Federal Deposit Insurance Act (<ref>12 U.S.C. 1818</ref>), by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<content> the Federal Credit Union Act (<ref>12 U.S.C. 1751</ref> et seq.) by the National Credit Union Administration Board with respect to any Federal credit union;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<content> part A of subtitle VII of title 49 by the Secretary of Transportation with respect to any air carrier or foreign air carrier subject to that part;</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<content> the Packers and Stockyards Act, 1921 (<ref>7 U.S.C. 181</ref> et. seq.) (except as provided in section 406 of that Act (<ref>7 U.S.C. 226</ref>, 227)), by the Secretary of Agriculture with respect to any activities subject to that Act; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<content> the Farm Credit Act of 1971 (<ref>12 U.S.C. 2001</ref> et seq.) by the Farm Credit Administration with respect to any Federal land bank, Federal land bank association, Federal intermediate credit bank, or production credit association.</content>
+</paragraph>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(c)</num>
+<heading class="bold"> Exercise of certain powers</heading>
+<content>
+<p class="indent0">For the purpose of the exercise by any agency referred to in subsection (a) <ref class="footnoteRef" idref="fn002547">2</ref> of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a),<ref class="footnoteRef" idref="fn002547">2</ref> each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(d)</num>
+<heading class="bold"> Actions by Commission</heading>
+<content>
+<p class="indent0">The Commission shall prevent any person from violating a rule of the Commission under <ref>section 6502 of this title</ref> in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (<ref>15 U.S.C. 41</ref> et seq.) were incorporated into and made a part of this chapter. Any entity that violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this chapter.</p>
+</content>
+</subsection>
+<subsection class="indent2 firstIndent-2">
+<num class="bold">(e)</num>
+<heading class="bold"> Effect on other laws</heading>
+<content>
+<p class="indent0">Nothing contained in this chapter shall be construed to limit the authority of the Commission under any other provisions of law.</p>
+</content>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 105–277, div. C, title XIII, § 1306</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–734</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 6506.</num>
+<heading> Review</heading>
+<chapeau class="indent0">Not later than 5 years after the effective date of the regulations initially issued under <ref>section 6502 of this title</ref>, the Commission shall—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> review the implementation of this chapter, including the effect of the implementation of this chapter on practices relating to the collection and disclosure of information relating to children, children’s ability to obtain access to information of their choice online, and on the availability of websites directed to children; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> prepare and submit to Congress a report on the results of the review under paragraph (1).</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 105–277, div. C, title XIII, § 1307</ref>, <date date="1998-10-21">Oct. 21, 1998</date>, <ref>112 Stat. 2681–735</ref>.)</sourceCredit>
+</section>
+</chapter>

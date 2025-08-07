@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+<num>CHAPTER 111—</num>
+<heading>GENERAL</heading>
+<section>
+<num>§ 11101.</num>
+<heading> Definitions</heading>
+<chapeau class="indent0">In this subtitle, the following definitions apply:</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">Commercial product</inline>.—</heading>
+<content>The term “commercial product” has the meaning given that term in <ref>section 103 of title 41</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Executive agency</inline>.—</heading>
+<content>The term “executive agency” has the meaning given that term in <ref>section 133 of title 41</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading><inline class="small-caps">Information resources</inline>.—</heading>
+<content>The term “information resources” has the meaning given that term in <ref>section 3502 of title 44</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(4)</num>
+<heading><inline class="small-caps">Information resources management</inline>.—</heading>
+<content>The term “information resources management” has the meaning given that term in <ref>section 3502 of title 44</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(5)</num>
+<heading><inline class="small-caps">Information system</inline>.—</heading>
+<content>The term “information system” has the meaning given that term in <ref>section 3502 of title 44</ref>.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(6)</num>
+<heading><inline class="small-caps">Information technology</inline>.—</heading>
+<chapeau>The term “information technology”—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<chapeau> with respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use—</chapeau>
+<clause class="indent3">
+<num>(i)</num>
+<content> of that equipment; or</content>
+</clause>
+<clause class="indent3">
+<num>(ii)</num>
+<content> of that equipment to a significant extent in the performance of a service or the furnishing of a product;</content>
+</clause>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> does not include any equipment acquired by a federal contractor incidental to a federal contract.</content>
+</subparagraph>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1235</ref>; <ref>Pub. L. 108–199, div. F, title V, § 535(b)</ref>, <date date="2004-01-23">Jan. 23, 2004</date>, <ref>118 Stat. 345</ref>; <ref>Pub. L. 111–350, § 5</ref>(<i>l</i>)(24), <date date="2011-01-04">Jan. 4, 2011</date>, <ref>124 Stat. 3852</ref>; <ref>Pub. L. 115–232, div. A, title VIII, § 836(g)(7)(A)</ref>, <date date="2018-08-13">Aug. 13, 2018</date>, <ref>132 Stat. 1874</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 11102.</num>
+<heading> Sense of Congress</heading>
+<chapeau class="indent0">It is the sense of Congress that, during the five-year period beginning with 1996, executive agencies should achieve each year through improvements in information resources management by the agency—</chapeau>
+<paragraph class="indent1">
+<num>(1)</num>
+<content> at least a five percent decrease in the cost (in constant fiscal year 1996 dollars) incurred by the agency in operating and maintaining information technology; and</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<content> a five percent increase in the efficiency of the agency operations.</content>
+</paragraph>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1236</ref>.)</sourceCredit>
+</section>
+<section>
+<num>§ 11103.</num>
+<heading> Applicability to national security systems</heading>
+<subsection class="indent0">
+<num>(a)</num>
+<heading>
+<inline class="small-caps">Definition.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">National security system</inline>.—</heading>
+<chapeau>In this section, the term “national security system” means a telecommunications or information system operated by the Federal Government, the function, operation, or use of which—</chapeau>
+<subparagraph class="indent2">
+<num>(A)</num>
+<content> involves intelligence activities;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<content> involves cryptologic activities related to national security;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(C)</num>
+<content> involves command and control of military forces;</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(D)</num>
+<content> involves equipment that is an integral part of a weapon or weapons system; or</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(E)</num>
+<content> subject to paragraph (2), is critical to the direct fulfillment of military or intelligence missions.</content>
+</subparagraph>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Limitation</inline>.—</heading>
+<content>Paragraph (1)(E) does not include a system to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).</content>
+</paragraph>
+</subsection>
+<subsection class="indent0">
+<num>(b)</num>
+<heading><inline class="small-caps">In General</inline>.—</heading>
+<content>Except as provided in subsection (c), chapter 113 of this title does not apply to national security systems.</content>
+</subsection>
+<subsection class="indent0">
+<num>(c)</num>
+<heading>
+<inline class="small-caps">Exceptions.—</inline>
+</heading>
+<paragraph class="indent1">
+<num>(1)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Sections 11313, 11315, and 11316 of this title apply to national security systems.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(2)</num>
+<heading><inline class="small-caps">Capital planning and investment control</inline>.—</heading>
+<content>The heads of executive agencies shall apply sections 11302 and 11312 of this title to national security systems to the extent practicable.</content>
+</paragraph>
+<paragraph class="indent1">
+<num>(3)</num>
+<heading>
+<inline class="small-caps">Applicability of performance-based and results-based management to national security systems.—</inline>
+</heading>
+<subparagraph class="indent2">
+<num>(A)</num>
+<heading><inline class="small-caps">In general</inline>.—</heading>
+<content>Subject to subparagraph (B), the heads of executive agencies shall apply <ref>section 11303 of this title</ref> to national security systems to the extent practicable.</content>
+</subparagraph>
+<subparagraph class="indent2">
+<num>(B)</num>
+<heading><inline class="small-caps">Exception</inline>.—</heading>
+<content>National security systems are subject to <ref>section 11303(b)(5) of this title</ref>, except for subparagraph (B)(iv).</content>
+</subparagraph>
+</paragraph>
+</subsection>
+<sourceCredit>(<ref>Pub. L. 107–217</ref>, <date date="2002-08-21">Aug. 21, 2002</date>, <ref>116 Stat. 1236</ref>.)</sourceCredit>
+</section>
+</chapter>
