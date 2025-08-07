@@ -207,7 +207,7 @@ class MainActivity : ComponentActivity() {
             USCodeReader2Theme {
                 SharedTransitionLayout {
                     NavHost(
-                        navController = navController, startDestination = "HelpMe",
+                        navController = navController, startDestination = "TheSigma",
 //                        popExitTransition = {
 //                            scaleOut(
 //                                targetScale = 0.9f,
@@ -218,11 +218,8 @@ class MainActivity : ComponentActivity() {
 //                            EnterTransition.None
 //                        }
                     ) {
-                        composable("HelpMe") {
+                        composable("TheSigma") {
                             MainMenuThing(realDrawerState, scope, navController, this@SharedTransitionLayout, this@composable)
-                        }
-                        composable("I want to kill myself") {
-                            Text("This is why you have no friends")
                         }
                         composable<TitleClass> { backStackEntry ->
                             ReadTitleScreen(backStackEntry.toRoute<TitleClass>().num, realDrawerState, scope, navController, this@SharedTransitionLayout, this@composable)
@@ -668,9 +665,18 @@ fun MainMenuBarFuncThing(interior: @Composable () -> Unit, realDrawerState: Draw
                                 realDrawerState.close()
                             }
                             scope.launch {
-                                navController.currentDestination?.equals("HelpMe")?.let {
-                                    if(!it) navController.navigate("HelpMe") {
-                                        popUpTo("HelpMe") {
+                                navController.currentDestination?.equals("TheSigma")?.let {
+                                    if(!it) navController.navigate("TheSigma") {
+                                        popUpTo("TheSigma") {
+                                            inclusive = true
+                                        }
+                                        popUpTo("Legal") {
+                                            inclusive = true
+                                        }
+                                        popUpTo("AboutApp") {
+                                            inclusive = true
+                                        }
+                                        popUpTo("AboutUSCode") {
                                             inclusive = true
                                         }
                                     }
@@ -865,17 +871,6 @@ fun ReadChapterScreen(titleNum: Int, chapterNum: Int, realDrawerState: DrawerSta
                     }
                 }
             }
-        )
-    }
-}
-
-@Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Surface(color = MaterialTheme.colorScheme.primary) {
-        Text(
-            text = "Hello, my name is $name, and I hate my life!",
-            modifier = modifier,
-            color = MaterialTheme.colorScheme.onPrimary
         )
     }
 }
