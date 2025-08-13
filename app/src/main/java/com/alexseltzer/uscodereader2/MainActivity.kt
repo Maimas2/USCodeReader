@@ -338,6 +338,8 @@ class MainActivity : ComponentActivity() {
                                             }, modifier = m)
 
                                             Text("Contact me for any reason at ASeltz156@gmail.com", modifier = m)
+
+                                            Text("Version 1.0", modifier = m)
                                         }
                                     },
                                 )
