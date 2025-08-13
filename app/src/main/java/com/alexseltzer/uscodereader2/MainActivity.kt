@@ -3,11 +3,13 @@
 
 package com.alexseltzer.uscodereader2
 
+import android.os.Build
 import android.os.Bundle
 import android.util.Xml
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.annotation.RequiresApi
 import androidx.compose.animation.AnimatedVisibilityScope
 import androidx.compose.animation.ExperimentalSharedTransitionApi
 import androidx.compose.animation.SharedTransitionLayout
@@ -44,7 +46,6 @@ import androidx.compose.material3.ModalDrawerSheet
 import androidx.compose.material3.ModalNavigationDrawer
 import androidx.compose.material3.NavigationDrawerItem
 import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.material3.rememberDrawerState
@@ -53,8 +54,13 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.RectangleShape
+import androidx.compose.ui.text.LinkAnnotation
+import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.TextLinkStyles
+import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.text.withLink
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
@@ -127,6 +133,7 @@ fun appendText(text: String) {
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalSharedTransitionApi::class)
 class MainActivity : ComponentActivity() {
+    @RequiresApi(Build.VERSION_CODES.TIRAMISU)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -207,7 +214,7 @@ class MainActivity : ComponentActivity() {
             USCodeReader2Theme {
                 SharedTransitionLayout {
                     NavHost(
-                        navController = navController, startDestination = "TheSigma",
+                        navController = navController, startDestination = "TheSigma"
 //                        popExitTransition = {
 //                            scaleOut(
 //                                targetScale = 0.9f,
@@ -301,6 +308,36 @@ class MainActivity : ComponentActivity() {
 
                                             Text("All text presented in this app is attempted to be as faithful to the original US Code as possible, although there may be formatting errors in loading. I have not changed any legal text.", modifier = m)
                                             Text("All text comes from the XML version of the US Code hosted at uscode.house.gov, with excess and unnecessary tags excluded. By doing so, I more than halved the amount of storage taken required. I also split each title into chapters for faster loading. The bash files used to set everything up are included in the Github. See autogen.sh.", modifier = m)
+
+                                            Spacer(modifier = Modifier.padding(7.dp))
+                                            HorizontalDivider()
+                                            Spacer(modifier = Modifier.padding(7.dp))
+
+                                            Text(buildAnnotatedString {
+                                                append("Created by Alex Seltzer. Check out my website at ")
+                                                withLink(
+                                                    LinkAnnotation.Url(
+                                                        "https://alex-seltzer.com/",
+                                                        TextLinkStyles(style = SpanStyle(color = MaterialTheme.colorScheme.primary))
+                                                    )
+                                                ) {
+                                                    append("https://alex-seltzer.com/")
+                                                }
+                                            }, modifier = m)
+
+                                            Text(buildAnnotatedString {
+                                                append("Source code hosted at ")
+                                                withLink(
+                                                    LinkAnnotation.Url(
+                                                        "https://github.com/Maimas2/USCodeReader/",
+                                                        TextLinkStyles(style = SpanStyle(color = MaterialTheme.colorScheme.primary))
+                                                    )
+                                                ) {
+                                                    append("GitHub")
+                                                }
+                                            }, modifier = m)
+
+                                            Text("Contact me for any reason at ASeltz156@gmail.com", modifier = m)
                                         }
                                     },
                                 )
@@ -367,7 +404,7 @@ fun loadTitleFile(f: InputStream, titleId: Int, chapterId: Int) {
     currentChapter = chapterId
     indentationLevel = 0
 
-    var tag: String? = ""
+    var tag: String?
     var text: String = ""
     var event = parser.eventType
 
@@ -586,7 +623,7 @@ fun TitleCard(titleNum: Int, chapterNum: Int, realDrawerState: DrawerState, scop
 }
 
 fun isImportant(s: String): Boolean {
-    return s.startsWith("§") || s.startsWith("SUBCHAPTER")
+    return s.startsWith("§") || s.startsWith("SUBCHAPTER") || s.startsWith("PART") || s.startsWith("PARAGRAPH")
 }
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalSharedTransitionApi::class)
@@ -619,24 +656,30 @@ fun ReadTitleScreen(titleNum: Int, realDrawerState: DrawerState, scope: Coroutin
             )
         },
         content = { innerPadding ->
-            LazyColumn(modifier = Modifier
-                .fillMaxWidth()
-                .padding(innerPadding)) {
+            if(titleNum+1 == 53) { // The unused title
+                Column(modifier = Modifier.padding(innerPadding).padding(5.dp)) {
+                    Text("Title 53 is currently unused.")
+                }
+            } else {
+                LazyColumn(modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(innerPadding)) {
 
-                items(chapterNumbers[titleNum].size-1) { ii ->
-                    // chapters[titleNum][ii][0]
-                    TitleCard(titleNum, ii, realDrawerState, scope, navController, sharedTransitionScope, animatedVisibilityScope, {
-                        scope.launch {
-                            if(chapters[titleNum][ii].isEmpty()) {
-                                val n = "usc" + (if(titleNum < 9) "0" else "") + (titleNum+1).toString() + "/usc-00" + (if(titleNum < 99) "0" else "") + (if(ii < 9) "0" else "") + (ii+1).toString() + ".xml"
+                    items(chapterNumbers[titleNum].size-1) { ii ->
+                        // chapters[titleNum][ii][0]
+                        TitleCard(titleNum, ii, realDrawerState, scope, navController, sharedTransitionScope, animatedVisibilityScope, {
+                            scope.launch {
+                                if(chapters[titleNum][ii].isEmpty()) {
+                                    val n = "usc" + (if(titleNum < 9) "0" else "") + (titleNum+1).toString() + "/usc-00" + (if(titleNum < 99) "0" else "") + (if(ii < 9) "0" else "") + (ii+1).toString() + ".xml"
 
-                                loadTitleFile(currentActivity.assets.open(n), titleNum, ii)
+                                    if(titleNum+1 != 53) loadTitleFile(currentActivity.assets.open(n), titleNum, ii)
+                                }
+                                realDrawerState.close()
+                                navController.navigate(ChapterClass(titleNum, ii))
+                                chapterLazyListState.scrollToItem(0)
                             }
-                            realDrawerState.close()
-                            navController.navigate(ChapterClass(titleNum, ii))
-                            chapterLazyListState.scrollToItem(0)
-                        }
-                    })
+                        })
+                    }
                 }
             }
         }
@@ -700,7 +743,17 @@ fun MainMenuBarFuncThing(interior: @Composable () -> Unit, realDrawerState: Draw
                                 realDrawerState.close()
                             }
                             scope.launch {
-                                navController.currentDestination?.equals("AboutUSCode")?.let { if(!it) navController.navigate("AboutUSCode") }
+                                navController.currentDestination?.equals("AboutUSCode")?.let { if(!it) navController.navigate("AboutUSCode") {
+                                    popUpTo("Legal") {
+                                        inclusive = true
+                                    }
+                                    popUpTo("AboutApp") {
+                                        inclusive = true
+                                    }
+                                    popUpTo("AboutUSCode") {
+                                        inclusive = true
+                                    }
+                                } }
                             }
                         }
                     )
@@ -713,19 +766,39 @@ fun MainMenuBarFuncThing(interior: @Composable () -> Unit, realDrawerState: Draw
                                 realDrawerState.close()
                             }
                             scope.launch {
-                                navController.currentDestination?.equals("AboutApp")?.let { if(!it) navController.navigate("AboutApp") }
+                                navController.currentDestination?.equals("AboutApp")?.let { if(!it) navController.navigate("AboutApp") {
+                                    popUpTo("Legal") {
+                                        inclusive = true
+                                    }
+                                    popUpTo("AboutApp") {
+                                        inclusive = true
+                                    }
+                                    popUpTo("AboutUSCode") {
+                                        inclusive = true
+                                    }
+                                } }
                             }
                         },
                     )
                     NavigationDrawerItem(
-                        label = { Text("Legal Disclaimer") },
+                        label = { Text("Legal") },
                         selected = false,
                         onClick = {
                             scope.launch {
                                 realDrawerState.close()
                             }
                             scope.launch {
-                                navController.currentDestination?.equals("Legal")?.let { if(!it) navController.navigate("Legal") }
+                                navController.currentDestination?.equals("Legal")?.let { if(!it) navController.navigate("Legal") {
+                                    popUpTo("Legal") {
+                                        inclusive = true
+                                    }
+                                    popUpTo("AboutApp") {
+                                        inclusive = true
+                                    }
+                                    popUpTo("AboutUSCode") {
+                                        inclusive = true
+                                    }
+                                } }
                             }
                         },
                     )
@@ -786,10 +859,10 @@ fun ReadChapterScreen(titleNum: Int, chapterNum: Int, realDrawerState: DrawerSta
                     title = {
                         with(sharedTransitionScope) {
                             Text(
-                                //"Title ${titleNum + 1}, ${chapterNumbers[titleNum][chapterNum]}",
                                 text = chapterNumbers[titleNum][chapterNum],
                                 fontWeight = FontWeight.Bold,
                                 style = MaterialTheme.typography.titleLarge,
+                                textAlign = TextAlign.Center,
                                 modifier = Modifier.sharedElement(sharedTransitionScope.rememberSharedContentState(key = "ChapterTitle${titleNum} $chapterNum"), animatedVisibilityScope = animatedVisibilityScope)
                             )
                         }
