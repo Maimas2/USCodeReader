@@ -1,0 +1,3 @@
+This is an app to provide a better UI to read the United States Code. It aims to make the laws of the United States more accessible by showing them in a formatted, navigatable, and intuitive format.
+
+All text displayed is taken from the official XML version of the Code hosted at https://uscode.house.gov/, albeit with some structural modifications.
