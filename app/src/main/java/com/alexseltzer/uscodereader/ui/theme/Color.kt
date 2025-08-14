@@ -1,4 +1,4 @@
-package com.alexseltzer.uscodereader2.ui.theme
+package com.alexseltzer.uscodereader.ui.theme
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.runtime.Composable
@@ -6,7 +6,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.material3.*
 import androidx.compose.ui.platform.LocalContext
 
-import com.alexseltzer.uscodereader2.ui.theme.*
+import com.alexseltzer.uscodereader.ui.theme.*
 
 val primaryLight = Color(0xFF6D5E0F)
 val onPrimaryLight = Color(0xFFFFFFFF)

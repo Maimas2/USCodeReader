@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.alexseltzer.uscodereader2"
+    namespace = "com.alexseltzer.uscodereader"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.alexseltzer.uscodereader2"
+        applicationId = "com.alexseltzer.uscodereader"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -67,7 +67,7 @@ dependencies {
     implementation(libs.androidx.navigation.ui)
 
     // Feature module support for Fragments
-    implementation(libs.androidx.navigation.dynamic.features.fragment)
+//    implementation(libs.androidx.navigation.dynamic.features.fragment)
 
     // Testing Navigation
     androidTestImplementation(libs.androidx.navigation.testing)

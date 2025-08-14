@@ -1,7 +1,7 @@
 // Oops! All one file!
 // MIT License
 
-package com.alexseltzer.uscodereader2
+package com.alexseltzer.uscodereader
 
 import android.os.Build
 import android.os.Bundle
@@ -68,7 +68,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.toRoute
-import com.alexseltzer.uscodereader2.ui.theme.USCodeReader2Theme
+import com.alexseltzer.uscodereader.ui.theme.USCodeReaderTheme
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 import kotlinx.serialization.Serializable
@@ -211,7 +211,7 @@ class MainActivity : ComponentActivity() {
 
             chapterLazyListState = rememberLazyListState()
 
-            USCodeReader2Theme {
+            USCodeReaderTheme {
                 SharedTransitionLayout {
                     NavHost(
                         navController = navController, startDestination = "TheSigma"
