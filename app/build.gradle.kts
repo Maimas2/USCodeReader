@@ -64,7 +64,6 @@ dependencies {
     implementation(libs.androidx.navigation.compose.v292)
 
     // Views/Fragments Integration
-    implementation(libs.androidx.navigation.fragment)
     implementation(libs.androidx.navigation.ui)
 
     // Feature module support for Fragments
