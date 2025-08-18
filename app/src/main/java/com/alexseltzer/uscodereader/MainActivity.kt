@@ -60,6 +60,8 @@ import androidx.compose.ui.text.TextLinkStyles
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.text.substring
+import androidx.compose.ui.text.toUpperCase
 import androidx.compose.ui.text.withLink
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -75,13 +77,15 @@ import kotlinx.serialization.Serializable
 import org.xmlpull.v1.XmlPullParser
 import java.io.InputStream
 import java.io.InputStreamReader
+import java.util.Locale
 import kotlin.system.measureTimeMillis
 
 val titles = arrayOf("General Provisions", "The Congress", "The President", "Flag and Seal, Seat of Government, and the States", "Government Organization and Employees", "Domestic Security", "Agriculture", "Aliens and Nationality", "Arbitration", "Armed Forces", "Bankruptcy", "Banks and Banking", "Census", "Coast Guard", "Commerce and Trade", "Conservation", "Copyrights", "Crimes and Criminal Procedure", "Customs Duties", "Education", "Food and Drugs", "Foreign Relations and Intercourse", "Highways", "Hospitals and Asylums", "Indians", "Internal Revenue Code", "Intoxicating Liquors", "Judiciary and Judicial Procedure", "Labor", "Mineral Lands and Mining", "Money and Finance", "National Guard", "Navigation and Navigable Waters", "Crime Control and Law Enforcement", "Patents", "Patriotic and National Observances, Ceremonies, and Organizations", "Pay and Allowances of the Uniformed Services", "Veterans' Benefits", "Postal Service", "Public Buildings, Property, and Works", "Public Contracts", "The Public Health and Welfare", "Public Lands", "Public Printing and Documents", "Railroads", "Shipping", "Telecommunications", "Territories and Insular Possessions", "Transportation", "War and National Defense", "National and Commercial Space Programs", "Voting and Elections", "[Currently Unused]", "National Park Service and Related Programs")
 
 var chapters: ArrayList<ArrayList<ArrayList<String>>> = ArrayList()
-var currentChapter: Int = 38839
 var indentationLevel: Int = 0
+
+var constitutionText: ArrayList<String> = ArrayList()
 
 var chapterNumbers: ArrayList<ArrayList<String>> = ArrayList()
 var chapterTitles: ArrayList<ArrayList<String>> = ArrayList()
@@ -89,8 +93,6 @@ var subchapterSections: ArrayList<ArrayList<String>> = ArrayList()
 var titleNames: ArrayList<String> = ArrayList()
 
 val inlineTags: Array<String> = arrayOf("i", "ref", "date", "b")
-
-var chpIdx: Int = -1
 
 var time: Long = -1
 
@@ -105,31 +107,6 @@ data class TitleClass(val num: Int)
 
 @Serializable
 data class ChapterClass(val title: Int, var num: Int)
-
-fun appendNum(text: String) {
-    if(chapters[chpIdx][currentChapter][chapters[chpIdx][currentChapter].size - 1].matches("\\d(\\(.\\) *)*".toRegex())) {
-        chapters[chpIdx][currentChapter][chapters[chpIdx][currentChapter].size - 1] += " $text"
-    //} else if(chapters[currentTitleIt][currentChapter][chapters[currentTitleIt][currentChapter].size - 1].trim().endsWith("—")) {
-    //    chapters[currentTitleIt][currentChapter][chapters[currentTitleIt][currentChapter].size - 1] += text
-    } else {
-        chapters[chpIdx][currentChapter].add("")
-        chapters[chpIdx][currentChapter][chapters[chpIdx][currentChapter].size - 1] = indentationLevel.toString() + text
-    }
-}
-
-fun appendText(text: String) {
-    if (text.trim() != "") {
-        if(chapters[chpIdx][currentChapter][chapters[chpIdx][currentChapter].size - 1].trim() == "") {
-            chapters[chpIdx][currentChapter][chapters[chpIdx][currentChapter].size - 1] += indentationLevel.toString()
-        }
-        chapters[chpIdx][currentChapter][chapters[chpIdx][currentChapter].size - 1] += " ${
-            text.replace(
-                "\\s+".toRegex(),
-                " "
-            ).trim()
-        }"
-    }
-}
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalSharedTransitionApi::class)
 class MainActivity : ComponentActivity() {
@@ -200,7 +177,7 @@ class MainActivity : ComponentActivity() {
             }
         }
 
-
+        constitutionText = loadTitleFile(currentActivity.assets.open("constitution.xml"))
 
         enableEdgeToEdge()
         setContent {
@@ -309,6 +286,19 @@ class MainActivity : ComponentActivity() {
                                             Text("All text presented in this app is attempted to be as faithful to the original US Code as possible, although there may be formatting errors in loading. I have not changed any legal text.", modifier = m)
                                             Text("All text comes from the XML version of the US Code hosted at uscode.house.gov, with excess and unnecessary tags excluded. By doing so, I more than halved the amount of storage taken required. I also split each title into chapters for faster loading. The bash files used to set everything up are included in the Github. See autogen.sh.", modifier = m)
 
+                                            Text(buildAnnotatedString {
+                                                append("The text for the Constitution comes from the version hosted at ")
+                                                withLink(
+                                                    LinkAnnotation.Url(
+                                                        "https://constitution.congress.gov/",
+                                                        TextLinkStyles(style = SpanStyle(color = MaterialTheme.colorScheme.primary))
+                                                    )
+                                                ) {
+                                                    append("https://constitution.congress.gov/")
+                                                }
+                                                append("; internally, I have adapted it into an XML form able to be loaded and displayed by the app.")
+                                            }, modifier = m)
+
                                             Spacer(modifier = Modifier.padding(7.dp))
                                             HorizontalDivider()
                                             Spacer(modifier = Modifier.padding(7.dp))
@@ -389,6 +379,9 @@ class MainActivity : ComponentActivity() {
                                 )
                             }, realDrawerState, scope, navController)
                         }
+                        composable("USConstitution") { backStackEntry ->
+                            ReadChapterScreen("US Constitution", "US Constitution", "", constitutionText, realDrawerState, scope, navController, this@SharedTransitionLayout, this@composable)
+                        }
                     }
                 }
             }
@@ -396,15 +389,35 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-fun loadTitleFile(f: InputStream, titleId: Int, chapterId: Int) {
+fun loadTitleFile(f: InputStream): ArrayList<String> {
     val parser = Xml.newPullParser()
 
-    chpIdx = titleId
+    var toReturn: ArrayList<String> = ArrayList()
 
     parser.setInput(InputStreamReader(f))
 
-    currentChapter = chapterId
     indentationLevel = 0
+
+    fun appendText(text: String) {
+        if (text.trim() != "") {
+            if(toReturn[toReturn.size - 1].trim() == "") {
+                toReturn[toReturn.size - 1] += indentationLevel.toString()
+            }
+            toReturn[toReturn.size - 1] += " ${
+                text.replace(
+                    "\\s+".toRegex(),
+                    " "
+                ).trim()
+            }"
+        }
+    }
+    fun appendNum(text: String) {
+        if(toReturn[toReturn.size - 1].matches("\\d(\\(.\\) *)*".toRegex())) {
+            toReturn[toReturn.size - 1] += " $text"
+        } else {
+            toReturn.add(indentationLevel.toString() + text)
+        }
+    }
 
     var tag: String?
     var text: String = ""
@@ -427,9 +440,9 @@ fun loadTitleFile(f: InputStream, titleId: Int, chapterId: Int) {
                     else if (cl.contains("indent4")) indentationLevel = 4;
                 }
                 if (tag == "content" || tag == "chapeau") {
-                    if (chapters[chpIdx][currentChapter].isNotEmpty() &&
-                        !chapters[chpIdx][currentChapter][chapters[chpIdx][currentChapter].size - 1].endsWith(")")) {
-                        chapters[chpIdx][currentChapter].add("")
+                    if (toReturn.isNotEmpty() &&
+                        !toReturn[toReturn.size - 1].endsWith(")")) {
+                        toReturn.add("")
                     }
                     isInContent++
                 }
@@ -448,9 +461,8 @@ fun loadTitleFile(f: InputStream, titleId: Int, chapterId: Int) {
             }
 
             XmlPullParser.END_TAG -> {
-                if (text != "" && currentChapter >= 0 && !isInQuotes) {
-
-                    if (chapters[chpIdx][currentChapter].isEmpty()) chapters[chpIdx][currentChapter].add("")
+                if (text != "" && !isInQuotes) {
+                    if (toReturn.isEmpty()) toReturn.add("")
                     if (tag == "num") {
                         appendNum(text)
                         text = ""
@@ -478,9 +490,10 @@ fun loadTitleFile(f: InputStream, titleId: Int, chapterId: Int) {
         }
         event = parser.next()
     }
-    while(chapters[chpIdx][currentChapter].isNotEmpty() && chapters[chpIdx][currentChapter][0].trim().isEmpty()) {
-        chapters[chpIdx][currentChapter].removeAt(0)
+    while(toReturn.isNotEmpty() && toReturn[0].trim().isEmpty()) {
+        toReturn.removeAt(0)
     }
+    return toReturn
 }
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalSharedTransitionApi::class)
@@ -624,8 +637,9 @@ fun TitleCard(titleNum: Int, chapterNum: Int, realDrawerState: DrawerState, scop
     }
 }
 
-fun isImportant(s: String): Boolean {
-    return s.startsWith("§") || s.startsWith("SUBCHAPTER") || s.startsWith("PART") || s.startsWith("PARAGRAPH")
+fun isImportant(ss: String): Boolean {
+    val s = ss.uppercase(Locale.ROOT);
+    return s.startsWith("§") || s.startsWith("SUBCHAPTER") || s.startsWith("PART") || s.startsWith("PARAGRAPH") || s.startsWith("ARTICLE") || (s.startsWith("SECTION") && !s.startsWith("SECTIONS")) || s.startsWith("THE PREAMBLE") || s.endsWith("AMENDMENT");
 }
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalSharedTransitionApi::class)
@@ -674,7 +688,9 @@ fun ReadTitleScreen(titleNum: Int, realDrawerState: DrawerState, scope: Coroutin
                                 if(chapters[titleNum][ii].isEmpty()) {
                                     val n = "usc" + (if(titleNum < 9) "0" else "") + (titleNum+1).toString() + "/usc-00" + (if(titleNum < 99) "0" else "") + (if(ii < 9) "0" else "") + (ii+1).toString() + ".xml"
 
-                                    if(titleNum+1 != 53) loadTitleFile(currentActivity.assets.open(n), titleNum, ii)
+                                    if(titleNum+1 != 53) {
+                                        chapters[titleNum][ii] = loadTitleFile(currentActivity.assets.open(n))
+                                    }
                                 }
                                 realDrawerState.close()
                                 navController.navigate(ChapterClass(titleNum, ii))
@@ -728,6 +744,28 @@ fun MainMenuBarFuncThing(interior: @Composable () -> Unit, realDrawerState: Draw
                                 }
                             }
                         }
+                    )
+                    NavigationDrawerItem(
+                        label = { Text("US Constitution") },
+                        selected = false,
+                        onClick = {
+                            scope.launch {
+                                realDrawerState.close()
+                            }
+                            scope.launch {
+                                navController.currentDestination?.equals("USConstitution")?.let { if(!it) navController.navigate("USConstitution") {
+                                    popUpTo("Legal") {
+                                        inclusive = true
+                                    }
+                                    popUpTo("AboutApp") {
+                                        inclusive = true
+                                    }
+                                    popUpTo("AboutUSCode") {
+                                        inclusive = true
+                                    }
+                                } }
+                            }
+                        },
                     )
 //                    NavigationDrawerItem(
 //                        //label = { Text(time.toString()) },
@@ -816,6 +854,12 @@ fun MainMenuBarFuncThing(interior: @Composable () -> Unit, realDrawerState: Draw
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalSharedTransitionApi::class)
 @Composable
 fun ReadChapterScreen(titleNum: Int, chapterNum: Int, realDrawerState: DrawerState, scope: CoroutineScope, navController: NavController, sharedTransitionScope: SharedTransitionScope, animatedVisibilityScope: AnimatedVisibilityScope) {
+    ReadChapterScreen(chapterNumbers[titleNum][chapterNum], "Title ${titleNum + 1}, ${chapterNumbers[titleNum][chapterNum]}", chapterTitles[titleNum][chapterNum], chapters[titleNum][chapterNum], realDrawerState, scope, navController, sharedTransitionScope, animatedVisibilityScope)
+}
+
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalSharedTransitionApi::class)
+@Composable
+fun ReadChapterScreen(title: String, drawerTitle: String, titleTitle: String, texts: ArrayList<String>, realDrawerState: DrawerState, scope: CoroutineScope, navController: NavController, sharedTransitionScope: SharedTransitionScope, animatedVisibilityScope: AnimatedVisibilityScope) {
     ModalNavigationDrawer(
         drawerContent = {
             ModalDrawerSheet() {
@@ -823,20 +867,19 @@ fun ReadChapterScreen(titleNum: Int, chapterNum: Int, realDrawerState: DrawerSta
                     item {
                         Spacer(modifier = Modifier.height(12.dp))
                         Text(
-                            "Title ${titleNum + 1}, ${chapterNumbers[titleNum][chapterNum]}",
+                            //"Title ${titleNum + 1}, ${chapterNumbers[titleNum][chapterNum]}",
+                            drawerTitle,
                             modifier = Modifier
                                 .padding(16.dp)
                                 .fillMaxWidth(), style = MaterialTheme.typography.titleLarge
                         )
                         HorizontalDivider()
                     }
-                    items(chapters[titleNum][chapterNum].size) { i ->
-                        if (chapters[titleNum][chapterNum][i].isNotEmpty() && chapters[titleNum][chapterNum][i].substring(
-                                1
-                            ).startsWith("§")
+                    items(texts.size) { i ->
+                        if (texts[i].isNotEmpty() && isImportant(texts[i].substring(1))
                         ) {
                             NavigationDrawerItem(
-                                label = { Text(chapters[titleNum][chapterNum][i].substring(3)) },
+                                label = { if(texts[i].startsWith("§")) Text(texts[i].substring(3)) else Text(texts[i].substring(1)) },
                                 selected = false,
                                 onClick = {
                                     scope.launch {
@@ -861,11 +904,11 @@ fun ReadChapterScreen(titleNum: Int, chapterNum: Int, realDrawerState: DrawerSta
                     title = {
                         with(sharedTransitionScope) {
                             Text(
-                                text = chapterNumbers[titleNum][chapterNum],
+                                text = title,
                                 fontWeight = FontWeight.Bold,
                                 style = MaterialTheme.typography.titleLarge,
                                 textAlign = TextAlign.Center,
-                                modifier = Modifier.sharedElement(sharedTransitionScope.rememberSharedContentState(key = "ChapterTitle${titleNum} $chapterNum"), animatedVisibilityScope = animatedVisibilityScope)
+                                //modifier = Modifier.sharedElement(sharedTransitionScope.rememberSharedContentState(key = "ChapterTitle${titleNum} $chapterNum"), animatedVisibilityScope = animatedVisibilityScope)
                             )
                         }
                     },
@@ -896,39 +939,31 @@ fun ReadChapterScreen(titleNum: Int, chapterNum: Int, realDrawerState: DrawerSta
                         .fillMaxWidth(), state = chapterLazyListState
                 ) {
                     item {
-//                        Text(
-//                            "${titleNum+1} U.S.C. § ${chapterNum+1}",
-//                            fontWeight = FontWeight.Bold,
-//                            fontSize = 18.sp,
-//                            modifier = Modifier
-//                                .fillMaxWidth()
-//                                .padding(15.dp)
-//                                .padding(top = 20.dp),
-//                            textAlign = TextAlign.Center,
-//                        )
-                        Text(
-                            chapterTitles[titleNum][chapterNum],
-                            fontWeight = FontWeight.Bold,
-                            fontSize = 26.sp,
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .padding(15.dp),
-                            textAlign = TextAlign.Center,
-                        )
+                        if(titleTitle.isNotEmpty()) {
+                            Text(
+                                titleTitle,
+                                fontWeight = FontWeight.Bold,
+                                fontSize = 26.sp,
+                                modifier = Modifier
+                                    .fillMaxWidth()
+                                    .padding(15.dp),
+                                textAlign = TextAlign.Center,
+                            )
+                        }
                     }
 
-                    items(chapters[titleNum][chapterNum].size) { ii ->
+                    items(texts.size) { ii ->
                         if(ii > 0) {
-                            if (chapters[titleNum][chapterNum][ii].trim().length > 2) {
+                            if (texts[ii].trim().length > 2) {
                                 var m: Modifier = Modifier.fillMaxWidth()
-                                val indLev: Int = chapters[titleNum][chapterNum][ii].substring(0, 1).toInt()
+                                val indLev: Int = texts[ii].substring(0, 1).toInt()
 
-                                if(isImportant(chapters[titleNum][chapterNum][ii].substring(1).trim())) {
+                                if(isImportant(texts[ii].substring(1).trim())) {
                                     m = m.padding(15.dp)
                                     Text(
-                                        chapters[titleNum][chapterNum][ii].substring(1).trim(),
+                                        if(texts[ii].matches("\\d.*".toRegex())) texts[ii].substring(1).trim() else texts[ii].trim(),
                                         fontWeight = FontWeight.Bold,
-                                        fontSize = if(chapters[titleNum][chapterNum][ii].substring(1).trim().startsWith("SUBCHAPTER")) 25.sp else 20.sp,
+                                        fontSize = 20.sp,
                                         modifier = m,
                                         textAlign = TextAlign.Center
                                     )
@@ -937,7 +972,7 @@ fun ReadChapterScreen(titleNum: Int, chapterNum: Int, realDrawerState: DrawerSta
                                         .padding(5.dp)
                                         .padding(start = 5.dp + 15.dp * indLev)
                                     Text(
-                                        chapters[titleNum][chapterNum][ii].substring(1).trim(),
+                                        texts[ii].substring(1).trim(),
                                         modifier = m
                                     )
                                 }
